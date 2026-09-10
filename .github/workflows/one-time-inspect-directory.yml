@@ -1,35 +1,29 @@
-name: One-time submit AI directory
+name: One-time read submission result
 
 on:
   workflow_dispatch:
 
 permissions:
   contents: read
+  actions: read
 
 jobs:
-  submit:
+  inspect-result:
     runs-on: ubuntu-latest
     steps:
-      - name: Submit Bashoor's public AI resources
-        shell: bash
-        run: |
-          set -u
-          mkdir public-artifact
-          public_payload='{"name":"Bashoor Cafe | کافه باشور","url":"https://sepehrkeyhani00.github.io/bashoor-ai-menu/","llmsTxtUrl":"https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms.txt","llmsFullTxtUrl":"https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms-full.txt","webmcpUrl":"https://sepehrkeyhani00.github.io/bashoor-ai-menu/.well-known/webmcp.json","category":"other","description":"Official, machine-readable mirror of Bashoor Cafe in Piroozi Boulevard, Mashhad, with 71 live menu items, current Toman/IRR prices, location, opening hours, and WebMCP discovery. Official site: https://bashoor.ir/","referralSource":"search_engine"}'
-          curl --connect-timeout 10 --max-time 45 -sS \
-            -D public-artifact/response.headers \
-            -H 'Content-Type: application/json' \
-            --data-binary "$public_payload" \
-            -o public-artifact/response.json \
-            -w '%{http_code}\n' \
-            https://api.llmslist.com/api/sites \
-            > public-artifact/http-code.txt
-          curl_exit=$?
-          printf '%s\n' "$curl_exit" > public-artifact/curl-exit.txt
-          exit 0
-      - name: Upload public response
-        uses: actions/upload-artifact@v4
+      - name: Download prior public response
+        uses: actions/download-artifact@v4
         with:
           name: llmslist-submission-response
-          path: public-artifact
-          retention-days: 1
+          path: public-result
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          repository: sepehrkeyhani00/bashoor-ai-menu
+          run-id: 34519034569
+      - name: Print public response
+        shell: bash
+        run: |
+          set -euo pipefail
+          for result_file in curl-exit.txt http-code.txt response.headers response.json; do
+            printf '\n--- %s ---\n' "$result_file"
+            sed -n '1,100p' "public-result/$result_file"
+          done
