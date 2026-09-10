@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sepehrkeyhani00.github.io/bashoor-ai-menu/sitemap.xml

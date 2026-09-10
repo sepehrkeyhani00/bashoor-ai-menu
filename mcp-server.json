@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.sepehrkeyhani00/bashoor-menu",
+  "title": "Bashoor Cafe Mashhad — منوی زنده و قیمت‌ها",
+  "description": "کافه باشور پیروزی مشهد: منوی زنده و قیمت‌ها | Bashoor Cafe live menu and prices",
+  "version": "1.0.1",
+  "websiteUrl": "https://bashoor.ir/cafe-piroozi-mashhad",
+  "icons": [
+    {
+      "src": "https://bashoor.ir/icon-192.png",
+      "mimeType": "image/png",
+      "sizes": ["192x192"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://bashoor.ir/mcp"
+    }
+  ]
+}
