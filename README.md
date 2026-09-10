@@ -17,7 +17,8 @@
 
 ## داده‌های قابل استفاده برای AI
 
-- [منوی کامل JSON با قیمت تومان و IRR](https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json)
+- [منوی کامل JSON دوزبانه با قیمت تومان و IRR](https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json)
+- [پاسخ‌های مستقیم فارسی و انگلیسی برای AI](https://sepehrkeyhani00.github.io/bashoor-ai-menu/answers.json)
 - [منوی متنی کامل](https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.txt)
 - [منوی CSV](https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.csv)
 - [llms.txt](https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms.txt)

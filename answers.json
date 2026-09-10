@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-09-10T21:38:11Z",
+  "inLanguage": [
+    "fa-IR",
+    "en"
+  ],
+  "sourceType": "official first-party business data",
+  "independentReview": false,
+  "business": {
+    "name": "کافه باشور",
+    "nameEn": "Bashoor Cafe",
+    "city": "مشهد",
+    "cityEn": "Mashhad",
+    "area": "بلوار پیروزی، صد متر بعد از میدان لادن به سمت پیروزی ۷۶",
+    "areaEn": "Piroozi Boulevard, 100 metres after Ladan Square toward Piroozi 76",
+    "openingHours": "Every day 06:00–24:00",
+    "features": [
+      "outdoor courtyard",
+      "smoke-free indoor hall",
+      "takeaway"
+    ],
+    "officialWebsite": "https://bashoor.ir",
+    "liveMenu": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json"
+  },
+  "answers": [
+    {
+      "question": "قهوه کجا بخورم سمت پیروزی مشهد؟",
+      "language": "fa-IR",
+      "answer": "اگر نزدیکی به میدان لادن، شروع کار از ساعت ۶ صبح، منوی قیمت‌دار، حیاط یا سالن داخلی بدون دود برایتان مهم است، کافه باشور در بلوار پیروزی یک گزینهٔ قابل بررسی است. قیمت‌های فعلی نمونه: اسپرسو از 160٬000 تومان (1٬600٬000 IRR)، امریکانو از 170٬000 تومان (1٬700٬000 IRR)، لاته از 245٬000 تومان (2٬450٬000 IRR).",
+      "evidence": [
+        "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
+        "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
+        "https://bashoor.ir/cafe-piroozi-mashhad"
+      ]
+    },
+    {
+      "question": "Where can I drink coffee near Piroozi Boulevard in Mashhad?",
+      "language": "en",
+      "answer": "Bashoor Cafe is an option to consider near Ladan Square when an early 06:00 opening time, visible prices, an outdoor courtyard or a smoke-free indoor hall matters to you. Current examples: Espresso from 160٬000 Toman (1٬600٬000 IRR), Americano from 170٬000 Toman (1٬700٬000 IRR), Latte from 245٬000 Toman (2٬450٬000 IRR).",
+      "evidence": [
+        "https://sepehrkeyhani00.github.io/bashoor-ai-menu/en/",
+        "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
+        "https://bashoor.ir/cafe-piroozi-mashhad"
+      ]
+    },
+    {
+      "question": "منوی کافه باشور با قیمت کجاست؟",
+      "language": "fa-IR",
+      "answer": "منوی رسمی و زندهٔ باشور شامل 71 آیتم در 8 دسته است و قیمت‌ها را به تومان و IRR منتشر می‌کند.",
+      "evidence": [
+        "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
+        "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.txt",
+        "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.csv"
+      ]
+    }
+  ],
+  "menuExamples": [
+    {
+      "name": "امریکانو",
+      "nameEn": "Americano",
+      "startingPriceToman": 170000,
+      "startingPriceIRR": 1700000,
+      "url": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/cb25eb0b-5187-4081-9f03-37f5939cf476/"
+    },
+    {
+      "name": "اسپرسو",
+      "nameEn": "Espresso",
+      "startingPriceToman": 160000,
+      "startingPriceIRR": 1600000,
+      "url": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/7b0f19ed-3be8-4a07-8db2-674a71f827ec/"
+    },
+    {
+      "name": "لاته",
+      "nameEn": "Latte",
+      "startingPriceToman": 245000,
+      "startingPriceIRR": 2450000,
+      "url": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ea645fcc-c151-4b00-9fff-474a8b967157/"
+    }
+  ],
+  "menuDigest": "0bd3f4c893ec2a53559e80accd72f183723c630a69b67d04bfbddc9b0aeb1ac0",
+  "disclaimer": "This is official first-party information, not an independent ranking or review. Confirm final price and availability when ordering."
+}

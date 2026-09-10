@@ -50,7 +50,7 @@
 
 ## منوی زنده و قیمت‌ها
 
-این نسخه در 2026-09-10T21:13:38.839Z از منوی عمومی باشور ساخته شده و شامل ۷۱ آیتم در ۸ دسته است.
+این نسخه در 2026-09-10T21:37:43.626Z از منوی عمومی باشور ساخته شده و شامل ۷۱ آیتم در ۸ دسته است.
 
 - [منوی HTML با عکس و قیمت](https://bashoor.ir/menu)
 - [نسخهٔ کامل مخصوص AI شامل تمام آیتم‌ها و قیمت‌ها](https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms-full.txt)
@@ -120,7 +120,7 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json
-- زمان دریافت این نسخه: 2026-09-10T21:13:38.839Z
+- زمان دریافت این نسخه: 2026-09-10T21:37:43.626Z
 - آخرین تغییر ثبت‌شده در منو: 2026-08-30T20:20:00.098Z
 
 قیمت اصلی هر آیتم به تومان نوشته شده است. مقدار داخل پرانتز معادل ریال برای پردازش ماشینی است.
@@ -380,3 +380,8 @@
 
 موجودی و قیمت ممکن است تغییر کند. منبع نهایی هنگام سفارش، منوی زندهٔ همین وب‌سایت است.
 رزرو میز: https://bashoor.ir/reserve
+
+## Direct bilingual answers
+
+- [Persian and English answers with current price examples](https://sepehrkeyhani00.github.io/bashoor-ai-menu/answers.json)
+- [English fact sheet and bilingual menu](https://sepehrkeyhani00.github.io/bashoor-ai-menu/en/)
