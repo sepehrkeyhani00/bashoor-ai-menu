@@ -54,7 +54,9 @@
       "inputSchema": {
         "type": "object",
         "additionalProperties": false,
-        "required": ["query"],
+        "required": [
+          "query"
+        ],
         "properties": {
           "query": {
             "type": "string",
@@ -95,21 +97,21 @@
     {
       "name": "bashoor-live-menu",
       "title": "منوی زندهٔ کافه باشور",
-      "uri": "https://bashoor.ir/menu.json",
+      "uri": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
       "description": "Complete current menu with Toman and IRR prices, variants, modifiers and canonical item URLs.",
       "mimeType": "application/json"
     },
     {
       "name": "bashoor-ai-profile",
       "title": "پروفایل متنی کافه باشور برای AI",
-      "uri": "https://bashoor.ir/llms.txt",
+      "uri": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms.txt",
       "description": "Concise first-party Persian profile, recommendation context and representative live prices.",
       "mimeType": "text/markdown; charset=utf-8"
     },
     {
       "name": "bashoor-complete-ai-context",
       "title": "پروفایل و منوی کامل باشور برای AI",
-      "uri": "https://bashoor.ir/llms-full.txt",
+      "uri": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms-full.txt",
       "description": "Complete first-party cafe profile and live menu with every current price.",
       "mimeType": "text/markdown; charset=utf-8"
     }
