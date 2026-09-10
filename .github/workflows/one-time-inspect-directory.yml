@@ -1,4 +1,4 @@
-name: One-time inspect directory
+name: One-time submit AI directory
 
 on:
   workflow_dispatch:
@@ -7,22 +7,29 @@ permissions:
   contents: read
 
 jobs:
-  inspect:
+  submit:
     runs-on: ubuntu-latest
     steps:
-      - name: Fetch public submit page and client bundle
+      - name: Submit Bashoor's public AI resources
         shell: bash
         run: |
-          set -euo pipefail
+          set -u
           mkdir public-artifact
-          curl -fsS --compressed https://llmslist.com/submit -o public-artifact/submit.html
-          asset_path="$(grep -oE '/_next/static/chunks/app/submit/page-[^\" ]+\.js' public-artifact/submit.html | head -1)"
-          test -n "$asset_path"
-          curl -fsS --compressed "https://llmslist.com${asset_path}" -o public-artifact/submit.js
-          printf '%s\n' "$asset_path" > public-artifact/asset-path.txt
-      - name: Upload public files
+          public_payload='{"name":"Bashoor Cafe | کافه باشور","url":"https://sepehrkeyhani00.github.io/bashoor-ai-menu/","llmsTxtUrl":"https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms.txt","llmsFullTxtUrl":"https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms-full.txt","webmcpUrl":"https://sepehrkeyhani00.github.io/bashoor-ai-menu/.well-known/webmcp.json","category":"other","description":"Official, machine-readable mirror of Bashoor Cafe in Piroozi Boulevard, Mashhad, with 71 live menu items, current Toman/IRR prices, location, opening hours, and WebMCP discovery. Official site: https://bashoor.ir/","referralSource":"search_engine"}'
+          curl --connect-timeout 10 --max-time 45 -sS \
+            -D public-artifact/response.headers \
+            -H 'Content-Type: application/json' \
+            --data-binary "$public_payload" \
+            -o public-artifact/response.json \
+            -w '%{http_code}\n' \
+            https://api.llmslist.com/api/sites \
+            > public-artifact/http-code.txt
+          curl_exit=$?
+          printf '%s\n' "$curl_exit" > public-artifact/curl-exit.txt
+          exit 0
+      - name: Upload public response
         uses: actions/upload-artifact@v4
         with:
-          name: llmslist-public-files
+          name: llmslist-submission-response
           path: public-artifact
           retention-days: 1
