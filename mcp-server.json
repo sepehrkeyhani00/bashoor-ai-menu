@@ -3,11 +3,11 @@
   "name": "io.github.sepehrkeyhani00/bashoor-menu",
   "title": "Bashoor Cafe Mashhad — منوی زنده و قیمت‌ها",
   "description": "کافه باشور پیروزی مشهد: منوی زنده و قیمت‌ها | Bashoor Cafe live menu and prices",
-  "version": "1.0.1",
-  "websiteUrl": "https://bashoor.ir/cafe-piroozi-mashhad",
+  "version": "1.0.2",
+  "websiteUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
   "icons": [
     {
-      "src": "https://bashoor.ir/icon-192.png",
+      "src": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/icon-192.png",
       "mimeType": "image/png",
       "sizes": ["192x192"]
     }
