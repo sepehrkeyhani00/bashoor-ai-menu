@@ -1,7 +1,7 @@
 {
   "manifest_version": "0.1",
   "origin": "https://bashoor.ir",
-  "updated_at": "2026-09-10T12:26:50Z",
+  "updated_at": "2026-09-10T22:15:00Z",
   "tools": [
     {
       "name": "bashoor_get_business_profile",
@@ -41,8 +41,8 @@
     },
     {
       "name": "bashoor_get_menu",
-      "description": "Return Bashoor Cafe's live public menu with prices in Toman and IRR, optionally filtered by a Persian category name.",
-      "version": "1.0.0",
+      "description": "Return Bashoor Cafe's bilingual Persian/English live public menu with prices in Toman and IRR, optionally filtered by category name.",
+      "version": "1.1.0",
       "tags": ["cafe", "menu", "prices", "toman", "irr"],
       "risk_level": "low",
       "requires_user_confirm": false,
@@ -52,7 +52,7 @@
           "category": {
             "type": "string",
             "maxLength": 80,
-            "description": "Optional Persian category name or fragment, such as قهوه or شیک."
+            "description": "Optional Persian or English category name or fragment, such as قهوه, شیک, coffee or bakery."
           },
           "limit": {
             "type": "integer",
@@ -78,9 +78,10 @@
               "type": "object",
               "properties": {
                 "name": { "type": "string" },
+                "nameEn": { "type": "string" },
                 "items": { "type": "array", "items": { "type": "object" } }
               },
-              "required": ["name", "items"]
+              "required": ["name", "nameEn", "items"]
             }
           }
         },
@@ -93,8 +94,8 @@
     },
     {
       "name": "bashoor_search_menu",
-      "description": "Search Bashoor Cafe's live menu and return current Toman and IRR prices plus the canonical URL for each matching item.",
-      "version": "1.0.0",
+      "description": "Search Bashoor Cafe's bilingual Persian/English live menu and return current Toman and IRR prices plus the canonical URL for each matching item.",
+      "version": "1.1.0",
       "tags": ["cafe", "menu", "search", "prices", "mashhad"],
       "risk_level": "low",
       "requires_user_confirm": false,
@@ -105,12 +106,12 @@
             "type": "string",
             "minLength": 1,
             "maxLength": 80,
-            "description": "Menu item name or phrase, such as لاته, اسپرسو or چیزکیک."
+            "description": "Persian or English menu name or phrase, such as لاته, espresso, coffee or cheesecake."
           },
           "category": {
             "type": "string",
             "maxLength": 80,
-            "description": "Optional category name filter."
+            "description": "Optional Persian or English category name filter."
           },
           "maxPriceToman": {
             "type": "integer",
@@ -142,7 +143,9 @@
               "type": "object",
               "properties": {
                 "category": { "type": "string" },
+                "categoryEn": { "type": "string" },
                 "name": { "type": "string" },
+                "nameEn": { "type": "string" },
                 "description": { "type": ["string", "null"] },
                 "available": { "type": "boolean" },
                 "startingPriceToman": { "type": "integer", "minimum": 0 },
@@ -150,7 +153,7 @@
                 "url": { "type": "string", "format": "uri" },
                 "imageUrl": { "type": ["string", "null"] }
               },
-              "required": ["category", "name", "available", "startingPriceToman", "startingPriceIRR", "url"]
+              "required": ["category", "categoryEn", "name", "nameEn", "available", "startingPriceToman", "startingPriceIRR", "url"]
             }
           }
         },

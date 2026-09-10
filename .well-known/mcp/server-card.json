@@ -2,7 +2,7 @@
   "serverInfo": {
     "name": "bashoor-cafe",
     "title": "کافه باشور مشهد",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "websiteUrl": "https://bashoor.ir",
     "description": "Public, read-only first-party profile and live menu for Bashoor Cafe on Pirouzi Boulevard in Mashhad, with current Toman and IRR prices."
   },
@@ -50,7 +50,7 @@
     {
       "name": "search_menu",
       "title": "جست‌وجوی منوی باشور",
-      "description": "Search Bashoor Cafe's live Persian menu by item, description or category, optionally filtering by category and maximum starting price in Toman.",
+      "description": "Search Bashoor Cafe's live bilingual Persian/English menu by item, description or category, optionally filtering by category and maximum starting price in Toman.",
       "inputSchema": {
         "type": "object",
         "additionalProperties": false,
@@ -62,13 +62,13 @@
             "type": "string",
             "minLength": 1,
             "maxLength": 80,
-            "description": "Persian menu query, for example اسپرسو، لاته، صبحانه or قهوه"
+            "description": "Persian or English menu query, for example اسپرسو، لاته، espresso, latte or coffee"
           },
           "category": {
             "type": "string",
             "minLength": 1,
             "maxLength": 80,
-            "description": "Optional exact or partial Persian category name"
+            "description": "Optional exact or partial Persian or English category name"
           },
           "maxPriceToman": {
             "type": "integer",

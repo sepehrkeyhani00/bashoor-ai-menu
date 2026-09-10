@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-10T22:07:08.383Z",
+  "generatedAt": "2026-09-10T22:23:01.330Z",
   "lastMenuUpdate": "2026-08-30T20:20:00.098Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
@@ -78,11 +78,14 @@
     {
       "id": "92213ebc-331c-48ac-9e0a-53f4e79a9615",
       "name": "نوشیدنی گرم بر پایه قهوه",
+      "nameEn": "Hot coffee drinks",
       "canonicalUrl": "https://bashoor.ir/menu/category/92213ebc-331c-48ac-9e0a-53f4e79a9615/%D9%86%D9%88%D8%B4%DB%8C%D8%AF%D9%86%DB%8C-%DA%AF%D8%B1%D9%85-%D8%A8%D8%B1-%D9%BE%D8%A7%DB%8C%D9%87-%D9%82%D9%87%D9%88%D9%87",
       "items": [
         {
           "id": "7b0f19ed-3be8-4a07-8db2-674a71f827ec",
           "name": "اسپرسو",
+          "nameEn": "Espresso",
+          "descriptionLanguage": "fa-IR",
           "description": "عصاره گیری شده از دان قهوه",
           "kind": "hot",
           "popular": true,
@@ -116,13 +119,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/7b0f19ed-3be8-4a07-8db2-674a71f827ec/",
-          "nameEn": "Espresso",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/7b0f19ed-3be8-4a07-8db2-674a71f827ec/"
         },
         {
           "id": "cb25eb0b-5187-4081-9f03-37f5939cf476",
           "name": "امریکانو",
+          "nameEn": "Americano",
+          "descriptionLanguage": "fa-IR",
           "description": "اسپرسو به همراه آب داغ",
           "kind": "hot",
           "popular": false,
@@ -156,13 +159,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/cb25eb0b-5187-4081-9f03-37f5939cf476/",
-          "nameEn": "Americano",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/cb25eb0b-5187-4081-9f03-37f5939cf476/"
         },
         {
           "id": "ea645fcc-c151-4b00-9fff-474a8b967157",
           "name": "لاته",
+          "nameEn": "Latte",
+          "descriptionLanguage": "fa-IR",
           "description": "اسپرسو به همراه شیر گرم",
           "kind": "hot",
           "popular": false,
@@ -196,13 +199,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ea645fcc-c151-4b00-9fff-474a8b967157/",
-          "nameEn": "Latte",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ea645fcc-c151-4b00-9fff-474a8b967157/"
         },
         {
           "id": "3d51a120-5600-4ac6-ae15-3ab40157b6c5",
           "name": "کاپوچینو",
+          "nameEn": "Cappuccino",
+          "descriptionLanguage": "fa-IR",
           "description": "اسپرسو به همراه شیر گرم و فوم شیر",
           "kind": "hot",
           "popular": false,
@@ -236,13 +239,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/3d51a120-5600-4ac6-ae15-3ab40157b6c5/",
-          "nameEn": "Cappuccino",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/3d51a120-5600-4ac6-ae15-3ab40157b6c5/"
         },
         {
           "id": "8949dee1-dc96-4d06-9652-9f800189185a",
           "name": "موکا",
+          "nameEn": "Mocha",
+          "descriptionLanguage": "fa-IR",
           "description": "لاته با طعم شکلات",
           "kind": "hot",
           "popular": false,
@@ -276,13 +279,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/8949dee1-dc96-4d06-9652-9f800189185a/",
-          "nameEn": "Mocha",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/8949dee1-dc96-4d06-9652-9f800189185a/"
         },
         {
           "id": "d5ce63ae-469e-4c98-895d-a367cfe75f00",
           "name": "موکا کِرِم",
+          "nameEn": "Mocha Cream",
+          "descriptionLanguage": "fa-IR",
           "description": "موکا به همراه خامه",
           "kind": "hot",
           "popular": false,
@@ -316,13 +319,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d5ce63ae-469e-4c98-895d-a367cfe75f00/",
-          "nameEn": "Mocha Cream",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d5ce63ae-469e-4c98-895d-a367cfe75f00/"
         },
         {
           "id": "b4beaa15-631c-487a-8242-0185f66897fd",
           "name": "آفوگاتو",
+          "nameEn": "Affogato",
+          "descriptionLanguage": "fa-IR",
           "description": "اسپرسو و بستنی وانیلی",
           "kind": "hot",
           "popular": false,
@@ -356,13 +359,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/b4beaa15-631c-487a-8242-0185f66897fd/",
-          "nameEn": "Affogato",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/b4beaa15-631c-487a-8242-0185f66897fd/"
         },
         {
           "id": "f5c38d07-95d6-4477-a2de-10c445d6675a",
           "name": "رگولار",
+          "nameEn": "Regular Drip Coffee",
+          "descriptionLanguage": "fa-IR",
           "description": "قهوه دمی به روش چکانه‌ای با دستگاه رگولار",
           "kind": "hot",
           "popular": false,
@@ -374,22 +377,22 @@
           "imageUrl": "https://bashoor.ir/uploads/img_1786745034449_372875901.webp",
           "updatedAt": "2026-08-26T16:20:22.967Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f5c38d07-95d6-4477-a2de-10c445d6675a/",
-          "nameEn": "Regular Drip Coffee",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f5c38d07-95d6-4477-a2de-10c445d6675a/"
         }
       ],
-      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/92213ebc-331c-48ac-9e0a-53f4e79a9615/",
-      "nameEn": "Hot coffee drinks"
+      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/92213ebc-331c-48ac-9e0a-53f4e79a9615/"
     },
     {
       "id": "112a6ad2-f73e-4c4b-b12d-db7e3e82ac0c",
       "name": "نوشیدنی سرد بر پایه قهوه",
+      "nameEn": "Cold coffee drinks",
       "canonicalUrl": "https://bashoor.ir/menu/category/112a6ad2-f73e-4c4b-b12d-db7e3e82ac0c/%D9%86%D9%88%D8%B4%DB%8C%D8%AF%D9%86%DB%8C-%D8%B3%D8%B1%D8%AF-%D8%A8%D8%B1-%D9%BE%D8%A7%DB%8C%D9%87-%D9%82%D9%87%D9%88%D9%87",
       "items": [
         {
           "id": "6f8b1f7e-72af-4d69-8a38-b99710f05076",
           "name": "آیس اسپرسو",
+          "nameEn": "Iced Espresso",
+          "descriptionLanguage": "fa-IR",
           "description": "اسپرسو به همراه یخ",
           "kind": "cold",
           "popular": false,
@@ -423,13 +426,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6f8b1f7e-72af-4d69-8a38-b99710f05076/",
-          "nameEn": "Iced Espresso",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6f8b1f7e-72af-4d69-8a38-b99710f05076/"
         },
         {
           "id": "682b09a3-5183-4c2c-b1f4-823972de3716",
           "name": "آیس اسپرسو سودا",
+          "nameEn": "Iced Espresso Soda",
+          "descriptionLanguage": "fa-IR",
           "description": "ترکیب اسپرسو و سودا و یخ",
           "kind": "cold",
           "popular": false,
@@ -463,13 +466,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/682b09a3-5183-4c2c-b1f4-823972de3716/",
-          "nameEn": "Iced Espresso Soda",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/682b09a3-5183-4c2c-b1f4-823972de3716/"
         },
         {
           "id": "ecbb31fe-7526-4fa7-b4af-5240d24461f7",
           "name": "آیس اسپرسو تونیک",
+          "nameEn": "Iced Espresso Tonic",
+          "descriptionLanguage": "fa-IR",
           "description": "اسپرسو به همراه تونیک واتر و یخ",
           "kind": "cold",
           "popular": false,
@@ -503,13 +506,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ecbb31fe-7526-4fa7-b4af-5240d24461f7/",
-          "nameEn": "Iced Espresso Tonic",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ecbb31fe-7526-4fa7-b4af-5240d24461f7/"
         },
         {
           "id": "f63dcf7a-4742-42b4-8268-80e49ebc7b0a",
           "name": "آیس امریکانو",
+          "nameEn": "Iced Americano",
+          "descriptionLanguage": "fa-IR",
           "description": "اسپرسو به همراه آب و یخ",
           "kind": "cold",
           "popular": true,
@@ -543,13 +546,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f63dcf7a-4742-42b4-8268-80e49ebc7b0a/",
-          "nameEn": "Iced Americano",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f63dcf7a-4742-42b4-8268-80e49ebc7b0a/"
         },
         {
           "id": "5a696e55-b2ae-47d9-905e-b3fc3946f90b",
           "name": "آیس لاته",
+          "nameEn": "Iced Latte",
+          "descriptionLanguage": "fa-IR",
           "description": "اسپرسو و شیر به همراه یخ",
           "kind": "cold",
           "popular": true,
@@ -583,13 +586,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/5a696e55-b2ae-47d9-905e-b3fc3946f90b/",
-          "nameEn": "Iced Latte",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/5a696e55-b2ae-47d9-905e-b3fc3946f90b/"
         },
         {
           "id": "d90c4ff2-7f6c-494c-8746-366fef0ad64b",
           "name": "آیس موکا",
+          "nameEn": "Iced Mocha",
+          "descriptionLanguage": "fa-IR",
           "description": "لاته با طعم شکلات",
           "kind": "cold",
           "popular": false,
@@ -623,13 +626,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d90c4ff2-7f6c-494c-8746-366fef0ad64b/",
-          "nameEn": "Iced Mocha",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d90c4ff2-7f6c-494c-8746-366fef0ad64b/"
         },
         {
           "id": "46cca27f-af36-4c5f-8c80-d12d9574fba8",
           "name": "آیس موکا کرم",
+          "nameEn": "Iced Mocha Cream",
+          "descriptionLanguage": "fa-IR",
           "description": "ترکیب لاته و شکلات به همراه خامه",
           "kind": "cold",
           "popular": false,
@@ -663,13 +666,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/46cca27f-af36-4c5f-8c80-d12d9574fba8/",
-          "nameEn": "Iced Mocha Cream",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/46cca27f-af36-4c5f-8c80-d12d9574fba8/"
         },
         {
           "id": "bcf14424-c788-4df9-b509-e2480cf67807",
           "name": "آیس موکا بنانا",
+          "nameEn": "Iced Banana Mocha",
+          "descriptionLanguage": "fa-IR",
           "description": "لاته و شکلات به همراه موز",
           "kind": "cold",
           "popular": false,
@@ -703,13 +706,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/bcf14424-c788-4df9-b509-e2480cf67807/",
-          "nameEn": "Iced Banana Mocha",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/bcf14424-c788-4df9-b509-e2480cf67807/"
         },
         {
           "id": "e37025f9-d457-4afd-ab5f-ee304acff2fb",
           "name": "آیس رگولار",
+          "nameEn": "Iced Regular Drip Coffee",
+          "descriptionLanguage": "fa-IR",
           "description": "قهوه دمی به روش چکانه‌ای با دستگاه رگولار به همراه یخ",
           "kind": "cold",
           "popular": false,
@@ -721,13 +724,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/iced-regular-coffee.webp",
           "updatedAt": "2026-08-26T16:20:27.024Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/e37025f9-d457-4afd-ab5f-ee304acff2fb/",
-          "nameEn": "Iced Regular Drip Coffee",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/e37025f9-d457-4afd-ab5f-ee304acff2fb/"
         },
         {
           "id": "c3711140-8ba1-4611-a487-207f23176440",
           "name": "اورنج اسپرسو",
+          "nameEn": "Orange Espresso",
+          "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "cold",
           "popular": false,
@@ -761,22 +764,22 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/c3711140-8ba1-4611-a487-207f23176440/",
-          "nameEn": "Orange Espresso",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/c3711140-8ba1-4611-a487-207f23176440/"
         }
       ],
-      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/112a6ad2-f73e-4c4b-b12d-db7e3e82ac0c/",
-      "nameEn": "Cold coffee drinks"
+      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/112a6ad2-f73e-4c4b-b12d-db7e3e82ac0c/"
     },
     {
       "id": "af80f58e-d912-4226-9337-efd09818fb8d",
       "name": "لاته بار",
+      "nameEn": "Latte bar",
       "canonicalUrl": "https://bashoor.ir/menu/category/af80f58e-d912-4226-9337-efd09818fb8d/%D9%84%D8%A7%D8%AA%D9%87-%D8%A8%D8%A7%D8%B1",
       "items": [
         {
           "id": "faa07243-1c65-4861-9ff4-a6c05012642e",
           "name": "آلموند لاته",
+          "nameEn": "Almond Latte",
+          "descriptionLanguage": "fa-IR",
           "description": "ترکیب شیربادام و اسپرسو ( فقط به صورت سرد )",
           "kind": "hot",
           "popular": false,
@@ -810,13 +813,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/faa07243-1c65-4861-9ff4-a6c05012642e/",
-          "nameEn": "Almond Latte",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/faa07243-1c65-4861-9ff4-a6c05012642e/"
         },
         {
           "id": "118e52c8-ebfb-4a8e-b7b2-1d135282ddae",
           "name": "اسپنیش لاته",
+          "nameEn": "Spanish Latte",
+          "descriptionLanguage": "fa-IR",
           "description": "ترکیب لاته و شیر تغلیظ شده",
           "kind": "hot",
           "popular": false,
@@ -850,13 +853,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/118e52c8-ebfb-4a8e-b7b2-1d135282ddae/",
-          "nameEn": "Spanish Latte",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/118e52c8-ebfb-4a8e-b7b2-1d135282ddae/"
         },
         {
           "id": "be8b5039-d90e-4d1f-9f97-1515208b137c",
           "name": "بری لاته",
+          "nameEn": "Berry Latte",
+          "descriptionLanguage": "fa-IR",
           "description": "ترکیب لاته با سیروپ آلبالو",
           "kind": "hot",
           "popular": false,
@@ -890,13 +893,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/be8b5039-d90e-4d1f-9f97-1515208b137c/",
-          "nameEn": "Berry Latte",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/be8b5039-d90e-4d1f-9f97-1515208b137c/"
         },
         {
           "id": "bb7bed91-cf5b-48f9-acea-420944f91b96",
           "name": "پینات لاته",
+          "nameEn": "Peanut Latte",
+          "descriptionLanguage": "fa-IR",
           "description": "ترکیب لاته و کره بادام زمینی",
           "kind": "hot",
           "popular": false,
@@ -930,13 +933,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/bb7bed91-cf5b-48f9-acea-420944f91b96/",
-          "nameEn": "Peanut Latte",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/bb7bed91-cf5b-48f9-acea-420944f91b96/"
         },
         {
           "id": "96756c45-dad4-4453-9ac7-84114e42bf76",
           "name": "کارامل لاته",
+          "nameEn": "Caramel Latte",
+          "descriptionLanguage": "fa-IR",
           "description": "ترکیب لاته و سیروپ کارامل",
           "kind": "hot",
           "popular": false,
@@ -970,13 +973,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/96756c45-dad4-4453-9ac7-84114e42bf76/",
-          "nameEn": "Caramel Latte",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/96756c45-dad4-4453-9ac7-84114e42bf76/"
         },
         {
           "id": "f43a55ff-3543-4ca8-9249-4cc56a85bded",
           "name": "کوکو لاته",
+          "nameEn": "Coconut Latte",
+          "descriptionLanguage": "fa-IR",
           "description": "لاته با شیر نارگیل",
           "kind": "cold",
           "popular": false,
@@ -1010,13 +1013,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f43a55ff-3543-4ca8-9249-4cc56a85bded/",
-          "nameEn": "Coconut Latte",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f43a55ff-3543-4ca8-9249-4cc56a85bded/"
         },
         {
           "id": "312eacda-3f2c-48f9-9415-c15402bf96bc",
           "name": "لاته ارده خرما",
+          "nameEn": "Tahini Date Latte",
+          "descriptionLanguage": "fa-IR",
           "description": "ترکیب لاته و ارده و خرما",
           "kind": "hot",
           "popular": false,
@@ -1050,13 +1053,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/312eacda-3f2c-48f9-9415-c15402bf96bc/",
-          "nameEn": "Tahini Date Latte",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/312eacda-3f2c-48f9-9415-c15402bf96bc/"
         },
         {
           "id": "ec47e0d5-cdef-4a96-93c0-7272121a7a42",
           "name": "مانگو لاته",
+          "nameEn": "Mango Latte",
+          "descriptionLanguage": "fa-IR",
           "description": "ترکیب لاته با سیروپ انبه",
           "kind": "hot",
           "popular": false,
@@ -1090,13 +1093,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ec47e0d5-cdef-4a96-93c0-7272121a7a42/",
-          "nameEn": "Mango Latte",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ec47e0d5-cdef-4a96-93c0-7272121a7a42/"
         },
         {
           "id": "81965658-b82b-4bf6-a235-4dc330c10fd9",
           "name": "ناتی لاته",
+          "nameEn": "Nutty Latte",
+          "descriptionLanguage": "fa-IR",
           "description": "ترکیب لاته با سیروپ فندوق",
           "kind": "hot",
           "popular": false,
@@ -1130,13 +1133,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/81965658-b82b-4bf6-a235-4dc330c10fd9/",
-          "nameEn": "Nutty Latte",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/81965658-b82b-4bf6-a235-4dc330c10fd9/"
         },
         {
           "id": "971905a2-43b0-4e3f-afcf-070e3ec7281a",
           "name": "هانی لاته",
+          "nameEn": "Honey Latte",
+          "descriptionLanguage": "fa-IR",
           "description": "ترکیب لاته و عسل",
           "kind": "hot",
           "popular": false,
@@ -1170,13 +1173,13 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/971905a2-43b0-4e3f-afcf-070e3ec7281a/",
-          "nameEn": "Honey Latte",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/971905a2-43b0-4e3f-afcf-070e3ec7281a/"
         },
         {
           "id": "08b2806b-d9d3-4b35-8906-f52da9511135",
           "name": "وانیلا لاته",
+          "nameEn": "Vanilla Latte",
+          "descriptionLanguage": "fa-IR",
           "description": "ترکیب لاته با سیروپ وانیل",
           "kind": "hot",
           "popular": false,
@@ -1210,22 +1213,22 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/08b2806b-d9d3-4b35-8906-f52da9511135/",
-          "nameEn": "Vanilla Latte",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/08b2806b-d9d3-4b35-8906-f52da9511135/"
         }
       ],
-      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/af80f58e-d912-4226-9337-efd09818fb8d/",
-      "nameEn": "Latte bar"
+      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/af80f58e-d912-4226-9337-efd09818fb8d/"
     },
     {
       "id": "7590c5f4-cd51-47c0-9d5d-16e463236939",
       "name": "شکلات بار",
+      "nameEn": "Chocolate bar",
       "canonicalUrl": "https://bashoor.ir/menu/category/7590c5f4-cd51-47c0-9d5d-16e463236939/%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D8%A8%D8%A7%D8%B1",
       "items": [
         {
           "id": "78383c18-5c43-46fe-85ab-55b30d5c580a",
           "name": "کلاسیک چاکلت",
+          "nameEn": "Classic Hot Chocolate",
+          "descriptionLanguage": "fa-IR",
           "description": "شکلات داغ کلاسیک به همراه خامه",
           "kind": "hot",
           "popular": false,
@@ -1237,13 +1240,13 @@
           "imageUrl": "https://bashoor.ir/uploads/img_1786745030621_394131352.webp",
           "updatedAt": "2026-08-26T16:38:32.271Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/78383c18-5c43-46fe-85ab-55b30d5c580a/",
-          "nameEn": "Classic Hot Chocolate",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/78383c18-5c43-46fe-85ab-55b30d5c580a/"
         },
         {
           "id": "f3ca1927-487a-4769-83f0-43d06e6c8dc2",
           "name": "ناتی چاکلت",
+          "nameEn": "Nutty Hot Chocolate",
+          "descriptionLanguage": "fa-IR",
           "description": "هات چاکلت به همراه فندوق و خامه",
           "kind": "hot",
           "popular": false,
@@ -1255,13 +1258,13 @@
           "imageUrl": "https://bashoor.ir/uploads/img_1786745030923_532781780.webp",
           "updatedAt": "2026-08-26T16:38:58.524Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f3ca1927-487a-4769-83f0-43d06e6c8dc2/",
-          "nameEn": "Nutty Hot Chocolate",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f3ca1927-487a-4769-83f0-43d06e6c8dc2/"
         },
         {
           "id": "b9884b49-a460-458e-99ed-927f0ea7a1d6",
           "name": "کوکو چاکلت",
+          "nameEn": "Coconut Hot Chocolate",
+          "descriptionLanguage": "fa-IR",
           "description": "شکلات داغ به همراه شیرنارگیل",
           "kind": "hot",
           "popular": true,
@@ -1273,13 +1276,13 @@
           "imageUrl": "https://bashoor.ir/uploads/img_1786745030770_611177054.webp",
           "updatedAt": "2026-08-20T14:40:27.151Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/b9884b49-a460-458e-99ed-927f0ea7a1d6/",
-          "nameEn": "Coconut Hot Chocolate",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/b9884b49-a460-458e-99ed-927f0ea7a1d6/"
         },
         {
           "id": "02c417d1-daea-4047-9a3e-9ac4d959d692",
           "name": "بری چاکلت",
+          "nameEn": "Berry Hot Chocolate",
+          "descriptionLanguage": "fa-IR",
           "description": "شکلات داغ با طعم میوه های قرمز",
           "kind": "hot",
           "popular": false,
@@ -1291,13 +1294,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/berry-hot-chocolate.webp",
           "updatedAt": "2026-08-27T10:18:12.948Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/02c417d1-daea-4047-9a3e-9ac4d959d692/",
-          "nameEn": "Berry Hot Chocolate",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/02c417d1-daea-4047-9a3e-9ac4d959d692/"
         },
         {
           "id": "e62336f3-0309-48d6-ac4e-072f7c22a029",
           "name": "دوبی چاکلت",
+          "nameEn": "Dubai Chocolate",
+          "descriptionLanguage": "fa-IR",
           "description": "شکلات داغ به همراه کره پسته",
           "kind": "hot",
           "popular": false,
@@ -1309,13 +1312,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/dubai-hot-chocolate.webp",
           "updatedAt": "2026-08-20T14:58:05.915Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/e62336f3-0309-48d6-ac4e-072f7c22a029/",
-          "nameEn": "Dubai Chocolate",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/e62336f3-0309-48d6-ac4e-072f7c22a029/"
         },
         {
           "id": "71e768d0-fd79-4f3f-bfc5-af01e347ef08",
           "name": "افتر اِیت",
+          "nameEn": "After Eight Hot Chocolate",
+          "descriptionLanguage": "fa-IR",
           "description": "شکلات داغ به همراه نعناع",
           "kind": "hot",
           "popular": false,
@@ -1327,13 +1330,13 @@
           "imageUrl": "https://bashoor.ir/uploads/img_1786745030434_968314011.webp",
           "updatedAt": "2026-08-26T16:49:13.423Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/71e768d0-fd79-4f3f-bfc5-af01e347ef08/",
-          "nameEn": "After Eight Hot Chocolate",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/71e768d0-fd79-4f3f-bfc5-af01e347ef08/"
         },
         {
           "id": "bf8a3975-68be-4f03-adb6-92bf69cc34b0",
           "name": "بیسکو چاکلت",
+          "nameEn": "Biscuit Hot Chocolate",
+          "descriptionLanguage": "fa-IR",
           "description": "شکلات داغ به همراه بیسکوئیت",
           "kind": "hot",
           "popular": false,
@@ -1345,22 +1348,22 @@
           "imageUrl": "https://bashoor.ir/menu-assets/bisco-hot-chocolate.webp",
           "updatedAt": "2026-08-26T16:49:25.703Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/bf8a3975-68be-4f03-adb6-92bf69cc34b0/",
-          "nameEn": "Biscuit Hot Chocolate",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/bf8a3975-68be-4f03-adb6-92bf69cc34b0/"
         }
       ],
-      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/7590c5f4-cd51-47c0-9d5d-16e463236939/",
-      "nameEn": "Chocolate bar"
+      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/7590c5f4-cd51-47c0-9d5d-16e463236939/"
     },
     {
       "id": "9e00bdac-1320-4e64-9488-d56002eaffb5",
       "name": "ماکتیل بار",
+      "nameEn": "Mocktail bar",
       "canonicalUrl": "https://bashoor.ir/menu/category/9e00bdac-1320-4e64-9488-d56002eaffb5/%D9%85%D8%A7%DA%A9%D8%AA%DB%8C%D9%84-%D8%A8%D8%A7%D8%B1",
       "items": [
         {
           "id": "4a62e4d7-6190-4ad0-b7fb-ca1f38fcbea9",
           "name": "لیموناد",
+          "nameEn": "Lemonade",
+          "descriptionLanguage": "fa-IR",
           "description": "لیمو و سودا به همراه یخ",
           "kind": "cold",
           "popular": false,
@@ -1372,13 +1375,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/lemonade.webp",
           "updatedAt": "2026-08-26T16:24:35.128Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/4a62e4d7-6190-4ad0-b7fb-ca1f38fcbea9/",
-          "nameEn": "Lemonade",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/4a62e4d7-6190-4ad0-b7fb-ca1f38fcbea9/"
         },
         {
           "id": "33f82456-93ff-4830-aa94-727645c047ce",
           "name": "موهیتو",
+          "nameEn": "Mojito",
+          "descriptionLanguage": "fa-IR",
           "description": "لیمو ، نعنا به همراه شیرین کننده و یخ",
           "kind": "cold",
           "popular": false,
@@ -1390,13 +1393,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/mojito.webp",
           "updatedAt": "2026-08-26T16:24:44.966Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/33f82456-93ff-4830-aa94-727645c047ce/",
-          "nameEn": "Mojito",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/33f82456-93ff-4830-aa94-727645c047ce/"
         },
         {
           "id": "96d3c071-4384-49f0-8d8a-84776855e9ae",
           "name": "طلوع",
+          "nameEn": "Sunrise",
+          "descriptionLanguage": "fa-IR",
           "description": "پشن فروت ، آب پرتقال ، سودا و کلدبرو",
           "kind": "cold",
           "popular": false,
@@ -1408,13 +1411,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/sunrise-mocktail.webp",
           "updatedAt": "2026-08-26T16:24:56.293Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/96d3c071-4384-49f0-8d8a-84776855e9ae/",
-          "nameEn": "Sunrise",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/96d3c071-4384-49f0-8d8a-84776855e9ae/"
         },
         {
           "id": "e2d17b68-8489-4021-b96e-9514807377fe",
           "name": "خیار سکنجبین",
+          "nameEn": "Cucumber Sekanjabin",
+          "descriptionLanguage": "fa-IR",
           "description": "خیارسکنجبین به همراه لیمو و تخم شربتی ، گلاب و یخ",
           "kind": "cold",
           "popular": false,
@@ -1426,13 +1429,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/cucumber-sekanjabin.webp",
           "updatedAt": "2026-08-26T16:25:09.173Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/e2d17b68-8489-4021-b96e-9514807377fe/",
-          "nameEn": "Cucumber Sekanjabin",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/e2d17b68-8489-4021-b96e-9514807377fe/"
         },
         {
           "id": "f8d91bb9-cf62-46ea-81e9-1c1b7c2cedfd",
           "name": "سَوِرثینگ",
+          "nameEn": "Sour Thing — Bashoor Signature",
+          "descriptionLanguage": "fa-IR",
           "description": "سیگنچر ترش باشور",
           "kind": "cold",
           "popular": false,
@@ -1444,22 +1447,22 @@
           "imageUrl": "https://bashoor.ir/menu-assets/sour-thing.webp",
           "updatedAt": "2026-08-26T16:26:00.463Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f8d91bb9-cf62-46ea-81e9-1c1b7c2cedfd/",
-          "nameEn": "Sour Thing — Bashoor Signature",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f8d91bb9-cf62-46ea-81e9-1c1b7c2cedfd/"
         }
       ],
-      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/9e00bdac-1320-4e64-9488-d56002eaffb5/",
-      "nameEn": "Mocktail bar"
+      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/9e00bdac-1320-4e64-9488-d56002eaffb5/"
     },
     {
       "id": "78e1df35-4bf0-4472-918d-581ff5335bd3",
       "name": "شیک بار",
+      "nameEn": "Shake bar",
       "canonicalUrl": "https://bashoor.ir/menu/category/78e1df35-4bf0-4472-918d-581ff5335bd3/%D8%B4%DB%8C%DA%A9-%D8%A8%D8%A7%D8%B1",
       "items": [
         {
           "id": "add2edbe-378c-4238-9ca0-4eae60559527",
           "name": "شیک بیسکوچیز",
+          "nameEn": "Bisco Cheese Shake",
+          "descriptionLanguage": "fa-IR",
           "description": "ترکیب بستنی و شیر به همراه بیسکوییت و پنیر",
           "kind": "cold",
           "popular": false,
@@ -1471,13 +1474,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/bisco-cheesecake-shake.webp",
           "updatedAt": "2026-08-26T16:34:54.124Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/add2edbe-378c-4238-9ca0-4eae60559527/",
-          "nameEn": "Bisco Cheese Shake",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/add2edbe-378c-4238-9ca0-4eae60559527/"
         },
         {
           "id": "84c83ca1-e6fd-45c5-93fd-166d865422c3",
           "name": "شیک قهوه",
+          "nameEn": "Coffee Shake",
+          "descriptionLanguage": "fa-IR",
           "description": "ترکیب بستنی و شیر و اسپرسو",
           "kind": "cold",
           "popular": false,
@@ -1489,13 +1492,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/coffee-shake.webp",
           "updatedAt": "2026-08-26T16:37:46.668Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/84c83ca1-e6fd-45c5-93fd-166d865422c3/",
-          "nameEn": "Coffee Shake",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/84c83ca1-e6fd-45c5-93fd-166d865422c3/"
         },
         {
           "id": "99d0ff84-8309-4094-963e-d92cf2a9bca1",
           "name": "شیک شکلات چیز",
+          "nameEn": "Chocolate Cheesecake Shake",
+          "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "cold",
           "popular": false,
@@ -1507,13 +1510,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/chocolate-cheesecake-shake.webp",
           "updatedAt": "2026-08-26T16:32:09.849Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/99d0ff84-8309-4094-963e-d92cf2a9bca1/",
-          "nameEn": "Chocolate Cheesecake Shake",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/99d0ff84-8309-4094-963e-d92cf2a9bca1/"
         },
         {
           "id": "3c9d59b5-97ca-484f-b1ee-14c40a82aff1",
           "name": "شیک شکلات موز",
+          "nameEn": "Chocolate Banana Shake",
+          "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "cold",
           "popular": false,
@@ -1525,13 +1528,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/chocolate-banana-shake.webp",
           "updatedAt": "2026-08-20T19:25:20.243Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/3c9d59b5-97ca-484f-b1ee-14c40a82aff1/",
-          "nameEn": "Chocolate Banana Shake",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/3c9d59b5-97ca-484f-b1ee-14c40a82aff1/"
         },
         {
           "id": "52a88f09-c67c-4f84-aee4-2da106ca7eec",
           "name": "شیک پسته",
+          "nameEn": "Pistachio Shake",
+          "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "cold",
           "popular": false,
@@ -1543,13 +1546,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/pistachio-shake.webp",
           "updatedAt": "2026-08-26T16:32:31.780Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/52a88f09-c67c-4f84-aee4-2da106ca7eec/",
-          "nameEn": "Pistachio Shake",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/52a88f09-c67c-4f84-aee4-2da106ca7eec/"
         },
         {
           "id": "4bd12d5f-50d0-46c4-8086-fe959b82f997",
           "name": "شیک ارده خرما",
+          "nameEn": "Tahini Date Shake",
+          "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "cold",
           "popular": false,
@@ -1561,13 +1564,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/tahini-date-shake.webp",
           "updatedAt": "2026-08-26T16:32:52.767Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/4bd12d5f-50d0-46c4-8086-fe959b82f997/",
-          "nameEn": "Tahini Date Shake",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/4bd12d5f-50d0-46c4-8086-fe959b82f997/"
         },
         {
           "id": "f0b3021e-2fe0-42e9-93fb-db444b991b22",
           "name": "شیک ایرانی",
+          "nameEn": "Persian Shake",
+          "descriptionLanguage": "fa-IR",
           "description": "ترکیب بستنی وانیل ، گلاب ، زعفران و پسته",
           "kind": "cold",
           "popular": false,
@@ -1579,13 +1582,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/iranian-shake.webp",
           "updatedAt": "2026-08-26T16:33:02.195Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f0b3021e-2fe0-42e9-93fb-db444b991b22/",
-          "nameEn": "Persian Shake",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f0b3021e-2fe0-42e9-93fb-db444b991b22/"
         },
         {
           "id": "6cce7a0e-96e5-456a-8478-25067e52c1a0",
           "name": "شیک کره بادام زمینی",
+          "nameEn": "Peanut Butter Shake",
+          "descriptionLanguage": "fa-IR",
           "description": "ترکیب بستنی وانیل و شیر به همراه کره بادام زمینی",
           "kind": "cold",
           "popular": false,
@@ -1597,13 +1600,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/peanut-butter-shake.webp",
           "updatedAt": "2026-08-26T16:33:14.928Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6cce7a0e-96e5-456a-8478-25067e52c1a0/",
-          "nameEn": "Peanut Butter Shake",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6cce7a0e-96e5-456a-8478-25067e52c1a0/"
         },
         {
           "id": "c642fa7d-c9c4-4b58-bd21-f2bc3b01733e",
           "name": "شیک کارامل نمکی",
+          "nameEn": "Salted Caramel Shake",
+          "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "cold",
           "popular": false,
@@ -1615,13 +1618,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/salted-caramel-shake.webp",
           "updatedAt": "2026-08-26T16:33:33.272Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/c642fa7d-c9c4-4b58-bd21-f2bc3b01733e/",
-          "nameEn": "Salted Caramel Shake",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/c642fa7d-c9c4-4b58-bd21-f2bc3b01733e/"
         },
         {
           "id": "12364219-dc61-4e15-ac63-723e56d53e86",
           "name": "شیک لیمو چیز",
+          "nameEn": "Lemon Cheesecake Shake",
+          "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "cold",
           "popular": false,
@@ -1633,13 +1636,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/lemon-cheesecake-shake.webp",
           "updatedAt": "2026-08-26T16:33:42.696Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/12364219-dc61-4e15-ac63-723e56d53e86/",
-          "nameEn": "Lemon Cheesecake Shake",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/12364219-dc61-4e15-ac63-723e56d53e86/"
         },
         {
           "id": "1ae44061-3000-40e7-b353-735eb5b45afa",
           "name": "شیک لوتوس",
+          "nameEn": "Lotus Biscoff Shake",
+          "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "cold",
           "popular": false,
@@ -1651,22 +1654,22 @@
           "imageUrl": "https://bashoor.ir/menu-assets/lotus-shake.webp",
           "updatedAt": "2026-08-26T16:33:48.532Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/1ae44061-3000-40e7-b353-735eb5b45afa/",
-          "nameEn": "Lotus Biscoff Shake",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/1ae44061-3000-40e7-b353-735eb5b45afa/"
         }
       ],
-      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/78e1df35-4bf0-4472-918d-581ff5335bd3/",
-      "nameEn": "Shake bar"
+      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/78e1df35-4bf0-4472-918d-581ff5335bd3/"
     },
     {
       "id": "5b84cd85-e8d9-4656-9e86-353d9e2beca6",
       "name": "چای و دمنوش",
+      "nameEn": "Tea and herbal infusions",
       "canonicalUrl": "https://bashoor.ir/menu/category/5b84cd85-e8d9-4656-9e86-353d9e2beca6/%DA%86%D8%A7%DB%8C-%D9%88-%D8%AF%D9%85%D9%86%D9%88%D8%B4",
       "items": [
         {
           "id": "a886a306-b648-4fb1-be7a-78b08ca41cd0",
           "name": "چای کرک",
+          "nameEn": "Karak Tea",
+          "descriptionLanguage": "fa-IR",
           "description": "چای کرک",
           "kind": "hot",
           "popular": false,
@@ -1678,13 +1681,13 @@
           "imageUrl": null,
           "updatedAt": "2026-08-27T15:12:36.581Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/a886a306-b648-4fb1-be7a-78b08ca41cd0/",
-          "nameEn": "Karak Tea",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/a886a306-b648-4fb1-be7a-78b08ca41cd0/"
         },
         {
           "id": "8dacda5d-248c-4dea-b3fe-b441c2038326",
           "name": "چای ماسالا",
+          "nameEn": "Masala Tea",
+          "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "hot",
           "popular": false,
@@ -1696,13 +1699,13 @@
           "imageUrl": null,
           "updatedAt": "2026-08-27T15:12:52.045Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/8dacda5d-248c-4dea-b3fe-b441c2038326/",
-          "nameEn": "Masala Tea",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/8dacda5d-248c-4dea-b3fe-b441c2038326/"
         },
         {
           "id": "45261225-7363-4b7c-8266-cb066d7359fc",
           "name": "بلو آیس تی",
+          "nameEn": "Blue Iced Tea",
+          "descriptionLanguage": "fa-IR",
           "description": "چای دم کرده تخصصی با طعم مرکباتی به همراه یخ",
           "kind": "hot",
           "popular": false,
@@ -1714,13 +1717,13 @@
           "imageUrl": null,
           "updatedAt": "2026-08-26T17:18:24.740Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/45261225-7363-4b7c-8266-cb066d7359fc/",
-          "nameEn": "Blue Iced Tea",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/45261225-7363-4b7c-8266-cb066d7359fc/"
         },
         {
           "id": "63fe2cdd-53e0-4557-af90-04b69fd4c1b9",
           "name": "مانگو آیس تی",
+          "nameEn": "Mango Iced Tea",
+          "descriptionLanguage": "fa-IR",
           "description": "چای دم کرده تخصصی با طعم انبه به همراه یخ",
           "kind": "hot",
           "popular": false,
@@ -1732,13 +1735,13 @@
           "imageUrl": null,
           "updatedAt": "2026-08-26T17:17:57.565Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/63fe2cdd-53e0-4557-af90-04b69fd4c1b9/",
-          "nameEn": "Mango Iced Tea",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/63fe2cdd-53e0-4557-af90-04b69fd4c1b9/"
         },
         {
           "id": "d00cfdfb-0980-49f2-9529-3352e72a0f78",
           "name": "بری آیس تی",
+          "nameEn": "Berry Iced Tea",
+          "descriptionLanguage": "fa-IR",
           "description": "چای دم کرده تخصصی با طعم ترش به همراه یخ",
           "kind": "hot",
           "popular": false,
@@ -1750,13 +1753,13 @@
           "imageUrl": null,
           "updatedAt": "2026-08-26T17:10:00.007Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d00cfdfb-0980-49f2-9529-3352e72a0f78/",
-          "nameEn": "Berry Iced Tea",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d00cfdfb-0980-49f2-9529-3352e72a0f78/"
         },
         {
           "id": "ee67339b-f8e5-4b01-b450-d4963c5896f7",
           "name": "دمنوش وصال",
+          "nameEn": "Vesal Herbal Infusion",
+          "descriptionLanguage": "fa-IR",
           "description": "لمون گرس به همراه فلفل ، زنجبیل و نعنا ( قابلیت سرو بصورت سرد )",
           "kind": "hot",
           "popular": false,
@@ -1768,13 +1771,13 @@
           "imageUrl": null,
           "updatedAt": "2026-08-26T17:18:37.784Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ee67339b-f8e5-4b01-b450-d4963c5896f7/",
-          "nameEn": "Vesal Herbal Infusion",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ee67339b-f8e5-4b01-b450-d4963c5896f7/"
         },
         {
           "id": "69dc2da7-b4da-4b26-8742-b7fc359ed98f",
           "name": "دمنوش یاس",
+          "nameEn": "Jasmine Herbal Tea",
+          "descriptionLanguage": "fa-IR",
           "description": "چای سبز به روش چینی به همراه شکوفه یاس طبیعی",
           "kind": "hot",
           "popular": false,
@@ -1786,13 +1789,13 @@
           "imageUrl": null,
           "updatedAt": "2026-08-26T17:18:45.738Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/69dc2da7-b4da-4b26-8742-b7fc359ed98f/",
-          "nameEn": "Jasmine Herbal Tea",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/69dc2da7-b4da-4b26-8742-b7fc359ed98f/"
         },
         {
           "id": "16c97af3-150b-41e5-a361-ab7d7dedb8b0",
           "name": "دمنوش جانان",
+          "nameEn": "Janan Herbal Infusion",
+          "descriptionLanguage": "fa-IR",
           "description": "سیب ، وانیل ، شیرین بیان به همراه میخک ( قابلیت سرو بصورت سرد )",
           "kind": "hot",
           "popular": false,
@@ -1804,13 +1807,13 @@
           "imageUrl": null,
           "updatedAt": "2026-08-26T17:16:55.061Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/16c97af3-150b-41e5-a361-ab7d7dedb8b0/",
-          "nameEn": "Janan Herbal Infusion",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/16c97af3-150b-41e5-a361-ab7d7dedb8b0/"
         },
         {
           "id": "d1ef6ee4-c39d-4bb7-b661-4a43fb999169",
           "name": "دمنوش لیلی",
+          "nameEn": "Leili Herbal Infusion",
+          "descriptionLanguage": "fa-IR",
           "description": "ترکیب شکوفه پرتقال ، سیب ، لبو به همراه هلو و هویج ( قابلیت سرو بصورت سرد )",
           "kind": "hot",
           "popular": true,
@@ -1822,13 +1825,13 @@
           "imageUrl": null,
           "updatedAt": "2026-08-26T17:18:54.498Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d1ef6ee4-c39d-4bb7-b661-4a43fb999169/",
-          "nameEn": "Leili Herbal Infusion",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d1ef6ee4-c39d-4bb7-b661-4a43fb999169/"
         },
         {
           "id": "15747f77-a92b-4bf6-b810-2ed4d9ee6674",
           "name": "دمنوش سیناپل",
+          "nameEn": "Cinnamon Apple Herbal Tea",
+          "descriptionLanguage": "fa-IR",
           "description": "ترکیب کلاسیک سیب و دارچین",
           "kind": "hot",
           "popular": false,
@@ -1840,13 +1843,13 @@
           "imageUrl": null,
           "updatedAt": "2026-08-26T17:21:01.817Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/15747f77-a92b-4bf6-b810-2ed4d9ee6674/",
-          "nameEn": "Cinnamon Apple Herbal Tea",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/15747f77-a92b-4bf6-b810-2ed4d9ee6674/"
         },
         {
           "id": "08e8e171-117b-4ad7-a903-04cd67d4c5d9",
           "name": "چای سیاه",
+          "nameEn": "Black Tea",
+          "descriptionLanguage": "fa-IR",
           "description": "چای سیاه به همراه ساید",
           "kind": "hot",
           "popular": true,
@@ -1858,22 +1861,22 @@
           "imageUrl": null,
           "updatedAt": "2026-08-26T17:23:11.591Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/08e8e171-117b-4ad7-a903-04cd67d4c5d9/",
-          "nameEn": "Black Tea",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/08e8e171-117b-4ad7-a903-04cd67d4c5d9/"
         }
       ],
-      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/5b84cd85-e8d9-4656-9e86-353d9e2beca6/",
-      "nameEn": "Tea and herbal infusions"
+      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/5b84cd85-e8d9-4656-9e86-353d9e2beca6/"
     },
     {
       "id": "752754c6-952f-4987-852d-665bd72d500d",
       "name": "بیکری",
+      "nameEn": "Bakery",
       "canonicalUrl": "https://bashoor.ir/menu/category/752754c6-952f-4987-852d-665bd72d500d/%D8%A8%DB%8C%DA%A9%D8%B1%DB%8C",
       "items": [
         {
           "id": "142b349e-b6cf-4055-8e4e-ba69c3ab0fe5",
           "name": "تارت میوه ای",
+          "nameEn": "Fruit Tart",
+          "descriptionLanguage": "fa-IR",
           "description": "تارت با میوه های تازه فصل",
           "kind": "cold",
           "popular": false,
@@ -1885,13 +1888,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/fruit-tart.webp",
           "updatedAt": "2026-08-26T17:01:09.460Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/142b349e-b6cf-4055-8e4e-ba69c3ab0fe5/",
-          "nameEn": "Fruit Tart",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/142b349e-b6cf-4055-8e4e-ba69c3ab0fe5/"
         },
         {
           "id": "3e29475f-32f2-4df1-8b8e-df90d4004e0f",
           "name": "سن سباستین",
+          "nameEn": "San Sebastian Cheesecake",
+          "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "hot",
           "popular": false,
@@ -1903,13 +1906,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/san-sebastian.webp",
           "updatedAt": "2026-08-30T08:45:19.945Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/3e29475f-32f2-4df1-8b8e-df90d4004e0f/",
-          "nameEn": "San Sebastian Cheesecake",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/3e29475f-32f2-4df1-8b8e-df90d4004e0f/"
         },
         {
           "id": "d0881717-b3e3-4966-883c-fae182e832bd",
           "name": "کوکی رژیمی",
+          "nameEn": "Diet Cookie",
+          "descriptionLanguage": "fa-IR",
           "description": "کوکی تازه رژیمی",
           "kind": "hot",
           "popular": false,
@@ -1921,13 +1924,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/healthy-cookie.webp",
           "updatedAt": "2026-08-30T20:19:05.532Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d0881717-b3e3-4966-883c-fae182e832bd/",
-          "nameEn": "Diet Cookie",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d0881717-b3e3-4966-883c-fae182e832bd/"
         },
         {
           "id": "21f3a8f6-caba-4337-936e-653bf0fe4750",
           "name": "کوکی شکلات گردو",
+          "nameEn": "Chocolate Walnut Cookie",
+          "descriptionLanguage": "fa-IR",
           "description": "کوکی تازه شکلات گردو",
           "kind": "hot",
           "popular": false,
@@ -1939,13 +1942,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/chocolate-walnut-cookie.webp",
           "updatedAt": "2026-08-30T20:20:00.098Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/21f3a8f6-caba-4337-936e-653bf0fe4750/",
-          "nameEn": "Chocolate Walnut Cookie",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/21f3a8f6-caba-4337-936e-653bf0fe4750/"
         },
         {
           "id": "5114e60f-1483-4b53-8800-19e4b6cad342",
           "name": "کیک باقلوا",
+          "nameEn": "Baklava Cake",
+          "descriptionLanguage": "fa-IR",
           "description": "کیک باقلوا تازه",
           "kind": "hot",
           "popular": false,
@@ -1957,13 +1960,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/baklava-cake.webp",
           "updatedAt": "2026-08-26T17:03:33.087Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/5114e60f-1483-4b53-8800-19e4b6cad342/",
-          "nameEn": "Baklava Cake",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/5114e60f-1483-4b53-8800-19e4b6cad342/"
         },
         {
           "id": "ea3d45df-2af8-4392-95e1-e3582178d6fd",
           "name": "هویج گردو",
+          "nameEn": "Carrot Walnut Cake",
+          "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "hot",
           "popular": false,
@@ -1975,13 +1978,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/carrot-walnut-cake.webp",
           "updatedAt": "2026-08-30T08:46:39.083Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ea3d45df-2af8-4392-95e1-e3582178d6fd/",
-          "nameEn": "Carrot Walnut Cake",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ea3d45df-2af8-4392-95e1-e3582178d6fd/"
         },
         {
           "id": "2fdeccd0-f385-41f8-ba13-4a355ba1fd48",
           "name": "بیسکاتی",
+          "nameEn": "Biscotti",
+          "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "hot",
           "popular": false,
@@ -1993,13 +1996,13 @@
           "imageUrl": "https://bashoor.ir/menu-assets/biscotti.webp",
           "updatedAt": "2026-08-20T16:06:45.722Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/2fdeccd0-f385-41f8-ba13-4a355ba1fd48/",
-          "nameEn": "Biscotti",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/2fdeccd0-f385-41f8-ba13-4a355ba1fd48/"
         },
         {
           "id": "6499d378-e4da-45bf-b7c9-0ca3959cfca3",
           "name": "بچه کوکی",
+          "nameEn": "Mini Cookie",
+          "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "hot",
           "popular": false,
@@ -2011,13 +2014,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/baby-cookie.webp",
           "updatedAt": "2026-08-20T16:07:31.973Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6499d378-e4da-45bf-b7c9-0ca3959cfca3/",
-          "nameEn": "Mini Cookie",
-          "descriptionLanguage": "fa-IR"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6499d378-e4da-45bf-b7c9-0ca3959cfca3/"
         }
       ],
-      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/752754c6-952f-4987-852d-665bd72d500d/",
-      "nameEn": "Bakery"
+      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/752754c6-952f-4987-852d-665bd72d500d/"
     }
   ],
   "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/"
