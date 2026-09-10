@@ -50,20 +50,20 @@
 
 ## منوی زنده و قیمت‌ها
 
-این نسخه در 2026-09-10T19:31:47.756Z از منوی عمومی باشور ساخته شده و شامل ۷۱ آیتم در ۸ دسته است.
+این نسخه در 2026-09-10T19:41:02.683Z از منوی عمومی باشور ساخته شده و شامل ۷۱ آیتم در ۸ دسته است.
 
 - [منوی HTML با عکس و قیمت](https://bashoor.ir/menu)
-- [نسخهٔ کامل مخصوص AI شامل تمام آیتم‌ها و قیمت‌ها](https://bashoor.ir/llms-full.txt)
-- [منوی متنی کامل با قیمت](https://bashoor.ir/menu.txt)
-- [منوی JSON کامل با قیمت تومان و IRR](https://bashoor.ir/menu.json)
-- [منوی CSV برای ابزارهای داده و عامل‌ها](https://bashoor.ir/menu.csv)
-- [خوراک RSS زندهٔ منو و قیمت‌ها](https://bashoor.ir/menu/feed.xml)
+- [نسخهٔ کامل مخصوص AI شامل تمام آیتم‌ها و قیمت‌ها](https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms-full.txt)
+- [منوی متنی کامل با قیمت](https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.txt)
+- [منوی JSON کامل با قیمت تومان و IRR](https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json)
+- [منوی CSV برای ابزارهای داده و عامل‌ها](https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.csv)
+- [خوراک RSS زندهٔ منو و قیمت‌ها](https://sepehrkeyhani00.github.io/bashoor-ai-menu/feed.xml)
 - [نسخهٔ جهانی منو و فایل‌های AI](https://sepehrkeyhani00.github.io/bashoor-ai-menu/)
-- [پروفایل JSON-LD کسب‌وکار](https://bashoor.ir/business.json)
-- [سند OpenAPI برای اتصال ابزارها و عامل‌ها](https://bashoor.ir/openapi.json)
+- [پروفایل JSON-LD کسب‌وکار](https://sepehrkeyhani00.github.io/bashoor-ai-menu/business.json)
+- [سند OpenAPI برای اتصال ابزارها و عامل‌ها](https://sepehrkeyhani00.github.io/bashoor-ai-menu/openapi.json)
 - [سرور MCP عمومی و فقط‌خواندنی](https://bashoor.ir/mcp) — ابزارهای get_business_profile، get_menu و search_menu
-- [WebMCP مرورگری و فقط‌خواندنی](https://bashoor.ir/.well-known/webmcp.json) — ابزارهای اطلاعات کافه، دریافت منو و جست‌وجوی قیمت در صفحه
-- [نقشهٔ سایت](https://bashoor.ir/sitemap.xml)
+- [WebMCP مرورگری و فقط‌خواندنی](https://sepehrkeyhani00.github.io/bashoor-ai-menu/.well-known/webmcp.json) — ابزارهای اطلاعات کافه، دریافت منو و جست‌وجوی قیمت در صفحه
+- [نقشهٔ سایت](https://sepehrkeyhani00.github.io/bashoor-ai-menu/sitemap.xml)
 
 ### نمونهٔ قیمت‌های قهوه
 
@@ -119,8 +119,8 @@
 - پروفایل مستقل دامنه: https://llmstxt.cc/websites/bashoor.ir
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
-- نسخهٔ JSON: https://bashoor.ir/menu.json
-- زمان دریافت این نسخه: 2026-09-10T19:31:47.756Z
+- نسخهٔ JSON: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json
+- زمان دریافت این نسخه: 2026-09-10T19:41:02.683Z
 - آخرین تغییر ثبت‌شده در منو: 2026-08-30T20:20:00.098Z
 
 قیمت اصلی هر آیتم به تومان نوشته شده است. مقدار داخل پرانتز معادل ریال برای پردازش ماشینی است.
