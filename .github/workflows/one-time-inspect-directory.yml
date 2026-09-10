@@ -1,0 +1,28 @@
+name: One-time inspect directory
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch public submit page and client bundle
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir public-artifact
+          curl -fsS --compressed https://llmslist.com/submit -o public-artifact/submit.html
+          asset_path="$(grep -oE '/_next/static/chunks/app/submit/page-[^\" ]+\.js' public-artifact/submit.html | head -1)"
+          test -n "$asset_path"
+          curl -fsS --compressed "https://llmslist.com${asset_path}" -o public-artifact/submit.js
+          printf '%s\n' "$asset_path" > public-artifact/asset-path.txt
+      - name: Upload public files
+        uses: actions/upload-artifact@v4
+        with:
+          name: llmslist-public-files
+          path: public-artifact
+          retention-days: 1
