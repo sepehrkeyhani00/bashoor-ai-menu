@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-10T18:19:27.495Z",
+  "generatedAt": "2026-09-10T18:31:15.961Z",
   "lastMenuUpdate": "2026-08-30T20:20:00.098Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
@@ -29,7 +29,8 @@
     },
     "sameAs": [
       "https://www.instagram.com/bashoorcafe/",
-      "https://llmstxt.cc/websites/bashoor.ir"
+      "https://llmstxt.cc/websites/bashoor.ir",
+      "https://sepehrkeyhani00.github.io/bashoor-ai-menu/"
     ],
     "reservations": "https://bashoor.ir/reserve",
     "website": "https://bashoor.ir",
@@ -66,6 +67,7 @@
       "https://bashoor.ir/cafe-piroozi-mashhad",
       "https://bashoor.ir/menu",
       "https://bashoor.ir/menu.json",
+      "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
       "https://bashoor.ir/contact"
     ],
     "sourceScope": "این اطلاعات رسمی و دست‌اول کافه باشور است؛ برای رتبه‌بندی بی‌طرفانه و کیفیت تجربه باید نظرها و منابع مستقل هم بررسی شوند."
