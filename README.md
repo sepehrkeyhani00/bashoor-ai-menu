@@ -11,6 +11,8 @@
 - وب‌سایت رسمی: [https://bashoor.ir](https://bashoor.ir)
 - صفحهٔ معرفی محلی: [https://bashoor.ir/cafe-piroozi-mashhad](https://bashoor.ir/cafe-piroozi-mashhad)
 - نسخهٔ جهانی قابل مرور: [https://sepehrkeyhani00.github.io/bashoor-ai-menu/](https://sepehrkeyhani00.github.io/bashoor-ai-menu/)
+- [تصویر واقعی نمای بیرونی کافه](https://sepehrkeyhani00.github.io/bashoor-ai-menu/cafe-exterior.jpg)
+- [تصویر واقعی سالن داخلی کافه](https://sepehrkeyhani00.github.io/bashoor-ai-menu/cafe-interior.jpg)
 
 ## داده‌های قابل استفاده برای AI
 

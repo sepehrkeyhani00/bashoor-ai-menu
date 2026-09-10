@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/</loc><lastmod>2026-09-10T19:41:31Z</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json</loc><lastmod>2026-09-10T19:41:31Z</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms.txt</loc><lastmod>2026-09-10T19:41:31Z</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms-full.txt</loc><lastmod>2026-09-10T19:41:31Z</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/.well-known/webmcp.json</loc><lastmod>2026-09-10T19:41:31Z</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/.well-known/mcp/server-card.json</loc><lastmod>2026-09-10T19:41:31Z</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/openapi.json</loc><lastmod>2026-09-10T19:41:31Z</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/feed.xml</loc><lastmod>2026-09-10T19:41:31Z</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/</loc><lastmod>2026-09-10T19:47:26Z</lastmod><image:image><image:loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/cafe-exterior.jpg</image:loc><image:title>نمای ورودی کافه باشور در بلوار پیروزی مشهد</image:title></image:image><image:image><image:loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/cafe-interior.jpg</image:loc><image:title>سالن داخلی کافه باشور مشهد</image:title></image:image></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json</loc><lastmod>2026-09-10T19:47:26Z</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms.txt</loc><lastmod>2026-09-10T19:47:26Z</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms-full.txt</loc><lastmod>2026-09-10T19:47:26Z</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/.well-known/webmcp.json</loc><lastmod>2026-09-10T19:47:26Z</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/.well-known/mcp/server-card.json</loc><lastmod>2026-09-10T19:47:26Z</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/openapi.json</loc><lastmod>2026-09-10T19:47:26Z</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/feed.xml</loc><lastmod>2026-09-10T19:47:26Z</lastmod></url>
 </urlset>
