@@ -1,0 +1,118 @@
+{
+  "serverInfo": {
+    "name": "bashoor-cafe",
+    "title": "کافه باشور مشهد",
+    "version": "1.0.0",
+    "websiteUrl": "https://bashoor.ir",
+    "description": "Public, read-only first-party profile and live menu for Bashoor Cafe on Pirouzi Boulevard in Mashhad, with current Toman and IRR prices."
+  },
+  "authentication": {
+    "required": false,
+    "schemes": []
+  },
+  "transport": {
+    "type": "streamable-http",
+    "url": "https://bashoor.ir/mcp"
+  },
+  "tools": [
+    {
+      "name": "get_business_profile",
+      "title": "پروفایل کافه باشور",
+      "description": "Get Bashoor Cafe's official address, coordinates, hours, phone, features, live-menu links and representative coffee prices.",
+      "inputSchema": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {}
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": false
+      }
+    },
+    {
+      "name": "get_menu",
+      "title": "منوی زندهٔ باشور",
+      "description": "Get the complete current menu, including categories, descriptions, Toman and IRR prices, variants, modifiers and canonical item URLs.",
+      "inputSchema": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {}
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": false
+      }
+    },
+    {
+      "name": "search_menu",
+      "title": "جست‌وجوی منوی باشور",
+      "description": "Search Bashoor Cafe's live Persian menu by item, description or category, optionally filtering by category and maximum starting price in Toman.",
+      "inputSchema": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["query"],
+        "properties": {
+          "query": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80,
+            "description": "Persian menu query, for example اسپرسو، لاته، صبحانه or قهوه"
+          },
+          "category": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80,
+            "description": "Optional exact or partial Persian category name"
+          },
+          "maxPriceToman": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 10000000,
+            "description": "Maximum starting price in Toman"
+          },
+          "limit": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 30,
+            "default": 10,
+            "description": "Maximum results, from 1 to 30"
+          }
+        }
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": false
+      }
+    }
+  ],
+  "resources": [
+    {
+      "name": "bashoor-live-menu",
+      "title": "منوی زندهٔ کافه باشور",
+      "uri": "https://bashoor.ir/menu.json",
+      "description": "Complete current menu with Toman and IRR prices, variants, modifiers and canonical item URLs.",
+      "mimeType": "application/json"
+    },
+    {
+      "name": "bashoor-ai-profile",
+      "title": "پروفایل متنی کافه باشور برای AI",
+      "uri": "https://bashoor.ir/llms.txt",
+      "description": "Concise first-party Persian profile, recommendation context and representative live prices.",
+      "mimeType": "text/markdown; charset=utf-8"
+    },
+    {
+      "name": "bashoor-complete-ai-context",
+      "title": "پروفایل و منوی کامل باشور برای AI",
+      "uri": "https://bashoor.ir/llms-full.txt",
+      "description": "Complete first-party cafe profile and live menu with every current price.",
+      "mimeType": "text/markdown; charset=utf-8"
+    }
+  ],
+  "prompts": []
+}
