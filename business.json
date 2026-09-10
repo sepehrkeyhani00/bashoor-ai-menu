@@ -168,11 +168,6 @@
           "@type": "DataDownload",
           "contentUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms-full.txt",
           "encodingFormat": "text/markdown"
-        },
-        {
-          "@type": "DataDownload",
-          "contentUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
-          "encodingFormat": "application/json"
         }
       ],
       "spatialCoverage": {
