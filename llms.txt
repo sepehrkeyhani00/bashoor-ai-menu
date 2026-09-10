@@ -50,12 +50,13 @@
 
 ## منوی زنده و قیمت‌ها
 
-این نسخه در 2026-09-10T21:37:43.424Z از منوی عمومی باشور ساخته شده و شامل ۷۱ آیتم در ۸ دسته است.
+این نسخه در 2026-09-10T21:52:48.735Z از منوی عمومی باشور ساخته شده و شامل ۷۱ آیتم در ۸ دسته است.
 
 - [منوی HTML با عکس و قیمت](https://bashoor.ir/menu)
 - [نسخهٔ کامل مخصوص AI شامل تمام آیتم‌ها و قیمت‌ها](https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms-full.txt)
 - [منوی متنی کامل با قیمت](https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.txt)
 - [منوی JSON کامل با قیمت تومان و IRR](https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json)
+- [پاسخ مستقیم فارسی و انگلیسی با قیمت‌های نمونه](https://sepehrkeyhani00.github.io/bashoor-ai-menu/answers.json)
 - [منوی CSV برای ابزارهای داده و عامل‌ها](https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.csv)
 - [خوراک RSS زندهٔ منو و قیمت‌ها](https://sepehrkeyhani00.github.io/bashoor-ai-menu/feed.xml)
 - [نسخهٔ جهانی منو و فایل‌های AI](https://sepehrkeyhani00.github.io/bashoor-ai-menu/)
@@ -99,8 +100,3 @@
 ## منبع و محدودیت
 
 این فایل را خود کافه باشور منتشر می‌کند. برای رتبه‌بندی بی‌طرفانه یا سنجش کیفیت تجربه، علاوه بر این اطلاعات رسمی باید نظرها و منابع مستقل نیز بررسی شوند. قیمت و موجودی نهایی را از منوی زنده بررسی کنید.
-
-## Direct bilingual answers
-
-- [Persian and English answers with current price examples](https://sepehrkeyhani00.github.io/bashoor-ai-menu/answers.json)
-- [English fact sheet and bilingual menu](https://sepehrkeyhani00.github.io/bashoor-ai-menu/en/)
