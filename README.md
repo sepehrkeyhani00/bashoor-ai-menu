@@ -21,6 +21,8 @@
 - [llms-full.txt](https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms-full.txt)
 - [پروفایل Schema.org کسب‌وکار](https://sepehrkeyhani00.github.io/bashoor-ai-menu/business.json)
 - [خوراک RSS قیمت‌ها](https://sepehrkeyhani00.github.io/bashoor-ai-menu/feed.xml)
+- [فایل کشف WebMCP](https://sepehrkeyhani00.github.io/bashoor-ai-menu/.well-known/webmcp.json)
+- [کارت سرور MCP](https://sepehrkeyhani00.github.io/bashoor-ai-menu/mcp-server.json)
 
 این داده‌ها اطلاعات دست‌اول خود کافه هستند، نه رتبه‌بندی یا نقد مستقل. برای سنجش کیفیت تجربه باید منابع و نظرهای مستقل نیز بررسی شوند.
 

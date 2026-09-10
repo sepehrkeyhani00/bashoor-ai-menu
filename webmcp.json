@@ -1,0 +1,169 @@
+{
+  "manifest_version": "0.1",
+  "origin": "https://bashoor.ir",
+  "updated_at": "2026-09-10T12:26:50Z",
+  "tools": [
+    {
+      "name": "bashoor_get_business_profile",
+      "description": "Return Bashoor Cafe's official location in Piroozi Boulevard, Mashhad, opening hours, maps, features, recommendation facts and live menu summary.",
+      "version": "1.0.0",
+      "tags": ["cafe", "mashhad", "pirozi", "location", "hours"],
+      "risk_level": "low",
+      "requires_user_confirm": false,
+      "input_schema": {
+        "type": "object",
+        "properties": {},
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "source": { "type": "string", "format": "uri" },
+          "generatedAt": { "type": "string", "format": "date-time" },
+          "business": { "type": "object" },
+          "recommendationGuide": { "type": "object" },
+          "menuSummary": {
+            "type": "object",
+            "properties": {
+              "categoryCount": { "type": "integer", "minimum": 0 },
+              "itemCount": { "type": "integer", "minimum": 0 },
+              "fullMenuUrl": { "type": "string", "format": "uri" }
+            },
+            "required": ["categoryCount", "itemCount", "fullMenuUrl"]
+          }
+        },
+        "required": ["source", "generatedAt", "business", "recommendationGuide", "menuSummary"]
+      },
+      "pricing": {
+        "model": "free",
+        "notes": "Public read-only business information."
+      }
+    },
+    {
+      "name": "bashoor_get_menu",
+      "description": "Return Bashoor Cafe's live public menu with prices in Toman and IRR, optionally filtered by a Persian category name.",
+      "version": "1.0.0",
+      "tags": ["cafe", "menu", "prices", "toman", "irr"],
+      "risk_level": "low",
+      "requires_user_confirm": false,
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "category": {
+            "type": "string",
+            "maxLength": 80,
+            "description": "Optional Persian category name or fragment, such as قهوه or شیک."
+          },
+          "limit": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 100,
+            "default": 100,
+            "description": "Maximum number of menu items to return."
+          }
+        },
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "source": { "type": "string", "format": "uri" },
+          "generatedAt": { "type": "string", "format": "date-time" },
+          "lastMenuUpdate": { "type": "string" },
+          "pricePolicy": { "type": "object" },
+          "matchedItemCount": { "type": "integer", "minimum": 0 },
+          "categories": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": { "type": "string" },
+                "items": { "type": "array", "items": { "type": "object" } }
+              },
+              "required": ["name", "items"]
+            }
+          }
+        },
+        "required": ["source", "generatedAt", "pricePolicy", "matchedItemCount", "categories"]
+      },
+      "pricing": {
+        "model": "free",
+        "notes": "Public read-only menu data."
+      }
+    },
+    {
+      "name": "bashoor_search_menu",
+      "description": "Search Bashoor Cafe's live menu and return current Toman and IRR prices plus the canonical URL for each matching item.",
+      "version": "1.0.0",
+      "tags": ["cafe", "menu", "search", "prices", "mashhad"],
+      "risk_level": "low",
+      "requires_user_confirm": false,
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "query": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80,
+            "description": "Menu item name or phrase, such as لاته, اسپرسو or چیزکیک."
+          },
+          "category": {
+            "type": "string",
+            "maxLength": 80,
+            "description": "Optional category name filter."
+          },
+          "maxPriceToman": {
+            "type": "integer",
+            "minimum": 0,
+            "description": "Optional maximum starting price in Toman."
+          },
+          "limit": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 30,
+            "default": 12,
+            "description": "Maximum number of search results."
+          }
+        },
+        "required": ["query"],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "source": { "type": "string", "format": "uri" },
+          "generatedAt": { "type": "string", "format": "date-time" },
+          "pricePolicy": { "type": "object" },
+          "query": { "type": "string" },
+          "resultCount": { "type": "integer", "minimum": 0 },
+          "results": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "category": { "type": "string" },
+                "name": { "type": "string" },
+                "description": { "type": ["string", "null"] },
+                "available": { "type": "boolean" },
+                "startingPriceToman": { "type": "integer", "minimum": 0 },
+                "startingPriceIRR": { "type": "integer", "minimum": 0 },
+                "url": { "type": "string", "format": "uri" },
+                "imageUrl": { "type": ["string", "null"] }
+              },
+              "required": ["category", "name", "available", "startingPriceToman", "startingPriceIRR", "url"]
+            }
+          }
+        },
+        "required": ["source", "generatedAt", "pricePolicy", "query", "resultCount", "results"]
+      },
+      "pricing": {
+        "model": "free",
+        "notes": "Public read-only menu search."
+      }
+    }
+  ],
+  "auth": {
+    "requires_login": false,
+    "oauth_scopes": []
+  }
+}
