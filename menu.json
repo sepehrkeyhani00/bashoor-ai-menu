@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-10T20:23:17.426Z",
+  "generatedAt": "2026-09-10T20:33:09.303Z",
   "lastMenuUpdate": "2026-08-30T20:20:00.098Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
@@ -362,7 +362,8 @@
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f5c38d07-95d6-4477-a2de-10c445d6675a/"
         }
-      ]
+      ],
+      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/92213ebc-331c-48ac-9e0a-53f4e79a9615/"
     },
     {
       "id": "112a6ad2-f73e-4c4b-b12d-db7e3e82ac0c",
@@ -727,7 +728,8 @@
           ],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/c3711140-8ba1-4611-a487-207f23176440/"
         }
-      ]
+      ],
+      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/112a6ad2-f73e-4c4b-b12d-db7e3e82ac0c/"
     },
     {
       "id": "af80f58e-d912-4226-9337-efd09818fb8d",
@@ -1152,7 +1154,8 @@
           ],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/08b2806b-d9d3-4b35-8906-f52da9511135/"
         }
-      ]
+      ],
+      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/af80f58e-d912-4226-9337-efd09818fb8d/"
     },
     {
       "id": "7590c5f4-cd51-47c0-9d5d-16e463236939",
@@ -1271,7 +1274,8 @@
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/bf8a3975-68be-4f03-adb6-92bf69cc34b0/"
         }
-      ]
+      ],
+      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/7590c5f4-cd51-47c0-9d5d-16e463236939/"
     },
     {
       "id": "9e00bdac-1320-4e64-9488-d56002eaffb5",
@@ -1358,7 +1362,8 @@
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f8d91bb9-cf62-46ea-81e9-1c1b7c2cedfd/"
         }
-      ]
+      ],
+      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/9e00bdac-1320-4e64-9488-d56002eaffb5/"
     },
     {
       "id": "78e1df35-4bf0-4472-918d-581ff5335bd3",
@@ -1541,7 +1546,8 @@
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/1ae44061-3000-40e7-b353-735eb5b45afa/"
         }
-      ]
+      ],
+      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/78e1df35-4bf0-4472-918d-581ff5335bd3/"
     },
     {
       "id": "5b84cd85-e8d9-4656-9e86-353d9e2beca6",
@@ -1724,7 +1730,8 @@
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/08e8e171-117b-4ad7-a903-04cd67d4c5d9/"
         }
-      ]
+      ],
+      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/5b84cd85-e8d9-4656-9e86-353d9e2beca6/"
     },
     {
       "id": "752754c6-952f-4987-852d-665bd72d500d",
@@ -1859,7 +1866,8 @@
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6499d378-e4da-45bf-b7c9-0ca3959cfca3/"
         }
-      ]
+      ],
+      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/752754c6-952f-4987-852d-665bd72d500d/"
     }
   ],
   "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/"
