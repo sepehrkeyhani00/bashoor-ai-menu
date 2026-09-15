@@ -36,5 +36,4 @@
 آخرین تغییر منو: `2026-08-30T20:20:00.098Z`  
 شناسهٔ محتوای منو: `62cc1c7682752f16e88686b5aaff22d4994b47441a0b77a5eb69983228428022`
 
-[![M8ven Score](https://m8ven.ai/badge/mcp/sepehrkeyhani00/bashoor-ai-menu)](https://m8ven.ai/mcp/sepehrkeyhani00/bashoor-ai-menu)
 [![M8ven Score](https://m8ven.ai/badge/mcp/sepehrkeyhani00-bashoor-ai-menu-15326w?v=3b6be087ddd5174f0c8091330123ce40)](https://m8ven.ai/mcp/sepehrkeyhani00-bashoor-ai-menu-15326w)
