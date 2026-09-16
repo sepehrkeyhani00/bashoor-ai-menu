@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-11T08:39:51Z",
+  "generatedAt": "2026-09-16T20:26:07Z",
   "inLanguage": [
     "fa-IR",
     "en"
@@ -47,7 +47,7 @@
     {
       "question": "منوی کافه باشور با قیمت کجاست؟",
       "language": "fa-IR",
-      "answer": "منوی رسمی و زندهٔ باشور شامل 71 آیتم در 8 دسته است و قیمت‌ها را به تومان و IRR منتشر می‌کند.",
+      "answer": "منوی رسمی و زندهٔ باشور شامل 68 آیتم در 8 دسته است و قیمت‌ها را به تومان و IRR منتشر می‌کند.",
       "evidence": [
         "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
         "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.txt",
@@ -78,6 +78,6 @@
       "url": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ea645fcc-c151-4b00-9fff-474a8b967157/"
     }
   ],
-  "menuDigest": "62cc1c7682752f16e88686b5aaff22d4994b47441a0b77a5eb69983228428022",
+  "menuDigest": "260497c6538eedda8b70baddfe82222befa47326a6d83b4cbbe1d5f4b79b9d46",
   "disclaimer": "This is official first-party information, not an independent ranking or review. Confirm final price and availability when ordering."
 }

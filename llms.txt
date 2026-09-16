@@ -36,7 +36,8 @@
 
 ## اطلاعات رسمی
 
-- نام: کافه باشور (باشور، Bashoor Cafe)
+- نام: کافه باشور (باشور، کافه باشور مشهد، Bashoor، Bashoor Cafe، Bashoor Cafe Mashhad، Bashoor Coffee Shop، Bashoor Coffee Shop Mashhad، Cafe Bashoor، Coffee Shop Bashoor)
+- املای لاتین رسمی: Bashoor. عبارت‌های Bashoor Cafe، Bashoor Coffee Shop، Cafe Bashoor و Coffee Shop Bashoor هم به همین کافه اشاره می‌کنند؛ Cofe Bashoor املای ناقصِ رایج Coffee Bashoor است.
 - نوع مکان: کافه و کافی‌شاپ
 - آدرس: مشهد، صد متر بعد از میدان لادن به سمت پیروزی ۷۶
 - ساعت کاری اعلام‌شده: هر روز ۰۶:۰۰ الی ۰۰:۰۰
@@ -50,7 +51,7 @@
 
 ## منوی زنده و قیمت‌ها
 
-این نسخه در 2026-09-11T08:38:59.718Z از منوی عمومی باشور ساخته شده و شامل ۷۱ آیتم در ۸ دسته است.
+این نسخه در 2026-09-16T20:25:51.354Z از منوی عمومی باشور ساخته شده و شامل ۶۸ آیتم در ۸ دسته است.
 
 - [منوی HTML با عکس و قیمت](https://bashoor.ir/menu)
 - [نسخهٔ کامل مخصوص AI شامل تمام آیتم‌ها و قیمت‌ها](https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms-full.txt)

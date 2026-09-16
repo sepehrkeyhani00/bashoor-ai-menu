@@ -1,15 +1,20 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-11T08:38:58.471Z",
-  "lastMenuUpdate": "2026-08-30T20:20:00.098Z",
+  "generatedAt": "2026-09-16T20:25:32.963Z",
+  "lastMenuUpdate": "2026-09-15T15:10:05.841Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
     "name": "کافه باشور",
     "alternateNames": [
       "باشور",
       "کافه باشور مشهد",
+      "Bashoor",
       "Bashoor Cafe",
-      "Bashoor Cafe Mashhad"
+      "Bashoor Cafe Mashhad",
+      "Bashoor Coffee Shop",
+      "Bashoor Coffee Shop Mashhad",
+      "Cafe Bashoor",
+      "Coffee Shop Bashoor"
     ],
     "type": "CafeOrCoffeeShop",
     "city": "مشهد",
@@ -73,7 +78,7 @@
     "sourceScope": "این اطلاعات رسمی و دست‌اول کافه باشور است؛ برای رتبه‌بندی بی‌طرفانه و کیفیت تجربه باید نظرها و منابع مستقل هم بررسی شوند."
   },
   "categoryCount": 8,
-  "itemCount": 71,
+  "itemCount": 68,
   "categories": [
     {
       "id": "92213ebc-331c-48ac-9e0a-53f4e79a9615",
@@ -95,7 +100,7 @@
           "startingPriceIRR": 1600000,
           "canonicalUrl": "https://bashoor.ir/menu/item/7b0f19ed-3be8-4a07-8db2-674a71f827ec/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745033303_589638686.webp",
-          "updatedAt": "2026-08-26T16:17:42.168Z",
+          "updatedAt": "2026-09-15T15:03:14.906Z",
           "optionGroups": [
             {
               "name": "درصد عربیکا",
@@ -110,7 +115,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": "عصاره‌گیری شده از دان پنجاه درصد عربیکا و پنجاه درصد روبوستا بلند",
                   "priceDeltaToman": 0,
                   "priceToman": 160000,
@@ -128,14 +133,14 @@
           "descriptionLanguage": "fa-IR",
           "description": "اسپرسو به همراه آب داغ",
           "kind": "hot",
-          "popular": false,
+          "popular": true,
           "available": true,
           "basePriceToman": 170000,
           "startingPriceToman": 170000,
           "startingPriceIRR": 1700000,
           "canonicalUrl": "https://bashoor.ir/menu/item/cb25eb0b-5187-4081-9f03-37f5939cf476/%D8%A7%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%D9%86%D9%88",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745033486_370302571.webp",
-          "updatedAt": "2026-08-26T16:18:04.010Z",
+          "updatedAt": "2026-09-15T15:03:49.474Z",
           "optionGroups": [
             {
               "name": "درصد عربیکا",
@@ -150,7 +155,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 170000,
@@ -175,7 +180,7 @@
           "startingPriceIRR": 2450000,
           "canonicalUrl": "https://bashoor.ir/menu/item/ea645fcc-c151-4b00-9fff-474a8b967157/%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745033660_93027472.webp",
-          "updatedAt": "2026-08-26T16:18:27.308Z",
+          "updatedAt": "2026-09-15T15:04:28.206Z",
           "optionGroups": [
             {
               "name": "درصد عربیکا",
@@ -190,7 +195,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 245000,
@@ -215,7 +220,7 @@
           "startingPriceIRR": 2450000,
           "canonicalUrl": "https://bashoor.ir/menu/item/3d51a120-5600-4ac6-ae15-3ab40157b6c5/%DA%A9%D8%A7%D9%BE%D9%88%DA%86%DB%8C%D9%86%D9%88",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745033819_312214712.webp",
-          "updatedAt": "2026-08-26T16:18:53.687Z",
+          "updatedAt": "2026-09-15T15:05:12.976Z",
           "optionGroups": [
             {
               "name": "درصد عربیکا",
@@ -230,7 +235,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 245000,
@@ -255,7 +260,7 @@
           "startingPriceIRR": 2950000,
           "canonicalUrl": "https://bashoor.ir/menu/item/8949dee1-dc96-4d06-9652-9f800189185a/%D9%85%D9%88%DA%A9%D8%A7",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745033971_138226741.webp",
-          "updatedAt": "2026-08-26T16:19:18.738Z",
+          "updatedAt": "2026-09-15T15:05:39.768Z",
           "optionGroups": [
             {
               "name": "درصد عربیکا",
@@ -270,7 +275,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 295000,
@@ -295,7 +300,7 @@
           "startingPriceIRR": 3450000,
           "canonicalUrl": "https://bashoor.ir/menu/item/d5ce63ae-469e-4c98-895d-a367cfe75f00/%D9%85%D9%88%DA%A9%D8%A7-%DA%A9%D8%B1%D9%85",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745034127_765914226.webp",
-          "updatedAt": "2026-08-26T16:19:38.664Z",
+          "updatedAt": "2026-09-15T15:06:16.120Z",
           "optionGroups": [
             {
               "name": "دصد عربیکا",
@@ -310,7 +315,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 345000,
@@ -335,7 +340,7 @@
           "startingPriceIRR": 2850000,
           "canonicalUrl": "https://bashoor.ir/menu/item/b4beaa15-631c-487a-8242-0185f66897fd/%D8%A2%D9%81%D9%88%DA%AF%D8%A7%D8%AA%D9%88",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745034284_477402126.webp",
-          "updatedAt": "2026-08-26T16:20:07.393Z",
+          "updatedAt": "2026-09-15T15:06:27.113Z",
           "optionGroups": [
             {
               "name": "درصد عربیکا",
@@ -350,7 +355,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 285000,
@@ -402,7 +407,7 @@
           "startingPriceIRR": 1600000,
           "canonicalUrl": "https://bashoor.ir/menu/item/6f8b1f7e-72af-4d69-8a38-b99710f05076/%D8%A2%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745032761_826555535.webp",
-          "updatedAt": "2026-08-26T16:21:05.701Z",
+          "updatedAt": "2026-09-15T15:03:05.268Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -417,7 +422,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 160000,
@@ -442,7 +447,7 @@
           "startingPriceIRR": 2200000,
           "canonicalUrl": "https://bashoor.ir/menu/item/682b09a3-5183-4c2c-b1f4-823972de3716/%D8%A2%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D9%88%D8%AF%D8%A7",
           "imageUrl": "https://bashoor.ir/menu-assets/iced-espresso-soda.webp",
-          "updatedAt": "2026-08-26T16:21:27.687Z",
+          "updatedAt": "2026-09-15T15:03:34.292Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -457,7 +462,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 220000,
@@ -482,7 +487,7 @@
           "startingPriceIRR": 2700000,
           "canonicalUrl": "https://bashoor.ir/menu/item/ecbb31fe-7526-4fa7-b4af-5240d24461f7/%D8%A2%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%AA%D9%88%D9%86%DB%8C%DA%A9",
           "imageUrl": "https://bashoor.ir/menu-assets/iced-espresso-tonic.webp",
-          "updatedAt": "2026-08-26T16:21:47.057Z",
+          "updatedAt": "2026-09-15T15:04:04.674Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -497,7 +502,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 270000,
@@ -522,7 +527,7 @@
           "startingPriceIRR": 1700000,
           "canonicalUrl": "https://bashoor.ir/menu/item/f63dcf7a-4742-42b4-8268-80e49ebc7b0a/%D8%A2%DB%8C%D8%B3-%D8%A7%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%D9%86%D9%88",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745032961_414658395.webp",
-          "updatedAt": "2026-08-26T16:22:09.146Z",
+          "updatedAt": "2026-09-15T15:04:40.520Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -537,7 +542,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 170000,
@@ -562,7 +567,7 @@
           "startingPriceIRR": 2450000,
           "canonicalUrl": "https://bashoor.ir/menu/item/5a696e55-b2ae-47d9-905e-b3fc3946f90b/%D8%A2%DB%8C%D8%B3-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745033114_34347397.webp",
-          "updatedAt": "2026-08-26T16:22:28.313Z",
+          "updatedAt": "2026-09-15T15:05:26.996Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -577,7 +582,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 245000,
@@ -602,7 +607,7 @@
           "startingPriceIRR": 2850000,
           "canonicalUrl": "https://bashoor.ir/menu/item/d90c4ff2-7f6c-494c-8746-366fef0ad64b/%D8%A2%DB%8C%D8%B3-%D9%85%D9%88%DA%A9%D8%A7",
           "imageUrl": "https://bashoor.ir/menu-assets/iced-mocha.webp",
-          "updatedAt": "2026-08-27T09:56:57.552Z",
+          "updatedAt": "2026-09-15T15:05:55.712Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -617,7 +622,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 285000,
@@ -642,7 +647,7 @@
           "startingPriceIRR": 3550000,
           "canonicalUrl": "https://bashoor.ir/menu/item/46cca27f-af36-4c5f-8c80-d12d9574fba8/%D8%A2%DB%8C%D8%B3-%D9%85%D9%88%DA%A9%D8%A7-%DA%A9%D8%B1%D9%85",
           "imageUrl": "https://bashoor.ir/menu-assets/iced-mocha-cream.webp",
-          "updatedAt": "2026-08-26T16:23:19.304Z",
+          "updatedAt": "2026-09-15T15:06:38.436Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -657,7 +662,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 355000,
@@ -682,7 +687,7 @@
           "startingPriceIRR": 3850000,
           "canonicalUrl": "https://bashoor.ir/menu/item/bcf14424-c788-4df9-b509-e2480cf67807/%D8%A2%DB%8C%D8%B3-%D9%85%D9%88%DA%A9%D8%A7-%D8%A8%D9%86%D8%A7%D9%86%D8%A7",
           "imageUrl": "https://bashoor.ir/menu-assets/iced-mocha-banana.webp",
-          "updatedAt": "2026-08-27T09:53:49.911Z",
+          "updatedAt": "2026-09-15T15:07:08.588Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -697,7 +702,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 385000,
@@ -740,7 +745,7 @@
           "startingPriceIRR": 2850000,
           "canonicalUrl": "https://bashoor.ir/menu/item/c3711140-8ba1-4611-a487-207f23176440/%D8%A7%D9%88%D8%B1%D9%86%D8%AC-%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88",
           "imageUrl": "https://bashoor.ir/menu-assets/iced-americano-orange.webp",
-          "updatedAt": "2026-08-26T16:24:18.215Z",
+          "updatedAt": "2026-09-15T15:07:21.524Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -755,7 +760,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 285000,
@@ -789,7 +794,7 @@
           "startingPriceIRR": 3300000,
           "canonicalUrl": "https://bashoor.ir/menu/item/faa07243-1c65-4861-9ff4-a6c05012642e/%D8%A2%D9%84%D9%85%D9%88%D9%86%D8%AF-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745031110_462344776.webp",
-          "updatedAt": "2026-08-26T17:33:31.699Z",
+          "updatedAt": "2026-09-14T11:20:06.333Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -804,7 +809,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 330000,
@@ -829,7 +834,7 @@
           "startingPriceIRR": 3150000,
           "canonicalUrl": "https://bashoor.ir/menu/item/118e52c8-ebfb-4a8e-b7b2-1d135282ddae/%D8%A7%D8%B3%D9%BE%D9%86%DB%8C%D8%B4-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745031254_484623868.webp",
-          "updatedAt": "2026-08-26T16:27:33.468Z",
+          "updatedAt": "2026-09-14T11:20:22.198Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -844,7 +849,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 315000,
@@ -869,7 +874,7 @@
           "startingPriceIRR": 2950000,
           "canonicalUrl": "https://bashoor.ir/menu/item/be8b5039-d90e-4d1f-9f97-1515208b137c/%D8%A8%D8%B1%DB%8C-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745031413_266247327.webp",
-          "updatedAt": "2026-08-26T16:28:06.984Z",
+          "updatedAt": "2026-09-14T11:20:31.418Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -884,7 +889,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 295000,
@@ -909,7 +914,7 @@
           "startingPriceIRR": 3300000,
           "canonicalUrl": "https://bashoor.ir/menu/item/bb7bed91-cf5b-48f9-acea-420944f91b96/%D9%BE%DB%8C%D9%86%D8%A7%D8%AA-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745031570_510830843.webp",
-          "updatedAt": "2026-08-26T16:28:44.702Z",
+          "updatedAt": "2026-09-15T11:46:30.953Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -924,7 +929,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 330000,
@@ -949,7 +954,7 @@
           "startingPriceIRR": 2950000,
           "canonicalUrl": "https://bashoor.ir/menu/item/96756c45-dad4-4453-9ac7-84114e42bf76/%DA%A9%D8%A7%D8%B1%D8%A7%D9%85%D9%84-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745031724_612391824.webp",
-          "updatedAt": "2026-08-26T16:29:11.543Z",
+          "updatedAt": "2026-09-15T15:00:53.684Z",
           "optionGroups": [
             {
               "name": "درصد عربیکا",
@@ -964,7 +969,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 295000,
@@ -989,7 +994,7 @@
           "startingPriceIRR": 2950000,
           "canonicalUrl": "https://bashoor.ir/menu/item/f43a55ff-3543-4ca8-9249-4cc56a85bded/%DA%A9%D9%88%DA%A9%D9%88-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/menu-assets/coconut-latte.webp",
-          "updatedAt": "2026-08-26T16:29:37.747Z",
+          "updatedAt": "2026-09-15T15:01:09.490Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -1004,7 +1009,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 295000,
@@ -1029,7 +1034,7 @@
           "startingPriceIRR": 3850000,
           "canonicalUrl": "https://bashoor.ir/menu/item/312eacda-3f2c-48f9-9415-c15402bf96bc/%D9%84%D8%A7%D8%AA%D9%87-%D8%A7%D8%B1%D8%AF%D9%87-%D8%AE%D8%B1%D9%85%D8%A7",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745031924_950870440.webp",
-          "updatedAt": "2026-08-26T16:30:10.467Z",
+          "updatedAt": "2026-09-15T15:01:38.808Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -1044,7 +1049,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 385000,
@@ -1069,7 +1074,7 @@
           "startingPriceIRR": 2950000,
           "canonicalUrl": "https://bashoor.ir/menu/item/ec47e0d5-cdef-4a96-93c0-7272121a7a42/%D9%85%D8%A7%D9%86%DA%AF%D9%88-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745032087_229389008.webp",
-          "updatedAt": "2026-08-26T16:30:37.295Z",
+          "updatedAt": "2026-09-15T15:01:51.581Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -1084,7 +1089,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 295000,
@@ -1109,7 +1114,7 @@
           "startingPriceIRR": 2950000,
           "canonicalUrl": "https://bashoor.ir/menu/item/81965658-b82b-4bf6-a235-4dc330c10fd9/%D9%86%D8%A7%D8%AA%DB%8C-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745032247_926993009.webp",
-          "updatedAt": "2026-08-26T16:31:07.088Z",
+          "updatedAt": "2026-09-15T15:02:09.486Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -1124,7 +1129,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 295000,
@@ -1149,7 +1154,7 @@
           "startingPriceIRR": 3300000,
           "canonicalUrl": "https://bashoor.ir/menu/item/971905a2-43b0-4e3f-afcf-070e3ec7281a/%D9%87%D8%A7%D9%86%DB%8C-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745032419_747725895.webp",
-          "updatedAt": "2026-08-26T16:31:29.100Z",
+          "updatedAt": "2026-09-15T15:02:35.404Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -1164,7 +1169,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 330000,
@@ -1189,7 +1194,7 @@
           "startingPriceIRR": 2950000,
           "canonicalUrl": "https://bashoor.ir/menu/item/08b2806b-d9d3-4b35-8906-f52da9511135/%D9%88%D8%A7%D9%86%DB%8C%D9%84%D8%A7-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745032582_803769298.webp",
-          "updatedAt": "2026-08-26T16:31:46.665Z",
+          "updatedAt": "2026-09-15T15:02:47.628Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -1204,7 +1209,7 @@
                   "imageUrl": null
                 },
                 {
-                  "name": "پنجاه عربیکا",
+                  "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 295000,
@@ -1267,7 +1272,7 @@
           "descriptionLanguage": "fa-IR",
           "description": "شکلات داغ به همراه شیرنارگیل",
           "kind": "hot",
-          "popular": true,
+          "popular": false,
           "available": true,
           "basePriceToman": 305000,
           "startingPriceToman": 305000,
@@ -1490,8 +1495,30 @@
           "startingPriceIRR": 4450000,
           "canonicalUrl": "https://bashoor.ir/menu/item/84c83ca1-e6fd-45c5-93fd-166d865422c3/%D8%B4%DB%8C%DA%A9-%D9%82%D9%87%D9%88%D9%87",
           "imageUrl": "https://bashoor.ir/menu-assets/coffee-shake.webp",
-          "updatedAt": "2026-08-26T16:37:46.668Z",
-          "optionGroups": [],
+          "updatedAt": "2026-09-15T11:47:39.374Z",
+          "optionGroups": [
+            {
+              "name": "حالت",
+              "required": true,
+              "type": "variant",
+              "choices": [
+                {
+                  "name": "صد عربیکا",
+                  "description": null,
+                  "priceDeltaToman": 30000,
+                  "priceToman": 475000,
+                  "imageUrl": null
+                },
+                {
+                  "name": "سی عربیکا",
+                  "description": null,
+                  "priceDeltaToman": 0,
+                  "priceToman": 445000,
+                  "imageUrl": null
+                }
+              ]
+            }
+          ],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/84c83ca1-e6fd-45c5-93fd-166d865422c3/"
         },
         {
@@ -1873,27 +1900,27 @@
       "canonicalUrl": "https://bashoor.ir/menu/category/752754c6-952f-4987-852d-665bd72d500d/%D8%A8%DB%8C%DA%A9%D8%B1%DB%8C",
       "items": [
         {
-          "id": "142b349e-b6cf-4055-8e4e-ba69c3ab0fe5",
-          "name": "تارت میوه ای",
-          "nameEn": "Fruit Tart",
+          "id": "9dada709-b888-4f18-9d71-4fcbbe865446",
+          "name": "جار کیک تیرامیسو",
+          "nameEn": "جار کیک تیرامیسو",
           "descriptionLanguage": "fa-IR",
-          "description": "تارت با میوه های تازه فصل",
+          "description": "تیرامیسو تازه و با کیفیت",
           "kind": "cold",
           "popular": false,
           "available": true,
-          "basePriceToman": 325000,
-          "startingPriceToman": 325000,
-          "startingPriceIRR": 3250000,
-          "canonicalUrl": "https://bashoor.ir/menu/item/142b349e-b6cf-4055-8e4e-ba69c3ab0fe5/%D8%AA%D8%A7%D8%B1%D8%AA-%D9%85%DB%8C%D9%88%D9%87-%D8%A7%DB%8C",
-          "imageUrl": "https://bashoor.ir/menu-assets/fruit-tart.webp",
-          "updatedAt": "2026-08-26T17:01:09.460Z",
+          "basePriceToman": 330000,
+          "startingPriceToman": 330000,
+          "startingPriceIRR": 3300000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/9dada709-b888-4f18-9d71-4fcbbe865446/%D8%AC%D8%A7%D8%B1-%DA%A9%DB%8C%DA%A9-%D8%AA%DB%8C%D8%B1%D8%A7%D9%85%DB%8C%D8%B3%D9%88",
+          "imageUrl": null,
+          "updatedAt": "2026-09-15T15:10:05.841Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/142b349e-b6cf-4055-8e4e-ba69c3ab0fe5/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/9dada709-b888-4f18-9d71-4fcbbe865446/"
         },
         {
-          "id": "3e29475f-32f2-4df1-8b8e-df90d4004e0f",
-          "name": "سن سباستین",
-          "nameEn": "San Sebastian Cheesecake",
+          "id": "6a2194f6-4ebd-480b-85da-49270d63b30c",
+          "name": "جار کیک ردولوت",
+          "nameEn": "جار کیک ردولوت",
           "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "hot",
@@ -1902,11 +1929,11 @@
           "basePriceToman": 350000,
           "startingPriceToman": 350000,
           "startingPriceIRR": 3500000,
-          "canonicalUrl": "https://bashoor.ir/menu/item/3e29475f-32f2-4df1-8b8e-df90d4004e0f/%D8%B3%D9%86-%D8%B3%D8%A8%D8%A7%D8%B3%D8%AA%DB%8C%D9%86",
-          "imageUrl": "https://bashoor.ir/menu-assets/san-sebastian.webp",
-          "updatedAt": "2026-08-30T08:45:19.945Z",
+          "canonicalUrl": "https://bashoor.ir/menu/item/6a2194f6-4ebd-480b-85da-49270d63b30c/%D8%AC%D8%A7%D8%B1-%DA%A9%DB%8C%DA%A9-%D8%B1%D8%AF%D9%88%D9%84%D9%88%D8%AA",
+          "imageUrl": null,
+          "updatedAt": "2026-09-15T15:07:56.862Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/3e29475f-32f2-4df1-8b8e-df90d4004e0f/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6a2194f6-4ebd-480b-85da-49270d63b30c/"
         },
         {
           "id": "d0881717-b3e3-4966-883c-fae182e832bd",
@@ -1925,60 +1952,6 @@
           "updatedAt": "2026-08-30T20:19:05.532Z",
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d0881717-b3e3-4966-883c-fae182e832bd/"
-        },
-        {
-          "id": "21f3a8f6-caba-4337-936e-653bf0fe4750",
-          "name": "کوکی شکلات گردو",
-          "nameEn": "Chocolate Walnut Cookie",
-          "descriptionLanguage": "fa-IR",
-          "description": "کوکی تازه شکلات گردو",
-          "kind": "hot",
-          "popular": false,
-          "available": true,
-          "basePriceToman": 95000,
-          "startingPriceToman": 95000,
-          "startingPriceIRR": 950000,
-          "canonicalUrl": "https://bashoor.ir/menu/item/21f3a8f6-caba-4337-936e-653bf0fe4750/%DA%A9%D9%88%DA%A9%DB%8C-%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%DA%AF%D8%B1%D8%AF%D9%88",
-          "imageUrl": "https://bashoor.ir/menu-assets/chocolate-walnut-cookie.webp",
-          "updatedAt": "2026-08-30T20:20:00.098Z",
-          "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/21f3a8f6-caba-4337-936e-653bf0fe4750/"
-        },
-        {
-          "id": "5114e60f-1483-4b53-8800-19e4b6cad342",
-          "name": "کیک باقلوا",
-          "nameEn": "Baklava Cake",
-          "descriptionLanguage": "fa-IR",
-          "description": "کیک باقلوا تازه",
-          "kind": "hot",
-          "popular": false,
-          "available": true,
-          "basePriceToman": 300000,
-          "startingPriceToman": 300000,
-          "startingPriceIRR": 3000000,
-          "canonicalUrl": "https://bashoor.ir/menu/item/5114e60f-1483-4b53-8800-19e4b6cad342/%DA%A9%DB%8C%DA%A9-%D8%A8%D8%A7%D9%82%D9%84%D9%88%D8%A7",
-          "imageUrl": "https://bashoor.ir/menu-assets/baklava-cake.webp",
-          "updatedAt": "2026-08-26T17:03:33.087Z",
-          "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/5114e60f-1483-4b53-8800-19e4b6cad342/"
-        },
-        {
-          "id": "ea3d45df-2af8-4392-95e1-e3582178d6fd",
-          "name": "هویج گردو",
-          "nameEn": "Carrot Walnut Cake",
-          "descriptionLanguage": "fa-IR",
-          "description": null,
-          "kind": "hot",
-          "popular": false,
-          "available": true,
-          "basePriceToman": 290000,
-          "startingPriceToman": 290000,
-          "startingPriceIRR": 2900000,
-          "canonicalUrl": "https://bashoor.ir/menu/item/ea3d45df-2af8-4392-95e1-e3582178d6fd/%D9%87%D9%88%DB%8C%D8%AC-%DA%AF%D8%B1%D8%AF%D9%88",
-          "imageUrl": "https://bashoor.ir/menu-assets/carrot-walnut-cake.webp",
-          "updatedAt": "2026-08-30T08:46:39.083Z",
-          "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ea3d45df-2af8-4392-95e1-e3582178d6fd/"
         },
         {
           "id": "2fdeccd0-f385-41f8-ba13-4a355ba1fd48",

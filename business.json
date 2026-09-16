@@ -8,8 +8,13 @@
       "alternateName": [
         "باشور",
         "کافه باشور مشهد",
+        "Bashoor",
         "Bashoor Cafe",
-        "Bashoor Cafe Mashhad"
+        "Bashoor Cafe Mashhad",
+        "Bashoor Coffee Shop",
+        "Bashoor Coffee Shop Mashhad",
+        "Cafe Bashoor",
+        "Coffee Shop Bashoor"
       ],
       "description": "کافه باشور در بلوار پیروزی مشهد؛ کافه‌ای با حیاط، سالن بدون دود، قهوه تازه، صبحانه، دسر و سفارش بیرون‌بر.",
       "url": "https://bashoor.ir",
@@ -118,8 +123,13 @@
       "alternateName": [
         "باشور",
         "کافه باشور مشهد",
+        "Bashoor",
         "Bashoor Cafe",
-        "Bashoor Cafe Mashhad"
+        "Bashoor Cafe Mashhad",
+        "Bashoor Coffee Shop",
+        "Bashoor Coffee Shop Mashhad",
+        "Cafe Bashoor",
+        "Coffee Shop Bashoor"
       ],
       "inLanguage": "fa-IR",
       "publisher": {
@@ -139,7 +149,7 @@
         "@id": "https://bashoor.ir/#cafe"
       },
       "url": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-      "dateModified": "2026-08-30T20:20:00.098Z",
+      "dateModified": "2026-09-15T15:10:05.841Z",
       "variableMeasured": [
         "نام آیتم",
         "دسته‌بندی",
@@ -179,7 +189,7 @@
           "longitude": 59.476
         }
       },
-      "size": "71 menu items in 8 categories"
+      "size": "68 menu items in 8 categories"
     }
   ]
 }
