@@ -51,9 +51,10 @@
 
 ## منوی زنده و قیمت‌ها
 
-این نسخه در 2026-09-23T12:54:13.533Z از منوی عمومی باشور ساخته شده و شامل ۸۶ آیتم در ۱۱ دسته است.
+این نسخه در 2026-09-23T13:20:16.132Z از منوی عمومی باشور ساخته شده و شامل ۸۶ آیتم در ۱۱ دسته است.
 
 - [منوی HTML با عکس و قیمت](https://bashoor.ir/menu)
+- [منوی کامل HTML سبک با دسته، توضیح و قیمت تومان](https://bashoor.ir/menu/all)
 - [نسخهٔ کامل مخصوص AI شامل تمام آیتم‌ها و قیمت‌ها](https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms-full.txt)
 - [منوی متنی کامل با قیمت](https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.txt)
 - [منوی JSON کامل با قیمت تومان و IRR](https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json)

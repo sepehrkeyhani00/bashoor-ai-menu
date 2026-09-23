@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-23T12:54:12.509Z",
+  "generatedAt": "2026-09-23T13:20:06.823Z",
   "lastMenuUpdate": "2026-09-22T18:14:21.387Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
@@ -71,6 +71,7 @@
     "evidence": [
       "https://bashoor.ir/cafe-piroozi-mashhad",
       "https://bashoor.ir/menu",
+      "https://bashoor.ir/menu/all",
       "https://bashoor.ir/menu.json",
       "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
       "https://bashoor.ir/contact"

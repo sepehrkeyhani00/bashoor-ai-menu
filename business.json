@@ -161,6 +161,11 @@
       "distribution": [
         {
           "@type": "DataDownload",
+          "contentUrl": "https://bashoor.ir/menu/all",
+          "encodingFormat": "text/html"
+        },
+        {
+          "@type": "DataDownload",
           "contentUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
           "encodingFormat": "application/json"
         },
