@@ -29,7 +29,7 @@
       ],
       "logo": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/icon-192.png",
       "telephone": "+989155774388",
-      "priceRange": "15٬000 تا 610٬000 تومان",
+      "priceRange": "15٬000 تا 685٬000 تومان",
       "currenciesAccepted": "IRR",
       "servesCuisine": [
         "قهوه",
@@ -62,7 +62,7 @@
       ],
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "صد متر بعد از میدان لادن به سمت پیروزی ۷۶",
+        "streetAddress": "بلوار پیروزی، صد متر بعد از میدان لادن به سمت پیروزی ۷۶، پلاک ۱۸۶",
         "addressLocality": "مشهد",
         "addressRegion": "خراسان رضوی",
         "addressCountry": "IR"
@@ -149,7 +149,7 @@
         "@id": "https://bashoor.ir/#cafe"
       },
       "url": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-      "dateModified": "2026-09-15T15:10:05.841Z",
+      "dateModified": "2026-09-22T18:14:21.387Z",
       "variableMeasured": [
         "نام آیتم",
         "دسته‌بندی",
@@ -182,14 +182,14 @@
       ],
       "spatialCoverage": {
         "@type": "Place",
-        "name": "بلوار پیروزی مشهد، بعد از میدان لادن",
+        "name": "بلوار پیروزی، صد متر بعد از میدان لادن به سمت پیروزی ۷۶، پلاک ۱۸۶",
         "geo": {
           "@type": "GeoCoordinates",
           "latitude": 36.32861,
           "longitude": 59.476
         }
       },
-      "size": "68 menu items in 8 categories"
+      "size": "86 menu items in 11 categories"
     }
   ]
 }

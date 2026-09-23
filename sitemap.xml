@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/</loc><lastmod>2026-09-16</lastmod><image:image><image:loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/cafe-exterior.jpg</image:loc><image:title>نمای ورودی کافه باشور در بلوار پیروزی مشهد</image:title></image:image><image:image><image:loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/cafe-interior.jpg</image:loc><image:title>سالن داخلی کافه باشور مشهد</image:title></image:image></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/en/</loc><lastmod>2026-09-16</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json</loc><lastmod>2026-09-16</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/answers.json</loc><lastmod>2026-09-16</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms.txt</loc><lastmod>2026-09-16</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms-full.txt</loc><lastmod>2026-09-16</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/.well-known/webmcp.json</loc><lastmod>2026-09-16</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/.well-known/mcp/server-card.json</loc><lastmod>2026-09-16</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/openapi.json</loc><lastmod>2026-09-16</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/feed.xml</loc><lastmod>2026-09-16</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/</loc><lastmod>2026-09-23</lastmod><image:image><image:loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/cafe-exterior.jpg</image:loc><image:title>نمای ورودی کافه باشور در بلوار پیروزی مشهد</image:title></image:image><image:image><image:loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/cafe-interior.jpg</image:loc><image:title>سالن داخلی کافه باشور مشهد</image:title></image:image></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/en/</loc><lastmod>2026-09-23</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json</loc><lastmod>2026-09-23</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/answers.json</loc><lastmod>2026-09-23</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms.txt</loc><lastmod>2026-09-23</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms-full.txt</loc><lastmod>2026-09-23</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/.well-known/webmcp.json</loc><lastmod>2026-09-23</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/.well-known/mcp/server-card.json</loc><lastmod>2026-09-23</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/openapi.json</loc><lastmod>2026-09-23</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/feed.xml</loc><lastmod>2026-09-23</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/25fc6c33-9c32-4cbe-8e98-c0d71f2d0339/</loc><lastmod>2026-09-20</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/3367b826-0126-4534-b81f-f94857035579/</loc><lastmod>2026-09-22</lastmod></url>
   <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/92213ebc-331c-48ac-9e0a-53f4e79a9615/</loc><lastmod>2026-09-15</lastmod></url>
   <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/112a6ad2-f73e-4c4b-b12d-db7e3e82ac0c/</loc><lastmod>2026-09-15</lastmod></url>
   <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/af80f58e-d912-4226-9337-efd09818fb8d/</loc><lastmod>2026-09-15</lastmod></url>
@@ -17,7 +19,16 @@
   <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/9e00bdac-1320-4e64-9488-d56002eaffb5/</loc><lastmod>2026-08-26</lastmod></url>
   <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/78e1df35-4bf0-4472-918d-581ff5335bd3/</loc><lastmod>2026-09-15</lastmod></url>
   <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/5b84cd85-e8d9-4656-9e86-353d9e2beca6/</loc><lastmod>2026-08-27</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/752754c6-952f-4987-852d-665bd72d500d/</loc><lastmod>2026-09-15</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/752754c6-952f-4987-852d-665bd72d500d/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/28a88290-0040-4daa-a1c7-ced31649fd4a/</loc><lastmod>2026-09-20</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/b439b726-2f6d-45bb-bbb1-62f5ea06d4c1/</loc><lastmod>2026-09-20</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/93127fab-d7f7-4b8b-af6f-e04b196c6922/</loc><lastmod>2026-09-20</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d4bbe778-063e-4ec1-8f17-64b579d78d1d/</loc><lastmod>2026-09-20</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/73cd1f38-1a7b-4d07-908d-5212bcddb945/</loc><lastmod>2026-09-22</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/2ab814d8-0373-4d1e-9e14-d3f5f1681cb2/</loc><lastmod>2026-09-22</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/b6e4cd0b-8828-4df0-8c70-2b3a5c6739a1/</loc><lastmod>2026-09-22</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/60c4b762-8e1f-4b5c-91d5-d91b0b350800/</loc><lastmod>2026-09-22</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/78948b05-95ad-4617-8bec-ca2396836105/</loc><lastmod>2026-09-22</lastmod></url>
   <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/7b0f19ed-3be8-4a07-8db2-674a71f827ec/</loc><lastmod>2026-09-15</lastmod></url>
   <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/cb25eb0b-5187-4081-9f03-37f5939cf476/</loc><lastmod>2026-09-15</lastmod></url>
   <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ea645fcc-c151-4b00-9fff-474a8b967157/</loc><lastmod>2026-09-15</lastmod></url>
@@ -72,8 +83,6 @@
   <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/1ae44061-3000-40e7-b353-735eb5b45afa/</loc><lastmod>2026-08-26</lastmod></url>
   <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/a886a306-b648-4fb1-be7a-78b08ca41cd0/</loc><lastmod>2026-08-27</lastmod></url>
   <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/8dacda5d-248c-4dea-b3fe-b441c2038326/</loc><lastmod>2026-08-27</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/45261225-7363-4b7c-8266-cb066d7359fc/</loc><lastmod>2026-08-26</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/63fe2cdd-53e0-4557-af90-04b69fd4c1b9/</loc><lastmod>2026-08-26</lastmod></url>
   <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d00cfdfb-0980-49f2-9529-3352e72a0f78/</loc><lastmod>2026-08-26</lastmod></url>
   <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ee67339b-f8e5-4b01-b450-d4963c5896f7/</loc><lastmod>2026-08-26</lastmod></url>
   <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/69dc2da7-b4da-4b26-8742-b7fc359ed98f/</loc><lastmod>2026-08-26</lastmod></url>
@@ -81,9 +90,21 @@
   <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d1ef6ee4-c39d-4bb7-b661-4a43fb999169/</loc><lastmod>2026-08-26</lastmod></url>
   <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/15747f77-a92b-4bf6-b810-2ed4d9ee6674/</loc><lastmod>2026-08-26</lastmod></url>
   <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/08e8e171-117b-4ad7-a903-04cd67d4c5d9/</loc><lastmod>2026-08-26</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/9dada709-b888-4f18-9d71-4fcbbe865446/</loc><lastmod>2026-09-15</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6a2194f6-4ebd-480b-85da-49270d63b30c/</loc><lastmod>2026-09-15</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d0881717-b3e3-4966-883c-fae182e832bd/</loc><lastmod>2026-08-30</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/2fdeccd0-f385-41f8-ba13-4a355ba1fd48/</loc><lastmod>2026-08-20</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6499d378-e4da-45bf-b7c9-0ca3959cfca3/</loc><lastmod>2026-08-20</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/142b349e-b6cf-4055-8e4e-ba69c3ab0fe5/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ea3d45df-2af8-4392-95e1-e3582178d6fd/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/3e29475f-32f2-4df1-8b8e-df90d4004e0f/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/0d2e5859-46f2-4d8f-a424-c419400a9267/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/9dada709-b888-4f18-9d71-4fcbbe865446/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6a2194f6-4ebd-480b-85da-49270d63b30c/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/00a9e59a-c5d7-4469-87a0-e7b851fac47c/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/5114e60f-1483-4b53-8800-19e4b6cad342/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/c65587a8-e6af-4242-bc3c-65a3ab9b5903/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/a21b6220-8435-4a14-885f-6982aadb919a/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/47cfd5a8-f4ca-43e2-850d-066e61b7c65d/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/21f3a8f6-caba-4337-936e-653bf0fe4750/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d0881717-b3e3-4966-883c-fae182e832bd/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6499d378-e4da-45bf-b7c9-0ca3959cfca3/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/2fdeccd0-f385-41f8-ba13-4a355ba1fd48/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/9dacd2a1-abd3-41ee-9334-393519a442b8/</loc><lastmod>2026-09-20</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/968285c6-66b6-412f-a8d5-5be90086a1e6/</loc><lastmod>2026-09-20</lastmod></url>
 </urlset>
