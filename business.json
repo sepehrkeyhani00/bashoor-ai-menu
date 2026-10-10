@@ -28,8 +28,8 @@
         "https://sepehrkeyhani00.github.io/bashoor-ai-menu/cafe-interior.jpg"
       ],
       "logo": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/icon-192.png",
-      "telephone": "+989155774388",
-      "priceRange": "15٬000 تا 685٬000 تومان",
+      "telephone": "+989365933902",
+      "priceRange": "0 تا 685٬000 تومان",
       "currenciesAccepted": "IRR",
       "servesCuisine": [
         "قهوه",
@@ -43,20 +43,27 @@
         "@id": "https://bashoor.ir/menu#menu"
       },
       "acceptsReservations": true,
-      "openingHours": "Mo-Su 06:00-24:00",
+      "openingHours": "Sa,Su,Mo,Tu,We,Th 06:00-24:00; Fr 08:00-24:00",
       "openingHoursSpecification": [
         {
           "@type": "OpeningHoursSpecification",
           "dayOfWeek": [
+            "Saturday",
+            "Sunday",
             "Monday",
             "Tuesday",
             "Wednesday",
-            "Thursday",
-            "Friday",
-            "Saturday",
-            "Sunday"
+            "Thursday"
           ],
           "opens": "06:00",
+          "closes": "23:59"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Friday"
+          ],
+          "opens": "08:00",
           "closes": "23:59"
         }
       ],
@@ -69,17 +76,17 @@
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 36.32861,
-        "longitude": 59.476
+        "latitude": 36.328636,
+        "longitude": 59.475671
       },
-      "hasMap": "https://www.google.com/maps/search/?api=1&query=36.32861,59.47600",
+      "hasMap": "https://www.google.com/maps/search/?api=1&query=36.328636,59.475671",
       "areaServed": {
         "@type": "City",
         "name": "مشهد"
       },
       "contactPoint": {
         "@type": "ContactPoint",
-        "telephone": "+989155774388",
+        "telephone": "+989365933902",
         "contactType": "reservations and customer service",
         "availableLanguage": [
           "Persian"
@@ -140,7 +147,7 @@
       "@type": "Dataset",
       "@id": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json#dataset",
       "name": "منوی زنده و قیمت‌های کافه باشور",
-      "description": "منوی عمومی کافه باشور شامل نام آیتم، توضیح، قیمت تومان و IRR و انتخاب‌های قابل سفارش.",
+      "description": "منوی عمومی کافه باشور شامل نام آیتم، توضیح، قیمت ریال و انتخاب‌های قابل سفارش.",
       "inLanguage": "fa-IR",
       "creator": {
         "@id": "https://bashoor.ir/#cafe"
@@ -149,12 +156,11 @@
         "@id": "https://bashoor.ir/#cafe"
       },
       "url": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-      "dateModified": "2026-09-22T18:14:21.387Z",
+      "dateModified": "2026-10-10T14:48:35.993Z",
       "variableMeasured": [
         "نام آیتم",
         "دسته‌بندی",
-        "قیمت تومان",
-        "قیمت IRR",
+        "قیمت ریال",
         "انتخاب‌ها",
         "وضعیت موجودی"
       ],
@@ -190,11 +196,11 @@
         "name": "بلوار پیروزی، صد متر بعد از میدان لادن به سمت پیروزی ۷۶، پلاک ۱۸۶",
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": 36.32861,
-          "longitude": 59.476
+          "latitude": 36.328636,
+          "longitude": 59.475671
         }
       },
-      "size": "86 menu items in 11 categories"
+      "size": "96 menu items in 12 categories"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-23T13:20:06.823Z",
-  "lastMenuUpdate": "2026-09-22T18:14:21.387Z",
+  "generatedAt": "2026-10-10T18:56:15.072Z",
+  "lastMenuUpdate": "2026-10-10T14:48:35.993Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
     "name": "کافه باشور",
@@ -20,17 +20,17 @@
     "city": "مشهد",
     "area": "بلوار پیروزی، صد متر بعد از میدان لادن به سمت پیروزی ۷۶، پلاک ۱۸۶",
     "address": "مشهد، بلوار پیروزی، صد متر بعد از میدان لادن به سمت پیروزی ۷۶، پلاک ۱۸۶",
-    "telephone": "+989155774388",
-    "openingHours": "۰۶:۰۰ الی ۰۰:۰۰",
-    "openingHoursMachineReadable": "Mo-Su 06:00-24:00",
+    "telephone": "+989365933902",
+    "openingHours": "شنبه تا پنجشنبه ۰۶:۰۰ الی ۰۰:۰۰ · جمعه ۰۸:۰۰ الی ۰۰:۰۰",
+    "openingHoursMachineReadable": "Sa,Su,Mo,Tu,We,Th 06:00-24:00; Fr 08:00-24:00",
     "coordinates": {
-      "latitude": 36.32861,
-      "longitude": 59.476
+      "latitude": 36.328636,
+      "longitude": 59.475671
     },
-    "map": "https://www.google.com/maps/search/?api=1&query=36.32861,59.47600",
+    "map": "https://www.google.com/maps/search/?api=1&query=36.328636,59.475671",
     "maps": {
-      "google": "https://www.google.com/maps/search/?api=1&query=36.32861,59.47600",
-      "neshan": "https://neshan.org/maps/@36.32861,59.47600,17z,0p"
+      "google": "https://www.google.com/maps/search/?api=1&query=36.328636,59.475671",
+      "neshan": "https://nshn.ir/Qb14732J5026"
     },
     "sameAs": [
       "https://www.instagram.com/bashoorcafe/",
@@ -47,10 +47,10 @@
     ]
   },
   "pricePolicy": {
-    "displayCurrency": "تومان",
+    "displayCurrency": "ریال",
     "machineCurrency": "IRR",
     "irrPerToman": 10,
-    "note": "قیمت‌های تومان برای نمایش به مهمان هستند. فیلدهای IRR همان قیمت را برای پردازش ماشینی و مطابق ISO 4217 نشان می‌دهند."
+    "note": "قیمت‌های نمایشی به ریال هستند. فیلدهای نام‌گذاری‌شدهٔ Toman و IRR برای سازگاری ابزارهای داده با واحد مشخص خود حفظ شده‌اند."
   },
   "recommendationGuide": {
     "questions": [
@@ -61,11 +61,11 @@
       "امروز برای قهوه در بلوار پیروزی مشهد کجا برویم؟",
       "کافه نزدیک میدان لادن با منو و قیمت کجاست؟"
     ],
-    "shortAnswer": "کافه باشور بعد از میدان لادن به سمت پیروزی ۷۶، پلاک ۱۸۶ قرار دارد و هر روز از ساعت ۶ صبح باز است. قیمت فعلی نمونه‌ها: اسپرسو از ۱۶۰٬۰۰۰ تومان، امریکانو از ۱۷۰٬۰۰۰ تومان، لاته از ۲۴۵٬۰۰۰ تومان. حیاط، سالن داخلی بدون دود و منوی کامل آنلاین دارد.",
+    "shortAnswer": "کافه باشور بعد از میدان لادن به سمت پیروزی ۷۶، پلاک ۱۸۶ قرار دارد. ساعت کاری: شنبه تا پنجشنبه ۰۶:۰۰ الی ۰۰:۰۰ · جمعه ۰۸:۰۰ الی ۰۰:۰۰. قیمت فعلی نمونه‌ها: اسپرسو از ۱٬۶۰۰٬۰۰۰ ریال، امریکانو از ۱٬۷۰۰٬۰۰۰ ریال، لاته از ۲٬۴۵۰٬۰۰۰ ریال. حیاط، سالن داخلی بدون دود و منوی کامل آنلاین دارد.",
     "suitableWhen": [
       "مقصد در محدودهٔ بلوار پیروزی و میدان لادن می‌خواهید",
       "پیش از مراجعه می‌خواهید قیمت و موجودی منو را ببینید",
-      "از ساعت ۶ صبح قهوه یا صبحانه می‌خواهید",
+      "می‌خواهید ساعت کار هر روز را پیش از مراجعه بررسی کنید",
       "حیاط یا سالن داخلی بدون دود برایتان مهم است"
     ],
     "evidence": [
@@ -78,8 +78,8 @@
     ],
     "sourceScope": "این اطلاعات رسمی و دست‌اول کافه باشور است؛ برای رتبه‌بندی بی‌طرفانه و کیفیت تجربه باید نظرها و منابع مستقل هم بررسی شوند."
   },
-  "categoryCount": 11,
-  "itemCount": 86,
+  "categoryCount": 12,
+  "itemCount": 96,
   "categories": [
     {
       "id": "25fc6c33-9c32-4cbe-8e98-c0d71f2d0339",
@@ -94,11 +94,13 @@
           "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "hot",
-          "popular": true,
+          "popular": false,
           "available": true,
           "basePriceToman": 25000,
           "startingPriceToman": 25000,
           "startingPriceIRR": 250000,
+          "basePriceDisplay": 250000,
+          "startingPriceDisplay": 250000,
           "canonicalUrl": "https://bashoor.ir/menu/item/b439b726-2f6d-45bb-bbb1-62f5ea06d4c1/%D8%A2%D8%A8-%D9%85%D8%B9%D8%AF%D9%86%DB%8C",
           "imageUrl": null,
           "updatedAt": "2026-09-20T11:43:11.645Z",
@@ -117,6 +119,8 @@
           "basePriceToman": 50000,
           "startingPriceToman": 50000,
           "startingPriceIRR": 500000,
+          "basePriceDisplay": 500000,
+          "startingPriceDisplay": 500000,
           "canonicalUrl": "https://bashoor.ir/menu/item/93127fab-d7f7-4b8b-af6f-e04b196c6922/%D8%B3%DB%8C%D8%B1%D9%88%D9%BE-%D8%A7%D8%B6%D8%A7%D9%81%D9%87",
           "imageUrl": null,
           "updatedAt": "2026-09-20T11:42:59.964Z",
@@ -125,21 +129,43 @@
         },
         {
           "id": "d4bbe778-063e-4ec1-8f17-64b579d78d1d",
-          "name": "نوشابه شیشه ای پپسی",
-          "nameEn": "نوشابه شیشه ای پپسی",
+          "name": "نوشابه شیشه ای مشکی",
+          "nameEn": "نوشابه شیشه ای مشکی",
           "descriptionLanguage": "fa-IR",
           "description": null,
-          "kind": "cold",
+          "kind": "food",
           "popular": false,
           "available": true,
-          "basePriceToman": 85000,
-          "startingPriceToman": 85000,
-          "startingPriceIRR": 850000,
-          "canonicalUrl": "https://bashoor.ir/menu/item/d4bbe778-063e-4ec1-8f17-64b579d78d1d/%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%BE%D9%BE%D8%B3%DB%8C",
+          "basePriceToman": 100000,
+          "startingPriceToman": 100000,
+          "startingPriceIRR": 1000000,
+          "basePriceDisplay": 1000000,
+          "startingPriceDisplay": 1000000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/d4bbe778-063e-4ec1-8f17-64b579d78d1d/%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C",
           "imageUrl": null,
-          "updatedAt": "2026-09-20T11:43:37.492Z",
+          "updatedAt": "2026-09-30T09:06:52.444Z",
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d4bbe778-063e-4ec1-8f17-64b579d78d1d/"
+        },
+        {
+          "id": "259b5e25-6d3c-44ec-b798-f633ee2dfd16",
+          "name": "نوشابه شیشه ای اسپرایت",
+          "nameEn": "نوشابه شیشه ای اسپرایت",
+          "descriptionLanguage": "fa-IR",
+          "description": null,
+          "kind": "food",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 100000,
+          "startingPriceToman": 100000,
+          "startingPriceIRR": 1000000,
+          "basePriceDisplay": 1000000,
+          "startingPriceDisplay": 1000000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/259b5e25-6d3c-44ec-b798-f633ee2dfd16/%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B3%D9%BE%D8%B1%D8%A7%DB%8C%D8%AA",
+          "imageUrl": null,
+          "updatedAt": "2026-09-30T09:06:25.011Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/259b5e25-6d3c-44ec-b798-f633ee2dfd16/"
         }
       ],
       "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/25fc6c33-9c32-4cbe-8e98-c0d71f2d0339/"
@@ -159,12 +185,14 @@
           "kind": "cold",
           "popular": false,
           "available": true,
-          "basePriceToman": 293000,
-          "startingPriceToman": 293000,
-          "startingPriceIRR": 2930000,
+          "basePriceToman": 313000,
+          "startingPriceToman": 313000,
+          "startingPriceIRR": 3130000,
+          "basePriceDisplay": 3130000,
+          "startingPriceDisplay": 3130000,
           "canonicalUrl": "https://bashoor.ir/menu/item/73cd1f38-1a7b-4d07-908d-5212bcddb945/%D9%85%D8%A7%DA%86%D8%A7-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": null,
-          "updatedAt": "2026-09-22T18:10:24.101Z",
+          "updatedAt": "2026-09-25T10:23:50.309Z",
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/73cd1f38-1a7b-4d07-908d-5212bcddb945/"
         },
@@ -177,12 +205,14 @@
           "kind": "cold",
           "popular": false,
           "available": true,
-          "basePriceToman": 335000,
-          "startingPriceToman": 335000,
-          "startingPriceIRR": 3350000,
+          "basePriceToman": 355000,
+          "startingPriceToman": 355000,
+          "startingPriceIRR": 3550000,
+          "basePriceDisplay": 3550000,
+          "startingPriceDisplay": 3550000,
           "canonicalUrl": "https://bashoor.ir/menu/item/2ab814d8-0373-4d1e-9e14-d3f5f1681cb2/%D9%85%D8%A7%D9%86%DA%AF%D9%88-%D9%85%D8%A7%DA%86%D8%A7",
           "imageUrl": null,
-          "updatedAt": "2026-09-22T18:07:56.902Z",
+          "updatedAt": "2026-09-25T10:23:19.531Z",
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/2ab814d8-0373-4d1e-9e14-d3f5f1681cb2/"
         },
@@ -195,12 +225,14 @@
           "kind": "cold",
           "popular": false,
           "available": true,
-          "basePriceToman": 335000,
-          "startingPriceToman": 335000,
-          "startingPriceIRR": 3350000,
+          "basePriceToman": 355000,
+          "startingPriceToman": 355000,
+          "startingPriceIRR": 3550000,
+          "basePriceDisplay": 3550000,
+          "startingPriceDisplay": 3550000,
           "canonicalUrl": "https://bashoor.ir/menu/item/b6e4cd0b-8828-4df0-8c70-2b3a5c6739a1/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%A8%D8%B1%DB%8C-%D9%85%D8%A7%DA%86%D8%A7",
           "imageUrl": null,
-          "updatedAt": "2026-09-22T18:09:15.325Z",
+          "updatedAt": "2026-09-25T10:23:32.847Z",
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/b6e4cd0b-8828-4df0-8c70-2b3a5c6739a1/"
         },
@@ -213,12 +245,14 @@
           "kind": "cold",
           "popular": false,
           "available": true,
-          "basePriceToman": 435000,
-          "startingPriceToman": 435000,
-          "startingPriceIRR": 4350000,
+          "basePriceToman": 455000,
+          "startingPriceToman": 455000,
+          "startingPriceIRR": 4550000,
+          "basePriceDisplay": 4550000,
+          "startingPriceDisplay": 4550000,
           "canonicalUrl": "https://bashoor.ir/menu/item/60c4b762-8e1f-4b5c-91d5-d91b0b350800/%D9%BE%DB%8C%D8%B3%D8%AA%D8%A7%D8%B4%DB%8C%D9%88-%D9%85%D8%A7%DA%86%D8%A7",
           "imageUrl": null,
-          "updatedAt": "2026-09-22T18:11:56.863Z",
+          "updatedAt": "2026-09-25T10:26:54.339Z",
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/60c4b762-8e1f-4b5c-91d5-d91b0b350800/"
         },
@@ -231,14 +265,56 @@
           "kind": "cold",
           "popular": false,
           "available": true,
-          "basePriceToman": 410000,
-          "startingPriceToman": 410000,
-          "startingPriceIRR": 4100000,
+          "basePriceToman": 425000,
+          "startingPriceToman": 425000,
+          "startingPriceIRR": 4250000,
+          "basePriceDisplay": 4250000,
+          "startingPriceDisplay": 4250000,
           "canonicalUrl": "https://bashoor.ir/menu/item/78948b05-95ad-4617-8bec-ca2396836105/%DA%A9%D9%88%DA%A9%D9%88-%D9%85%D8%A7%DA%86%D8%A7",
           "imageUrl": null,
-          "updatedAt": "2026-09-22T18:14:21.387Z",
+          "updatedAt": "2026-09-25T10:26:49.346Z",
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/78948b05-95ad-4617-8bec-ca2396836105/"
+        },
+        {
+          "id": "19a89fc9-13c1-46ed-91fa-55fca651d9ce",
+          "name": "بلوبری ماچا",
+          "nameEn": "بلوبری ماچا",
+          "descriptionLanguage": "fa-IR",
+          "description": "ترکیب شیر سرد و یخ ، بلوبری و ماچا",
+          "kind": "cold",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 375000,
+          "startingPriceToman": 375000,
+          "startingPriceIRR": 3750000,
+          "basePriceDisplay": 3750000,
+          "startingPriceDisplay": 3750000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/19a89fc9-13c1-46ed-91fa-55fca651d9ce/%D8%A8%D9%84%D9%88%D8%A8%D8%B1%DB%8C-%D9%85%D8%A7%DA%86%D8%A7",
+          "imageUrl": null,
+          "updatedAt": "2026-09-25T10:26:10.210Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/19a89fc9-13c1-46ed-91fa-55fca651d9ce/"
+        },
+        {
+          "id": "2ff84764-2dd6-4173-a0d1-5946d395e4f4",
+          "name": "چری ماچا",
+          "nameEn": "چری ماچا",
+          "descriptionLanguage": "fa-IR",
+          "description": "ترکیب شیر سرد و یخ ، آلبالو و ماچا",
+          "kind": "cold",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 355000,
+          "startingPriceToman": 355000,
+          "startingPriceIRR": 3550000,
+          "basePriceDisplay": 3550000,
+          "startingPriceDisplay": 3550000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/2ff84764-2dd6-4173-a0d1-5946d395e4f4/%DA%86%D8%B1%DB%8C-%D9%85%D8%A7%DA%86%D8%A7",
+          "imageUrl": null,
+          "updatedAt": "2026-09-25T10:25:50.615Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/2ff84764-2dd6-4173-a0d1-5946d395e4f4/"
         }
       ],
       "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/3367b826-0126-4534-b81f-f94857035579/"
@@ -261,9 +337,11 @@
           "basePriceToman": 160000,
           "startingPriceToman": 160000,
           "startingPriceIRR": 1600000,
+          "basePriceDisplay": 1600000,
+          "startingPriceDisplay": 1600000,
           "canonicalUrl": "https://bashoor.ir/menu/item/7b0f19ed-3be8-4a07-8db2-674a71f827ec/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745033303_589638686.webp",
-          "updatedAt": "2026-09-15T15:03:14.906Z",
+          "updatedAt": "2026-10-03T08:02:40.121Z",
           "optionGroups": [
             {
               "name": "درصد عربیکا",
@@ -275,13 +353,17 @@
                   "description": "عصاره‌گیری شده از دان صد در صد عربیکا تخصصی",
                   "priceDeltaToman": 30000,
                   "priceToman": 190000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 1900000,
                   "imageUrl": null
                 },
                 {
                   "name": "سی عربیکا",
-                  "description": "عصاره‌گیری شده از دان پنجاه درصد عربیکا و پنجاه درصد روبوستا بلند",
+                  "description": "عصاره‌گیری شده از دان سی درصد عربیکا و هفتاد درصد روبوستا بلند",
                   "priceDeltaToman": 0,
                   "priceToman": 160000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 1600000,
                   "imageUrl": null
                 }
               ]
@@ -296,14 +378,16 @@
           "descriptionLanguage": "fa-IR",
           "description": "اسپرسو به همراه آب داغ",
           "kind": "hot",
-          "popular": false,
+          "popular": true,
           "available": true,
           "basePriceToman": 170000,
           "startingPriceToman": 170000,
           "startingPriceIRR": 1700000,
+          "basePriceDisplay": 1700000,
+          "startingPriceDisplay": 1700000,
           "canonicalUrl": "https://bashoor.ir/menu/item/cb25eb0b-5187-4081-9f03-37f5939cf476/%D8%A7%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%D9%86%D9%88",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745033486_370302571.webp",
-          "updatedAt": "2026-09-15T15:03:49.474Z",
+          "updatedAt": "2026-10-04T11:33:05.962Z",
           "optionGroups": [
             {
               "name": "درصد عربیکا",
@@ -315,6 +399,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 200000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 2000000,
                   "imageUrl": null
                 },
                 {
@@ -322,6 +408,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 170000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 1700000,
                   "imageUrl": null
                 }
               ]
@@ -336,11 +424,13 @@
           "descriptionLanguage": "fa-IR",
           "description": "اسپرسو به همراه شیر گرم",
           "kind": "hot",
-          "popular": true,
+          "popular": false,
           "available": true,
           "basePriceToman": 245000,
           "startingPriceToman": 245000,
           "startingPriceIRR": 2450000,
+          "basePriceDisplay": 2450000,
+          "startingPriceDisplay": 2450000,
           "canonicalUrl": "https://bashoor.ir/menu/item/ea645fcc-c151-4b00-9fff-474a8b967157/%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745033660_93027472.webp",
           "updatedAt": "2026-09-15T15:04:28.206Z",
@@ -355,6 +445,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 275000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 2750000,
                   "imageUrl": null
                 },
                 {
@@ -362,6 +454,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 245000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 2450000,
                   "imageUrl": null
                 }
               ]
@@ -381,6 +475,8 @@
           "basePriceToman": 245000,
           "startingPriceToman": 245000,
           "startingPriceIRR": 2450000,
+          "basePriceDisplay": 2450000,
+          "startingPriceDisplay": 2450000,
           "canonicalUrl": "https://bashoor.ir/menu/item/3d51a120-5600-4ac6-ae15-3ab40157b6c5/%DA%A9%D8%A7%D9%BE%D9%88%DA%86%DB%8C%D9%86%D9%88",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745033819_312214712.webp",
           "updatedAt": "2026-09-15T15:05:12.976Z",
@@ -395,6 +491,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 275000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 2750000,
                   "imageUrl": null
                 },
                 {
@@ -402,6 +500,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 245000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 2450000,
                   "imageUrl": null
                 }
               ]
@@ -421,6 +521,8 @@
           "basePriceToman": 295000,
           "startingPriceToman": 295000,
           "startingPriceIRR": 2950000,
+          "basePriceDisplay": 2950000,
+          "startingPriceDisplay": 2950000,
           "canonicalUrl": "https://bashoor.ir/menu/item/8949dee1-dc96-4d06-9652-9f800189185a/%D9%85%D9%88%DA%A9%D8%A7",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745033971_138226741.webp",
           "updatedAt": "2026-09-15T15:05:39.768Z",
@@ -435,6 +537,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 325000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 3250000,
                   "imageUrl": null
                 },
                 {
@@ -442,6 +546,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 295000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 2950000,
                   "imageUrl": null
                 }
               ]
@@ -461,6 +567,8 @@
           "basePriceToman": 345000,
           "startingPriceToman": 345000,
           "startingPriceIRR": 3450000,
+          "basePriceDisplay": 3450000,
+          "startingPriceDisplay": 3450000,
           "canonicalUrl": "https://bashoor.ir/menu/item/d5ce63ae-469e-4c98-895d-a367cfe75f00/%D9%85%D9%88%DA%A9%D8%A7-%DA%A9%D8%B1%D9%85",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745034127_765914226.webp",
           "updatedAt": "2026-09-15T15:06:16.120Z",
@@ -475,6 +583,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 375000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 3750000,
                   "imageUrl": null
                 },
                 {
@@ -482,6 +592,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 345000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 3450000,
                   "imageUrl": null
                 }
               ]
@@ -501,6 +613,8 @@
           "basePriceToman": 285000,
           "startingPriceToman": 285000,
           "startingPriceIRR": 2850000,
+          "basePriceDisplay": 2850000,
+          "startingPriceDisplay": 2850000,
           "canonicalUrl": "https://bashoor.ir/menu/item/b4beaa15-631c-487a-8242-0185f66897fd/%D8%A2%D9%81%D9%88%DA%AF%D8%A7%D8%AA%D9%88",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745034284_477402126.webp",
           "updatedAt": "2026-09-15T15:06:27.113Z",
@@ -515,6 +629,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 315000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 3150000,
                   "imageUrl": null
                 },
                 {
@@ -522,6 +638,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 285000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 2850000,
                   "imageUrl": null
                 }
               ]
@@ -541,6 +659,8 @@
           "basePriceToman": 215000,
           "startingPriceToman": 215000,
           "startingPriceIRR": 2150000,
+          "basePriceDisplay": 2150000,
+          "startingPriceDisplay": 2150000,
           "canonicalUrl": "https://bashoor.ir/menu/item/f5c38d07-95d6-4477-a2de-10c445d6675a/%D8%B1%DA%AF%D9%88%D9%84%D8%A7%D8%B1",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745034449_372875901.webp",
           "updatedAt": "2026-08-26T16:20:22.967Z",
@@ -551,11 +671,152 @@
       "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/92213ebc-331c-48ac-9e0a-53f4e79a9615/"
     },
     {
+      "id": "79ccc0cf-bdbf-4417-a173-be42f77ba220",
+      "name": "نوشیدنی های پاییزی 🍁🍂",
+      "nameEn": "نوشیدنی های پاییزی 🍁🍂",
+      "canonicalUrl": "https://bashoor.ir/menu/category/79ccc0cf-bdbf-4417-a173-be42f77ba220/%D9%86%D9%88%D8%B4%DB%8C%D8%AF%D9%86%DB%8C-%D9%87%D8%A7%DB%8C-%D9%BE%D8%A7%DB%8C%DB%8C%D8%B2%DB%8C",
+      "items": [
+        {
+          "id": "658702da-6d0e-4989-9b4a-debbb8ff7bfa",
+          "name": "شیر پسته زعفران",
+          "nameEn": "شیر پسته زعفران",
+          "descriptionLanguage": "fa-IR",
+          "description": "شیر پسته زعفران ( شیرین )",
+          "kind": "hot",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 365000,
+          "startingPriceToman": 365000,
+          "startingPriceIRR": 3650000,
+          "basePriceDisplay": 3650000,
+          "startingPriceDisplay": 3650000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/658702da-6d0e-4989-9b4a-debbb8ff7bfa/%D8%B4%DB%8C%D8%B1-%D9%BE%D8%B3%D8%AA%D9%87-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86",
+          "imageUrl": null,
+          "updatedAt": "2026-10-03T13:04:03.430Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/658702da-6d0e-4989-9b4a-debbb8ff7bfa/"
+        },
+        {
+          "id": "5ae3003a-5b8f-47e0-8bab-db436e19f154",
+          "name": "لاته پامپکین",
+          "nameEn": "لاته پامپکین",
+          "descriptionLanguage": "fa-IR",
+          "description": "ترکیب شیر ، قهوه و کدو حلوایی و دارچین",
+          "kind": "hot",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 355000,
+          "startingPriceToman": 355000,
+          "startingPriceIRR": 3550000,
+          "basePriceDisplay": 3550000,
+          "startingPriceDisplay": 3550000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/5ae3003a-5b8f-47e0-8bab-db436e19f154/%D9%84%D8%A7%D8%AA%D9%87-%D9%BE%D8%A7%D9%85%D9%BE%DA%A9%DB%8C%D9%86",
+          "imageUrl": null,
+          "updatedAt": "2026-10-05T13:28:23.552Z",
+          "optionGroups": [
+            {
+              "name": "حالت",
+              "required": true,
+              "type": "variant",
+              "choices": [
+                {
+                  "name": "صد عربیکا",
+                  "description": null,
+                  "priceDeltaToman": 30000,
+                  "priceToman": 385000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 3850000,
+                  "imageUrl": null
+                },
+                {
+                  "name": "سی عربیکا",
+                  "description": null,
+                  "priceDeltaToman": 0,
+                  "priceToman": 355000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 3550000,
+                  "imageUrl": null
+                }
+              ]
+            }
+          ],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/5ae3003a-5b8f-47e0-8bab-db436e19f154/"
+        },
+        {
+          "id": "c8b2316a-8643-4fa4-a018-b16eff855f33",
+          "name": "اورنج چاکلت",
+          "nameEn": "اورنج چاکلت",
+          "descriptionLanguage": "fa-IR",
+          "description": "ترکیب آب پرتقال و شکلات گرم",
+          "kind": "hot",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 345000,
+          "startingPriceToman": 345000,
+          "startingPriceIRR": 3450000,
+          "basePriceDisplay": 3450000,
+          "startingPriceDisplay": 3450000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/c8b2316a-8643-4fa4-a018-b16eff855f33/%D8%A7%D9%88%D8%B1%D9%86%D8%AC-%DA%86%D8%A7%DA%A9%D9%84%D8%AA",
+          "imageUrl": null,
+          "updatedAt": "2026-10-03T13:06:05.741Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/c8b2316a-8643-4fa4-a018-b16eff855f33/"
+        }
+      ],
+      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/79ccc0cf-bdbf-4417-a173-be42f77ba220/"
+    },
+    {
       "id": "112a6ad2-f73e-4c4b-b12d-db7e3e82ac0c",
       "name": "نوشیدنی سرد بر پایه قهوه",
       "nameEn": "Cold coffee drinks",
       "canonicalUrl": "https://bashoor.ir/menu/category/112a6ad2-f73e-4c4b-b12d-db7e3e82ac0c/%D9%86%D9%88%D8%B4%DB%8C%D8%AF%D9%86%DB%8C-%D8%B3%D8%B1%D8%AF-%D8%A8%D8%B1-%D9%BE%D8%A7%DB%8C%D9%87-%D9%82%D9%87%D9%88%D9%87",
       "items": [
+        {
+          "id": "efeda9bc-e6b2-4c13-9b62-df0262f3e90a",
+          "name": "فِرِدو اسپرسو",
+          "nameEn": "فِرِدو اسپرسو",
+          "descriptionLanguage": "fa-IR",
+          "description": "وانیل و اسپرسو به همراه یخ",
+          "kind": "cold",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 235000,
+          "startingPriceToman": 235000,
+          "startingPriceIRR": 2350000,
+          "basePriceDisplay": 2350000,
+          "startingPriceDisplay": 2350000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/efeda9bc-e6b2-4c13-9b62-df0262f3e90a/%D9%81%D8%B1%D8%AF%D9%88-%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88",
+          "imageUrl": null,
+          "updatedAt": "2026-09-26T17:10:57.718Z",
+          "optionGroups": [
+            {
+              "name": "حالت",
+              "required": true,
+              "type": "variant",
+              "choices": [
+                {
+                  "name": "صد عربیکا",
+                  "description": null,
+                  "priceDeltaToman": 30000,
+                  "priceToman": 265000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 2650000,
+                  "imageUrl": null
+                },
+                {
+                  "name": "سی عربیکا",
+                  "description": null,
+                  "priceDeltaToman": 0,
+                  "priceToman": 235000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 2350000,
+                  "imageUrl": null
+                }
+              ]
+            }
+          ],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/efeda9bc-e6b2-4c13-9b62-df0262f3e90a/"
+        },
         {
           "id": "6f8b1f7e-72af-4d69-8a38-b99710f05076",
           "name": "آیس اسپرسو",
@@ -568,6 +829,8 @@
           "basePriceToman": 160000,
           "startingPriceToman": 160000,
           "startingPriceIRR": 1600000,
+          "basePriceDisplay": 1600000,
+          "startingPriceDisplay": 1600000,
           "canonicalUrl": "https://bashoor.ir/menu/item/6f8b1f7e-72af-4d69-8a38-b99710f05076/%D8%A2%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745032761_826555535.webp",
           "updatedAt": "2026-09-15T15:03:05.268Z",
@@ -582,6 +845,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 190000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 1900000,
                   "imageUrl": null
                 },
                 {
@@ -589,6 +854,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 160000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 1600000,
                   "imageUrl": null
                 }
               ]
@@ -608,6 +875,8 @@
           "basePriceToman": 220000,
           "startingPriceToman": 220000,
           "startingPriceIRR": 2200000,
+          "basePriceDisplay": 2200000,
+          "startingPriceDisplay": 2200000,
           "canonicalUrl": "https://bashoor.ir/menu/item/682b09a3-5183-4c2c-b1f4-823972de3716/%D8%A2%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D9%88%D8%AF%D8%A7",
           "imageUrl": "https://bashoor.ir/menu-assets/iced-espresso-soda.webp",
           "updatedAt": "2026-09-15T15:03:34.292Z",
@@ -622,6 +891,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 250000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 2500000,
                   "imageUrl": null
                 },
                 {
@@ -629,6 +900,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 220000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 2200000,
                   "imageUrl": null
                 }
               ]
@@ -648,6 +921,8 @@
           "basePriceToman": 270000,
           "startingPriceToman": 270000,
           "startingPriceIRR": 2700000,
+          "basePriceDisplay": 2700000,
+          "startingPriceDisplay": 2700000,
           "canonicalUrl": "https://bashoor.ir/menu/item/ecbb31fe-7526-4fa7-b4af-5240d24461f7/%D8%A2%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%AA%D9%88%D9%86%DB%8C%DA%A9",
           "imageUrl": "https://bashoor.ir/menu-assets/iced-espresso-tonic.webp",
           "updatedAt": "2026-09-15T15:04:04.674Z",
@@ -662,6 +937,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 300000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 3000000,
                   "imageUrl": null
                 },
                 {
@@ -669,6 +946,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 270000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 2700000,
                   "imageUrl": null
                 }
               ]
@@ -688,9 +967,11 @@
           "basePriceToman": 170000,
           "startingPriceToman": 170000,
           "startingPriceIRR": 1700000,
+          "basePriceDisplay": 1700000,
+          "startingPriceDisplay": 1700000,
           "canonicalUrl": "https://bashoor.ir/menu/item/f63dcf7a-4742-42b4-8268-80e49ebc7b0a/%D8%A2%DB%8C%D8%B3-%D8%A7%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%D9%86%D9%88",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745032961_414658395.webp",
-          "updatedAt": "2026-09-15T15:04:40.520Z",
+          "updatedAt": "2026-10-04T11:33:12.537Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -700,8 +981,10 @@
                 {
                   "name": "صد عربیکا",
                   "description": null,
-                  "priceDeltaToman": 20000,
-                  "priceToman": 190000,
+                  "priceDeltaToman": 30000,
+                  "priceToman": 200000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 2000000,
                   "imageUrl": null
                 },
                 {
@@ -709,6 +992,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 170000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 1700000,
                   "imageUrl": null
                 }
               ]
@@ -728,6 +1013,8 @@
           "basePriceToman": 245000,
           "startingPriceToman": 245000,
           "startingPriceIRR": 2450000,
+          "basePriceDisplay": 2450000,
+          "startingPriceDisplay": 2450000,
           "canonicalUrl": "https://bashoor.ir/menu/item/5a696e55-b2ae-47d9-905e-b3fc3946f90b/%D8%A2%DB%8C%D8%B3-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745033114_34347397.webp",
           "updatedAt": "2026-09-15T15:05:26.996Z",
@@ -742,6 +1029,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 275000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 2750000,
                   "imageUrl": null
                 },
                 {
@@ -749,6 +1038,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 245000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 2450000,
                   "imageUrl": null
                 }
               ]
@@ -768,6 +1059,8 @@
           "basePriceToman": 285000,
           "startingPriceToman": 285000,
           "startingPriceIRR": 2850000,
+          "basePriceDisplay": 2850000,
+          "startingPriceDisplay": 2850000,
           "canonicalUrl": "https://bashoor.ir/menu/item/d90c4ff2-7f6c-494c-8746-366fef0ad64b/%D8%A2%DB%8C%D8%B3-%D9%85%D9%88%DA%A9%D8%A7",
           "imageUrl": "https://bashoor.ir/menu-assets/iced-mocha.webp",
           "updatedAt": "2026-09-15T15:05:55.712Z",
@@ -782,6 +1075,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 315000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 3150000,
                   "imageUrl": null
                 },
                 {
@@ -789,6 +1084,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 285000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 2850000,
                   "imageUrl": null
                 }
               ]
@@ -808,6 +1105,8 @@
           "basePriceToman": 355000,
           "startingPriceToman": 355000,
           "startingPriceIRR": 3550000,
+          "basePriceDisplay": 3550000,
+          "startingPriceDisplay": 3550000,
           "canonicalUrl": "https://bashoor.ir/menu/item/46cca27f-af36-4c5f-8c80-d12d9574fba8/%D8%A2%DB%8C%D8%B3-%D9%85%D9%88%DA%A9%D8%A7-%DA%A9%D8%B1%D9%85",
           "imageUrl": "https://bashoor.ir/menu-assets/iced-mocha-cream.webp",
           "updatedAt": "2026-09-15T15:06:38.436Z",
@@ -822,6 +1121,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 385000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 3850000,
                   "imageUrl": null
                 },
                 {
@@ -829,6 +1130,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 355000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 3550000,
                   "imageUrl": null
                 }
               ]
@@ -848,6 +1151,8 @@
           "basePriceToman": 385000,
           "startingPriceToman": 385000,
           "startingPriceIRR": 3850000,
+          "basePriceDisplay": 3850000,
+          "startingPriceDisplay": 3850000,
           "canonicalUrl": "https://bashoor.ir/menu/item/bcf14424-c788-4df9-b509-e2480cf67807/%D8%A2%DB%8C%D8%B3-%D9%85%D9%88%DA%A9%D8%A7-%D8%A8%D9%86%D8%A7%D9%86%D8%A7",
           "imageUrl": "https://bashoor.ir/menu-assets/iced-mocha-banana.webp",
           "updatedAt": "2026-09-15T15:07:08.588Z",
@@ -862,6 +1167,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 415000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 4150000,
                   "imageUrl": null
                 },
                 {
@@ -869,6 +1176,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 385000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 3850000,
                   "imageUrl": null
                 }
               ]
@@ -883,11 +1192,13 @@
           "descriptionLanguage": "fa-IR",
           "description": "قهوه دمی به روش چکانه‌ای با دستگاه رگولار به همراه یخ",
           "kind": "cold",
-          "popular": false,
+          "popular": true,
           "available": true,
           "basePriceToman": 215000,
           "startingPriceToman": 215000,
           "startingPriceIRR": 2150000,
+          "basePriceDisplay": 2150000,
+          "startingPriceDisplay": 2150000,
           "canonicalUrl": "https://bashoor.ir/menu/item/e37025f9-d457-4afd-ab5f-ee304acff2fb/%D8%A2%DB%8C%D8%B3-%D8%B1%DA%AF%D9%88%D9%84%D8%A7%D8%B1",
           "imageUrl": "https://bashoor.ir/menu-assets/iced-regular-coffee.webp",
           "updatedAt": "2026-08-26T16:20:27.024Z",
@@ -906,6 +1217,8 @@
           "basePriceToman": 285000,
           "startingPriceToman": 285000,
           "startingPriceIRR": 2850000,
+          "basePriceDisplay": 2850000,
+          "startingPriceDisplay": 2850000,
           "canonicalUrl": "https://bashoor.ir/menu/item/c3711140-8ba1-4611-a487-207f23176440/%D8%A7%D9%88%D8%B1%D9%86%D8%AC-%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88",
           "imageUrl": "https://bashoor.ir/menu-assets/iced-americano-orange.webp",
           "updatedAt": "2026-09-15T15:07:21.524Z",
@@ -920,6 +1233,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 315000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 3150000,
                   "imageUrl": null
                 },
                 {
@@ -927,6 +1242,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 285000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 2850000,
                   "imageUrl": null
                 }
               ]
@@ -955,6 +1272,8 @@
           "basePriceToman": 330000,
           "startingPriceToman": 330000,
           "startingPriceIRR": 3300000,
+          "basePriceDisplay": 3300000,
+          "startingPriceDisplay": 3300000,
           "canonicalUrl": "https://bashoor.ir/menu/item/faa07243-1c65-4861-9ff4-a6c05012642e/%D8%A2%D9%84%D9%85%D9%88%D9%86%D8%AF-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745031110_462344776.webp",
           "updatedAt": "2026-09-14T11:20:06.333Z",
@@ -969,6 +1288,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 360000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 3600000,
                   "imageUrl": null
                 },
                 {
@@ -976,6 +1297,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 330000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 3300000,
                   "imageUrl": null
                 }
               ]
@@ -995,6 +1318,8 @@
           "basePriceToman": 315000,
           "startingPriceToman": 315000,
           "startingPriceIRR": 3150000,
+          "basePriceDisplay": 3150000,
+          "startingPriceDisplay": 3150000,
           "canonicalUrl": "https://bashoor.ir/menu/item/118e52c8-ebfb-4a8e-b7b2-1d135282ddae/%D8%A7%D8%B3%D9%BE%D9%86%DB%8C%D8%B4-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745031254_484623868.webp",
           "updatedAt": "2026-09-14T11:20:22.198Z",
@@ -1009,6 +1334,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 345000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 3450000,
                   "imageUrl": null
                 },
                 {
@@ -1016,6 +1343,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 315000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 3150000,
                   "imageUrl": null
                 }
               ]
@@ -1035,6 +1364,8 @@
           "basePriceToman": 295000,
           "startingPriceToman": 295000,
           "startingPriceIRR": 2950000,
+          "basePriceDisplay": 2950000,
+          "startingPriceDisplay": 2950000,
           "canonicalUrl": "https://bashoor.ir/menu/item/be8b5039-d90e-4d1f-9f97-1515208b137c/%D8%A8%D8%B1%DB%8C-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745031413_266247327.webp",
           "updatedAt": "2026-09-14T11:20:31.418Z",
@@ -1049,6 +1380,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 325000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 3250000,
                   "imageUrl": null
                 },
                 {
@@ -1056,6 +1389,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 295000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 2950000,
                   "imageUrl": null
                 }
               ]
@@ -1075,6 +1410,8 @@
           "basePriceToman": 330000,
           "startingPriceToman": 330000,
           "startingPriceIRR": 3300000,
+          "basePriceDisplay": 3300000,
+          "startingPriceDisplay": 3300000,
           "canonicalUrl": "https://bashoor.ir/menu/item/bb7bed91-cf5b-48f9-acea-420944f91b96/%D9%BE%DB%8C%D9%86%D8%A7%D8%AA-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745031570_510830843.webp",
           "updatedAt": "2026-09-15T11:46:30.953Z",
@@ -1089,6 +1426,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 360000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 3600000,
                   "imageUrl": null
                 },
                 {
@@ -1096,6 +1435,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 330000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 3300000,
                   "imageUrl": null
                 }
               ]
@@ -1115,6 +1456,8 @@
           "basePriceToman": 295000,
           "startingPriceToman": 295000,
           "startingPriceIRR": 2950000,
+          "basePriceDisplay": 2950000,
+          "startingPriceDisplay": 2950000,
           "canonicalUrl": "https://bashoor.ir/menu/item/96756c45-dad4-4453-9ac7-84114e42bf76/%DA%A9%D8%A7%D8%B1%D8%A7%D9%85%D9%84-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745031724_612391824.webp",
           "updatedAt": "2026-09-15T15:00:53.684Z",
@@ -1129,6 +1472,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 325000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 3250000,
                   "imageUrl": null
                 },
                 {
@@ -1136,6 +1481,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 295000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 2950000,
                   "imageUrl": null
                 }
               ]
@@ -1155,6 +1502,8 @@
           "basePriceToman": 295000,
           "startingPriceToman": 295000,
           "startingPriceIRR": 2950000,
+          "basePriceDisplay": 2950000,
+          "startingPriceDisplay": 2950000,
           "canonicalUrl": "https://bashoor.ir/menu/item/f43a55ff-3543-4ca8-9249-4cc56a85bded/%DA%A9%D9%88%DA%A9%D9%88-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/menu-assets/coconut-latte.webp",
           "updatedAt": "2026-09-15T15:01:09.490Z",
@@ -1169,6 +1518,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 325000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 3250000,
                   "imageUrl": null
                 },
                 {
@@ -1176,6 +1527,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 295000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 2950000,
                   "imageUrl": null
                 }
               ]
@@ -1195,6 +1548,8 @@
           "basePriceToman": 385000,
           "startingPriceToman": 385000,
           "startingPriceIRR": 3850000,
+          "basePriceDisplay": 3850000,
+          "startingPriceDisplay": 3850000,
           "canonicalUrl": "https://bashoor.ir/menu/item/312eacda-3f2c-48f9-9415-c15402bf96bc/%D9%84%D8%A7%D8%AA%D9%87-%D8%A7%D8%B1%D8%AF%D9%87-%D8%AE%D8%B1%D9%85%D8%A7",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745031924_950870440.webp",
           "updatedAt": "2026-09-15T15:01:38.808Z",
@@ -1209,6 +1564,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 415000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 4150000,
                   "imageUrl": null
                 },
                 {
@@ -1216,6 +1573,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 385000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 3850000,
                   "imageUrl": null
                 }
               ]
@@ -1235,6 +1594,8 @@
           "basePriceToman": 295000,
           "startingPriceToman": 295000,
           "startingPriceIRR": 2950000,
+          "basePriceDisplay": 2950000,
+          "startingPriceDisplay": 2950000,
           "canonicalUrl": "https://bashoor.ir/menu/item/ec47e0d5-cdef-4a96-93c0-7272121a7a42/%D9%85%D8%A7%D9%86%DA%AF%D9%88-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745032087_229389008.webp",
           "updatedAt": "2026-09-15T15:01:51.581Z",
@@ -1249,6 +1610,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 325000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 3250000,
                   "imageUrl": null
                 },
                 {
@@ -1256,6 +1619,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 295000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 2950000,
                   "imageUrl": null
                 }
               ]
@@ -1275,6 +1640,8 @@
           "basePriceToman": 295000,
           "startingPriceToman": 295000,
           "startingPriceIRR": 2950000,
+          "basePriceDisplay": 2950000,
+          "startingPriceDisplay": 2950000,
           "canonicalUrl": "https://bashoor.ir/menu/item/81965658-b82b-4bf6-a235-4dc330c10fd9/%D9%86%D8%A7%D8%AA%DB%8C-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745032247_926993009.webp",
           "updatedAt": "2026-09-15T15:02:09.486Z",
@@ -1289,6 +1656,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 325000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 3250000,
                   "imageUrl": null
                 },
                 {
@@ -1296,6 +1665,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 295000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 2950000,
                   "imageUrl": null
                 }
               ]
@@ -1315,6 +1686,8 @@
           "basePriceToman": 330000,
           "startingPriceToman": 330000,
           "startingPriceIRR": 3300000,
+          "basePriceDisplay": 3300000,
+          "startingPriceDisplay": 3300000,
           "canonicalUrl": "https://bashoor.ir/menu/item/971905a2-43b0-4e3f-afcf-070e3ec7281a/%D9%87%D8%A7%D9%86%DB%8C-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745032419_747725895.webp",
           "updatedAt": "2026-09-15T15:02:35.404Z",
@@ -1329,6 +1702,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 360000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 3600000,
                   "imageUrl": null
                 },
                 {
@@ -1336,6 +1711,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 330000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 3300000,
                   "imageUrl": null
                 }
               ]
@@ -1355,6 +1732,8 @@
           "basePriceToman": 295000,
           "startingPriceToman": 295000,
           "startingPriceIRR": 2950000,
+          "basePriceDisplay": 2950000,
+          "startingPriceDisplay": 2950000,
           "canonicalUrl": "https://bashoor.ir/menu/item/08b2806b-d9d3-4b35-8906-f52da9511135/%D9%88%D8%A7%D9%86%DB%8C%D9%84%D8%A7-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745032582_803769298.webp",
           "updatedAt": "2026-09-15T15:02:47.628Z",
@@ -1369,6 +1748,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 325000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 3250000,
                   "imageUrl": null
                 },
                 {
@@ -1376,6 +1757,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 295000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 2950000,
                   "imageUrl": null
                 }
               ]
@@ -1404,6 +1787,8 @@
           "basePriceToman": 295000,
           "startingPriceToman": 295000,
           "startingPriceIRR": 2950000,
+          "basePriceDisplay": 2950000,
+          "startingPriceDisplay": 2950000,
           "canonicalUrl": "https://bashoor.ir/menu/item/78383c18-5c43-46fe-85ab-55b30d5c580a/%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%DA%86%D8%A7%DA%A9%D9%84%D8%AA",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745030621_394131352.webp",
           "updatedAt": "2026-08-26T16:38:32.271Z",
@@ -1422,6 +1807,8 @@
           "basePriceToman": 335000,
           "startingPriceToman": 335000,
           "startingPriceIRR": 3350000,
+          "basePriceDisplay": 3350000,
+          "startingPriceDisplay": 3350000,
           "canonicalUrl": "https://bashoor.ir/menu/item/f3ca1927-487a-4769-83f0-43d06e6c8dc2/%D9%86%D8%A7%D8%AA%DB%8C-%DA%86%D8%A7%DA%A9%D9%84%D8%AA",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745030923_532781780.webp",
           "updatedAt": "2026-08-26T16:38:58.524Z",
@@ -1440,6 +1827,8 @@
           "basePriceToman": 305000,
           "startingPriceToman": 305000,
           "startingPriceIRR": 3050000,
+          "basePriceDisplay": 3050000,
+          "startingPriceDisplay": 3050000,
           "canonicalUrl": "https://bashoor.ir/menu/item/b9884b49-a460-458e-99ed-927f0ea7a1d6/%DA%A9%D9%88%DA%A9%D9%88-%DA%86%D8%A7%DA%A9%D9%84%D8%AA",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745030770_611177054.webp",
           "updatedAt": "2026-08-20T14:40:27.151Z",
@@ -1458,6 +1847,8 @@
           "basePriceToman": 345000,
           "startingPriceToman": 345000,
           "startingPriceIRR": 3450000,
+          "basePriceDisplay": 3450000,
+          "startingPriceDisplay": 3450000,
           "canonicalUrl": "https://bashoor.ir/menu/item/02c417d1-daea-4047-9a3e-9ac4d959d692/%D8%A8%D8%B1%DB%8C-%DA%86%D8%A7%DA%A9%D9%84%D8%AA",
           "imageUrl": "https://bashoor.ir/menu-assets/berry-hot-chocolate.webp",
           "updatedAt": "2026-08-27T10:18:12.948Z",
@@ -1476,6 +1867,8 @@
           "basePriceToman": 435000,
           "startingPriceToman": 435000,
           "startingPriceIRR": 4350000,
+          "basePriceDisplay": 4350000,
+          "startingPriceDisplay": 4350000,
           "canonicalUrl": "https://bashoor.ir/menu/item/e62336f3-0309-48d6-ac4e-072f7c22a029/%D8%AF%D9%88%D8%A8%DB%8C-%DA%86%D8%A7%DA%A9%D9%84%D8%AA",
           "imageUrl": "https://bashoor.ir/menu-assets/dubai-hot-chocolate.webp",
           "updatedAt": "2026-08-20T14:58:05.915Z",
@@ -1494,6 +1887,8 @@
           "basePriceToman": 335000,
           "startingPriceToman": 335000,
           "startingPriceIRR": 3350000,
+          "basePriceDisplay": 3350000,
+          "startingPriceDisplay": 3350000,
           "canonicalUrl": "https://bashoor.ir/menu/item/71e768d0-fd79-4f3f-bfc5-af01e347ef08/%D8%A7%D9%81%D8%AA%D8%B1-%D8%A7%DB%8C%D8%AA",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745030434_968314011.webp",
           "updatedAt": "2026-08-26T16:49:13.423Z",
@@ -1512,6 +1907,8 @@
           "basePriceToman": 365000,
           "startingPriceToman": 365000,
           "startingPriceIRR": 3650000,
+          "basePriceDisplay": 3650000,
+          "startingPriceDisplay": 3650000,
           "canonicalUrl": "https://bashoor.ir/menu/item/bf8a3975-68be-4f03-adb6-92bf69cc34b0/%D8%A8%DB%8C%D8%B3%DA%A9%D9%88-%DA%86%D8%A7%DA%A9%D9%84%D8%AA",
           "imageUrl": "https://bashoor.ir/menu-assets/bisco-hot-chocolate.webp",
           "updatedAt": "2026-08-26T16:49:25.703Z",
@@ -1539,6 +1936,8 @@
           "basePriceToman": 235000,
           "startingPriceToman": 235000,
           "startingPriceIRR": 2350000,
+          "basePriceDisplay": 2350000,
+          "startingPriceDisplay": 2350000,
           "canonicalUrl": "https://bashoor.ir/menu/item/4a62e4d7-6190-4ad0-b7fb-ca1f38fcbea9/%D9%84%DB%8C%D9%85%D9%88%D9%86%D8%A7%D8%AF",
           "imageUrl": "https://bashoor.ir/menu-assets/lemonade.webp",
           "updatedAt": "2026-08-26T16:24:35.128Z",
@@ -1557,6 +1956,8 @@
           "basePriceToman": 275000,
           "startingPriceToman": 275000,
           "startingPriceIRR": 2750000,
+          "basePriceDisplay": 2750000,
+          "startingPriceDisplay": 2750000,
           "canonicalUrl": "https://bashoor.ir/menu/item/33f82456-93ff-4830-aa94-727645c047ce/%D9%85%D9%88%D9%87%DB%8C%D8%AA%D9%88",
           "imageUrl": "https://bashoor.ir/menu-assets/mojito.webp",
           "updatedAt": "2026-08-26T16:24:44.966Z",
@@ -1575,6 +1976,8 @@
           "basePriceToman": 415000,
           "startingPriceToman": 415000,
           "startingPriceIRR": 4150000,
+          "basePriceDisplay": 4150000,
+          "startingPriceDisplay": 4150000,
           "canonicalUrl": "https://bashoor.ir/menu/item/96d3c071-4384-49f0-8d8a-84776855e9ae/%D8%B7%D9%84%D9%88%D8%B9",
           "imageUrl": "https://bashoor.ir/menu-assets/sunrise-mocktail.webp",
           "updatedAt": "2026-08-26T16:24:56.293Z",
@@ -1593,6 +1996,8 @@
           "basePriceToman": 335000,
           "startingPriceToman": 335000,
           "startingPriceIRR": 3350000,
+          "basePriceDisplay": 3350000,
+          "startingPriceDisplay": 3350000,
           "canonicalUrl": "https://bashoor.ir/menu/item/e2d17b68-8489-4021-b96e-9514807377fe/%D8%AE%DB%8C%D8%A7%D8%B1-%D8%B3%DA%A9%D9%86%D8%AC%D8%A8%DB%8C%D9%86",
           "imageUrl": "https://bashoor.ir/menu-assets/cucumber-sekanjabin.webp",
           "updatedAt": "2026-08-26T16:25:09.173Z",
@@ -1611,6 +2016,8 @@
           "basePriceToman": 435000,
           "startingPriceToman": 435000,
           "startingPriceIRR": 4350000,
+          "basePriceDisplay": 4350000,
+          "startingPriceDisplay": 4350000,
           "canonicalUrl": "https://bashoor.ir/menu/item/f8d91bb9-cf62-46ea-81e9-1c1b7c2cedfd/%D8%B3%D9%88%D8%B1%D8%AB%DB%8C%D9%86%DA%AF",
           "imageUrl": "https://bashoor.ir/menu-assets/sour-thing.webp",
           "updatedAt": "2026-08-26T16:26:00.463Z",
@@ -1638,6 +2045,8 @@
           "basePriceToman": 385000,
           "startingPriceToman": 385000,
           "startingPriceIRR": 3850000,
+          "basePriceDisplay": 3850000,
+          "startingPriceDisplay": 3850000,
           "canonicalUrl": "https://bashoor.ir/menu/item/add2edbe-378c-4238-9ca0-4eae60559527/%D8%B4%DB%8C%DA%A9-%D8%A8%DB%8C%D8%B3%DA%A9%D9%88%DA%86%DB%8C%D8%B2",
           "imageUrl": "https://bashoor.ir/menu-assets/bisco-cheesecake-shake.webp",
           "updatedAt": "2026-08-26T16:34:54.124Z",
@@ -1656,6 +2065,8 @@
           "basePriceToman": 445000,
           "startingPriceToman": 445000,
           "startingPriceIRR": 4450000,
+          "basePriceDisplay": 4450000,
+          "startingPriceDisplay": 4450000,
           "canonicalUrl": "https://bashoor.ir/menu/item/84c83ca1-e6fd-45c5-93fd-166d865422c3/%D8%B4%DB%8C%DA%A9-%D9%82%D9%87%D9%88%D9%87",
           "imageUrl": "https://bashoor.ir/menu-assets/coffee-shake.webp",
           "updatedAt": "2026-09-15T11:47:39.374Z",
@@ -1670,6 +2081,8 @@
                   "description": null,
                   "priceDeltaToman": 30000,
                   "priceToman": 475000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 4750000,
                   "imageUrl": null
                 },
                 {
@@ -1677,6 +2090,8 @@
                   "description": null,
                   "priceDeltaToman": 0,
                   "priceToman": 445000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 4450000,
                   "imageUrl": null
                 }
               ]
@@ -1696,6 +2111,8 @@
           "basePriceToman": 385000,
           "startingPriceToman": 385000,
           "startingPriceIRR": 3850000,
+          "basePriceDisplay": 3850000,
+          "startingPriceDisplay": 3850000,
           "canonicalUrl": "https://bashoor.ir/menu/item/99d0ff84-8309-4094-963e-d92cf2a9bca1/%D8%B4%DB%8C%DA%A9-%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%DA%86%DB%8C%D8%B2",
           "imageUrl": "https://bashoor.ir/menu-assets/chocolate-cheesecake-shake.webp",
           "updatedAt": "2026-08-26T16:32:09.849Z",
@@ -1714,6 +2131,8 @@
           "basePriceToman": 365000,
           "startingPriceToman": 365000,
           "startingPriceIRR": 3650000,
+          "basePriceDisplay": 3650000,
+          "startingPriceDisplay": 3650000,
           "canonicalUrl": "https://bashoor.ir/menu/item/3c9d59b5-97ca-484f-b1ee-14c40a82aff1/%D8%B4%DB%8C%DA%A9-%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D9%85%D9%88%D8%B2",
           "imageUrl": "https://bashoor.ir/menu-assets/chocolate-banana-shake.webp",
           "updatedAt": "2026-08-20T19:25:20.243Z",
@@ -1732,6 +2151,8 @@
           "basePriceToman": 610000,
           "startingPriceToman": 610000,
           "startingPriceIRR": 6100000,
+          "basePriceDisplay": 6100000,
+          "startingPriceDisplay": 6100000,
           "canonicalUrl": "https://bashoor.ir/menu/item/52a88f09-c67c-4f84-aee4-2da106ca7eec/%D8%B4%DB%8C%DA%A9-%D9%BE%D8%B3%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/menu-assets/pistachio-shake.webp",
           "updatedAt": "2026-08-26T16:32:31.780Z",
@@ -1750,6 +2171,8 @@
           "basePriceToman": 458000,
           "startingPriceToman": 458000,
           "startingPriceIRR": 4580000,
+          "basePriceDisplay": 4580000,
+          "startingPriceDisplay": 4580000,
           "canonicalUrl": "https://bashoor.ir/menu/item/4bd12d5f-50d0-46c4-8086-fe959b82f997/%D8%B4%DB%8C%DA%A9-%D8%A7%D8%B1%D8%AF%D9%87-%D8%AE%D8%B1%D9%85%D8%A7",
           "imageUrl": "https://bashoor.ir/menu-assets/tahini-date-shake.webp",
           "updatedAt": "2026-08-26T16:32:52.767Z",
@@ -1768,6 +2191,8 @@
           "basePriceToman": 568000,
           "startingPriceToman": 568000,
           "startingPriceIRR": 5680000,
+          "basePriceDisplay": 5680000,
+          "startingPriceDisplay": 5680000,
           "canonicalUrl": "https://bashoor.ir/menu/item/f0b3021e-2fe0-42e9-93fb-db444b991b22/%D8%B4%DB%8C%DA%A9-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C",
           "imageUrl": "https://bashoor.ir/menu-assets/iranian-shake.webp",
           "updatedAt": "2026-08-26T16:33:02.195Z",
@@ -1786,6 +2211,8 @@
           "basePriceToman": 344000,
           "startingPriceToman": 344000,
           "startingPriceIRR": 3440000,
+          "basePriceDisplay": 3440000,
+          "startingPriceDisplay": 3440000,
           "canonicalUrl": "https://bashoor.ir/menu/item/6cce7a0e-96e5-456a-8478-25067e52c1a0/%D8%B4%DB%8C%DA%A9-%DA%A9%D8%B1%D9%87-%D8%A8%D8%A7%D8%AF%D8%A7%D9%85-%D8%B2%D9%85%DB%8C%D9%86%DB%8C",
           "imageUrl": "https://bashoor.ir/menu-assets/peanut-butter-shake.webp",
           "updatedAt": "2026-08-26T16:33:14.928Z",
@@ -1804,6 +2231,8 @@
           "basePriceToman": 369000,
           "startingPriceToman": 369000,
           "startingPriceIRR": 3690000,
+          "basePriceDisplay": 3690000,
+          "startingPriceDisplay": 3690000,
           "canonicalUrl": "https://bashoor.ir/menu/item/c642fa7d-c9c4-4b58-bd21-f2bc3b01733e/%D8%B4%DB%8C%DA%A9-%DA%A9%D8%A7%D8%B1%D8%A7%D9%85%D9%84-%D9%86%D9%85%DA%A9%DB%8C",
           "imageUrl": "https://bashoor.ir/menu-assets/salted-caramel-shake.webp",
           "updatedAt": "2026-08-26T16:33:33.272Z",
@@ -1822,6 +2251,8 @@
           "basePriceToman": 375000,
           "startingPriceToman": 375000,
           "startingPriceIRR": 3750000,
+          "basePriceDisplay": 3750000,
+          "startingPriceDisplay": 3750000,
           "canonicalUrl": "https://bashoor.ir/menu/item/12364219-dc61-4e15-ac63-723e56d53e86/%D8%B4%DB%8C%DA%A9-%D9%84%DB%8C%D9%85%D9%88-%DA%86%DB%8C%D8%B2",
           "imageUrl": "https://bashoor.ir/menu-assets/lemon-cheesecake-shake.webp",
           "updatedAt": "2026-08-26T16:33:42.696Z",
@@ -1840,6 +2271,8 @@
           "basePriceToman": 385000,
           "startingPriceToman": 385000,
           "startingPriceIRR": 3850000,
+          "basePriceDisplay": 3850000,
+          "startingPriceDisplay": 3850000,
           "canonicalUrl": "https://bashoor.ir/menu/item/1ae44061-3000-40e7-b353-735eb5b45afa/%D8%B4%DB%8C%DA%A9-%D9%84%D9%88%D8%AA%D9%88%D8%B3",
           "imageUrl": "https://bashoor.ir/menu-assets/lotus-shake.webp",
           "updatedAt": "2026-08-26T16:33:48.532Z",
@@ -1867,6 +2300,8 @@
           "basePriceToman": 280000,
           "startingPriceToman": 280000,
           "startingPriceIRR": 2800000,
+          "basePriceDisplay": 2800000,
+          "startingPriceDisplay": 2800000,
           "canonicalUrl": "https://bashoor.ir/menu/item/a886a306-b648-4fb1-be7a-78b08ca41cd0/%DA%86%D8%A7%DB%8C-%DA%A9%D8%B1%DA%A9",
           "imageUrl": null,
           "updatedAt": "2026-08-27T15:12:36.581Z",
@@ -1885,6 +2320,8 @@
           "basePriceToman": 280000,
           "startingPriceToman": 280000,
           "startingPriceIRR": 2800000,
+          "basePriceDisplay": 2800000,
+          "startingPriceDisplay": 2800000,
           "canonicalUrl": "https://bashoor.ir/menu/item/8dacda5d-248c-4dea-b3fe-b441c2038326/%DA%86%D8%A7%DB%8C-%D9%85%D8%A7%D8%B3%D8%A7%D9%84%D8%A7",
           "imageUrl": null,
           "updatedAt": "2026-08-27T15:12:52.045Z",
@@ -1903,6 +2340,8 @@
           "basePriceToman": 285000,
           "startingPriceToman": 285000,
           "startingPriceIRR": 2850000,
+          "basePriceDisplay": 2850000,
+          "startingPriceDisplay": 2850000,
           "canonicalUrl": "https://bashoor.ir/menu/item/d00cfdfb-0980-49f2-9529-3352e72a0f78/%D8%A8%D8%B1%DB%8C-%D8%A2%DB%8C%D8%B3-%D8%AA%DB%8C",
           "imageUrl": null,
           "updatedAt": "2026-08-26T17:10:00.007Z",
@@ -1921,6 +2360,8 @@
           "basePriceToman": 210000,
           "startingPriceToman": 210000,
           "startingPriceIRR": 2100000,
+          "basePriceDisplay": 2100000,
+          "startingPriceDisplay": 2100000,
           "canonicalUrl": "https://bashoor.ir/menu/item/ee67339b-f8e5-4b01-b450-d4963c5896f7/%D8%AF%D9%85%D9%86%D9%88%D8%B4-%D9%88%D8%B5%D8%A7%D9%84",
           "imageUrl": null,
           "updatedAt": "2026-08-26T17:18:37.784Z",
@@ -1939,6 +2380,8 @@
           "basePriceToman": 195000,
           "startingPriceToman": 195000,
           "startingPriceIRR": 1950000,
+          "basePriceDisplay": 1950000,
+          "startingPriceDisplay": 1950000,
           "canonicalUrl": "https://bashoor.ir/menu/item/69dc2da7-b4da-4b26-8742-b7fc359ed98f/%D8%AF%D9%85%D9%86%D9%88%D8%B4-%DB%8C%D8%A7%D8%B3",
           "imageUrl": null,
           "updatedAt": "2026-08-26T17:18:45.738Z",
@@ -1957,47 +2400,13 @@
           "basePriceToman": 190000,
           "startingPriceToman": 190000,
           "startingPriceIRR": 1900000,
+          "basePriceDisplay": 1900000,
+          "startingPriceDisplay": 1900000,
           "canonicalUrl": "https://bashoor.ir/menu/item/16c97af3-150b-41e5-a361-ab7d7dedb8b0/%D8%AF%D9%85%D9%86%D9%88%D8%B4-%D8%AC%D8%A7%D9%86%D8%A7%D9%86",
           "imageUrl": null,
           "updatedAt": "2026-08-26T17:16:55.061Z",
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/16c97af3-150b-41e5-a361-ab7d7dedb8b0/"
-        },
-        {
-          "id": "d1ef6ee4-c39d-4bb7-b661-4a43fb999169",
-          "name": "دمنوش لیلی",
-          "nameEn": "Leili Herbal Infusion",
-          "descriptionLanguage": "fa-IR",
-          "description": "ترکیب شکوفه پرتقال ، سیب ، لبو به همراه هلو و هویج ( قابلیت سرو بصورت سرد )",
-          "kind": "hot",
-          "popular": false,
-          "available": true,
-          "basePriceToman": 195000,
-          "startingPriceToman": 195000,
-          "startingPriceIRR": 1950000,
-          "canonicalUrl": "https://bashoor.ir/menu/item/d1ef6ee4-c39d-4bb7-b661-4a43fb999169/%D8%AF%D9%85%D9%86%D9%88%D8%B4-%D9%84%DB%8C%D9%84%DB%8C",
-          "imageUrl": null,
-          "updatedAt": "2026-08-26T17:18:54.498Z",
-          "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d1ef6ee4-c39d-4bb7-b661-4a43fb999169/"
-        },
-        {
-          "id": "15747f77-a92b-4bf6-b810-2ed4d9ee6674",
-          "name": "دمنوش سیناپل",
-          "nameEn": "Cinnamon Apple Herbal Tea",
-          "descriptionLanguage": "fa-IR",
-          "description": "ترکیب کلاسیک سیب و دارچین",
-          "kind": "hot",
-          "popular": false,
-          "available": true,
-          "basePriceToman": 190000,
-          "startingPriceToman": 190000,
-          "startingPriceIRR": 1900000,
-          "canonicalUrl": "https://bashoor.ir/menu/item/15747f77-a92b-4bf6-b810-2ed4d9ee6674/%D8%AF%D9%85%D9%86%D9%88%D8%B4-%D8%B3%DB%8C%D9%86%D8%A7%D9%BE%D9%84",
-          "imageUrl": null,
-          "updatedAt": "2026-08-26T17:21:01.817Z",
-          "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/15747f77-a92b-4bf6-b810-2ed4d9ee6674/"
         },
         {
           "id": "08e8e171-117b-4ad7-a903-04cd67d4c5d9",
@@ -2008,12 +2417,14 @@
           "kind": "hot",
           "popular": true,
           "available": true,
-          "basePriceToman": 170000,
-          "startingPriceToman": 170000,
-          "startingPriceIRR": 1700000,
+          "basePriceToman": 190000,
+          "startingPriceToman": 190000,
+          "startingPriceIRR": 1900000,
+          "basePriceDisplay": 1900000,
+          "startingPriceDisplay": 1900000,
           "canonicalUrl": "https://bashoor.ir/menu/item/08e8e171-117b-4ad7-a903-04cd67d4c5d9/%DA%86%D8%A7%DB%8C-%D8%B3%DB%8C%D8%A7%D9%87",
           "imageUrl": null,
-          "updatedAt": "2026-08-26T17:23:11.591Z",
+          "updatedAt": "2026-10-10T14:48:35.993Z",
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/08e8e171-117b-4ad7-a903-04cd67d4c5d9/"
         }
@@ -2027,24 +2438,6 @@
       "canonicalUrl": "https://bashoor.ir/menu/category/752754c6-952f-4987-852d-665bd72d500d/%D8%A8%DB%8C%DA%A9%D8%B1%DB%8C",
       "items": [
         {
-          "id": "142b349e-b6cf-4055-8e4e-ba69c3ab0fe5",
-          "name": "تارت میوه ای",
-          "nameEn": "Fruit Tart",
-          "descriptionLanguage": "fa-IR",
-          "description": "تارت با میوه های تازه فصل",
-          "kind": "cold",
-          "popular": false,
-          "available": true,
-          "basePriceToman": 365000,
-          "startingPriceToman": 365000,
-          "startingPriceIRR": 3650000,
-          "canonicalUrl": "https://bashoor.ir/menu/item/142b349e-b6cf-4055-8e4e-ba69c3ab0fe5/%D8%AA%D8%A7%D8%B1%D8%AA-%D9%85%DB%8C%D9%88%D9%87-%D8%A7%DB%8C",
-          "imageUrl": "https://bashoor.ir/menu-assets/fruit-tart.webp",
-          "updatedAt": "2026-09-18T13:43:40.410Z",
-          "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/142b349e-b6cf-4055-8e4e-ba69c3ab0fe5/"
-        },
-        {
           "id": "ea3d45df-2af8-4392-95e1-e3582178d6fd",
           "name": "هویج گردو",
           "nameEn": "Carrot Walnut Cake",
@@ -2056,6 +2449,8 @@
           "basePriceToman": 290000,
           "startingPriceToman": 290000,
           "startingPriceIRR": 2900000,
+          "basePriceDisplay": 2900000,
+          "startingPriceDisplay": 2900000,
           "canonicalUrl": "https://bashoor.ir/menu/item/ea3d45df-2af8-4392-95e1-e3582178d6fd/%D9%87%D9%88%DB%8C%D8%AC-%DA%AF%D8%B1%D8%AF%D9%88",
           "imageUrl": "https://bashoor.ir/menu-assets/carrot-walnut-cake.webp",
           "updatedAt": "2026-09-18T13:44:46.760Z",
@@ -2074,29 +2469,13 @@
           "basePriceToman": 375000,
           "startingPriceToman": 375000,
           "startingPriceIRR": 3750000,
+          "basePriceDisplay": 3750000,
+          "startingPriceDisplay": 3750000,
           "canonicalUrl": "https://bashoor.ir/menu/item/3e29475f-32f2-4df1-8b8e-df90d4004e0f/%D8%B3%D9%86-%D8%B3%D8%A8%D8%A7%D8%B3%D8%AA%DB%8C%D9%86-%D8%B1%DA%98%DB%8C%D9%85%DB%8C",
           "imageUrl": "https://bashoor.ir/menu-assets/san-sebastian.webp",
           "updatedAt": "2026-09-18T13:45:12.254Z",
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/3e29475f-32f2-4df1-8b8e-df90d4004e0f/"
-        },
-        {
-          "id": "0d2e5859-46f2-4d8f-a424-c419400a9267",
-          "name": "سن سباستین پسته",
-          "nameEn": "سن سباستین پسته",
-          "descriptionLanguage": "fa-IR",
-          "description": null,
-          "kind": "hot",
-          "popular": false,
-          "available": true,
-          "basePriceToman": 420000,
-          "startingPriceToman": 420000,
-          "startingPriceIRR": 4200000,
-          "canonicalUrl": "https://bashoor.ir/menu/item/0d2e5859-46f2-4d8f-a424-c419400a9267/%D8%B3%D9%86-%D8%B3%D8%A8%D8%A7%D8%B3%D8%AA%DB%8C%D9%86-%D9%BE%D8%B3%D8%AA%D9%87",
-          "imageUrl": null,
-          "updatedAt": "2026-09-18T13:45:30.517Z",
-          "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/0d2e5859-46f2-4d8f-a424-c419400a9267/"
         },
         {
           "id": "9dada709-b888-4f18-9d71-4fcbbe865446",
@@ -2110,47 +2489,13 @@
           "basePriceToman": 340000,
           "startingPriceToman": 340000,
           "startingPriceIRR": 3400000,
+          "basePriceDisplay": 3400000,
+          "startingPriceDisplay": 3400000,
           "canonicalUrl": "https://bashoor.ir/menu/item/9dada709-b888-4f18-9d71-4fcbbe865446/%D8%AC%D8%A7%D8%B1-%DA%A9%DB%8C%DA%A9-%D8%AA%DB%8C%D8%B1%D8%A7%D9%85%DB%8C%D8%B3%D9%88",
           "imageUrl": null,
           "updatedAt": "2026-09-18T13:57:08.752Z",
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/9dada709-b888-4f18-9d71-4fcbbe865446/"
-        },
-        {
-          "id": "6a2194f6-4ebd-480b-85da-49270d63b30c",
-          "name": "جار کیک ردولوت",
-          "nameEn": "جار کیک ردولوت",
-          "descriptionLanguage": "fa-IR",
-          "description": null,
-          "kind": "hot",
-          "popular": false,
-          "available": true,
-          "basePriceToman": 310000,
-          "startingPriceToman": 310000,
-          "startingPriceIRR": 3100000,
-          "canonicalUrl": "https://bashoor.ir/menu/item/6a2194f6-4ebd-480b-85da-49270d63b30c/%D8%AC%D8%A7%D8%B1-%DA%A9%DB%8C%DA%A9-%D8%B1%D8%AF%D9%88%D9%84%D9%88%D8%AA",
-          "imageUrl": null,
-          "updatedAt": "2026-09-18T13:57:24.013Z",
-          "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6a2194f6-4ebd-480b-85da-49270d63b30c/"
-        },
-        {
-          "id": "00a9e59a-c5d7-4469-87a0-e7b851fac47c",
-          "name": "کیک براونی نوتلا آمریکایی",
-          "nameEn": "کیک براونی نوتلا آمریکایی",
-          "descriptionLanguage": "fa-IR",
-          "description": null,
-          "kind": "hot",
-          "popular": false,
-          "available": true,
-          "basePriceToman": 435000,
-          "startingPriceToman": 435000,
-          "startingPriceIRR": 4350000,
-          "canonicalUrl": "https://bashoor.ir/menu/item/00a9e59a-c5d7-4469-87a0-e7b851fac47c/%DA%A9%DB%8C%DA%A9-%D8%A8%D8%B1%D8%A7%D9%88%D9%86%DB%8C-%D9%86%D9%88%D8%AA%D9%84%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C",
-          "imageUrl": null,
-          "updatedAt": "2026-09-18T13:57:46.009Z",
-          "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/00a9e59a-c5d7-4469-87a0-e7b851fac47c/"
         },
         {
           "id": "5114e60f-1483-4b53-8800-19e4b6cad342",
@@ -2164,6 +2509,8 @@
           "basePriceToman": 340000,
           "startingPriceToman": 340000,
           "startingPriceIRR": 3400000,
+          "basePriceDisplay": 3400000,
+          "startingPriceDisplay": 3400000,
           "canonicalUrl": "https://bashoor.ir/menu/item/5114e60f-1483-4b53-8800-19e4b6cad342/%DA%A9%DB%8C%DA%A9-%D8%A8%D8%A7%D9%82%D9%84%D9%88%D8%A7",
           "imageUrl": "https://bashoor.ir/menu-assets/baklava-cake.webp",
           "updatedAt": "2026-09-18T13:58:11.779Z",
@@ -2182,65 +2529,13 @@
           "basePriceToman": 350000,
           "startingPriceToman": 350000,
           "startingPriceIRR": 3500000,
+          "basePriceDisplay": 3500000,
+          "startingPriceDisplay": 3500000,
           "canonicalUrl": "https://bashoor.ir/menu/item/c65587a8-e6af-4242-bc3c-65a3ab9b5903/%DA%A9%DB%8C%DA%A9-%D9%85%DA%AF%D9%86%D9%88%D9%85",
           "imageUrl": null,
           "updatedAt": "2026-09-18T14:10:04.768Z",
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/c65587a8-e6af-4242-bc3c-65a3ab9b5903/"
-        },
-        {
-          "id": "a21b6220-8435-4a14-885f-6982aadb919a",
-          "name": "کیک کارامل نمکی",
-          "nameEn": "کیک کارامل نمکی",
-          "descriptionLanguage": "fa-IR",
-          "description": "کیک کارامل نمکی با نمک دریا",
-          "kind": "hot",
-          "popular": false,
-          "available": true,
-          "basePriceToman": 440000,
-          "startingPriceToman": 440000,
-          "startingPriceIRR": 4400000,
-          "canonicalUrl": "https://bashoor.ir/menu/item/a21b6220-8435-4a14-885f-6982aadb919a/%DA%A9%DB%8C%DA%A9-%DA%A9%D8%A7%D8%B1%D8%A7%D9%85%D9%84-%D9%86%D9%85%DA%A9%DB%8C",
-          "imageUrl": null,
-          "updatedAt": "2026-09-18T14:19:59.576Z",
-          "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/a21b6220-8435-4a14-885f-6982aadb919a/"
-        },
-        {
-          "id": "47cfd5a8-f4ca-43e2-850d-066e61b7c65d",
-          "name": "کوکی ردولوت",
-          "nameEn": "کوکی ردولوت",
-          "descriptionLanguage": "fa-IR",
-          "description": null,
-          "kind": "hot",
-          "popular": false,
-          "available": true,
-          "basePriceToman": 125000,
-          "startingPriceToman": 125000,
-          "startingPriceIRR": 1250000,
-          "canonicalUrl": "https://bashoor.ir/menu/item/47cfd5a8-f4ca-43e2-850d-066e61b7c65d/%DA%A9%D9%88%DA%A9%DB%8C-%D8%B1%D8%AF%D9%88%D9%84%D9%88%D8%AA",
-          "imageUrl": null,
-          "updatedAt": "2026-09-18T14:23:29.146Z",
-          "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/47cfd5a8-f4ca-43e2-850d-066e61b7c65d/"
-        },
-        {
-          "id": "21f3a8f6-caba-4337-936e-653bf0fe4750",
-          "name": "کوکی شکلاتی",
-          "nameEn": "کوکی شکلاتی",
-          "descriptionLanguage": "fa-IR",
-          "description": "کوکی تازه شکلات گردو",
-          "kind": "hot",
-          "popular": false,
-          "available": true,
-          "basePriceToman": 110000,
-          "startingPriceToman": 110000,
-          "startingPriceIRR": 1100000,
-          "canonicalUrl": "https://bashoor.ir/menu/item/21f3a8f6-caba-4337-936e-653bf0fe4750/%DA%A9%D9%88%DA%A9%DB%8C-%D8%B4%DA%A9%D9%84%D8%A7%D8%AA%DB%8C",
-          "imageUrl": "https://bashoor.ir/menu-assets/chocolate-walnut-cookie.webp",
-          "updatedAt": "2026-09-18T14:23:40.404Z",
-          "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/21f3a8f6-caba-4337-936e-653bf0fe4750/"
         },
         {
           "id": "d0881717-b3e3-4966-883c-fae182e832bd",
@@ -2254,9 +2549,11 @@
           "basePriceToman": 110000,
           "startingPriceToman": 110000,
           "startingPriceIRR": 1100000,
+          "basePriceDisplay": 1100000,
+          "startingPriceDisplay": 1100000,
           "canonicalUrl": "https://bashoor.ir/menu/item/d0881717-b3e3-4966-883c-fae182e832bd/%DA%A9%D9%88%DA%A9%DB%8C-%D9%86%DB%8C%D9%88%DB%8C%D9%88%D8%B1%DA%A9%DB%8C",
           "imageUrl": "https://bashoor.ir/menu-assets/healthy-cookie.webp",
-          "updatedAt": "2026-09-18T14:25:43.552Z",
+          "updatedAt": "2026-10-08T16:36:46.378Z",
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d0881717-b3e3-4966-883c-fae182e832bd/"
         },
@@ -2272,6 +2569,8 @@
           "basePriceToman": 15000,
           "startingPriceToman": 15000,
           "startingPriceIRR": 150000,
+          "basePriceDisplay": 150000,
+          "startingPriceDisplay": 150000,
           "canonicalUrl": "https://bashoor.ir/menu/item/6499d378-e4da-45bf-b7c9-0ca3959cfca3/%D8%A8%DA%86%D9%87-%DA%A9%D9%88%DA%A9%DB%8C",
           "imageUrl": "https://bashoor.ir/menu-assets/baby-cookie.webp",
           "updatedAt": "2026-09-18T14:04:49.305Z",
@@ -2290,6 +2589,8 @@
           "basePriceToman": 20000,
           "startingPriceToman": 20000,
           "startingPriceIRR": 200000,
+          "basePriceDisplay": 200000,
+          "startingPriceDisplay": 200000,
           "canonicalUrl": "https://bashoor.ir/menu/item/2fdeccd0-f385-41f8-ba13-4a355ba1fd48/%D8%A8%DB%8C%D8%B3%DA%A9%D8%A7%D8%AA%DB%8C",
           "imageUrl": "https://bashoor.ir/menu-assets/biscotti.webp",
           "updatedAt": "2026-09-18T14:05:11.505Z",
@@ -2306,6 +2607,146 @@
       "canonicalUrl": "https://bashoor.ir/menu/category/28a88290-0040-4daa-a1c7-ced31649fd4a/%D8%BA%D8%B0%D8%A7",
       "items": [
         {
+          "id": "cec8f3b1-5433-4cdd-b43a-c903fafe0e75",
+          "name": "املت",
+          "nameEn": "املت",
+          "descriptionLanguage": "fa-IR",
+          "description": null,
+          "kind": "food",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 295000,
+          "startingPriceToman": 295000,
+          "startingPriceIRR": 2950000,
+          "basePriceDisplay": 2950000,
+          "startingPriceDisplay": 2950000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/cec8f3b1-5433-4cdd-b43a-c903fafe0e75/%D8%A7%D9%85%D9%84%D8%AA",
+          "imageUrl": null,
+          "updatedAt": "2026-10-01T09:49:06.577Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/cec8f3b1-5433-4cdd-b43a-c903fafe0e75/"
+        },
+        {
+          "id": "cc1783c8-6f1a-49a8-9ba1-3f3cf52e7d44",
+          "name": "املت باشور",
+          "nameEn": "املت باشور",
+          "descriptionLanguage": "fa-IR",
+          "description": null,
+          "kind": "food",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 0,
+          "startingPriceToman": 0,
+          "startingPriceIRR": 0,
+          "basePriceDisplay": 0,
+          "startingPriceDisplay": 0,
+          "canonicalUrl": "https://bashoor.ir/menu/item/cc1783c8-6f1a-49a8-9ba1-3f3cf52e7d44/%D8%A7%D9%85%D9%84%D8%AA-%D8%A8%D8%A7%D8%B4%D9%88%D8%B1",
+          "imageUrl": null,
+          "updatedAt": "2026-09-28T15:11:17.635Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/cc1783c8-6f1a-49a8-9ba1-3f3cf52e7d44/"
+        },
+        {
+          "id": "8945d97d-d639-4388-9e84-e9bec42f785c",
+          "name": "املت باکور",
+          "nameEn": "املت باکور",
+          "descriptionLanguage": "fa-IR",
+          "description": null,
+          "kind": "food",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 0,
+          "startingPriceToman": 0,
+          "startingPriceIRR": 0,
+          "basePriceDisplay": 0,
+          "startingPriceDisplay": 0,
+          "canonicalUrl": "https://bashoor.ir/menu/item/8945d97d-d639-4388-9e84-e9bec42f785c/%D8%A7%D9%85%D9%84%D8%AA-%D8%A8%D8%A7%DA%A9%D9%88%D8%B1",
+          "imageUrl": null,
+          "updatedAt": "2026-09-28T15:11:22.766Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/8945d97d-d639-4388-9e84-e9bec42f785c/"
+        },
+        {
+          "id": "b5a75768-2a7e-4eea-8114-d566100d334d",
+          "name": "پاستا پستو",
+          "nameEn": "پاستا پستو",
+          "descriptionLanguage": "fa-IR",
+          "description": null,
+          "kind": "food",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 610000,
+          "startingPriceToman": 610000,
+          "startingPriceIRR": 6100000,
+          "basePriceDisplay": 6100000,
+          "startingPriceDisplay": 6100000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/b5a75768-2a7e-4eea-8114-d566100d334d/%D9%BE%D8%A7%D8%B3%D8%AA%D8%A7-%D9%BE%D8%B3%D8%AA%D9%88",
+          "imageUrl": null,
+          "updatedAt": "2026-09-28T15:13:30.337Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/b5a75768-2a7e-4eea-8114-d566100d334d/"
+        },
+        {
+          "id": "1d64935b-1b0e-482e-934e-f9e7704ee940",
+          "name": "تخم مرغ بیکن",
+          "nameEn": "تخم مرغ بیکن",
+          "descriptionLanguage": "fa-IR",
+          "description": null,
+          "kind": "food",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 0,
+          "startingPriceToman": 0,
+          "startingPriceIRR": 0,
+          "basePriceDisplay": 0,
+          "startingPriceDisplay": 0,
+          "canonicalUrl": "https://bashoor.ir/menu/item/1d64935b-1b0e-482e-934e-f9e7704ee940/%D8%AA%D8%AE%D9%85-%D9%85%D8%B1%D8%BA-%D8%A8%DB%8C%DA%A9%D9%86",
+          "imageUrl": null,
+          "updatedAt": "2026-09-28T15:11:32.274Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/1d64935b-1b0e-482e-934e-f9e7704ee940/"
+        },
+        {
+          "id": "4f44927e-bdd2-4b66-9dd0-71b44c91758c",
+          "name": "صبحانه سرد",
+          "nameEn": "صبحانه سرد",
+          "descriptionLanguage": "fa-IR",
+          "description": null,
+          "kind": "food",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 0,
+          "startingPriceToman": 0,
+          "startingPriceIRR": 0,
+          "basePriceDisplay": 0,
+          "startingPriceDisplay": 0,
+          "canonicalUrl": "https://bashoor.ir/menu/item/4f44927e-bdd2-4b66-9dd0-71b44c91758c/%D8%B5%D8%A8%D8%AD%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%D8%AF",
+          "imageUrl": null,
+          "updatedAt": "2026-09-28T15:12:40.704Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/4f44927e-bdd2-4b66-9dd0-71b44c91758c/"
+        },
+        {
+          "id": "728b6abe-6c52-4571-9f3b-159ea0a3ae86",
+          "name": "کلاب آلفردو",
+          "nameEn": "کلاب آلفردو",
+          "descriptionLanguage": "fa-IR",
+          "description": null,
+          "kind": "food",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 0,
+          "startingPriceToman": 0,
+          "startingPriceIRR": 0,
+          "basePriceDisplay": 0,
+          "startingPriceDisplay": 0,
+          "canonicalUrl": "https://bashoor.ir/menu/item/728b6abe-6c52-4571-9f3b-159ea0a3ae86/%DA%A9%D9%84%D8%A7%D8%A8-%D8%A2%D9%84%D9%81%D8%B1%D8%AF%D9%88",
+          "imageUrl": null,
+          "updatedAt": "2026-09-28T18:07:07.387Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/728b6abe-6c52-4571-9f3b-159ea0a3ae86/"
+        },
+        {
           "id": "9dacd2a1-abd3-41ee-9334-393519a442b8",
           "name": "کلاب باربیکیو",
           "nameEn": "کلاب باربیکیو",
@@ -2317,11 +2758,113 @@
           "basePriceToman": 385000,
           "startingPriceToman": 385000,
           "startingPriceIRR": 3850000,
+          "basePriceDisplay": 3850000,
+          "startingPriceDisplay": 3850000,
           "canonicalUrl": "https://bashoor.ir/menu/item/9dacd2a1-abd3-41ee-9334-393519a442b8/%DA%A9%D9%84%D8%A7%D8%A8-%D8%A8%D8%A7%D8%B1%D8%A8%DB%8C%DA%A9%DB%8C%D9%88",
           "imageUrl": null,
           "updatedAt": "2026-09-20T20:08:04.568Z",
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/9dacd2a1-abd3-41ee-9334-393519a442b8/"
+        },
+        {
+          "id": "6e67d41a-b568-49cf-b1b8-041595a73f1f",
+          "name": "کلاب بیکن",
+          "nameEn": "کلاب بیکن",
+          "descriptionLanguage": "fa-IR",
+          "description": null,
+          "kind": "food",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 455000,
+          "startingPriceToman": 455000,
+          "startingPriceIRR": 4550000,
+          "basePriceDisplay": 4550000,
+          "startingPriceDisplay": 4550000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/6e67d41a-b568-49cf-b1b8-041595a73f1f/%DA%A9%D9%84%D8%A7%D8%A8-%D8%A8%DB%8C%DA%A9%D9%86",
+          "imageUrl": null,
+          "updatedAt": "2026-10-01T19:37:06.159Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6e67d41a-b568-49cf-b1b8-041595a73f1f/"
+        },
+        {
+          "id": "79838ce9-9788-469e-80e9-04c782b70898",
+          "name": "کلاب پپرونی",
+          "nameEn": "کلاب پپرونی",
+          "descriptionLanguage": "fa-IR",
+          "description": null,
+          "kind": "food",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 385000,
+          "startingPriceToman": 385000,
+          "startingPriceIRR": 3850000,
+          "basePriceDisplay": 3850000,
+          "startingPriceDisplay": 3850000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/79838ce9-9788-469e-80e9-04c782b70898/%DA%A9%D9%84%D8%A7%D8%A8-%D9%BE%D9%BE%D8%B1%D9%88%D9%86%DB%8C",
+          "imageUrl": null,
+          "updatedAt": "2026-09-29T12:53:33.033Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/79838ce9-9788-469e-80e9-04c782b70898/"
+        },
+        {
+          "id": "dc47253e-0768-42c7-95b9-3683aa8d2258",
+          "name": "نیمرو",
+          "nameEn": "نیمرو",
+          "descriptionLanguage": "fa-IR",
+          "description": null,
+          "kind": "food",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 0,
+          "startingPriceToman": 0,
+          "startingPriceIRR": 0,
+          "basePriceDisplay": 0,
+          "startingPriceDisplay": 0,
+          "canonicalUrl": "https://bashoor.ir/menu/item/dc47253e-0768-42c7-95b9-3683aa8d2258/%D9%86%DB%8C%D9%85%D8%B1%D9%88",
+          "imageUrl": null,
+          "updatedAt": "2026-09-28T18:07:22.871Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/dc47253e-0768-42c7-95b9-3683aa8d2258/"
+        },
+        {
+          "id": "c4f1855b-8e6f-4239-99e1-a050ca3d1cff",
+          "name": "نیمرو ارده خرما",
+          "nameEn": "نیمرو ارده خرما",
+          "descriptionLanguage": "fa-IR",
+          "description": null,
+          "kind": "food",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 0,
+          "startingPriceToman": 0,
+          "startingPriceIRR": 0,
+          "basePriceDisplay": 0,
+          "startingPriceDisplay": 0,
+          "canonicalUrl": "https://bashoor.ir/menu/item/c4f1855b-8e6f-4239-99e1-a050ca3d1cff/%D9%86%DB%8C%D9%85%D8%B1%D9%88-%D8%A7%D8%B1%D8%AF%D9%87-%D8%AE%D8%B1%D9%85%D8%A7",
+          "imageUrl": null,
+          "updatedAt": "2026-09-28T18:07:42.314Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/c4f1855b-8e6f-4239-99e1-a050ca3d1cff/"
+        },
+        {
+          "id": "ff954591-3950-4d9c-b77a-a3b8c750cfcc",
+          "name": "نیمرو پپرونی",
+          "nameEn": "نیمرو پپرونی",
+          "descriptionLanguage": "fa-IR",
+          "description": null,
+          "kind": "food",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 0,
+          "startingPriceToman": 0,
+          "startingPriceIRR": 0,
+          "basePriceDisplay": 0,
+          "startingPriceDisplay": 0,
+          "canonicalUrl": "https://bashoor.ir/menu/item/ff954591-3950-4d9c-b77a-a3b8c750cfcc/%D9%86%DB%8C%D9%85%D8%B1%D9%88-%D9%BE%D9%BE%D8%B1%D9%88%D9%86%DB%8C",
+          "imageUrl": null,
+          "updatedAt": "2026-09-28T18:07:47.000Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ff954591-3950-4d9c-b77a-a3b8c750cfcc/"
         },
         {
           "id": "968285c6-66b6-412f-a8d5-5be90086a1e6",
@@ -2335,6 +2878,8 @@
           "basePriceToman": 685000,
           "startingPriceToman": 685000,
           "startingPriceIRR": 6850000,
+          "basePriceDisplay": 6850000,
+          "startingPriceDisplay": 6850000,
           "canonicalUrl": "https://bashoor.ir/menu/item/968285c6-66b6-412f-a8d5-5be90086a1e6/%D9%BE%D8%A7%D8%B3%D8%AA%D8%A7-%D8%A2%D9%84%D9%81%D8%B1%D8%AF%D9%88",
           "imageUrl": null,
           "updatedAt": "2026-09-20T13:47:45.891Z",
