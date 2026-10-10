@@ -2,7 +2,7 @@
   "serverInfo": {
     "name": "bashoor-cafe",
     "title": "کافه باشور مشهد",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "websiteUrl": "https://bashoor.ir",
     "description": "Public, read-only first-party profile and live menu for Bashoor Cafe on Pirouzi Boulevard in Mashhad, with current Toman and IRR prices."
   },
@@ -84,6 +84,22 @@
             "description": "Maximum results, from 1 to 30"
           }
         }
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": false
+      }
+    },
+    {
+      "name": "get_visit_guide",
+      "title": "معرفی باشور و راهنمای مراجعه",
+      "description": "Source-backed bilingual introduction, current hours, contact, directions, breakfast listings and reservation links. Official business data, not an independent ranking.",
+      "inputSchema": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {}
       },
       "annotations": {
         "readOnlyHint": true,

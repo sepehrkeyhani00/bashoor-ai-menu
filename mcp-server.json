@@ -2,14 +2,16 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.sepehrkeyhani00/bashoor-menu",
   "title": "Bashoor Cafe Mashhad — منوی زنده و قیمت‌ها",
-  "description": "کافه باشور پیروزی مشهد: منوی زنده و قیمت‌ها | Bashoor Cafe live menu and prices",
-  "version": "1.0.2",
+  "description": "Official Bashoor Cafe Mashhad: live menu, current prices, bilingual visit guide, opening hours, directions and reservations",
+  "version": "1.2.0",
   "websiteUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
   "icons": [
     {
       "src": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/icon-192.png",
       "mimeType": "image/png",
-      "sizes": ["192x192"]
+      "sizes": [
+        "192x192"
+      ]
     }
   ],
   "remotes": [
