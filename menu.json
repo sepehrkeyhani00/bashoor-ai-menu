@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-10T19:02:13.099Z",
+  "generatedAt": "2026-10-10T19:25:10.508Z",
   "lastMenuUpdate": "2026-10-10T14:48:35.993Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
@@ -84,13 +84,13 @@
     {
       "id": "25fc6c33-9c32-4cbe-8e98-c0d71f2d0339",
       "name": "اکسترا",
-      "nameEn": "اکسترا",
+      "nameEn": "Extras",
       "canonicalUrl": "https://bashoor.ir/menu/category/25fc6c33-9c32-4cbe-8e98-c0d71f2d0339/%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%D8%A7",
       "items": [
         {
           "id": "b439b726-2f6d-45bb-bbb1-62f5ea06d4c1",
           "name": "آب معدنی",
-          "nameEn": "آب معدنی",
+          "nameEn": "Mineral Water",
           "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "hot",
@@ -105,12 +105,15 @@
           "imageUrl": null,
           "updatedAt": "2026-09-20T11:43:11.645Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/b439b726-2f6d-45bb-bbb1-62f5ea06d4c1/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/b439b726-2f6d-45bb-bbb1-62f5ea06d4c1/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 25٬000 تومان",
+          "priceLabelEn": "from 25٬000 Toman"
         },
         {
           "id": "93127fab-d7f7-4b8b-af6f-e04b196c6922",
           "name": "سیروپ اضافه",
-          "nameEn": "سیروپ اضافه",
+          "nameEn": "Extra Syrup",
           "descriptionLanguage": "fa-IR",
           "description": "افزودن ۳۰-۴۰ میل سیروپ دلخواه شما",
           "kind": "hot",
@@ -125,12 +128,15 @@
           "imageUrl": null,
           "updatedAt": "2026-09-20T11:42:59.964Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/93127fab-d7f7-4b8b-af6f-e04b196c6922/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/93127fab-d7f7-4b8b-af6f-e04b196c6922/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 50٬000 تومان",
+          "priceLabelEn": "from 50٬000 Toman"
         },
         {
           "id": "d4bbe778-063e-4ec1-8f17-64b579d78d1d",
           "name": "نوشابه شیشه ای مشکی",
-          "nameEn": "نوشابه شیشه ای مشکی",
+          "nameEn": "Bottled Cola",
           "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "food",
@@ -145,12 +151,15 @@
           "imageUrl": null,
           "updatedAt": "2026-09-30T09:06:52.444Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d4bbe778-063e-4ec1-8f17-64b579d78d1d/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d4bbe778-063e-4ec1-8f17-64b579d78d1d/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 100٬000 تومان",
+          "priceLabelEn": "from 100٬000 Toman"
         },
         {
           "id": "259b5e25-6d3c-44ec-b798-f633ee2dfd16",
           "name": "نوشابه شیشه ای اسپرایت",
-          "nameEn": "نوشابه شیشه ای اسپرایت",
+          "nameEn": "Bottled Sprite",
           "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "food",
@@ -165,7 +174,10 @@
           "imageUrl": null,
           "updatedAt": "2026-09-30T09:06:25.011Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/259b5e25-6d3c-44ec-b798-f633ee2dfd16/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/259b5e25-6d3c-44ec-b798-f633ee2dfd16/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 100٬000 تومان",
+          "priceLabelEn": "from 100٬000 Toman"
         }
       ],
       "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/25fc6c33-9c32-4cbe-8e98-c0d71f2d0339/"
@@ -173,13 +185,13 @@
     {
       "id": "3367b826-0126-4534-b81f-f94857035579",
       "name": "ماچا بار",
-      "nameEn": "ماچا بار",
+      "nameEn": "Matcha bar",
       "canonicalUrl": "https://bashoor.ir/menu/category/3367b826-0126-4534-b81f-f94857035579/%D9%85%D8%A7%DA%86%D8%A7-%D8%A8%D8%A7%D8%B1",
       "items": [
         {
           "id": "73cd1f38-1a7b-4d07-908d-5212bcddb945",
           "name": "ماچا لاته",
-          "nameEn": "ماچا لاته",
+          "nameEn": "Matcha Latte",
           "descriptionLanguage": "fa-IR",
           "description": "شیر سرد به همراه یخ و ماچا",
           "kind": "cold",
@@ -194,12 +206,15 @@
           "imageUrl": null,
           "updatedAt": "2026-09-25T10:23:50.309Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/73cd1f38-1a7b-4d07-908d-5212bcddb945/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/73cd1f38-1a7b-4d07-908d-5212bcddb945/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 313٬000 تومان",
+          "priceLabelEn": "from 313٬000 Toman"
         },
         {
           "id": "2ab814d8-0373-4d1e-9e14-d3f5f1681cb2",
           "name": "مانگو ماچا",
-          "nameEn": "مانگو ماچا",
+          "nameEn": "Mango Matcha",
           "descriptionLanguage": "fa-IR",
           "description": "شیر سرد به همراه انبه و ماچا",
           "kind": "cold",
@@ -214,12 +229,15 @@
           "imageUrl": null,
           "updatedAt": "2026-09-25T10:23:19.531Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/2ab814d8-0373-4d1e-9e14-d3f5f1681cb2/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/2ab814d8-0373-4d1e-9e14-d3f5f1681cb2/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 355٬000 تومان",
+          "priceLabelEn": "from 355٬000 Toman"
         },
         {
           "id": "b6e4cd0b-8828-4df0-8c70-2b3a5c6739a1",
           "name": "استرابری ماچا",
-          "nameEn": "استرابری ماچا",
+          "nameEn": "Strawberry Matcha",
           "descriptionLanguage": "fa-IR",
           "description": "شیر سرد به همراه یخ ، توتفرنگی و ماچا",
           "kind": "cold",
@@ -234,12 +252,15 @@
           "imageUrl": null,
           "updatedAt": "2026-09-25T10:23:32.847Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/b6e4cd0b-8828-4df0-8c70-2b3a5c6739a1/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/b6e4cd0b-8828-4df0-8c70-2b3a5c6739a1/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 355٬000 تومان",
+          "priceLabelEn": "from 355٬000 Toman"
         },
         {
           "id": "60c4b762-8e1f-4b5c-91d5-d91b0b350800",
           "name": "پیستاشیو ماچا",
-          "nameEn": "پیستاشیو ماچا",
+          "nameEn": "Pistachio Matcha",
           "descriptionLanguage": "fa-IR",
           "description": "شیر پسته سرد به همراه کره پسته و ماچا",
           "kind": "cold",
@@ -254,12 +275,15 @@
           "imageUrl": null,
           "updatedAt": "2026-09-25T10:26:54.339Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/60c4b762-8e1f-4b5c-91d5-d91b0b350800/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/60c4b762-8e1f-4b5c-91d5-d91b0b350800/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 455٬000 تومان",
+          "priceLabelEn": "from 455٬000 Toman"
         },
         {
           "id": "78948b05-95ad-4617-8bec-ca2396836105",
           "name": "کوکو ماچا",
-          "nameEn": "کوکو ماچا",
+          "nameEn": "Coconut Matcha",
           "descriptionLanguage": "fa-IR",
           "description": "شیر نارگیل سرد به همراه یخ ، سیروپ و ماچا",
           "kind": "cold",
@@ -274,12 +298,15 @@
           "imageUrl": null,
           "updatedAt": "2026-09-25T10:26:49.346Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/78948b05-95ad-4617-8bec-ca2396836105/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/78948b05-95ad-4617-8bec-ca2396836105/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 425٬000 تومان",
+          "priceLabelEn": "from 425٬000 Toman"
         },
         {
           "id": "19a89fc9-13c1-46ed-91fa-55fca651d9ce",
           "name": "بلوبری ماچا",
-          "nameEn": "بلوبری ماچا",
+          "nameEn": "Blueberry Matcha",
           "descriptionLanguage": "fa-IR",
           "description": "ترکیب شیر سرد و یخ ، بلوبری و ماچا",
           "kind": "cold",
@@ -294,12 +321,15 @@
           "imageUrl": null,
           "updatedAt": "2026-09-25T10:26:10.210Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/19a89fc9-13c1-46ed-91fa-55fca651d9ce/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/19a89fc9-13c1-46ed-91fa-55fca651d9ce/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 375٬000 تومان",
+          "priceLabelEn": "from 375٬000 Toman"
         },
         {
           "id": "2ff84764-2dd6-4173-a0d1-5946d395e4f4",
           "name": "چری ماچا",
-          "nameEn": "چری ماچا",
+          "nameEn": "Cherry Matcha",
           "descriptionLanguage": "fa-IR",
           "description": "ترکیب شیر سرد و یخ ، آلبالو و ماچا",
           "kind": "cold",
@@ -314,7 +344,10 @@
           "imageUrl": null,
           "updatedAt": "2026-09-25T10:25:50.615Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/2ff84764-2dd6-4173-a0d1-5946d395e4f4/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/2ff84764-2dd6-4173-a0d1-5946d395e4f4/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 355٬000 تومان",
+          "priceLabelEn": "from 355٬000 Toman"
         }
       ],
       "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/3367b826-0126-4534-b81f-f94857035579/"
@@ -369,7 +402,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/7b0f19ed-3be8-4a07-8db2-674a71f827ec/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/7b0f19ed-3be8-4a07-8db2-674a71f827ec/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 160٬000 تومان",
+          "priceLabelEn": "from 160٬000 Toman"
         },
         {
           "id": "cb25eb0b-5187-4081-9f03-37f5939cf476",
@@ -415,7 +451,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/cb25eb0b-5187-4081-9f03-37f5939cf476/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/cb25eb0b-5187-4081-9f03-37f5939cf476/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 170٬000 تومان",
+          "priceLabelEn": "from 170٬000 Toman"
         },
         {
           "id": "ea645fcc-c151-4b00-9fff-474a8b967157",
@@ -461,7 +500,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ea645fcc-c151-4b00-9fff-474a8b967157/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ea645fcc-c151-4b00-9fff-474a8b967157/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 245٬000 تومان",
+          "priceLabelEn": "from 245٬000 Toman"
         },
         {
           "id": "3d51a120-5600-4ac6-ae15-3ab40157b6c5",
@@ -507,7 +549,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/3d51a120-5600-4ac6-ae15-3ab40157b6c5/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/3d51a120-5600-4ac6-ae15-3ab40157b6c5/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 245٬000 تومان",
+          "priceLabelEn": "from 245٬000 Toman"
         },
         {
           "id": "8949dee1-dc96-4d06-9652-9f800189185a",
@@ -553,7 +598,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/8949dee1-dc96-4d06-9652-9f800189185a/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/8949dee1-dc96-4d06-9652-9f800189185a/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 295٬000 تومان",
+          "priceLabelEn": "from 295٬000 Toman"
         },
         {
           "id": "d5ce63ae-469e-4c98-895d-a367cfe75f00",
@@ -599,7 +647,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d5ce63ae-469e-4c98-895d-a367cfe75f00/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d5ce63ae-469e-4c98-895d-a367cfe75f00/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 345٬000 تومان",
+          "priceLabelEn": "from 345٬000 Toman"
         },
         {
           "id": "b4beaa15-631c-487a-8242-0185f66897fd",
@@ -645,7 +696,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/b4beaa15-631c-487a-8242-0185f66897fd/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/b4beaa15-631c-487a-8242-0185f66897fd/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 285٬000 تومان",
+          "priceLabelEn": "from 285٬000 Toman"
         },
         {
           "id": "f5c38d07-95d6-4477-a2de-10c445d6675a",
@@ -665,7 +719,10 @@
           "imageUrl": "https://bashoor.ir/uploads/img_1786745034449_372875901.webp",
           "updatedAt": "2026-08-26T16:20:22.967Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f5c38d07-95d6-4477-a2de-10c445d6675a/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f5c38d07-95d6-4477-a2de-10c445d6675a/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 215٬000 تومان",
+          "priceLabelEn": "from 215٬000 Toman"
         }
       ],
       "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/92213ebc-331c-48ac-9e0a-53f4e79a9615/"
@@ -673,13 +730,13 @@
     {
       "id": "79ccc0cf-bdbf-4417-a173-be42f77ba220",
       "name": "نوشیدنی های پاییزی 🍁🍂",
-      "nameEn": "نوشیدنی های پاییزی 🍁🍂",
+      "nameEn": "Autumn drinks",
       "canonicalUrl": "https://bashoor.ir/menu/category/79ccc0cf-bdbf-4417-a173-be42f77ba220/%D9%86%D9%88%D8%B4%DB%8C%D8%AF%D9%86%DB%8C-%D9%87%D8%A7%DB%8C-%D9%BE%D8%A7%DB%8C%DB%8C%D8%B2%DB%8C",
       "items": [
         {
           "id": "658702da-6d0e-4989-9b4a-debbb8ff7bfa",
           "name": "شیر پسته زعفران",
-          "nameEn": "شیر پسته زعفران",
+          "nameEn": "Saffron Pistachio Milk",
           "descriptionLanguage": "fa-IR",
           "description": "شیر پسته زعفران ( شیرین )",
           "kind": "hot",
@@ -694,12 +751,15 @@
           "imageUrl": null,
           "updatedAt": "2026-10-03T13:04:03.430Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/658702da-6d0e-4989-9b4a-debbb8ff7bfa/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/658702da-6d0e-4989-9b4a-debbb8ff7bfa/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 365٬000 تومان",
+          "priceLabelEn": "from 365٬000 Toman"
         },
         {
           "id": "5ae3003a-5b8f-47e0-8bab-db436e19f154",
           "name": "لاته پامپکین",
-          "nameEn": "لاته پامپکین",
+          "nameEn": "Pumpkin Latte",
           "descriptionLanguage": "fa-IR",
           "description": "ترکیب شیر ، قهوه و کدو حلوایی و دارچین",
           "kind": "hot",
@@ -740,12 +800,15 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/5ae3003a-5b8f-47e0-8bab-db436e19f154/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/5ae3003a-5b8f-47e0-8bab-db436e19f154/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 355٬000 تومان",
+          "priceLabelEn": "from 355٬000 Toman"
         },
         {
           "id": "c8b2316a-8643-4fa4-a018-b16eff855f33",
           "name": "اورنج چاکلت",
-          "nameEn": "اورنج چاکلت",
+          "nameEn": "Orange Chocolate",
           "descriptionLanguage": "fa-IR",
           "description": "ترکیب آب پرتقال و شکلات گرم",
           "kind": "hot",
@@ -760,7 +823,10 @@
           "imageUrl": null,
           "updatedAt": "2026-10-03T13:06:05.741Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/c8b2316a-8643-4fa4-a018-b16eff855f33/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/c8b2316a-8643-4fa4-a018-b16eff855f33/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 345٬000 تومان",
+          "priceLabelEn": "from 345٬000 Toman"
         }
       ],
       "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/79ccc0cf-bdbf-4417-a173-be42f77ba220/"
@@ -774,7 +840,7 @@
         {
           "id": "efeda9bc-e6b2-4c13-9b62-df0262f3e90a",
           "name": "فِرِدو اسپرسو",
-          "nameEn": "فِرِدو اسپرسو",
+          "nameEn": "Freddo Espresso",
           "descriptionLanguage": "fa-IR",
           "description": "وانیل و اسپرسو به همراه یخ",
           "kind": "cold",
@@ -815,7 +881,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/efeda9bc-e6b2-4c13-9b62-df0262f3e90a/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/efeda9bc-e6b2-4c13-9b62-df0262f3e90a/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 235٬000 تومان",
+          "priceLabelEn": "from 235٬000 Toman"
         },
         {
           "id": "6f8b1f7e-72af-4d69-8a38-b99710f05076",
@@ -861,7 +930,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6f8b1f7e-72af-4d69-8a38-b99710f05076/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6f8b1f7e-72af-4d69-8a38-b99710f05076/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 160٬000 تومان",
+          "priceLabelEn": "from 160٬000 Toman"
         },
         {
           "id": "682b09a3-5183-4c2c-b1f4-823972de3716",
@@ -907,7 +979,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/682b09a3-5183-4c2c-b1f4-823972de3716/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/682b09a3-5183-4c2c-b1f4-823972de3716/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 220٬000 تومان",
+          "priceLabelEn": "from 220٬000 Toman"
         },
         {
           "id": "ecbb31fe-7526-4fa7-b4af-5240d24461f7",
@@ -953,7 +1028,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ecbb31fe-7526-4fa7-b4af-5240d24461f7/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ecbb31fe-7526-4fa7-b4af-5240d24461f7/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 270٬000 تومان",
+          "priceLabelEn": "from 270٬000 Toman"
         },
         {
           "id": "f63dcf7a-4742-42b4-8268-80e49ebc7b0a",
@@ -999,7 +1077,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f63dcf7a-4742-42b4-8268-80e49ebc7b0a/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f63dcf7a-4742-42b4-8268-80e49ebc7b0a/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 170٬000 تومان",
+          "priceLabelEn": "from 170٬000 Toman"
         },
         {
           "id": "5a696e55-b2ae-47d9-905e-b3fc3946f90b",
@@ -1045,7 +1126,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/5a696e55-b2ae-47d9-905e-b3fc3946f90b/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/5a696e55-b2ae-47d9-905e-b3fc3946f90b/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 245٬000 تومان",
+          "priceLabelEn": "from 245٬000 Toman"
         },
         {
           "id": "d90c4ff2-7f6c-494c-8746-366fef0ad64b",
@@ -1091,7 +1175,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d90c4ff2-7f6c-494c-8746-366fef0ad64b/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d90c4ff2-7f6c-494c-8746-366fef0ad64b/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 285٬000 تومان",
+          "priceLabelEn": "from 285٬000 Toman"
         },
         {
           "id": "46cca27f-af36-4c5f-8c80-d12d9574fba8",
@@ -1137,7 +1224,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/46cca27f-af36-4c5f-8c80-d12d9574fba8/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/46cca27f-af36-4c5f-8c80-d12d9574fba8/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 355٬000 تومان",
+          "priceLabelEn": "from 355٬000 Toman"
         },
         {
           "id": "bcf14424-c788-4df9-b509-e2480cf67807",
@@ -1183,7 +1273,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/bcf14424-c788-4df9-b509-e2480cf67807/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/bcf14424-c788-4df9-b509-e2480cf67807/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 385٬000 تومان",
+          "priceLabelEn": "from 385٬000 Toman"
         },
         {
           "id": "e37025f9-d457-4afd-ab5f-ee304acff2fb",
@@ -1203,7 +1296,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/iced-regular-coffee.webp",
           "updatedAt": "2026-08-26T16:20:27.024Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/e37025f9-d457-4afd-ab5f-ee304acff2fb/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/e37025f9-d457-4afd-ab5f-ee304acff2fb/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 215٬000 تومان",
+          "priceLabelEn": "from 215٬000 Toman"
         },
         {
           "id": "c3711140-8ba1-4611-a487-207f23176440",
@@ -1249,7 +1345,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/c3711140-8ba1-4611-a487-207f23176440/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/c3711140-8ba1-4611-a487-207f23176440/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 285٬000 تومان",
+          "priceLabelEn": "from 285٬000 Toman"
         }
       ],
       "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/112a6ad2-f73e-4c4b-b12d-db7e3e82ac0c/"
@@ -1304,7 +1403,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/faa07243-1c65-4861-9ff4-a6c05012642e/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/faa07243-1c65-4861-9ff4-a6c05012642e/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 330٬000 تومان",
+          "priceLabelEn": "from 330٬000 Toman"
         },
         {
           "id": "118e52c8-ebfb-4a8e-b7b2-1d135282ddae",
@@ -1350,7 +1452,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/118e52c8-ebfb-4a8e-b7b2-1d135282ddae/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/118e52c8-ebfb-4a8e-b7b2-1d135282ddae/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 315٬000 تومان",
+          "priceLabelEn": "from 315٬000 Toman"
         },
         {
           "id": "be8b5039-d90e-4d1f-9f97-1515208b137c",
@@ -1396,7 +1501,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/be8b5039-d90e-4d1f-9f97-1515208b137c/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/be8b5039-d90e-4d1f-9f97-1515208b137c/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 295٬000 تومان",
+          "priceLabelEn": "from 295٬000 Toman"
         },
         {
           "id": "bb7bed91-cf5b-48f9-acea-420944f91b96",
@@ -1442,7 +1550,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/bb7bed91-cf5b-48f9-acea-420944f91b96/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/bb7bed91-cf5b-48f9-acea-420944f91b96/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 330٬000 تومان",
+          "priceLabelEn": "from 330٬000 Toman"
         },
         {
           "id": "96756c45-dad4-4453-9ac7-84114e42bf76",
@@ -1488,7 +1599,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/96756c45-dad4-4453-9ac7-84114e42bf76/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/96756c45-dad4-4453-9ac7-84114e42bf76/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 295٬000 تومان",
+          "priceLabelEn": "from 295٬000 Toman"
         },
         {
           "id": "f43a55ff-3543-4ca8-9249-4cc56a85bded",
@@ -1534,7 +1648,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f43a55ff-3543-4ca8-9249-4cc56a85bded/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f43a55ff-3543-4ca8-9249-4cc56a85bded/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 295٬000 تومان",
+          "priceLabelEn": "from 295٬000 Toman"
         },
         {
           "id": "312eacda-3f2c-48f9-9415-c15402bf96bc",
@@ -1580,7 +1697,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/312eacda-3f2c-48f9-9415-c15402bf96bc/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/312eacda-3f2c-48f9-9415-c15402bf96bc/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 385٬000 تومان",
+          "priceLabelEn": "from 385٬000 Toman"
         },
         {
           "id": "ec47e0d5-cdef-4a96-93c0-7272121a7a42",
@@ -1626,7 +1746,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ec47e0d5-cdef-4a96-93c0-7272121a7a42/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ec47e0d5-cdef-4a96-93c0-7272121a7a42/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 295٬000 تومان",
+          "priceLabelEn": "from 295٬000 Toman"
         },
         {
           "id": "81965658-b82b-4bf6-a235-4dc330c10fd9",
@@ -1672,7 +1795,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/81965658-b82b-4bf6-a235-4dc330c10fd9/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/81965658-b82b-4bf6-a235-4dc330c10fd9/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 295٬000 تومان",
+          "priceLabelEn": "from 295٬000 Toman"
         },
         {
           "id": "971905a2-43b0-4e3f-afcf-070e3ec7281a",
@@ -1718,7 +1844,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/971905a2-43b0-4e3f-afcf-070e3ec7281a/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/971905a2-43b0-4e3f-afcf-070e3ec7281a/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 330٬000 تومان",
+          "priceLabelEn": "from 330٬000 Toman"
         },
         {
           "id": "08b2806b-d9d3-4b35-8906-f52da9511135",
@@ -1764,7 +1893,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/08b2806b-d9d3-4b35-8906-f52da9511135/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/08b2806b-d9d3-4b35-8906-f52da9511135/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 295٬000 تومان",
+          "priceLabelEn": "from 295٬000 Toman"
         }
       ],
       "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/af80f58e-d912-4226-9337-efd09818fb8d/"
@@ -1793,7 +1925,10 @@
           "imageUrl": "https://bashoor.ir/uploads/img_1786745030621_394131352.webp",
           "updatedAt": "2026-08-26T16:38:32.271Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/78383c18-5c43-46fe-85ab-55b30d5c580a/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/78383c18-5c43-46fe-85ab-55b30d5c580a/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 295٬000 تومان",
+          "priceLabelEn": "from 295٬000 Toman"
         },
         {
           "id": "f3ca1927-487a-4769-83f0-43d06e6c8dc2",
@@ -1813,7 +1948,10 @@
           "imageUrl": "https://bashoor.ir/uploads/img_1786745030923_532781780.webp",
           "updatedAt": "2026-08-26T16:38:58.524Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f3ca1927-487a-4769-83f0-43d06e6c8dc2/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f3ca1927-487a-4769-83f0-43d06e6c8dc2/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 335٬000 تومان",
+          "priceLabelEn": "from 335٬000 Toman"
         },
         {
           "id": "b9884b49-a460-458e-99ed-927f0ea7a1d6",
@@ -1833,7 +1971,10 @@
           "imageUrl": "https://bashoor.ir/uploads/img_1786745030770_611177054.webp",
           "updatedAt": "2026-08-20T14:40:27.151Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/b9884b49-a460-458e-99ed-927f0ea7a1d6/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/b9884b49-a460-458e-99ed-927f0ea7a1d6/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 305٬000 تومان",
+          "priceLabelEn": "from 305٬000 Toman"
         },
         {
           "id": "02c417d1-daea-4047-9a3e-9ac4d959d692",
@@ -1853,7 +1994,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/berry-hot-chocolate.webp",
           "updatedAt": "2026-08-27T10:18:12.948Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/02c417d1-daea-4047-9a3e-9ac4d959d692/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/02c417d1-daea-4047-9a3e-9ac4d959d692/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 345٬000 تومان",
+          "priceLabelEn": "from 345٬000 Toman"
         },
         {
           "id": "e62336f3-0309-48d6-ac4e-072f7c22a029",
@@ -1873,7 +2017,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/dubai-hot-chocolate.webp",
           "updatedAt": "2026-08-20T14:58:05.915Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/e62336f3-0309-48d6-ac4e-072f7c22a029/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/e62336f3-0309-48d6-ac4e-072f7c22a029/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 435٬000 تومان",
+          "priceLabelEn": "from 435٬000 Toman"
         },
         {
           "id": "71e768d0-fd79-4f3f-bfc5-af01e347ef08",
@@ -1893,7 +2040,10 @@
           "imageUrl": "https://bashoor.ir/uploads/img_1786745030434_968314011.webp",
           "updatedAt": "2026-08-26T16:49:13.423Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/71e768d0-fd79-4f3f-bfc5-af01e347ef08/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/71e768d0-fd79-4f3f-bfc5-af01e347ef08/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 335٬000 تومان",
+          "priceLabelEn": "from 335٬000 Toman"
         },
         {
           "id": "bf8a3975-68be-4f03-adb6-92bf69cc34b0",
@@ -1913,7 +2063,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/bisco-hot-chocolate.webp",
           "updatedAt": "2026-08-26T16:49:25.703Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/bf8a3975-68be-4f03-adb6-92bf69cc34b0/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/bf8a3975-68be-4f03-adb6-92bf69cc34b0/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 365٬000 تومان",
+          "priceLabelEn": "from 365٬000 Toman"
         }
       ],
       "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/7590c5f4-cd51-47c0-9d5d-16e463236939/"
@@ -1942,7 +2095,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/lemonade.webp",
           "updatedAt": "2026-08-26T16:24:35.128Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/4a62e4d7-6190-4ad0-b7fb-ca1f38fcbea9/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/4a62e4d7-6190-4ad0-b7fb-ca1f38fcbea9/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 235٬000 تومان",
+          "priceLabelEn": "from 235٬000 Toman"
         },
         {
           "id": "33f82456-93ff-4830-aa94-727645c047ce",
@@ -1962,7 +2118,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/mojito.webp",
           "updatedAt": "2026-08-26T16:24:44.966Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/33f82456-93ff-4830-aa94-727645c047ce/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/33f82456-93ff-4830-aa94-727645c047ce/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 275٬000 تومان",
+          "priceLabelEn": "from 275٬000 Toman"
         },
         {
           "id": "96d3c071-4384-49f0-8d8a-84776855e9ae",
@@ -1982,7 +2141,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/sunrise-mocktail.webp",
           "updatedAt": "2026-08-26T16:24:56.293Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/96d3c071-4384-49f0-8d8a-84776855e9ae/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/96d3c071-4384-49f0-8d8a-84776855e9ae/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 415٬000 تومان",
+          "priceLabelEn": "from 415٬000 Toman"
         },
         {
           "id": "e2d17b68-8489-4021-b96e-9514807377fe",
@@ -2002,7 +2164,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/cucumber-sekanjabin.webp",
           "updatedAt": "2026-08-26T16:25:09.173Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/e2d17b68-8489-4021-b96e-9514807377fe/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/e2d17b68-8489-4021-b96e-9514807377fe/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 335٬000 تومان",
+          "priceLabelEn": "from 335٬000 Toman"
         },
         {
           "id": "f8d91bb9-cf62-46ea-81e9-1c1b7c2cedfd",
@@ -2022,7 +2187,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/sour-thing.webp",
           "updatedAt": "2026-08-26T16:26:00.463Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f8d91bb9-cf62-46ea-81e9-1c1b7c2cedfd/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f8d91bb9-cf62-46ea-81e9-1c1b7c2cedfd/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 435٬000 تومان",
+          "priceLabelEn": "from 435٬000 Toman"
         }
       ],
       "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/9e00bdac-1320-4e64-9488-d56002eaffb5/"
@@ -2051,7 +2219,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/bisco-cheesecake-shake.webp",
           "updatedAt": "2026-08-26T16:34:54.124Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/add2edbe-378c-4238-9ca0-4eae60559527/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/add2edbe-378c-4238-9ca0-4eae60559527/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 385٬000 تومان",
+          "priceLabelEn": "from 385٬000 Toman"
         },
         {
           "id": "84c83ca1-e6fd-45c5-93fd-166d865422c3",
@@ -2097,7 +2268,10 @@
               ]
             }
           ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/84c83ca1-e6fd-45c5-93fd-166d865422c3/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/84c83ca1-e6fd-45c5-93fd-166d865422c3/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 445٬000 تومان",
+          "priceLabelEn": "from 445٬000 Toman"
         },
         {
           "id": "99d0ff84-8309-4094-963e-d92cf2a9bca1",
@@ -2117,7 +2291,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/chocolate-cheesecake-shake.webp",
           "updatedAt": "2026-08-26T16:32:09.849Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/99d0ff84-8309-4094-963e-d92cf2a9bca1/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/99d0ff84-8309-4094-963e-d92cf2a9bca1/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 385٬000 تومان",
+          "priceLabelEn": "from 385٬000 Toman"
         },
         {
           "id": "3c9d59b5-97ca-484f-b1ee-14c40a82aff1",
@@ -2137,7 +2314,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/chocolate-banana-shake.webp",
           "updatedAt": "2026-08-20T19:25:20.243Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/3c9d59b5-97ca-484f-b1ee-14c40a82aff1/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/3c9d59b5-97ca-484f-b1ee-14c40a82aff1/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 365٬000 تومان",
+          "priceLabelEn": "from 365٬000 Toman"
         },
         {
           "id": "52a88f09-c67c-4f84-aee4-2da106ca7eec",
@@ -2157,7 +2337,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/pistachio-shake.webp",
           "updatedAt": "2026-08-26T16:32:31.780Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/52a88f09-c67c-4f84-aee4-2da106ca7eec/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/52a88f09-c67c-4f84-aee4-2da106ca7eec/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 610٬000 تومان",
+          "priceLabelEn": "from 610٬000 Toman"
         },
         {
           "id": "4bd12d5f-50d0-46c4-8086-fe959b82f997",
@@ -2177,7 +2360,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/tahini-date-shake.webp",
           "updatedAt": "2026-08-26T16:32:52.767Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/4bd12d5f-50d0-46c4-8086-fe959b82f997/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/4bd12d5f-50d0-46c4-8086-fe959b82f997/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 458٬000 تومان",
+          "priceLabelEn": "from 458٬000 Toman"
         },
         {
           "id": "f0b3021e-2fe0-42e9-93fb-db444b991b22",
@@ -2197,7 +2383,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/iranian-shake.webp",
           "updatedAt": "2026-08-26T16:33:02.195Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f0b3021e-2fe0-42e9-93fb-db444b991b22/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f0b3021e-2fe0-42e9-93fb-db444b991b22/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 568٬000 تومان",
+          "priceLabelEn": "from 568٬000 Toman"
         },
         {
           "id": "6cce7a0e-96e5-456a-8478-25067e52c1a0",
@@ -2217,7 +2406,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/peanut-butter-shake.webp",
           "updatedAt": "2026-08-26T16:33:14.928Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6cce7a0e-96e5-456a-8478-25067e52c1a0/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6cce7a0e-96e5-456a-8478-25067e52c1a0/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 344٬000 تومان",
+          "priceLabelEn": "from 344٬000 Toman"
         },
         {
           "id": "c642fa7d-c9c4-4b58-bd21-f2bc3b01733e",
@@ -2237,7 +2429,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/salted-caramel-shake.webp",
           "updatedAt": "2026-08-26T16:33:33.272Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/c642fa7d-c9c4-4b58-bd21-f2bc3b01733e/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/c642fa7d-c9c4-4b58-bd21-f2bc3b01733e/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 369٬000 تومان",
+          "priceLabelEn": "from 369٬000 Toman"
         },
         {
           "id": "12364219-dc61-4e15-ac63-723e56d53e86",
@@ -2257,7 +2452,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/lemon-cheesecake-shake.webp",
           "updatedAt": "2026-08-26T16:33:42.696Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/12364219-dc61-4e15-ac63-723e56d53e86/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/12364219-dc61-4e15-ac63-723e56d53e86/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 375٬000 تومان",
+          "priceLabelEn": "from 375٬000 Toman"
         },
         {
           "id": "1ae44061-3000-40e7-b353-735eb5b45afa",
@@ -2277,7 +2475,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/lotus-shake.webp",
           "updatedAt": "2026-08-26T16:33:48.532Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/1ae44061-3000-40e7-b353-735eb5b45afa/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/1ae44061-3000-40e7-b353-735eb5b45afa/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 385٬000 تومان",
+          "priceLabelEn": "from 385٬000 Toman"
         }
       ],
       "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/78e1df35-4bf0-4472-918d-581ff5335bd3/"
@@ -2306,7 +2507,10 @@
           "imageUrl": null,
           "updatedAt": "2026-08-27T15:12:36.581Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/a886a306-b648-4fb1-be7a-78b08ca41cd0/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/a886a306-b648-4fb1-be7a-78b08ca41cd0/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 280٬000 تومان",
+          "priceLabelEn": "from 280٬000 Toman"
         },
         {
           "id": "8dacda5d-248c-4dea-b3fe-b441c2038326",
@@ -2326,7 +2530,10 @@
           "imageUrl": null,
           "updatedAt": "2026-08-27T15:12:52.045Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/8dacda5d-248c-4dea-b3fe-b441c2038326/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/8dacda5d-248c-4dea-b3fe-b441c2038326/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 280٬000 تومان",
+          "priceLabelEn": "from 280٬000 Toman"
         },
         {
           "id": "d00cfdfb-0980-49f2-9529-3352e72a0f78",
@@ -2346,7 +2553,10 @@
           "imageUrl": null,
           "updatedAt": "2026-08-26T17:10:00.007Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d00cfdfb-0980-49f2-9529-3352e72a0f78/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d00cfdfb-0980-49f2-9529-3352e72a0f78/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 285٬000 تومان",
+          "priceLabelEn": "from 285٬000 Toman"
         },
         {
           "id": "ee67339b-f8e5-4b01-b450-d4963c5896f7",
@@ -2366,7 +2576,10 @@
           "imageUrl": null,
           "updatedAt": "2026-08-26T17:18:37.784Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ee67339b-f8e5-4b01-b450-d4963c5896f7/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ee67339b-f8e5-4b01-b450-d4963c5896f7/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 210٬000 تومان",
+          "priceLabelEn": "from 210٬000 Toman"
         },
         {
           "id": "69dc2da7-b4da-4b26-8742-b7fc359ed98f",
@@ -2386,7 +2599,10 @@
           "imageUrl": null,
           "updatedAt": "2026-08-26T17:18:45.738Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/69dc2da7-b4da-4b26-8742-b7fc359ed98f/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/69dc2da7-b4da-4b26-8742-b7fc359ed98f/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 195٬000 تومان",
+          "priceLabelEn": "from 195٬000 Toman"
         },
         {
           "id": "16c97af3-150b-41e5-a361-ab7d7dedb8b0",
@@ -2406,7 +2622,10 @@
           "imageUrl": null,
           "updatedAt": "2026-08-26T17:16:55.061Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/16c97af3-150b-41e5-a361-ab7d7dedb8b0/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/16c97af3-150b-41e5-a361-ab7d7dedb8b0/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 190٬000 تومان",
+          "priceLabelEn": "from 190٬000 Toman"
         },
         {
           "id": "08e8e171-117b-4ad7-a903-04cd67d4c5d9",
@@ -2426,7 +2645,10 @@
           "imageUrl": null,
           "updatedAt": "2026-10-10T14:48:35.993Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/08e8e171-117b-4ad7-a903-04cd67d4c5d9/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/08e8e171-117b-4ad7-a903-04cd67d4c5d9/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 190٬000 تومان",
+          "priceLabelEn": "from 190٬000 Toman"
         }
       ],
       "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/5b84cd85-e8d9-4656-9e86-353d9e2beca6/"
@@ -2455,12 +2677,15 @@
           "imageUrl": "https://bashoor.ir/menu-assets/carrot-walnut-cake.webp",
           "updatedAt": "2026-09-18T13:44:46.760Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ea3d45df-2af8-4392-95e1-e3582178d6fd/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ea3d45df-2af8-4392-95e1-e3582178d6fd/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 290٬000 تومان",
+          "priceLabelEn": "from 290٬000 Toman"
         },
         {
           "id": "3e29475f-32f2-4df1-8b8e-df90d4004e0f",
           "name": "سن سباستین رژیمی",
-          "nameEn": "سن سباستین رژیمی",
+          "nameEn": "Diet San Sebastian Cheesecake",
           "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "hot",
@@ -2475,12 +2700,15 @@
           "imageUrl": "https://bashoor.ir/menu-assets/san-sebastian.webp",
           "updatedAt": "2026-09-18T13:45:12.254Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/3e29475f-32f2-4df1-8b8e-df90d4004e0f/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/3e29475f-32f2-4df1-8b8e-df90d4004e0f/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 375٬000 تومان",
+          "priceLabelEn": "from 375٬000 Toman"
         },
         {
           "id": "9dada709-b888-4f18-9d71-4fcbbe865446",
           "name": "جار کیک تیرامیسو",
-          "nameEn": "جار کیک تیرامیسو",
+          "nameEn": "Tiramisu Cake Jar",
           "descriptionLanguage": "fa-IR",
           "description": "تیرامیسو تازه و با کیفیت",
           "kind": "cold",
@@ -2495,7 +2723,10 @@
           "imageUrl": null,
           "updatedAt": "2026-09-18T13:57:08.752Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/9dada709-b888-4f18-9d71-4fcbbe865446/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/9dada709-b888-4f18-9d71-4fcbbe865446/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 340٬000 تومان",
+          "priceLabelEn": "from 340٬000 Toman"
         },
         {
           "id": "5114e60f-1483-4b53-8800-19e4b6cad342",
@@ -2515,12 +2746,15 @@
           "imageUrl": "https://bashoor.ir/menu-assets/baklava-cake.webp",
           "updatedAt": "2026-09-18T13:58:11.779Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/5114e60f-1483-4b53-8800-19e4b6cad342/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/5114e60f-1483-4b53-8800-19e4b6cad342/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 340٬000 تومان",
+          "priceLabelEn": "from 340٬000 Toman"
         },
         {
           "id": "c65587a8-e6af-4242-bc3c-65a3ab9b5903",
           "name": "کیک مگنوم",
-          "nameEn": "کیک مگنوم",
+          "nameEn": "Magnum Cake",
           "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "hot",
@@ -2535,12 +2769,15 @@
           "imageUrl": null,
           "updatedAt": "2026-09-18T14:10:04.768Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/c65587a8-e6af-4242-bc3c-65a3ab9b5903/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/c65587a8-e6af-4242-bc3c-65a3ab9b5903/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 350٬000 تومان",
+          "priceLabelEn": "from 350٬000 Toman"
         },
         {
           "id": "d0881717-b3e3-4966-883c-fae182e832bd",
           "name": "کوکی نیویورکی",
-          "nameEn": "کوکی نیویورکی",
+          "nameEn": "New York Cookie",
           "descriptionLanguage": "fa-IR",
           "description": "کوکی تازه نیویورکی کره گردو",
           "kind": "hot",
@@ -2555,7 +2792,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/healthy-cookie.webp",
           "updatedAt": "2026-10-08T16:36:46.378Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d0881717-b3e3-4966-883c-fae182e832bd/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/d0881717-b3e3-4966-883c-fae182e832bd/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 110٬000 تومان",
+          "priceLabelEn": "from 110٬000 Toman"
         },
         {
           "id": "6499d378-e4da-45bf-b7c9-0ca3959cfca3",
@@ -2575,7 +2815,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/baby-cookie.webp",
           "updatedAt": "2026-09-18T14:04:49.305Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6499d378-e4da-45bf-b7c9-0ca3959cfca3/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6499d378-e4da-45bf-b7c9-0ca3959cfca3/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 15٬000 تومان",
+          "priceLabelEn": "from 15٬000 Toman"
         },
         {
           "id": "2fdeccd0-f385-41f8-ba13-4a355ba1fd48",
@@ -2595,7 +2838,10 @@
           "imageUrl": "https://bashoor.ir/menu-assets/biscotti.webp",
           "updatedAt": "2026-09-18T14:05:11.505Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/2fdeccd0-f385-41f8-ba13-4a355ba1fd48/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/2fdeccd0-f385-41f8-ba13-4a355ba1fd48/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 20٬000 تومان",
+          "priceLabelEn": "from 20٬000 Toman"
         }
       ],
       "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/752754c6-952f-4987-852d-665bd72d500d/"
@@ -2603,13 +2849,13 @@
     {
       "id": "28a88290-0040-4daa-a1c7-ced31649fd4a",
       "name": "غذا",
-      "nameEn": "غذا",
+      "nameEn": "Food and breakfast",
       "canonicalUrl": "https://bashoor.ir/menu/category/28a88290-0040-4daa-a1c7-ced31649fd4a/%D8%BA%D8%B0%D8%A7",
       "items": [
         {
           "id": "cec8f3b1-5433-4cdd-b43a-c903fafe0e75",
           "name": "املت",
-          "nameEn": "املت",
+          "nameEn": "Omelette",
           "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "food",
@@ -2624,12 +2870,15 @@
           "imageUrl": null,
           "updatedAt": "2026-10-01T09:49:06.577Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/cec8f3b1-5433-4cdd-b43a-c903fafe0e75/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/cec8f3b1-5433-4cdd-b43a-c903fafe0e75/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 295٬000 تومان",
+          "priceLabelEn": "from 295٬000 Toman"
         },
         {
           "id": "cc1783c8-6f1a-49a8-9ba1-3f3cf52e7d44",
           "name": "املت باشور",
-          "nameEn": "املت باشور",
+          "nameEn": "Bashoor Omelette",
           "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "food",
@@ -2644,12 +2893,15 @@
           "imageUrl": null,
           "updatedAt": "2026-09-28T15:11:17.635Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/cc1783c8-6f1a-49a8-9ba1-3f3cf52e7d44/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/cc1783c8-6f1a-49a8-9ba1-3f3cf52e7d44/",
+          "priceStatus": "ask_staff",
+          "priceLabel": "قیمت را از کافه بپرسید",
+          "priceLabelEn": "Ask the cafe for the price"
         },
         {
           "id": "8945d97d-d639-4388-9e84-e9bec42f785c",
           "name": "املت باکور",
-          "nameEn": "املت باکور",
+          "nameEn": "Bakur Omelette",
           "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "food",
@@ -2664,12 +2916,15 @@
           "imageUrl": null,
           "updatedAt": "2026-09-28T15:11:22.766Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/8945d97d-d639-4388-9e84-e9bec42f785c/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/8945d97d-d639-4388-9e84-e9bec42f785c/",
+          "priceStatus": "ask_staff",
+          "priceLabel": "قیمت را از کافه بپرسید",
+          "priceLabelEn": "Ask the cafe for the price"
         },
         {
           "id": "b5a75768-2a7e-4eea-8114-d566100d334d",
           "name": "پاستا پستو",
-          "nameEn": "پاستا پستو",
+          "nameEn": "Pesto Pasta",
           "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "food",
@@ -2684,12 +2939,15 @@
           "imageUrl": null,
           "updatedAt": "2026-09-28T15:13:30.337Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/b5a75768-2a7e-4eea-8114-d566100d334d/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/b5a75768-2a7e-4eea-8114-d566100d334d/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 610٬000 تومان",
+          "priceLabelEn": "from 610٬000 Toman"
         },
         {
           "id": "1d64935b-1b0e-482e-934e-f9e7704ee940",
           "name": "تخم مرغ بیکن",
-          "nameEn": "تخم مرغ بیکن",
+          "nameEn": "Eggs and Bacon",
           "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "food",
@@ -2704,12 +2962,15 @@
           "imageUrl": null,
           "updatedAt": "2026-09-28T15:11:32.274Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/1d64935b-1b0e-482e-934e-f9e7704ee940/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/1d64935b-1b0e-482e-934e-f9e7704ee940/",
+          "priceStatus": "ask_staff",
+          "priceLabel": "قیمت را از کافه بپرسید",
+          "priceLabelEn": "Ask the cafe for the price"
         },
         {
           "id": "4f44927e-bdd2-4b66-9dd0-71b44c91758c",
           "name": "صبحانه سرد",
-          "nameEn": "صبحانه سرد",
+          "nameEn": "Cold Breakfast",
           "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "food",
@@ -2724,12 +2985,15 @@
           "imageUrl": null,
           "updatedAt": "2026-09-28T15:12:40.704Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/4f44927e-bdd2-4b66-9dd0-71b44c91758c/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/4f44927e-bdd2-4b66-9dd0-71b44c91758c/",
+          "priceStatus": "ask_staff",
+          "priceLabel": "قیمت را از کافه بپرسید",
+          "priceLabelEn": "Ask the cafe for the price"
         },
         {
           "id": "728b6abe-6c52-4571-9f3b-159ea0a3ae86",
           "name": "کلاب آلفردو",
-          "nameEn": "کلاب آلفردو",
+          "nameEn": "Alfredo Club Sandwich",
           "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "food",
@@ -2744,12 +3008,15 @@
           "imageUrl": null,
           "updatedAt": "2026-09-28T18:07:07.387Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/728b6abe-6c52-4571-9f3b-159ea0a3ae86/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/728b6abe-6c52-4571-9f3b-159ea0a3ae86/",
+          "priceStatus": "ask_staff",
+          "priceLabel": "قیمت را از کافه بپرسید",
+          "priceLabelEn": "Ask the cafe for the price"
         },
         {
           "id": "9dacd2a1-abd3-41ee-9334-393519a442b8",
           "name": "کلاب باربیکیو",
-          "nameEn": "کلاب باربیکیو",
+          "nameEn": "Barbecue Club Sandwich",
           "descriptionLanguage": "fa-IR",
           "description": "سوسیس باربیکیو + سس پستو و قارچ",
           "kind": "food",
@@ -2764,12 +3031,15 @@
           "imageUrl": null,
           "updatedAt": "2026-09-20T20:08:04.568Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/9dacd2a1-abd3-41ee-9334-393519a442b8/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/9dacd2a1-abd3-41ee-9334-393519a442b8/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 385٬000 تومان",
+          "priceLabelEn": "from 385٬000 Toman"
         },
         {
           "id": "6e67d41a-b568-49cf-b1b8-041595a73f1f",
           "name": "کلاب بیکن",
-          "nameEn": "کلاب بیکن",
+          "nameEn": "Bacon Club Sandwich",
           "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "food",
@@ -2784,12 +3054,15 @@
           "imageUrl": null,
           "updatedAt": "2026-10-01T19:37:06.159Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6e67d41a-b568-49cf-b1b8-041595a73f1f/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6e67d41a-b568-49cf-b1b8-041595a73f1f/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 455٬000 تومان",
+          "priceLabelEn": "from 455٬000 Toman"
         },
         {
           "id": "79838ce9-9788-469e-80e9-04c782b70898",
           "name": "کلاب پپرونی",
-          "nameEn": "کلاب پپرونی",
+          "nameEn": "Pepperoni Club Sandwich",
           "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "food",
@@ -2804,12 +3077,15 @@
           "imageUrl": null,
           "updatedAt": "2026-09-29T12:53:33.033Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/79838ce9-9788-469e-80e9-04c782b70898/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/79838ce9-9788-469e-80e9-04c782b70898/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 385٬000 تومان",
+          "priceLabelEn": "from 385٬000 Toman"
         },
         {
           "id": "dc47253e-0768-42c7-95b9-3683aa8d2258",
           "name": "نیمرو",
-          "nameEn": "نیمرو",
+          "nameEn": "Fried Eggs",
           "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "food",
@@ -2824,12 +3100,15 @@
           "imageUrl": null,
           "updatedAt": "2026-09-28T18:07:22.871Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/dc47253e-0768-42c7-95b9-3683aa8d2258/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/dc47253e-0768-42c7-95b9-3683aa8d2258/",
+          "priceStatus": "ask_staff",
+          "priceLabel": "قیمت را از کافه بپرسید",
+          "priceLabelEn": "Ask the cafe for the price"
         },
         {
           "id": "c4f1855b-8e6f-4239-99e1-a050ca3d1cff",
           "name": "نیمرو ارده خرما",
-          "nameEn": "نیمرو ارده خرما",
+          "nameEn": "Fried Eggs with Tahini and Dates",
           "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "food",
@@ -2844,12 +3123,15 @@
           "imageUrl": null,
           "updatedAt": "2026-09-28T18:07:42.314Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/c4f1855b-8e6f-4239-99e1-a050ca3d1cff/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/c4f1855b-8e6f-4239-99e1-a050ca3d1cff/",
+          "priceStatus": "ask_staff",
+          "priceLabel": "قیمت را از کافه بپرسید",
+          "priceLabelEn": "Ask the cafe for the price"
         },
         {
           "id": "ff954591-3950-4d9c-b77a-a3b8c750cfcc",
           "name": "نیمرو پپرونی",
-          "nameEn": "نیمرو پپرونی",
+          "nameEn": "Fried Eggs with Pepperoni",
           "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "food",
@@ -2864,12 +3146,15 @@
           "imageUrl": null,
           "updatedAt": "2026-09-28T18:07:47.000Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ff954591-3950-4d9c-b77a-a3b8c750cfcc/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ff954591-3950-4d9c-b77a-a3b8c750cfcc/",
+          "priceStatus": "ask_staff",
+          "priceLabel": "قیمت را از کافه بپرسید",
+          "priceLabelEn": "Ask the cafe for the price"
         },
         {
           "id": "968285c6-66b6-412f-a8d5-5be90086a1e6",
           "name": "پاستا آلفردو",
-          "nameEn": "پاستا آلفردو",
+          "nameEn": "Alfredo Pasta",
           "descriptionLanguage": "fa-IR",
           "description": "۱۰۰ گرم سینه مرغ ، به همراه ۱۵۰ گرم پنه ، سس آلفردو",
           "kind": "food",
@@ -2884,7 +3169,10 @@
           "imageUrl": null,
           "updatedAt": "2026-09-20T13:47:45.891Z",
           "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/968285c6-66b6-412f-a8d5-5be90086a1e6/"
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/968285c6-66b6-412f-a8d5-5be90086a1e6/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 685٬000 تومان",
+          "priceLabelEn": "from 685٬000 Toman"
         }
       ],
       "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/28a88290-0040-4daa-a1c7-ced31649fd4a/"

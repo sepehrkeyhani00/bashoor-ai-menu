@@ -24,6 +24,7 @@
 - [منوی CSV](https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.csv)
 - [llms.txt](https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms.txt)
 - [llms-full.txt](https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms-full.txt)
+- [راهنمای مراجعه و معرفی دوزبانهٔ باشور](https://sepehrkeyhani00.github.io/bashoor-ai-menu/guide/)
 - [پروفایل Schema.org کسب‌وکار](https://sepehrkeyhani00.github.io/bashoor-ai-menu/business.json)
 - [خوراک RSS قیمت‌ها](https://sepehrkeyhani00.github.io/bashoor-ai-menu/feed.xml)
 - [فایل کشف WebMCP](https://sepehrkeyhani00.github.io/bashoor-ai-menu/.well-known/webmcp.json)

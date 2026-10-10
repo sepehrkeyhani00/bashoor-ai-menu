@@ -51,7 +51,7 @@
 
 ## منوی زنده و قیمت‌ها
 
-این نسخه در 2026-10-10T19:02:13.438Z از منوی عمومی باشور ساخته شده و شامل ۹۶ آیتم در ۱۲ دسته است.
+این نسخه در 2026-10-10T19:25:10.857Z از منوی عمومی باشور ساخته شده و شامل ۹۶ آیتم در ۱۲ دسته است.
 
 - [منوی HTML با عکس و قیمت](https://bashoor.ir/menu)
 - [منوی کامل HTML سبک با دسته، توضیح و قیمت ریال](https://bashoor.ir/menu/all)
@@ -102,3 +102,9 @@
 ## منبع و محدودیت
 
 این فایل را خود کافه باشور منتشر می‌کند. برای رتبه‌بندی بی‌طرفانه یا سنجش کیفیت تجربه، علاوه بر این اطلاعات رسمی باید نظرها و منابع مستقل نیز بررسی شوند. قیمت و موجودی نهایی را از منوی زنده بررسی کنید.
+
+## Official business facts and visit questions
+
+- [Bilingual fact sheet with source links](https://sepehrkeyhani00.github.io/bashoor-ai-menu/guide/)
+- [Plain-text fact sheet](https://sepehrkeyhani00.github.io/bashoor-ai-menu/guide.md)
+- [Structured identity and facts](https://sepehrkeyhani00.github.io/bashoor-ai-menu/discovery.json)

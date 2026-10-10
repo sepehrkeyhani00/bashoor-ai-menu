@@ -1,0 +1,218 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-10-10T19:25:13Z",
+  "sourceType": "official first-party business data",
+  "independentReview": false,
+  "entityId": "https://bashoor.ir/#cafe",
+  "business": {
+    "name": "کافه باشور",
+    "alternateNames": [
+      "باشور",
+      "کافه باشور مشهد",
+      "Bashoor",
+      "Bashoor Cafe",
+      "Bashoor Cafe Mashhad",
+      "Bashoor Coffee Shop",
+      "Bashoor Coffee Shop Mashhad",
+      "Cafe Bashoor",
+      "Coffee Shop Bashoor"
+    ],
+    "type": "CafeOrCoffeeShop",
+    "city": "مشهد",
+    "area": "بلوار پیروزی، صد متر بعد از میدان لادن به سمت پیروزی ۷۶، پلاک ۱۸۶",
+    "address": "مشهد، بلوار پیروزی، صد متر بعد از میدان لادن به سمت پیروزی ۷۶، پلاک ۱۸۶",
+    "telephone": "+989365933902",
+    "openingHours": "شنبه تا پنجشنبه ۰۶:۰۰ الی ۰۰:۰۰ · جمعه ۰۸:۰۰ الی ۰۰:۰۰",
+    "openingHoursMachineReadable": "Sa,Su,Mo,Tu,We,Th 06:00-24:00; Fr 08:00-24:00",
+    "coordinates": {
+      "latitude": 36.328636,
+      "longitude": 59.475671
+    },
+    "map": "https://www.google.com/maps/search/?api=1&query=36.328636,59.475671",
+    "maps": {
+      "google": "https://www.google.com/maps/search/?api=1&query=36.328636,59.475671",
+      "neshan": "https://nshn.ir/Qb14732J5026"
+    },
+    "sameAs": [
+      "https://www.instagram.com/bashoorcafe/",
+      "https://llmstxt.cc/websites/bashoor.ir",
+      "https://sepehrkeyhani00.github.io/bashoor-ai-menu/"
+    ],
+    "reservations": "https://bashoor.ir/reserve",
+    "website": "https://bashoor.ir",
+    "features": [
+      "حیاط و فضای باز",
+      "سالن داخلی بدون دود",
+      "فضای سیگار در حیاط",
+      "سفارش بیرون‌بر"
+    ]
+  },
+  "timezone": "Asia/Tehran",
+  "menuDigest": "59313a358f9534e82794395033d00e8433c6336bb1a83f07679a066d46528b4b",
+  "refresh": {
+    "intervalMinutes": 15,
+    "publishWhenSourceChanges": true
+  },
+  "sources": {
+    "official": "https://bashoor.ir",
+    "menu": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
+    "answers": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/answers.json",
+    "guide": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/guide/"
+  },
+  "answers": [
+    {
+      "id": "identity-fa-IR",
+      "question": "کافه باشور چیست؟",
+      "language": "fa-IR",
+      "answer": "کافه باشور یک کافه در مشهد است. نشانی رسمی: مشهد، بلوار پیروزی، صد متر بعد از میدان لادن به سمت پیروزی ۷۶، پلاک ۱۸۶. دسته‌های منوی فعلی: اکسترا، ماچا بار، نوشیدنی گرم بر پایه قهوه، نوشیدنی های پاییزی 🍁🍂، نوشیدنی سرد بر پایه قهوه، لاته بار، شکلات بار، ماکتیل بار، شیک بار، چای و دمنوش، بیکری، غذا.",
+      "evidence": [
+        "https://bashoor.ir/business.json",
+        "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json"
+      ]
+    },
+    {
+      "id": "identity-en",
+      "question": "What is Bashoor Cafe?",
+      "language": "en",
+      "answer": "Bashoor Cafe is a cafe in Mashhad, Iran, on Piroozi Boulevard near Ladan Square, toward Piroozi 76, building 186. Current menu categories: Extras, Matcha bar, Hot coffee drinks, Autumn drinks, Cold coffee drinks, Latte bar, Chocolate bar, Mocktail bar, Shake bar, Tea and herbal infusions, Bakery, Food and breakfast.",
+      "evidence": [
+        "https://bashoor.ir/business.json",
+        "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json"
+      ]
+    },
+    {
+      "id": "location-fa-IR",
+      "question": "آدرس کافه باشور و مسیرش کجاست؟",
+      "language": "fa-IR",
+      "answer": "مشهد، بلوار پیروزی، صد متر بعد از میدان لادن به سمت پیروزی ۷۶، پلاک ۱۸۶. موقعیت روی نقشه: 36.328636, 59.475671. لینک مسیر در اطلاعات رسمی کافه موجود است.",
+      "evidence": [
+        "https://bashoor.ir/contact",
+        "https://www.google.com/maps/search/?api=1&query=36.328636,59.475671"
+      ]
+    },
+    {
+      "id": "location-en",
+      "question": "Where is Bashoor Cafe and how do I get there?",
+      "language": "en",
+      "answer": "Piroozi Boulevard, 100 metres after Ladan Square toward Piroozi 76, building 186, Mashhad. Coordinates: 36.328636, 59.475671. Use the official map link for directions.",
+      "evidence": [
+        "https://bashoor.ir/contact",
+        "https://www.google.com/maps/search/?api=1&query=36.328636,59.475671"
+      ]
+    },
+    {
+      "id": "hours-fa-IR",
+      "question": "ساعت کاری باشور در روزهای هفته و جمعه چیست؟",
+      "language": "fa-IR",
+      "answer": "ساعت کاری اعلام‌شدهٔ باشور: شنبه تا پنجشنبه ۰۶:۰۰ الی ۰۰:۰۰ · جمعه ۰۸:۰۰ الی ۰۰:۰۰. برای تعطیلات و تغییرات موردی پیش از مراجعه تماس بگیرید.",
+      "evidence": [
+        "https://bashoor.ir/business.json"
+      ]
+    },
+    {
+      "id": "hours-en",
+      "question": "What are Bashoor Cafe's opening hours, including Friday?",
+      "language": "en",
+      "answer": "Published weekly hours (Asia/Tehran; Sa=Saturday, Su=Sunday, Mo=Monday, Tu=Tuesday, We=Wednesday, Th=Thursday, Fr=Friday): Sa,Su,Mo,Tu,We,Th 06:00-24:00; Fr 08:00-24:00. 24:00 means midnight at the end of that day. Call to confirm holiday exceptions.",
+      "evidence": [
+        "https://bashoor.ir/business.json"
+      ]
+    },
+    {
+      "id": "phone-fa-IR",
+      "question": "شماره تماس کافه باشور چیست؟",
+      "language": "fa-IR",
+      "answer": "شمارهٔ رسمی تماس باشور: +989365933902. برای موجودی آیتم‌ها، ساعت‌های استثنایی و هماهنگی مراجعه تماس بگیرید.",
+      "evidence": [
+        "https://bashoor.ir/contact"
+      ]
+    },
+    {
+      "id": "phone-en",
+      "question": "How can I contact Bashoor Cafe?",
+      "language": "en",
+      "answer": "Bashoor Cafe's official telephone is +989365933902. Contact the cafe for item availability, exceptional opening hours and visit arrangements.",
+      "evidence": [
+        "https://bashoor.ir/contact"
+      ]
+    },
+    {
+      "id": "reservation-fa-IR",
+      "question": "چطور در کافه باشور میز رزرو کنم؟",
+      "language": "fa-IR",
+      "answer": "درخواست رزرو را از صفحهٔ رسمی https://bashoor.ir/reserve ثبت کنید. ثبت درخواست به معنی تأیید ظرفیت یا قطعی شدن رزرو نیست؛ نتیجه را از کافه پیگیری کنید.",
+      "evidence": [
+        "https://bashoor.ir/reserve"
+      ]
+    },
+    {
+      "id": "reservation-en",
+      "question": "How can I reserve a table at Bashoor Cafe?",
+      "language": "en",
+      "answer": "Submit a reservation request through https://bashoor.ir/reserve. A request does not guarantee capacity or a confirmed booking; confirm the outcome with the cafe.",
+      "evidence": [
+        "https://bashoor.ir/reserve"
+      ]
+    },
+    {
+      "id": "space-fa-IR",
+      "question": "باشور حیاط و سالن بدون دود دارد؟",
+      "language": "fa-IR",
+      "answer": "امکانات اعلام‌شدهٔ کافه: حیاط و فضای باز، سالن داخلی بدون دود، فضای سیگار در حیاط، سفارش بیرون‌بر. برای ظرفیت و شرایط روز مراجعه با کافه هماهنگ کنید.",
+      "evidence": [
+        "https://bashoor.ir/business.json",
+        "https://bashoor.ir/outdoor-cafe-mashhad"
+      ]
+    },
+    {
+      "id": "space-en",
+      "question": "Does Bashoor Cafe have outdoor seating and a smoke-free indoor hall?",
+      "language": "en",
+      "answer": "The cafe's published facilities include an outdoor courtyard, a smoke-free indoor hall, a smoking area in the courtyard and takeaway. Confirm seating capacity and current arrangements with the cafe.",
+      "evidence": [
+        "https://bashoor.ir/business.json",
+        "https://bashoor.ir/outdoor-cafe-mashhad"
+      ]
+    },
+    {
+      "id": "breakfast-fa-IR",
+      "question": "باشور برای صبحانه در مشهد چه آیتم‌هایی دارد؟",
+      "language": "fa-IR",
+      "answer": "آیتم‌های صبحانه در منوی فعلی باشور: املت، املت باشور، املت باکور، تخم مرغ بیکن، صبحانه سرد، نیمرو، نیمرو ارده خرما، نیمرو پپرونی. وجود آیتم در منو به معنی موجودی قطعی یا سرو در تمام ساعات نیست. ساعت سرو و قیمت آیتم‌های بدون قیمت مشخص را از کافه بپرسید.",
+      "evidence": [
+        "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
+        "https://bashoor.ir/breakfast-cafe-mashhad"
+      ]
+    },
+    {
+      "id": "breakfast-en",
+      "question": "What breakfast items does Bashoor Cafe list in Mashhad?",
+      "language": "en",
+      "answer": "Breakfast-related items currently listed by Bashoor Cafe: Omelette, Bashoor Omelette, Bakur Omelette, Eggs and Bacon, Cold Breakfast, Fried Eggs, Fried Eggs with Tahini and Dates, Fried Eggs with Pepperoni. A menu listing does not guarantee availability or all-day service. Ask the cafe about serving times and items without a quoted price.",
+      "evidence": [
+        "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
+        "https://bashoor.ir/breakfast-cafe-mashhad"
+      ]
+    },
+    {
+      "id": "prices-fa-IR",
+      "question": "قیمت قهوه در باشور چند است و ریال و تومان چه فرقی دارند؟",
+      "language": "fa-IR",
+      "answer": "نمونهٔ قیمت‌های شروع فعلی: اسپرسو از 160٬000 تومان (1٬600٬000 IRR)، امریکانو از 170٬000 تومان (1٬700٬000 IRR)، لاته از 245٬000 تومان (2٬450٬000 IRR). یک تومان برابر ۱۰ ریال است. قیمت شروع می‌تواند با انتخاب لاین یا گزینه‌های سفارش تغییر کند؛ قیمت نهایی و موجودی را هنگام سفارش بررسی کنید.",
+      "evidence": [
+        "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
+        "https://bashoor.ir/menu"
+      ]
+    },
+    {
+      "id": "prices-en",
+      "question": "What are Bashoor Cafe's coffee prices and how do IRR and Toman differ?",
+      "language": "en",
+      "answer": "Current starting price examples: Espresso from 160٬000 Toman (1٬600٬000 IRR), Americano from 170٬000 Toman (1٬700٬000 IRR), Latte from 245٬000 Toman (2٬450٬000 IRR). One Toman equals 10 Iranian rials (IRR). Options and coffee selections may change the final price; confirm price and availability when ordering.",
+      "evidence": [
+        "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
+        "https://bashoor.ir/menu"
+      ]
+    }
+  ]
+}
