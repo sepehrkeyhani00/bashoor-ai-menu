@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-10T19:27:42Z",
+  "generatedAt": "2026-10-10T19:29:55Z",
   "sourceType": "official first-party business data",
   "independentReview": false,
   "entityId": "https://bashoor.ir/#cafe",
@@ -215,8 +215,8 @@
       ]
     }
   ],
-  "lastVerifiedAt": "2026-10-10T19:27:42Z",
+  "lastVerifiedAt": "2026-10-10T19:29:55Z",
   "contentUpdatedAt": "2026-10-10T19:27:42Z",
-  "sourceChangedSincePreviousCheck": true,
+  "sourceChangedSincePreviousCheck": false,
   "refreshIntervalMinutes": 15
 }
