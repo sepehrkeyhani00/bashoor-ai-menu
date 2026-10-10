@@ -12,7 +12,7 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://bashoor.ir/menu.json
-- زمان دریافت این نسخه: 2026-10-10T19:25:10.738Z
+- زمان دریافت این نسخه: 2026-10-10T19:27:39.846Z
 - آخرین تغییر ثبت‌شده در منو: 2026-10-10T14:48:35.993Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
@@ -346,3 +346,7 @@
 
 موجودی و قیمت ممکن است تغییر کند. منبع نهایی هنگام سفارش، منوی زندهٔ همین وب‌سایت است.
 رزرو میز: https://bashoor.ir/reserve
+
+## Snapshot verification
+
+Last verified against official sources: 2026-10-10T19:27:42Z. Last substantive content change: 2026-10-10T19:27:42Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.

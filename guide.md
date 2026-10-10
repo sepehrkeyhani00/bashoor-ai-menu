@@ -2,7 +2,7 @@
 
 Official first-party visit guide. This is business information, not an independent review or ranking.
 
-Snapshot: 2026-10-10T19:25:13Z. The publisher checks sources every 15 minutes and publishes substantive changes.
+Snapshot verified at: 2026-10-10T19:27:42Z. The publisher checks sources and publishes a verified snapshot every 15 minutes.
 
 Official entity: https://bashoor.ir/#cafe
 
@@ -107,3 +107,7 @@ Sources: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json, https://ba
 Current starting price examples: Espresso from 160٬000 Toman (1٬600٬000 IRR), Americano from 170٬000 Toman (1٬700٬000 IRR), Latte from 245٬000 Toman (2٬450٬000 IRR). One Toman equals 10 Iranian rials (IRR). Options and coffee selections may change the final price; confirm price and availability when ordering.
 
 Sources: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json, https://bashoor.ir/menu
+
+## Snapshot verification
+
+Last verified against official sources: 2026-10-10T19:27:42Z. Last substantive content change: 2026-10-10T19:27:42Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
