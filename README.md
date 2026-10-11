@@ -31,6 +31,9 @@
 - [کارت سرور MCP](https://sepehrkeyhani00.github.io/bashoor-ai-menu/mcp-server.json)
 - [کارت کشف استاندارد MCP](https://sepehrkeyhani00.github.io/bashoor-ai-menu/.well-known/mcp/server-card.json)
 - [قرارداد OpenAPI](https://sepehrkeyhani00.github.io/bashoor-ai-menu/openapi.json)
+- [راهنمای اتصال ChatGPT و Gemini و بستهٔ انتشار OpenAI](https://sepehrkeyhani00.github.io/bashoor-ai-menu/connect/)
+- [حریم خصوصی اتصال عمومی](https://sepehrkeyhani00.github.io/bashoor-ai-menu/privacy/)
+- [شرایط استفاده از اتصال عمومی](https://sepehrkeyhani00.github.io/bashoor-ai-menu/terms/)
 
 این داده‌ها اطلاعات دست‌اول خود کافه هستند، نه رتبه‌بندی یا نقد مستقل. برای سنجش کیفیت تجربه باید منابع و نظرهای مستقل نیز بررسی شوند.
 
@@ -40,4 +43,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-11T06:30:03Z. Last substantive content change: 2026-10-10T20:19:49Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-11T06:31:31Z. Last substantive content change: 2026-10-11T06:31:31Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.

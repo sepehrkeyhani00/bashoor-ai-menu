@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/</loc><lastmod>2026-10-10</lastmod><image:image><image:loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/cafe-exterior.jpg</image:loc><image:title>نمای ورودی کافه باشور در بلوار پیروزی مشهد</image:title></image:image><image:image><image:loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/cafe-interior.jpg</image:loc><image:title>سالن داخلی کافه باشور مشهد</image:title></image:image></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/guide/</loc><lastmod>2026-10-10</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/discovery.json</loc><lastmod>2026-10-10</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/guide.md</loc><lastmod>2026-10-10</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/en/</loc><lastmod>2026-10-10</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json</loc><lastmod>2026-10-10</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/answers.json</loc><lastmod>2026-10-10</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms.txt</loc><lastmod>2026-10-10</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms-full.txt</loc><lastmod>2026-10-10</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/.well-known/webmcp.json</loc><lastmod>2026-10-10</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/.well-known/mcp/server-card.json</loc><lastmod>2026-10-10</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/openapi.json</loc><lastmod>2026-10-10</lastmod></url>
-  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/feed.xml</loc><lastmod>2026-10-10</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/</loc><lastmod>2026-10-11</lastmod><image:image><image:loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/cafe-exterior.jpg</image:loc><image:title>نمای ورودی کافه باشور در بلوار پیروزی مشهد</image:title></image:image><image:image><image:loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/cafe-interior.jpg</image:loc><image:title>سالن داخلی کافه باشور مشهد</image:title></image:image></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/guide/</loc><lastmod>2026-10-11</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/discovery.json</loc><lastmod>2026-10-11</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/guide.md</loc><lastmod>2026-10-11</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/en/</loc><lastmod>2026-10-11</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json</loc><lastmod>2026-10-11</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/connect/</loc><lastmod>2026-10-11</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/privacy/</loc><lastmod>2026-10-11</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/terms/</loc><lastmod>2026-10-11</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/answers.json</loc><lastmod>2026-10-11</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms.txt</loc><lastmod>2026-10-11</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/llms-full.txt</loc><lastmod>2026-10-11</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/.well-known/webmcp.json</loc><lastmod>2026-10-11</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/.well-known/mcp/server-card.json</loc><lastmod>2026-10-11</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/openapi.json</loc><lastmod>2026-10-11</lastmod></url>
+  <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/feed.xml</loc><lastmod>2026-10-11</lastmod></url>
   <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/25fc6c33-9c32-4cbe-8e98-c0d71f2d0339/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/3367b826-0126-4534-b81f-f94857035579/</loc><lastmod>2026-09-25</lastmod></url>
   <url><loc>https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/92213ebc-331c-48ac-9e0a-53f4e79a9615/</loc><lastmod>2026-10-04</lastmod></url>

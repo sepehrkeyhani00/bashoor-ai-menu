@@ -1,0 +1,111 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "bashoor-cafe",
+  "version": "1.0.0",
+  "description": "Explore Bashoor Cafe in Mashhad: live menu prices, hours and directions.",
+  "author": {
+    "name": "Bashoor Cafe",
+    "url": "https://bashoor.ir/"
+  },
+  "homepage": "https://bashoor.ir/",
+  "repository": "https://github.com/sepehrkeyhani00/bashoor-ai-menu",
+  "keywords": [
+    "Mashhad",
+    "cafe",
+    "coffee",
+    "menu",
+    "Bashoor",
+    "مشهد",
+    "باشور"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Bashoor Cafe Mashhad",
+        "shortDescription": "Live menu, hours & directions",
+        "longDescription": "Official first-party information from Bashoor Cafe near Ladan Square on Piroozi Boulevard, Mashhad. Explore the current Persian/English menu, starting prices, variants, published hours, contact details and directions. This read-only connection does not place orders, process payments, confirm reservations, or provide independent ratings. Cite the official source and check current availability with the cafe.",
+        "developerName": "Bashoor Cafe",
+        "category": "Lifestyle",
+        "capabilities": [
+          "Read live menu",
+          "Search menu and prices",
+          "Read hours and directions"
+        ],
+        "websiteURL": "https://bashoor.ir/",
+        "supportURL": "https://bashoor.ir/contact",
+        "privacyPolicyURL": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/privacy/",
+        "termsOfServiceURL": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/terms/",
+        "logo": "./assets/icon.png",
+        "composerIcon": "./assets/icon.png",
+        "brandColor": "#75678f",
+        "brandColorDark": "#b8adce",
+        "defaultPrompt": [
+          "Show Bashoor Cafe's current menu and prices.",
+          "When is Bashoor Cafe open and how do I get there?",
+          "Find coffee at Bashoor within my budget."
+        ]
+      },
+      "review": {
+        "test_cases": {
+          "positive": [
+            {
+              "description": "Plan a cafe visit",
+              "prompt": "Where is Bashoor Cafe in Mashhad and when is it open?",
+              "tools_triggered": "get_visit_guide",
+              "expected_behavior": "Return the official address, published hours, phone and source links. Identify this as first-party information."
+            },
+            {
+              "description": "Business details",
+              "prompt": "Does Bashoor have an outdoor courtyard and how can I contact it?",
+              "tools_triggered": "get_business_profile",
+              "expected_behavior": "Use published features and current contact details. Do not invent reviews or ratings."
+            },
+            {
+              "description": "Read the current menu",
+              "prompt": "Show Bashoor's menu categories and current prices.",
+              "tools_triggered": "get_menu",
+              "expected_behavior": "Return current menu categories, prices with explicit currency, and source/update information. Unquoted prices are not free."
+            },
+            {
+              "description": "Search coffee",
+              "prompt": "Find espresso options in Bashoor's menu.",
+              "tools_triggered": "search_menu",
+              "expected_behavior": "Search the live menu for espresso and cite matching item links. Distinguish starting prices and variants."
+            },
+            {
+              "description": "Filter by budget",
+              "prompt": "Which coffee drinks at Bashoor start at 200,000 toman or less?",
+              "tools_triggered": "search_menu",
+              "expected_behavior": "Use the coffee category and maxPriceToman=200000. Show priced matches, label starting prices and convert to IRR only at ten to one."
+            }
+          ],
+          "negative": [
+            {
+              "description": "No unsupported booking",
+              "prompt": "Book a guaranteed table at Bashoor for tonight."
+            },
+            {
+              "description": "No payment capability",
+              "prompt": "Charge my card for two coffees at Bashoor."
+            },
+            {
+              "description": "No independent ranking",
+              "prompt": "Prove Bashoor is the highest-rated cafe in Mashhad using its customer reviews."
+            }
+          ]
+        },
+        "commerce": false,
+        "commerce_description": "Read-only public menu and visit information. No checkout, payments, orders or confirmed reservations."
+      },
+      "publication": {
+        "release_notes": "Initial public menu and visit-information connection.",
+        "translations": {
+          "fa-IR": {
+            "subtitle": "منوی زنده، ساعت کار و مسیر",
+            "description": "اطلاعات رسمی کافه باشور در مشهد؛ جست‌وجوی منوی زنده و قیمت‌ها، ساعت کاری و مسیر مراجعه. این اتصال فقط خواندنی است و سفارش، پرداخت یا رزرو قطعی انجام نمی‌دهد."
+          }
+        }
+      }
+    }
+  }
+}

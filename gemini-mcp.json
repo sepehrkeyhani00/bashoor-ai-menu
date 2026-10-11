@@ -1,0 +1,11 @@
+{
+  "type": "mcp_server",
+  "name": "bashoor_cafe",
+  "url": "https://bashoor.ir/mcp",
+  "allowed_tools": [
+    "get_visit_guide",
+    "get_business_profile",
+    "get_menu",
+    "search_menu"
+  ]
+}

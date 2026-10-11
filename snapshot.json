@@ -1,16 +1,16 @@
 {
-  "schemaVersion": "1.19",
-  "generatedAt": "2026-10-11T06:30:03Z",
+  "schemaVersion": "1.20",
+  "generatedAt": "2026-10-11T06:31:31Z",
   "menuDigest": "59313a358f9534e82794395033d00e8433c6336bb1a83f07679a066d46528b4b",
-  "sourceDigest": "869eb1653b039c8c0c499336ff8c2a8a9124df79de0bf4e29e156f77e2f88d03",
+  "sourceDigest": "f75865c4c3ef6dec29fd05d07c40fa1408475f82d9e638d72e8205860c1690cf",
   "lastMenuUpdate": "2026-10-10T14:48:35.993Z",
   "itemCount": 96,
   "categoryCount": 12,
   "officialSite": "https://bashoor.ir",
   "officialMenu": "https://bashoor.ir/menu",
   "mirror": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-  "lastVerifiedAt": "2026-10-11T06:30:03Z",
-  "contentUpdatedAt": "2026-10-10T20:19:49Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-10-11T06:31:31Z",
+  "contentUpdatedAt": "2026-10-11T06:31:31Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }
