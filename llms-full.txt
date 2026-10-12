@@ -51,7 +51,7 @@
 
 ## منوی زنده و قیمت‌ها
 
-این نسخه در 2026-10-12T15:45:01.355Z از منوی عمومی باشور ساخته شده و شامل ۹۶ آیتم در ۱۲ دسته است.
+این نسخه در 2026-10-12T16:00:01.902Z از منوی عمومی باشور ساخته شده و شامل ۹۶ آیتم در ۱۲ دسته است.
 
 - [منوی HTML با عکس و قیمت](https://bashoor.ir/menu)
 - [منوی کامل HTML سبک با دسته، توضیح و قیمت ریال](https://bashoor.ir/menu/all)
@@ -123,7 +123,7 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json
-- زمان دریافت این نسخه: 2026-10-12T15:45:01.355Z
+- زمان دریافت این نسخه: 2026-10-12T16:00:01.902Z
 - آخرین تغییر ثبت‌شده در منو: 2026-10-10T14:48:35.993Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
@@ -174,7 +174,7 @@
   اسپرسو به همراه آب داغ
   صفحهٔ آیتم: https://bashoor.ir/menu/item/cb25eb0b-5187-4081-9f03-37f5939cf476/%D8%A7%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%D9%86%D9%88
   درصد عربیکا (انتخاب الزامی): صد عربیکا: ۲٬۰۰۰٬۰۰۰ ریال؛ سی عربیکا: ۱٬۷۰۰٬۰۰۰ ریال
-- لاته — از ۲٬۴۵۰٬۰۰۰ ریال
+- لاته — از ۲٬۴۵۰٬۰۰۰ ریال — پرفروش
   اسپرسو به همراه شیر گرم
   صفحهٔ آیتم: https://bashoor.ir/menu/item/ea645fcc-c151-4b00-9fff-474a8b967157/%D9%84%D8%A7%D8%AA%D9%87
   درصد عربیکا (انتخاب الزامی): صد عربیکا: ۲٬۷۵۰٬۰۰۰ ریال؛ سی عربیکا: ۲٬۴۵۰٬۰۰۰ ریال
@@ -249,7 +249,7 @@
   لاته و شکلات به همراه موز
   صفحهٔ آیتم: https://bashoor.ir/menu/item/bcf14424-c788-4df9-b509-e2480cf67807/%D8%A2%DB%8C%D8%B3-%D9%85%D9%88%DA%A9%D8%A7-%D8%A8%D9%86%D8%A7%D9%86%D8%A7
   حالت (انتخاب الزامی): صد عربیکا: ۴٬۱۵۰٬۰۰۰ ریال؛ سی عربیکا: ۳٬۸۵۰٬۰۰۰ ریال
-- آیس رگولار — ۲٬۱۵۰٬۰۰۰ ریال — پرفروش
+- آیس رگولار — ۲٬۱۵۰٬۰۰۰ ریال
   قهوه دمی به روش چکانه‌ای با دستگاه رگولار به همراه یخ
   صفحهٔ آیتم: https://bashoor.ir/menu/item/e37025f9-d457-4afd-ab5f-ee304acff2fb/%D8%A2%DB%8C%D8%B3-%D8%B1%DA%AF%D9%88%D9%84%D8%A7%D8%B1
 - اورنج اسپرسو — از ۲٬۸۵۰٬۰۰۰ ریال
@@ -466,4 +466,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-12T15:45:03Z. Last substantive content change: 2026-10-11T06:31:31Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-12T16:00:04Z. Last substantive content change: 2026-10-12T16:00:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
