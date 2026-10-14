@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-14T17:16:03Z",
-  "lastMenuUpdate": "2026-10-14T17:04:03.677Z",
+  "generatedAt": "2026-10-14T17:30:03Z",
+  "lastMenuUpdate": "2026-10-14T17:15:55.975Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
     "name": "کافه باشور",
@@ -79,7 +79,7 @@
     "sourceScope": "این اطلاعات رسمی و دست‌اول کافه باشور است؛ برای رتبه‌بندی بی‌طرفانه و کیفیت تجربه باید نظرها و منابع مستقل هم بررسی شوند."
   },
   "categoryCount": 12,
-  "itemCount": 97,
+  "itemCount": 98,
   "categories": [
     {
       "id": "25fc6c33-9c32-4cbe-8e98-c0d71f2d0339",
@@ -827,6 +827,29 @@
           "priceStatus": "quoted",
           "priceLabel": "از 345٬000 تومان",
           "priceLabelEn": "from 345٬000 Toman"
+        },
+        {
+          "id": "db49d5c2-dea6-4094-80a8-62cb9f6a323f",
+          "name": "ماچا پامپکین",
+          "nameEn": "ماچا پامپکین",
+          "descriptionLanguage": "fa-IR",
+          "description": "ترکیب کدو حلوایی و شیر ، به همراه ماچا",
+          "kind": "cold",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 435000,
+          "startingPriceToman": 435000,
+          "startingPriceIRR": 4350000,
+          "basePriceDisplay": 4350000,
+          "startingPriceDisplay": 4350000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/db49d5c2-dea6-4094-80a8-62cb9f6a323f/%D9%85%D8%A7%DA%86%D8%A7-%D9%BE%D8%A7%D9%85%D9%BE%DA%A9%DB%8C%D9%86",
+          "imageUrl": null,
+          "updatedAt": "2026-10-14T17:15:55.975Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/db49d5c2-dea6-4094-80a8-62cb9f6a323f/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 435٬000 تومان",
+          "priceLabelEn": "from 435٬000 Toman"
         }
       ],
       "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/79ccc0cf-bdbf-4417-a173-be42f77ba220/"
@@ -3202,8 +3225,8 @@
     }
   ],
   "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-  "lastVerifiedAt": "2026-10-14T17:16:03Z",
-  "contentUpdatedAt": "2026-10-14T17:16:03Z",
+  "lastVerifiedAt": "2026-10-14T17:30:03Z",
+  "contentUpdatedAt": "2026-10-14T17:30:03Z",
   "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }
