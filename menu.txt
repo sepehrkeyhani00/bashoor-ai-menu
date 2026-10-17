@@ -12,8 +12,8 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://bashoor.ir/menu.json
-- زمان دریافت این نسخه: 2026-10-17T06:45:01.235Z
-- آخرین تغییر ثبت‌شده در منو: 2026-10-14T17:15:55.975Z
+- زمان دریافت این نسخه: 2026-10-17T07:00:01.211Z
+- آخرین تغییر ثبت‌شده در منو: 2026-10-17T06:57:45.621Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
 
@@ -337,11 +337,11 @@
   صفحهٔ آیتم: https://bashoor.ir/menu/item/6e67d41a-b568-49cf-b1b8-041595a73f1f/%DA%A9%D9%84%D8%A7%D8%A8-%D8%A8%DB%8C%DA%A9%D9%86
 - کلاب پپرونی — ۳٬۸۵۰٬۰۰۰ ریال
   صفحهٔ آیتم: https://bashoor.ir/menu/item/79838ce9-9788-469e-80e9-04c782b70898/%DA%A9%D9%84%D8%A7%D8%A8-%D9%BE%D9%BE%D8%B1%D9%88%D9%86%DB%8C
-- نیمرو — ۰ ریال
+- نیمرو — ۱٬۹۵۰٬۰۰۰ ریال
   صفحهٔ آیتم: https://bashoor.ir/menu/item/dc47253e-0768-42c7-95b9-3683aa8d2258/%D9%86%DB%8C%D9%85%D8%B1%D9%88
-- نیمرو ارده خرما — ۰ ریال
+- نیمرو ارده خرما — ۲٬۷۵۰٬۰۰۰ ریال
   صفحهٔ آیتم: https://bashoor.ir/menu/item/c4f1855b-8e6f-4239-99e1-a050ca3d1cff/%D9%86%DB%8C%D9%85%D8%B1%D9%88-%D8%A7%D8%B1%D8%AF%D9%87-%D8%AE%D8%B1%D9%85%D8%A7
-- نیمرو پپرونی — ۰ ریال
+- نیمرو پپرونی — ۲٬۴۵۰٬۰۰۰ ریال
   صفحهٔ آیتم: https://bashoor.ir/menu/item/ff954591-3950-4d9c-b77a-a3b8c750cfcc/%D9%86%DB%8C%D9%85%D8%B1%D9%88-%D9%BE%D9%BE%D8%B1%D9%88%D9%86%DB%8C
 - پاستا آلفردو — ۶٬۸۵۰٬۰۰۰ ریال
   ۱۰۰ گرم سینه مرغ ، به همراه ۱۵۰ گرم پنه ، سس آلفردو
@@ -354,4 +354,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-17T06:45:04Z. Last substantive content change: 2026-10-14T17:30:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-17T07:00:04Z. Last substantive content change: 2026-10-17T07:00:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
