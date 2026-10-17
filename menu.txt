@@ -12,8 +12,8 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://bashoor.ir/menu.json
-- زمان دریافت این نسخه: 2026-10-17T16:15:01.136Z
-- آخرین تغییر ثبت‌شده در منو: 2026-10-17T11:51:37.674Z
+- زمان دریافت این نسخه: 2026-10-17T16:30:01.133Z
+- آخرین تغییر ثبت‌شده در منو: 2026-10-17T16:22:04.636Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
 
@@ -302,6 +302,9 @@
   صفحهٔ آیتم: https://bashoor.ir/menu/item/3e29475f-32f2-4df1-8b8e-df90d4004e0f/%D8%B3%D9%86-%D8%B3%D8%A8%D8%A7%D8%B3%D8%AA%DB%8C%D9%86-%D9%86%D9%88%D8%AA%D9%84%D8%A7
 - سن سباستین پسته — ۴٬۲۰۰٬۰۰۰ ریال
   صفحهٔ آیتم: https://bashoor.ir/menu/item/0d2e5859-46f2-4d8f-a424-c419400a9267/%D8%B3%D9%86-%D8%B3%D8%A8%D8%A7%D8%B3%D8%AA%DB%8C%D9%86-%D9%BE%D8%B3%D8%AA%D9%87
+- جار کیک تیرامیسو — ۳٬۴۰۰٬۰۰۰ ریال
+  تیرامیسو تازه و با کیفیت
+  صفحهٔ آیتم: https://bashoor.ir/menu/item/9dada709-b888-4f18-9d71-4fcbbe865446/%D8%AC%D8%A7%D8%B1-%DA%A9%DB%8C%DA%A9-%D8%AA%DB%8C%D8%B1%D8%A7%D9%85%DB%8C%D8%B3%D9%88
 - کیک باقلوا — ۳٬۴۰۰٬۰۰۰ ریال
   کیک باقلوا تازه
   صفحهٔ آیتم: https://bashoor.ir/menu/item/5114e60f-1483-4b53-8800-19e4b6cad342/%DA%A9%DB%8C%DA%A9-%D8%A8%D8%A7%D9%82%D9%84%D9%88%D8%A7
@@ -350,4 +353,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-17T16:15:05Z. Last substantive content change: 2026-10-17T12:00:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-17T16:30:03Z. Last substantive content change: 2026-10-17T16:30:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.

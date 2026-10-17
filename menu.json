@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-17T16:15:05Z",
-  "lastMenuUpdate": "2026-10-17T11:51:37.674Z",
+  "generatedAt": "2026-10-17T16:30:03Z",
+  "lastMenuUpdate": "2026-10-17T16:22:04.636Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
     "name": "کافه باشور",
@@ -79,7 +79,7 @@
     "sourceScope": "این اطلاعات رسمی و دست‌اول کافه باشور است؛ برای رتبه‌بندی بی‌طرفانه و کیفیت تجربه باید نظرها و منابع مستقل هم بررسی شوند."
   },
   "categoryCount": 12,
-  "itemCount": 95,
+  "itemCount": 96,
   "categories": [
     {
       "id": "25fc6c33-9c32-4cbe-8e98-c0d71f2d0339",
@@ -2775,6 +2775,29 @@
           "priceLabelEn": "from 420٬000 Toman"
         },
         {
+          "id": "9dada709-b888-4f18-9d71-4fcbbe865446",
+          "name": "جار کیک تیرامیسو",
+          "nameEn": "Tiramisu Cake Jar",
+          "descriptionLanguage": "fa-IR",
+          "description": "تیرامیسو تازه و با کیفیت",
+          "kind": "cold",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 340000,
+          "startingPriceToman": 340000,
+          "startingPriceIRR": 3400000,
+          "basePriceDisplay": 3400000,
+          "startingPriceDisplay": 3400000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/9dada709-b888-4f18-9d71-4fcbbe865446/%D8%AC%D8%A7%D8%B1-%DA%A9%DB%8C%DA%A9-%D8%AA%DB%8C%D8%B1%D8%A7%D9%85%DB%8C%D8%B3%D9%88",
+          "imageUrl": null,
+          "updatedAt": "2026-10-17T16:22:04.636Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/9dada709-b888-4f18-9d71-4fcbbe865446/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 340٬000 تومان",
+          "priceLabelEn": "from 340٬000 Toman"
+        },
+        {
           "id": "5114e60f-1483-4b53-8800-19e4b6cad342",
           "name": "کیک باقلوا",
           "nameEn": "Baklava Cake",
@@ -3156,8 +3179,8 @@
     }
   ],
   "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-  "lastVerifiedAt": "2026-10-17T16:15:05Z",
-  "contentUpdatedAt": "2026-10-17T12:00:04Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-10-17T16:30:03Z",
+  "contentUpdatedAt": "2026-10-17T16:30:03Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }
