@@ -6,7 +6,7 @@
     <atom:link href="https://bashoor.ir/menu/feed.xml" rel="self" type="application/rss+xml" />
     <description>کافه باشور در بلوار پیروزی مشهد؛ منوی رسمی شامل ۹۸ آیتم با قیمت روز.</description>
     <language>fa-IR</language>
-    <lastBuildDate>Sat, 17 Oct 2026 11:00:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 11:15:01 GMT</lastBuildDate>
     <generator>Bashoor live menu</generator>
     <copyright>کافه باشور</copyright>
     <georss:point>36.328636 59.475671</georss:point>
@@ -155,12 +155,20 @@
       <pubDate>Tue, 15 Sep 2026 15:06:27 GMT</pubDate>
     </item>
     <item>
-      <title>رگولار — از ۲٬۱۵۰٬۰۰۰ ریال</title>
+      <title>رگولار — از ۱٬۵۰۰٬۰۰۰ ریال</title>
       <link>https://bashoor.ir/menu/item/f5c38d07-95d6-4477-a2de-10c445d6675a/%D8%B1%DA%AF%D9%88%D9%84%D8%A7%D8%B1</link>
       <guid isPermaLink="true">https://bashoor.ir/menu/item/f5c38d07-95d6-4477-a2de-10c445d6675a/%D8%B1%DA%AF%D9%88%D9%84%D8%A7%D8%B1</guid>
       <category>نوشیدنی گرم بر پایه قهوه</category>
-      <description>قهوه دمی به روش چکانه‌ای با دستگاه رگولار قیمت شروع: ۲٬۱۵۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
-      <pubDate>Wed, 26 Aug 2026 16:20:22 GMT</pubDate>
+      <description>قهوه دمی به روش چکانه‌ای با دستگاه رگولار قیمت شروع: ۱٬۵۰۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
+      <pubDate>Sat, 17 Oct 2026 11:08:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>موکا بنانا — از ۳٬۸۵۰٬۰۰۰ ریال</title>
+      <link>https://bashoor.ir/menu/item/bcf14424-c788-4df9-b509-e2480cf67807/%D9%85%D9%88%DA%A9%D8%A7-%D8%A8%D9%86%D8%A7%D9%86%D8%A7</link>
+      <guid isPermaLink="true">https://bashoor.ir/menu/item/bcf14424-c788-4df9-b509-e2480cf67807/%D9%85%D9%88%DA%A9%D8%A7-%D8%A8%D9%86%D8%A7%D9%86%D8%A7</guid>
+      <category>نوشیدنی گرم بر پایه قهوه</category>
+      <description>لاته و شکلات به همراه موز قیمت شروع: ۳٬۸۵۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
+      <pubDate>Sat, 17 Oct 2026 11:10:41 GMT</pubDate>
     </item>
     <item>
       <title>شیر پسته زعفران — از ۳٬۶۵۰٬۰۰۰ ریال</title>
@@ -259,20 +267,12 @@
       <pubDate>Tue, 15 Sep 2026 15:06:38 GMT</pubDate>
     </item>
     <item>
-      <title>آیس موکا بنانا — از ۳٬۸۵۰٬۰۰۰ ریال</title>
-      <link>https://bashoor.ir/menu/item/bcf14424-c788-4df9-b509-e2480cf67807/%D8%A2%DB%8C%D8%B3-%D9%85%D9%88%DA%A9%D8%A7-%D8%A8%D9%86%D8%A7%D9%86%D8%A7</link>
-      <guid isPermaLink="true">https://bashoor.ir/menu/item/bcf14424-c788-4df9-b509-e2480cf67807/%D8%A2%DB%8C%D8%B3-%D9%85%D9%88%DA%A9%D8%A7-%D8%A8%D9%86%D8%A7%D9%86%D8%A7</guid>
-      <category>نوشیدنی سرد بر پایه قهوه</category>
-      <description>لاته و شکلات به همراه موز قیمت شروع: ۳٬۸۵۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
-      <pubDate>Tue, 15 Sep 2026 15:07:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>آیس رگولار — از ۲٬۱۵۰٬۰۰۰ ریال</title>
+      <title>آیس رگولار — از ۱٬۵۰۰٬۰۰۰ ریال</title>
       <link>https://bashoor.ir/menu/item/e37025f9-d457-4afd-ab5f-ee304acff2fb/%D8%A2%DB%8C%D8%B3-%D8%B1%DA%AF%D9%88%D9%84%D8%A7%D8%B1</link>
       <guid isPermaLink="true">https://bashoor.ir/menu/item/e37025f9-d457-4afd-ab5f-ee304acff2fb/%D8%A2%DB%8C%D8%B3-%D8%B1%DA%AF%D9%88%D9%84%D8%A7%D8%B1</guid>
       <category>نوشیدنی سرد بر پایه قهوه</category>
-      <description>قهوه دمی به روش چکانه‌ای با دستگاه رگولار به همراه یخ قیمت شروع: ۲٬۱۵۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
-      <pubDate>Wed, 26 Aug 2026 16:20:27 GMT</pubDate>
+      <description>قهوه دمی به روش چکانه‌ای با دستگاه رگولار به همراه یخ قیمت شروع: ۱٬۵۰۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
+      <pubDate>Sat, 17 Oct 2026 11:09:06 GMT</pubDate>
     </item>
     <item>
       <title>اورنج اسپرسو — از ۲٬۸۵۰٬۰۰۰ ریال</title>

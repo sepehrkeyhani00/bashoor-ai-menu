@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-17T11:00:04Z",
-  "lastMenuUpdate": "2026-10-17T06:57:45.621Z",
+  "generatedAt": "2026-10-17T11:15:03Z",
+  "lastMenuUpdate": "2026-10-17T11:10:41.835Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
     "name": "کافه باشور",
@@ -710,19 +710,68 @@
           "kind": "hot",
           "popular": false,
           "available": true,
-          "basePriceToman": 215000,
-          "startingPriceToman": 215000,
-          "startingPriceIRR": 2150000,
-          "basePriceDisplay": 2150000,
-          "startingPriceDisplay": 2150000,
+          "basePriceToman": 150000,
+          "startingPriceToman": 150000,
+          "startingPriceIRR": 1500000,
+          "basePriceDisplay": 1500000,
+          "startingPriceDisplay": 1500000,
           "canonicalUrl": "https://bashoor.ir/menu/item/f5c38d07-95d6-4477-a2de-10c445d6675a/%D8%B1%DA%AF%D9%88%D9%84%D8%A7%D8%B1",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745034449_372875901.webp",
-          "updatedAt": "2026-08-26T16:20:22.967Z",
+          "updatedAt": "2026-10-17T11:08:59.787Z",
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f5c38d07-95d6-4477-a2de-10c445d6675a/",
           "priceStatus": "quoted",
-          "priceLabel": "از 215٬000 تومان",
-          "priceLabelEn": "from 215٬000 Toman"
+          "priceLabel": "از 150٬000 تومان",
+          "priceLabelEn": "from 150٬000 Toman"
+        },
+        {
+          "id": "bcf14424-c788-4df9-b509-e2480cf67807",
+          "name": "موکا بنانا",
+          "nameEn": "موکا بنانا",
+          "descriptionLanguage": "fa-IR",
+          "description": "لاته و شکلات به همراه موز",
+          "kind": "cold",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 385000,
+          "startingPriceToman": 385000,
+          "startingPriceIRR": 3850000,
+          "basePriceDisplay": 3850000,
+          "startingPriceDisplay": 3850000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/bcf14424-c788-4df9-b509-e2480cf67807/%D9%85%D9%88%DA%A9%D8%A7-%D8%A8%D9%86%D8%A7%D9%86%D8%A7",
+          "imageUrl": "https://bashoor.ir/menu-assets/iced-mocha-banana.webp",
+          "updatedAt": "2026-10-17T11:10:41.835Z",
+          "optionGroups": [
+            {
+              "name": "حالت",
+              "required": true,
+              "type": "variant",
+              "choices": [
+                {
+                  "name": "صد عربیکا",
+                  "description": null,
+                  "priceDeltaToman": 30000,
+                  "priceToman": 415000,
+                  "priceDeltaDisplay": 300000,
+                  "priceDisplay": 4150000,
+                  "imageUrl": null
+                },
+                {
+                  "name": "سی عربیکا",
+                  "description": null,
+                  "priceDeltaToman": 0,
+                  "priceToman": 385000,
+                  "priceDeltaDisplay": 0,
+                  "priceDisplay": 3850000,
+                  "imageUrl": null
+                }
+              ]
+            }
+          ],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/bcf14424-c788-4df9-b509-e2480cf67807/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 385٬000 تومان",
+          "priceLabelEn": "from 385٬000 Toman"
         }
       ],
       "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/92213ebc-331c-48ac-9e0a-53f4e79a9615/"
@@ -1253,55 +1302,6 @@
           "priceLabelEn": "from 355٬000 Toman"
         },
         {
-          "id": "bcf14424-c788-4df9-b509-e2480cf67807",
-          "name": "آیس موکا بنانا",
-          "nameEn": "Iced Banana Mocha",
-          "descriptionLanguage": "fa-IR",
-          "description": "لاته و شکلات به همراه موز",
-          "kind": "cold",
-          "popular": false,
-          "available": true,
-          "basePriceToman": 385000,
-          "startingPriceToman": 385000,
-          "startingPriceIRR": 3850000,
-          "basePriceDisplay": 3850000,
-          "startingPriceDisplay": 3850000,
-          "canonicalUrl": "https://bashoor.ir/menu/item/bcf14424-c788-4df9-b509-e2480cf67807/%D8%A2%DB%8C%D8%B3-%D9%85%D9%88%DA%A9%D8%A7-%D8%A8%D9%86%D8%A7%D9%86%D8%A7",
-          "imageUrl": "https://bashoor.ir/menu-assets/iced-mocha-banana.webp",
-          "updatedAt": "2026-09-15T15:07:08.588Z",
-          "optionGroups": [
-            {
-              "name": "حالت",
-              "required": true,
-              "type": "variant",
-              "choices": [
-                {
-                  "name": "صد عربیکا",
-                  "description": null,
-                  "priceDeltaToman": 30000,
-                  "priceToman": 415000,
-                  "priceDeltaDisplay": 300000,
-                  "priceDisplay": 4150000,
-                  "imageUrl": null
-                },
-                {
-                  "name": "سی عربیکا",
-                  "description": null,
-                  "priceDeltaToman": 0,
-                  "priceToman": 385000,
-                  "priceDeltaDisplay": 0,
-                  "priceDisplay": 3850000,
-                  "imageUrl": null
-                }
-              ]
-            }
-          ],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/bcf14424-c788-4df9-b509-e2480cf67807/",
-          "priceStatus": "quoted",
-          "priceLabel": "از 385٬000 تومان",
-          "priceLabelEn": "from 385٬000 Toman"
-        },
-        {
           "id": "e37025f9-d457-4afd-ab5f-ee304acff2fb",
           "name": "آیس رگولار",
           "nameEn": "Iced Regular Drip Coffee",
@@ -1310,19 +1310,19 @@
           "kind": "cold",
           "popular": false,
           "available": true,
-          "basePriceToman": 215000,
-          "startingPriceToman": 215000,
-          "startingPriceIRR": 2150000,
-          "basePriceDisplay": 2150000,
-          "startingPriceDisplay": 2150000,
+          "basePriceToman": 150000,
+          "startingPriceToman": 150000,
+          "startingPriceIRR": 1500000,
+          "basePriceDisplay": 1500000,
+          "startingPriceDisplay": 1500000,
           "canonicalUrl": "https://bashoor.ir/menu/item/e37025f9-d457-4afd-ab5f-ee304acff2fb/%D8%A2%DB%8C%D8%B3-%D8%B1%DA%AF%D9%88%D9%84%D8%A7%D8%B1",
           "imageUrl": "https://bashoor.ir/menu-assets/iced-regular-coffee.webp",
-          "updatedAt": "2026-08-26T16:20:27.024Z",
+          "updatedAt": "2026-10-17T11:09:06.988Z",
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/e37025f9-d457-4afd-ab5f-ee304acff2fb/",
           "priceStatus": "quoted",
-          "priceLabel": "از 215٬000 تومان",
-          "priceLabelEn": "from 215٬000 Toman"
+          "priceLabel": "از 150٬000 تومان",
+          "priceLabelEn": "from 150٬000 Toman"
         },
         {
           "id": "c3711140-8ba1-4611-a487-207f23176440",
@@ -3225,8 +3225,8 @@
     }
   ],
   "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-  "lastVerifiedAt": "2026-10-17T11:00:04Z",
-  "contentUpdatedAt": "2026-10-17T07:00:04Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-10-17T11:15:03Z",
+  "contentUpdatedAt": "2026-10-17T11:15:03Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }

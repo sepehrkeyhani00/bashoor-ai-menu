@@ -12,8 +12,8 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://bashoor.ir/menu.json
-- زمان دریافت این نسخه: 2026-10-17T11:00:01.211Z
-- آخرین تغییر ثبت‌شده در منو: 2026-10-17T06:57:45.621Z
+- زمان دریافت این نسخه: 2026-10-17T11:15:01.133Z
+- آخرین تغییر ثبت‌شده در منو: 2026-10-17T11:10:41.835Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
 
@@ -83,9 +83,13 @@
   اسپرسو و بستنی وانیلی
   صفحهٔ آیتم: https://bashoor.ir/menu/item/b4beaa15-631c-487a-8242-0185f66897fd/%D8%A2%D9%81%D9%88%DA%AF%D8%A7%D8%AA%D9%88
   درصد عربیکا (انتخاب الزامی): صد عربیکا: ۳٬۱۵۰٬۰۰۰ ریال؛ سی عربیکا: ۲٬۸۵۰٬۰۰۰ ریال
-- رگولار — ۲٬۱۵۰٬۰۰۰ ریال
+- رگولار — ۱٬۵۰۰٬۰۰۰ ریال
   قهوه دمی به روش چکانه‌ای با دستگاه رگولار
   صفحهٔ آیتم: https://bashoor.ir/menu/item/f5c38d07-95d6-4477-a2de-10c445d6675a/%D8%B1%DA%AF%D9%88%D9%84%D8%A7%D8%B1
+- موکا بنانا — از ۳٬۸۵۰٬۰۰۰ ریال
+  لاته و شکلات به همراه موز
+  صفحهٔ آیتم: https://bashoor.ir/menu/item/bcf14424-c788-4df9-b509-e2480cf67807/%D9%85%D9%88%DA%A9%D8%A7-%D8%A8%D9%86%D8%A7%D9%86%D8%A7
+  حالت (انتخاب الزامی): صد عربیکا: ۴٬۱۵۰٬۰۰۰ ریال؛ سی عربیکا: ۳٬۸۵۰٬۰۰۰ ریال
 
 ## نوشیدنی های پاییزی 🍁🍂
 
@@ -137,11 +141,7 @@
   ترکیب لاته و شکلات به همراه خامه
   صفحهٔ آیتم: https://bashoor.ir/menu/item/46cca27f-af36-4c5f-8c80-d12d9574fba8/%D8%A2%DB%8C%D8%B3-%D9%85%D9%88%DA%A9%D8%A7-%DA%A9%D8%B1%D9%85
   حالت (انتخاب الزامی): صد عربیکا: ۳٬۸۵۰٬۰۰۰ ریال؛ سی عربیکا: ۳٬۵۵۰٬۰۰۰ ریال
-- آیس موکا بنانا — از ۳٬۸۵۰٬۰۰۰ ریال
-  لاته و شکلات به همراه موز
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/bcf14424-c788-4df9-b509-e2480cf67807/%D8%A2%DB%8C%D8%B3-%D9%85%D9%88%DA%A9%D8%A7-%D8%A8%D9%86%D8%A7%D9%86%D8%A7
-  حالت (انتخاب الزامی): صد عربیکا: ۴٬۱۵۰٬۰۰۰ ریال؛ سی عربیکا: ۳٬۸۵۰٬۰۰۰ ریال
-- آیس رگولار — ۲٬۱۵۰٬۰۰۰ ریال
+- آیس رگولار — ۱٬۵۰۰٬۰۰۰ ریال
   قهوه دمی به روش چکانه‌ای با دستگاه رگولار به همراه یخ
   صفحهٔ آیتم: https://bashoor.ir/menu/item/e37025f9-d457-4afd-ab5f-ee304acff2fb/%D8%A2%DB%8C%D8%B3-%D8%B1%DA%AF%D9%88%D9%84%D8%A7%D8%B1
 - اورنج اسپرسو — از ۲٬۸۵۰٬۰۰۰ ریال
@@ -354,4 +354,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-17T11:00:04Z. Last substantive content change: 2026-10-17T07:00:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-17T11:15:03Z. Last substantive content change: 2026-10-17T11:15:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.

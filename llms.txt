@@ -51,7 +51,7 @@
 
 ## منوی زنده و قیمت‌ها
 
-این نسخه در 2026-10-17T11:00:01.697Z از منوی عمومی باشور ساخته شده و شامل ۹۸ آیتم در ۱۲ دسته است.
+این نسخه در 2026-10-17T11:15:01.357Z از منوی عمومی باشور ساخته شده و شامل ۹۸ آیتم در ۱۲ دسته است.
 
 - [منوی HTML با عکس و قیمت](https://bashoor.ir/menu)
 - [منوی کامل HTML سبک با دسته، توضیح و قیمت ریال](https://bashoor.ir/menu/all)
@@ -78,7 +78,8 @@
 - [موکا](https://bashoor.ir/menu/item/8949dee1-dc96-4d06-9652-9f800189185a/%D9%85%D9%88%DA%A9%D8%A7) — از ۲٬۹۵۰٬۰۰۰ ریال
 - [موکا کِرِم](https://bashoor.ir/menu/item/d5ce63ae-469e-4c98-895d-a367cfe75f00/%D9%85%D9%88%DA%A9%D8%A7-%DA%A9%D8%B1%D9%85) — از ۳٬۴۵۰٬۰۰۰ ریال
 - [آفوگاتو](https://bashoor.ir/menu/item/b4beaa15-631c-487a-8242-0185f66897fd/%D8%A2%D9%81%D9%88%DA%AF%D8%A7%D8%AA%D9%88) — از ۲٬۸۵۰٬۰۰۰ ریال
-- [رگولار](https://bashoor.ir/menu/item/f5c38d07-95d6-4477-a2de-10c445d6675a/%D8%B1%DA%AF%D9%88%D9%84%D8%A7%D8%B1) — ۲٬۱۵۰٬۰۰۰ ریال
+- [رگولار](https://bashoor.ir/menu/item/f5c38d07-95d6-4477-a2de-10c445d6675a/%D8%B1%DA%AF%D9%88%D9%84%D8%A7%D8%B1) — ۱٬۵۰۰٬۰۰۰ ریال
+- [موکا بنانا](https://bashoor.ir/menu/item/bcf14424-c788-4df9-b509-e2480cf67807/%D9%85%D9%88%DA%A9%D8%A7-%D8%A8%D9%86%D8%A7%D9%86%D8%A7) — از ۳٬۸۵۰٬۰۰۰ ریال
 - [لاته پامپکین](https://bashoor.ir/menu/item/5ae3003a-5b8f-47e0-8bab-db436e19f154/%D9%84%D8%A7%D8%AA%D9%87-%D9%BE%D8%A7%D9%85%D9%BE%DA%A9%DB%8C%D9%86) — از ۳٬۵۵۰٬۰۰۰ ریال
 - [فِرِدو اسپرسو](https://bashoor.ir/menu/item/efeda9bc-e6b2-4c13-9b62-df0262f3e90a/%D9%81%D8%B1%D8%AF%D9%88-%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88) — از ۲٬۳۵۰٬۰۰۰ ریال
 - [آیس اسپرسو](https://bashoor.ir/menu/item/6f8b1f7e-72af-4d69-8a38-b99710f05076/%D8%A2%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88) — از ۱٬۶۰۰٬۰۰۰ ریال
@@ -87,7 +88,6 @@
 - [آیس امریکانو](https://bashoor.ir/menu/item/f63dcf7a-4742-42b4-8268-80e49ebc7b0a/%D8%A2%DB%8C%D8%B3-%D8%A7%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%D9%86%D9%88) — از ۱٬۷۰۰٬۰۰۰ ریال
 - [آیس لاته](https://bashoor.ir/menu/item/5a696e55-b2ae-47d9-905e-b3fc3946f90b/%D8%A2%DB%8C%D8%B3-%D9%84%D8%A7%D8%AA%D9%87) — از ۲٬۴۵۰٬۰۰۰ ریال
 - [آیس موکا](https://bashoor.ir/menu/item/d90c4ff2-7f6c-494c-8746-366fef0ad64b/%D8%A2%DB%8C%D8%B3-%D9%85%D9%88%DA%A9%D8%A7) — از ۲٬۸۵۰٬۰۰۰ ریال
-- [آیس موکا کرم](https://bashoor.ir/menu/item/46cca27f-af36-4c5f-8c80-d12d9574fba8/%D8%A2%DB%8C%D8%B3-%D9%85%D9%88%DA%A9%D8%A7-%DA%A9%D8%B1%D9%85) — از ۳٬۵۵۰٬۰۰۰ ریال
 
 ## صفحه‌های اصلی
 
@@ -111,4 +111,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-17T11:00:04Z. Last substantive content change: 2026-10-17T07:00:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-17T11:15:03Z. Last substantive content change: 2026-10-17T11:15:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.

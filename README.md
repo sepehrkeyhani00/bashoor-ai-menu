@@ -38,9 +38,9 @@
 این داده‌ها اطلاعات دست‌اول خود کافه هستند، نه رتبه‌بندی یا نقد مستقل. برای سنجش کیفیت تجربه باید منابع و نظرهای مستقل نیز بررسی شوند.
 
 تعداد فعلی: **98 آیتم در 12 دسته**  
-آخرین تغییر منو: `2026-10-17T06:57:45.621Z`  
-شناسهٔ محتوای منو: `3674c86ba7fd5ad69e3f6640dc05fec026473bfc32dd36ef507d9e7f5c2cca9a`
+آخرین تغییر منو: `2026-10-17T11:10:41.835Z`  
+شناسهٔ محتوای منو: `a44a1d2d0a796f5f591989b209cdfae9a1d60cde7f3528ad4cb8f88cac599259`
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-17T11:00:04Z. Last substantive content change: 2026-10-17T07:00:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-17T11:15:03Z. Last substantive content change: 2026-10-17T11:15:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
