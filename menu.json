@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-17T07:00:04Z",
+  "generatedAt": "2026-10-17T07:15:04Z",
   "lastMenuUpdate": "2026-10-17T06:57:45.621Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
@@ -3225,8 +3225,8 @@
     }
   ],
   "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-  "lastVerifiedAt": "2026-10-17T07:00:04Z",
+  "lastVerifiedAt": "2026-10-17T07:15:04Z",
   "contentUpdatedAt": "2026-10-17T07:00:04Z",
-  "sourceChangedSincePreviousCheck": true,
+  "sourceChangedSincePreviousCheck": false,
   "refreshIntervalMinutes": 15
 }
