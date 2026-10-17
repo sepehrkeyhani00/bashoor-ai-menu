@@ -12,8 +12,8 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://bashoor.ir/menu.json
-- زمان دریافت این نسخه: 2026-10-17T11:45:01.092Z
-- آخرین تغییر ثبت‌شده در منو: 2026-10-17T11:35:35.052Z
+- زمان دریافت این نسخه: 2026-10-17T12:00:01.172Z
+- آخرین تغییر ثبت‌شده در منو: 2026-10-17T11:51:37.674Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
 
@@ -324,8 +324,9 @@
   صفحهٔ آیتم: https://bashoor.ir/menu/item/cec8f3b1-5433-4cdd-b43a-c903fafe0e75/%D8%A7%D9%85%D9%84%D8%AA
 - پاستا پستو — ۶٬۱۰۰٬۰۰۰ ریال
   صفحهٔ آیتم: https://bashoor.ir/menu/item/b5a75768-2a7e-4eea-8114-d566100d334d/%D9%BE%D8%A7%D8%B3%D8%AA%D8%A7-%D9%BE%D8%B3%D8%AA%D9%88
-- تخم مرغ بیکن — ۰ ریال
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/1d64935b-1b0e-482e-934e-f9e7704ee940/%D8%AA%D8%AE%D9%85-%D9%85%D8%B1%D8%BA-%D8%A8%DB%8C%DA%A9%D9%86
+- تست بِیکِن — ۳٬۹۵۰٬۰۰۰ ریال
+  سه عدد تخم مرغ ، پنیر گودا و بیکن به همراه سالاد کاهو
+  صفحهٔ آیتم: https://bashoor.ir/menu/item/1d64935b-1b0e-482e-934e-f9e7704ee940/%D8%AA%D8%B3%D8%AA-%D8%A8%DB%8C%DA%A9%D9%86
 - صبحانه سرد — ۰ ریال
   صفحهٔ آیتم: https://bashoor.ir/menu/item/4f44927e-bdd2-4b66-9dd0-71b44c91758c/%D8%B5%D8%A8%D8%AD%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%D8%AF
 - کلاب آلفردو — ۰ ریال
@@ -338,8 +339,6 @@
   صفحهٔ آیتم: https://bashoor.ir/menu/item/dc47253e-0768-42c7-95b9-3683aa8d2258/%D9%86%DB%8C%D9%85%D8%B1%D9%88
 - نیمرو ارده خرما — ۲٬۷۵۰٬۰۰۰ ریال
   صفحهٔ آیتم: https://bashoor.ir/menu/item/c4f1855b-8e6f-4239-99e1-a050ca3d1cff/%D9%86%DB%8C%D9%85%D8%B1%D9%88-%D8%A7%D8%B1%D8%AF%D9%87-%D8%AE%D8%B1%D9%85%D8%A7
-- نیمرو پپرونی — ۲٬۴۵۰٬۰۰۰ ریال
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/ff954591-3950-4d9c-b77a-a3b8c750cfcc/%D9%86%DB%8C%D9%85%D8%B1%D9%88-%D9%BE%D9%BE%D8%B1%D9%88%D9%86%DB%8C
 - پاستا آلفردو — ۶٬۸۵۰٬۰۰۰ ریال
   ۱۰۰ گرم سینه مرغ ، به همراه ۱۵۰ گرم پنه ، سس آلفردو
   صفحهٔ آیتم: https://bashoor.ir/menu/item/968285c6-66b6-412f-a8d5-5be90086a1e6/%D9%BE%D8%A7%D8%B3%D8%AA%D8%A7-%D8%A2%D9%84%D9%81%D8%B1%D8%AF%D9%88
@@ -351,4 +350,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-17T11:45:03Z. Last substantive content change: 2026-10-17T11:45:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-17T12:00:04Z. Last substantive content change: 2026-10-17T12:00:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.

@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.1",
-  "generatedAt": "2026-10-17T11:45:03Z",
+  "generatedAt": "2026-10-17T12:00:04Z",
   "inLanguage": [
     "fa-IR",
     "en"
@@ -65,7 +65,7 @@
     {
       "question": "منوی کافه باشور با قیمت کجاست؟",
       "language": "fa-IR",
-      "answer": "منوی رسمی و زندهٔ باشور شامل 96 آیتم در 12 دسته است و قیمت‌ها را به تومان و IRR منتشر می‌کند.",
+      "answer": "منوی رسمی و زندهٔ باشور شامل 95 آیتم در 12 دسته است و قیمت‌ها را به تومان و IRR منتشر می‌کند.",
       "evidence": [
         "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
         "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.txt",
@@ -190,7 +190,7 @@
       "id": "breakfast-fa-IR",
       "question": "باشور برای صبحانه در مشهد چه آیتم‌هایی دارد؟",
       "language": "fa-IR",
-      "answer": "آیتم‌های صبحانه در منوی فعلی باشور: املت، تخم مرغ بیکن، صبحانه سرد، نیمرو، نیمرو ارده خرما، نیمرو پپرونی. وجود آیتم در منو به معنی موجودی قطعی یا سرو در تمام ساعات نیست. ساعت سرو و قیمت آیتم‌های بدون قیمت مشخص را از کافه بپرسید.",
+      "answer": "آیتم‌های صبحانه در منوی فعلی باشور: املت، صبحانه سرد، نیمرو، نیمرو ارده خرما. وجود آیتم در منو به معنی موجودی قطعی یا سرو در تمام ساعات نیست. ساعت سرو و قیمت آیتم‌های بدون قیمت مشخص را از کافه بپرسید.",
       "evidence": [
         "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
         "https://bashoor.ir/breakfast-cafe-mashhad"
@@ -200,7 +200,7 @@
       "id": "breakfast-en",
       "question": "What breakfast items does Bashoor Cafe list in Mashhad?",
       "language": "en",
-      "answer": "Breakfast-related items currently listed by Bashoor Cafe: Omelette, Eggs and Bacon, Cold Breakfast, Fried Eggs, Fried Eggs with Tahini and Dates, Fried Eggs with Pepperoni. A menu listing does not guarantee availability or all-day service. Ask the cafe about serving times and items without a quoted price.",
+      "answer": "Breakfast-related items currently listed by Bashoor Cafe: Omelette, Cold Breakfast, Fried Eggs, Fried Eggs with Tahini and Dates. A menu listing does not guarantee availability or all-day service. Ask the cafe about serving times and items without a quoted price.",
       "evidence": [
         "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
         "https://bashoor.ir/breakfast-cafe-mashhad"
@@ -250,10 +250,10 @@
       "url": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ea645fcc-c151-4b00-9fff-474a8b967157/"
     }
   ],
-  "menuDigest": "ad9ab3b7ba28a896748dcaf707cf3168e11b02cf7b9ad92589755f9c66d51671",
+  "menuDigest": "247589303c42979e91c245a247fbae790f3ab7e47ab1ef0123b58d1035e5f249",
   "disclaimer": "This is official first-party information, not an independent ranking or review. Confirm final price and availability when ordering.",
-  "lastVerifiedAt": "2026-10-17T11:45:03Z",
-  "contentUpdatedAt": "2026-10-17T11:45:03Z",
+  "lastVerifiedAt": "2026-10-17T12:00:04Z",
+  "contentUpdatedAt": "2026-10-17T12:00:04Z",
   "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }

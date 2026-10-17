@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-17T11:45:03Z",
-  "lastMenuUpdate": "2026-10-17T11:35:35.052Z",
+  "generatedAt": "2026-10-17T12:00:04Z",
+  "lastMenuUpdate": "2026-10-17T11:51:37.674Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
     "name": "کافه باشور",
@@ -79,7 +79,7 @@
     "sourceScope": "این اطلاعات رسمی و دست‌اول کافه باشور است؛ برای رتبه‌بندی بی‌طرفانه و کیفیت تجربه باید نظرها و منابع مستقل هم بررسی شوند."
   },
   "categoryCount": 12,
-  "itemCount": 96,
+  "itemCount": 95,
   "categories": [
     {
       "id": "25fc6c33-9c32-4cbe-8e98-c0d71f2d0339",
@@ -2969,26 +2969,26 @@
         },
         {
           "id": "1d64935b-1b0e-482e-934e-f9e7704ee940",
-          "name": "تخم مرغ بیکن",
-          "nameEn": "Eggs and Bacon",
+          "name": "تست بِیکِن",
+          "nameEn": "تست بِیکِن",
           "descriptionLanguage": "fa-IR",
-          "description": null,
+          "description": "سه عدد تخم مرغ ، پنیر گودا و بیکن به همراه سالاد کاهو",
           "kind": "food",
           "popular": false,
           "available": true,
-          "basePriceToman": 0,
-          "startingPriceToman": 0,
-          "startingPriceIRR": 0,
-          "basePriceDisplay": 0,
-          "startingPriceDisplay": 0,
-          "canonicalUrl": "https://bashoor.ir/menu/item/1d64935b-1b0e-482e-934e-f9e7704ee940/%D8%AA%D8%AE%D9%85-%D9%85%D8%B1%D8%BA-%D8%A8%DB%8C%DA%A9%D9%86",
+          "basePriceToman": 395000,
+          "startingPriceToman": 395000,
+          "startingPriceIRR": 3950000,
+          "basePriceDisplay": 3950000,
+          "startingPriceDisplay": 3950000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/1d64935b-1b0e-482e-934e-f9e7704ee940/%D8%AA%D8%B3%D8%AA-%D8%A8%DB%8C%DA%A9%D9%86",
           "imageUrl": null,
-          "updatedAt": "2026-09-28T15:11:32.274Z",
+          "updatedAt": "2026-10-17T11:51:37.674Z",
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/1d64935b-1b0e-482e-934e-f9e7704ee940/",
-          "priceStatus": "ask_staff",
-          "priceLabel": "قیمت را از کافه بپرسید",
-          "priceLabelEn": "Ask the cafe for the price"
+          "priceStatus": "quoted",
+          "priceLabel": "از 395٬000 تومان",
+          "priceLabelEn": "from 395٬000 Toman"
         },
         {
           "id": "4f44927e-bdd2-4b66-9dd0-71b44c91758c",
@@ -3129,29 +3129,6 @@
           "priceLabelEn": "from 275٬000 Toman"
         },
         {
-          "id": "ff954591-3950-4d9c-b77a-a3b8c750cfcc",
-          "name": "نیمرو پپرونی",
-          "nameEn": "Fried Eggs with Pepperoni",
-          "descriptionLanguage": "fa-IR",
-          "description": null,
-          "kind": "food",
-          "popular": false,
-          "available": true,
-          "basePriceToman": 245000,
-          "startingPriceToman": 245000,
-          "startingPriceIRR": 2450000,
-          "basePriceDisplay": 2450000,
-          "startingPriceDisplay": 2450000,
-          "canonicalUrl": "https://bashoor.ir/menu/item/ff954591-3950-4d9c-b77a-a3b8c750cfcc/%D9%86%DB%8C%D9%85%D8%B1%D9%88-%D9%BE%D9%BE%D8%B1%D9%88%D9%86%DB%8C",
-          "imageUrl": null,
-          "updatedAt": "2026-10-17T06:57:45.621Z",
-          "optionGroups": [],
-          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ff954591-3950-4d9c-b77a-a3b8c750cfcc/",
-          "priceStatus": "quoted",
-          "priceLabel": "از 245٬000 تومان",
-          "priceLabelEn": "from 245٬000 Toman"
-        },
-        {
           "id": "968285c6-66b6-412f-a8d5-5be90086a1e6",
           "name": "پاستا آلفردو",
           "nameEn": "Alfredo Pasta",
@@ -3179,8 +3156,8 @@
     }
   ],
   "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-  "lastVerifiedAt": "2026-10-17T11:45:03Z",
-  "contentUpdatedAt": "2026-10-17T11:45:03Z",
+  "lastVerifiedAt": "2026-10-17T12:00:04Z",
+  "contentUpdatedAt": "2026-10-17T12:00:04Z",
   "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }
