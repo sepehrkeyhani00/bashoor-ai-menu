@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-17T11:30:03Z",
+  "generatedAt": "2026-10-17T11:45:03Z",
   "sourceType": "official first-party business data",
   "independentReview": false,
   "entityId": "https://bashoor.ir/#cafe",
@@ -48,7 +48,7 @@
     ]
   },
   "timezone": "Asia/Tehran",
-  "menuDigest": "a44a1d2d0a796f5f591989b209cdfae9a1d60cde7f3528ad4cb8f88cac599259",
+  "menuDigest": "ad9ab3b7ba28a896748dcaf707cf3168e11b02cf7b9ad92589755f9c66d51671",
   "refresh": {
     "intervalMinutes": 15,
     "publishEverySuccessfulCheck": true
@@ -178,7 +178,7 @@
       "id": "breakfast-fa-IR",
       "question": "باشور برای صبحانه در مشهد چه آیتم‌هایی دارد؟",
       "language": "fa-IR",
-      "answer": "آیتم‌های صبحانه در منوی فعلی باشور: املت، املت باشور، املت باکور، تخم مرغ بیکن، صبحانه سرد، نیمرو، نیمرو ارده خرما، نیمرو پپرونی. وجود آیتم در منو به معنی موجودی قطعی یا سرو در تمام ساعات نیست. ساعت سرو و قیمت آیتم‌های بدون قیمت مشخص را از کافه بپرسید.",
+      "answer": "آیتم‌های صبحانه در منوی فعلی باشور: املت، تخم مرغ بیکن، صبحانه سرد، نیمرو، نیمرو ارده خرما، نیمرو پپرونی. وجود آیتم در منو به معنی موجودی قطعی یا سرو در تمام ساعات نیست. ساعت سرو و قیمت آیتم‌های بدون قیمت مشخص را از کافه بپرسید.",
       "evidence": [
         "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
         "https://bashoor.ir/breakfast-cafe-mashhad"
@@ -188,7 +188,7 @@
       "id": "breakfast-en",
       "question": "What breakfast items does Bashoor Cafe list in Mashhad?",
       "language": "en",
-      "answer": "Breakfast-related items currently listed by Bashoor Cafe: Omelette, Bashoor Omelette, Bakur Omelette, Eggs and Bacon, Cold Breakfast, Fried Eggs, Fried Eggs with Tahini and Dates, Fried Eggs with Pepperoni. A menu listing does not guarantee availability or all-day service. Ask the cafe about serving times and items without a quoted price.",
+      "answer": "Breakfast-related items currently listed by Bashoor Cafe: Omelette, Eggs and Bacon, Cold Breakfast, Fried Eggs, Fried Eggs with Tahini and Dates, Fried Eggs with Pepperoni. A menu listing does not guarantee availability or all-day service. Ask the cafe about serving times and items without a quoted price.",
       "evidence": [
         "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
         "https://bashoor.ir/breakfast-cafe-mashhad"
@@ -215,8 +215,8 @@
       ]
     }
   ],
-  "lastVerifiedAt": "2026-10-17T11:30:03Z",
-  "contentUpdatedAt": "2026-10-17T11:15:03Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-10-17T11:45:03Z",
+  "contentUpdatedAt": "2026-10-17T11:45:03Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }

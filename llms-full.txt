@@ -51,7 +51,7 @@
 
 ## منوی زنده و قیمت‌ها
 
-این نسخه در 2026-10-17T11:30:01.300Z از منوی عمومی باشور ساخته شده و شامل ۹۸ آیتم در ۱۲ دسته است.
+این نسخه در 2026-10-17T11:45:01.266Z از منوی عمومی باشور ساخته شده و شامل ۹۶ آیتم در ۱۲ دسته است.
 
 - [منوی HTML با عکس و قیمت](https://bashoor.ir/menu)
 - [منوی کامل HTML سبک با دسته، توضیح و قیمت ریال](https://bashoor.ir/menu/all)
@@ -123,8 +123,8 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json
-- زمان دریافت این نسخه: 2026-10-17T11:30:01.300Z
-- آخرین تغییر ثبت‌شده در منو: 2026-10-17T11:10:41.835Z
+- زمان دریافت این نسخه: 2026-10-17T11:45:01.266Z
+- آخرین تغییر ثبت‌شده در منو: 2026-10-17T11:35:35.052Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
 
@@ -204,6 +204,9 @@
 
 ## نوشیدنی های پاییزی 🍁🍂
 
+- وایت پینات — ۳٬۹۵۰٬۰۰۰ ریال
+  ترکیب شیر گرم و خامه ، شکلات سفید و کره بادم زمینی
+  صفحهٔ آیتم: https://bashoor.ir/menu/item/a757a1dd-8d88-44bb-8db1-ea02607dccfd/%D9%88%D8%A7%DB%8C%D8%AA-%D9%BE%DB%8C%D9%86%D8%A7%D8%AA
 - شیر پسته زعفران — ۳٬۶۵۰٬۰۰۰ ریال
   شیر پسته زعفران ( شیرین )
   صفحهٔ آیتم: https://bashoor.ir/menu/item/658702da-6d0e-4989-9b4a-debbb8ff7bfa/%D8%B4%DB%8C%D8%B1-%D9%BE%D8%B3%D8%AA%D9%87-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86
@@ -428,11 +431,8 @@
 ## غذا
 
 - املت — ۲٬۹۵۰٬۰۰۰ ریال
+  سه عدد تخم مرغ ، گوجه و رب خانگی به همراه سالاد کاهو
   صفحهٔ آیتم: https://bashoor.ir/menu/item/cec8f3b1-5433-4cdd-b43a-c903fafe0e75/%D8%A7%D9%85%D9%84%D8%AA
-- املت باشور — ۰ ریال
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/cc1783c8-6f1a-49a8-9ba1-3f3cf52e7d44/%D8%A7%D9%85%D9%84%D8%AA-%D8%A8%D8%A7%D8%B4%D9%88%D8%B1
-- املت باکور — ۰ ریال
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/8945d97d-d639-4388-9e84-e9bec42f785c/%D8%A7%D9%85%D9%84%D8%AA-%D8%A8%D8%A7%DA%A9%D9%88%D8%B1
 - پاستا پستو — ۶٬۱۰۰٬۰۰۰ ریال
   صفحهٔ آیتم: https://bashoor.ir/menu/item/b5a75768-2a7e-4eea-8114-d566100d334d/%D9%BE%D8%A7%D8%B3%D8%AA%D8%A7-%D9%BE%D8%B3%D8%AA%D9%88
 - تخم مرغ بیکن — ۰ ریال
@@ -441,9 +441,6 @@
   صفحهٔ آیتم: https://bashoor.ir/menu/item/4f44927e-bdd2-4b66-9dd0-71b44c91758c/%D8%B5%D8%A8%D8%AD%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%D8%AF
 - کلاب آلفردو — ۰ ریال
   صفحهٔ آیتم: https://bashoor.ir/menu/item/728b6abe-6c52-4571-9f3b-159ea0a3ae86/%DA%A9%D9%84%D8%A7%D8%A8-%D8%A2%D9%84%D9%81%D8%B1%D8%AF%D9%88
-- کلاب باربیکیو — ۳٬۸۵۰٬۰۰۰ ریال
-  سوسیس باربیکیو + سس پستو و قارچ
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/9dacd2a1-abd3-41ee-9334-393519a442b8/%DA%A9%D9%84%D8%A7%D8%A8-%D8%A8%D8%A7%D8%B1%D8%A8%DB%8C%DA%A9%DB%8C%D9%88
 - کلاب بیکن — ۴٬۵۵۰٬۰۰۰ ریال
   صفحهٔ آیتم: https://bashoor.ir/menu/item/6e67d41a-b568-49cf-b1b8-041595a73f1f/%DA%A9%D9%84%D8%A7%D8%A8-%D8%A8%DB%8C%DA%A9%D9%86
 - کلاب پپرونی — ۳٬۸۵۰٬۰۰۰ ریال
@@ -471,4 +468,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-17T11:30:03Z. Last substantive content change: 2026-10-17T11:15:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-17T11:45:03Z. Last substantive content change: 2026-10-17T11:45:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
