@@ -12,7 +12,7 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://bashoor.ir/menu.json
-- زمان دریافت این نسخه: 2026-10-18T21:15:01.116Z
+- زمان دریافت این نسخه: 2026-10-18T21:30:01.475Z
 - آخرین تغییر ثبت‌شده در منو: 2026-10-17T16:22:04.636Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
@@ -24,10 +24,6 @@
 - سیروپ اضافه — ۵۰۰٬۰۰۰ ریال
   افزودن ۳۰-۴۰ میل سیروپ دلخواه شما
   صفحهٔ آیتم: https://bashoor.ir/menu/item/93127fab-d7f7-4b8b-af6f-e04b196c6922/%D8%B3%DB%8C%D8%B1%D9%88%D9%BE-%D8%A7%D8%B6%D8%A7%D9%81%D9%87
-- نوشابه شیشه ای مشکی — ۱٬۰۰۰٬۰۰۰ ریال
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/d4bbe778-063e-4ec1-8f17-64b579d78d1d/%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C
-- نوشابه شیشه ای اسپرایت — ۱٬۰۰۰٬۰۰۰ ریال
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/259b5e25-6d3c-44ec-b798-f633ee2dfd16/%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B3%D9%BE%D8%B1%D8%A7%DB%8C%D8%AA
 
 ## ماچا بار
 
@@ -320,32 +316,6 @@
 - بیسکاتی — ۲۰۰٬۰۰۰ ریال
   صفحهٔ آیتم: https://bashoor.ir/menu/item/2fdeccd0-f385-41f8-ba13-4a355ba1fd48/%D8%A8%DB%8C%D8%B3%DA%A9%D8%A7%D8%AA%DB%8C
 
-## غذا
-
-- املت — ۲٬۹۵۰٬۰۰۰ ریال
-  سه عدد تخم مرغ ، گوجه و رب خانگی به همراه سالاد کاهو
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/cec8f3b1-5433-4cdd-b43a-c903fafe0e75/%D8%A7%D9%85%D9%84%D8%AA
-- پاستا پستو — ۶٬۱۰۰٬۰۰۰ ریال
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/b5a75768-2a7e-4eea-8114-d566100d334d/%D9%BE%D8%A7%D8%B3%D8%AA%D8%A7-%D9%BE%D8%B3%D8%AA%D9%88
-- تست بِیکِن — ۳٬۹۵۰٬۰۰۰ ریال
-  سه عدد تخم مرغ ، پنیر گودا و بیکن به همراه سالاد کاهو
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/1d64935b-1b0e-482e-934e-f9e7704ee940/%D8%AA%D8%B3%D8%AA-%D8%A8%DB%8C%DA%A9%D9%86
-- صبحانه سرد — ۰ ریال
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/4f44927e-bdd2-4b66-9dd0-71b44c91758c/%D8%B5%D8%A8%D8%AD%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%D8%AF
-- کلاب آلفردو — ۰ ریال
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/728b6abe-6c52-4571-9f3b-159ea0a3ae86/%DA%A9%D9%84%D8%A7%D8%A8-%D8%A2%D9%84%D9%81%D8%B1%D8%AF%D9%88
-- کلاب بیکن — ۴٬۵۵۰٬۰۰۰ ریال
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/6e67d41a-b568-49cf-b1b8-041595a73f1f/%DA%A9%D9%84%D8%A7%D8%A8-%D8%A8%DB%8C%DA%A9%D9%86
-- کلاب پپرونی — ۳٬۸۵۰٬۰۰۰ ریال
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/79838ce9-9788-469e-80e9-04c782b70898/%DA%A9%D9%84%D8%A7%D8%A8-%D9%BE%D9%BE%D8%B1%D9%88%D9%86%DB%8C
-- نیمرو — ۱٬۹۵۰٬۰۰۰ ریال
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/dc47253e-0768-42c7-95b9-3683aa8d2258/%D9%86%DB%8C%D9%85%D8%B1%D9%88
-- نیمرو ارده خرما — ۲٬۷۵۰٬۰۰۰ ریال
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/c4f1855b-8e6f-4239-99e1-a050ca3d1cff/%D9%86%DB%8C%D9%85%D8%B1%D9%88-%D8%A7%D8%B1%D8%AF%D9%87-%D8%AE%D8%B1%D9%85%D8%A7
-- پاستا آلفردو — ۶٬۸۵۰٬۰۰۰ ریال
-  ۱۰۰ گرم سینه مرغ ، به همراه ۱۵۰ گرم پنه ، سس آلفردو
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/968285c6-66b6-412f-a8d5-5be90086a1e6/%D9%BE%D8%A7%D8%B3%D8%AA%D8%A7-%D8%A2%D9%84%D9%81%D8%B1%D8%AF%D9%88
-
 ## یادداشت
 
 موجودی و قیمت ممکن است تغییر کند. منبع نهایی هنگام سفارش، منوی زندهٔ همین وب‌سایت است.
@@ -353,4 +323,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-18T21:15:03Z. Last substantive content change: 2026-10-17T16:30:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-18T21:30:04Z. Last substantive content change: 2026-10-18T21:30:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.

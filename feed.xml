@@ -4,9 +4,9 @@
     <title>منوی زنده و قیمت‌های کافه باشور</title>
     <link>https://bashoor.ir/menu</link>
     <atom:link href="https://bashoor.ir/menu/feed.xml" rel="self" type="application/rss+xml" />
-    <description>کافه باشور در بلوار پیروزی مشهد؛ منوی رسمی شامل ۹۶ آیتم با قیمت روز.</description>
+    <description>کافه باشور در بلوار پیروزی مشهد؛ منوی رسمی شامل ۸۴ آیتم با قیمت روز.</description>
     <language>fa-IR</language>
-    <lastBuildDate>Sun, 18 Oct 2026 21:15:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 21:30:01 GMT</lastBuildDate>
     <generator>Bashoor live menu</generator>
     <copyright>کافه باشور</copyright>
     <georss:point>36.328636 59.475671</georss:point>
@@ -25,22 +25,6 @@
       <category>اکسترا</category>
       <description>افزودن ۳۰-۴۰ میل سیروپ دلخواه شما قیمت شروع: ۵۰۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
       <pubDate>Sun, 20 Sep 2026 11:42:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>نوشابه شیشه ای مشکی — از ۱٬۰۰۰٬۰۰۰ ریال</title>
-      <link>https://bashoor.ir/menu/item/d4bbe778-063e-4ec1-8f17-64b579d78d1d/%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C</link>
-      <guid isPermaLink="true">https://bashoor.ir/menu/item/d4bbe778-063e-4ec1-8f17-64b579d78d1d/%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%DB%8C</guid>
-      <category>اکسترا</category>
-      <description>قیمت شروع: ۱٬۰۰۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
-      <pubDate>Wed, 30 Sep 2026 09:06:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>نوشابه شیشه ای اسپرایت — از ۱٬۰۰۰٬۰۰۰ ریال</title>
-      <link>https://bashoor.ir/menu/item/259b5e25-6d3c-44ec-b798-f633ee2dfd16/%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B3%D9%BE%D8%B1%D8%A7%DB%8C%D8%AA</link>
-      <guid isPermaLink="true">https://bashoor.ir/menu/item/259b5e25-6d3c-44ec-b798-f633ee2dfd16/%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B3%D9%BE%D8%B1%D8%A7%DB%8C%D8%AA</guid>
-      <category>اکسترا</category>
-      <description>قیمت شروع: ۱٬۰۰۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
-      <pubDate>Wed, 30 Sep 2026 09:06:25 GMT</pubDate>
     </item>
     <item>
       <title>ماچا لاته — از ۳٬۱۳۰٬۰۰۰ ریال</title>
@@ -697,86 +681,6 @@
       <category>بیکری</category>
       <description>قیمت شروع: ۲۰۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
       <pubDate>Fri, 18 Sep 2026 14:05:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>املت — از ۲٬۹۵۰٬۰۰۰ ریال</title>
-      <link>https://bashoor.ir/menu/item/cec8f3b1-5433-4cdd-b43a-c903fafe0e75/%D8%A7%D9%85%D9%84%D8%AA</link>
-      <guid isPermaLink="true">https://bashoor.ir/menu/item/cec8f3b1-5433-4cdd-b43a-c903fafe0e75/%D8%A7%D9%85%D9%84%D8%AA</guid>
-      <category>غذا</category>
-      <description>سه عدد تخم مرغ ، گوجه و رب خانگی به همراه سالاد کاهو قیمت شروع: ۲٬۹۵۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
-      <pubDate>Sat, 17 Oct 2026 11:35:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>پاستا پستو — از ۶٬۱۰۰٬۰۰۰ ریال</title>
-      <link>https://bashoor.ir/menu/item/b5a75768-2a7e-4eea-8114-d566100d334d/%D9%BE%D8%A7%D8%B3%D8%AA%D8%A7-%D9%BE%D8%B3%D8%AA%D9%88</link>
-      <guid isPermaLink="true">https://bashoor.ir/menu/item/b5a75768-2a7e-4eea-8114-d566100d334d/%D9%BE%D8%A7%D8%B3%D8%AA%D8%A7-%D9%BE%D8%B3%D8%AA%D9%88</guid>
-      <category>غذا</category>
-      <description>قیمت شروع: ۶٬۱۰۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
-      <pubDate>Mon, 28 Sep 2026 15:13:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>تست بِیکِن — از ۳٬۹۵۰٬۰۰۰ ریال</title>
-      <link>https://bashoor.ir/menu/item/1d64935b-1b0e-482e-934e-f9e7704ee940/%D8%AA%D8%B3%D8%AA-%D8%A8%DB%8C%DA%A9%D9%86</link>
-      <guid isPermaLink="true">https://bashoor.ir/menu/item/1d64935b-1b0e-482e-934e-f9e7704ee940/%D8%AA%D8%B3%D8%AA-%D8%A8%DB%8C%DA%A9%D9%86</guid>
-      <category>غذا</category>
-      <description>سه عدد تخم مرغ ، پنیر گودا و بیکن به همراه سالاد کاهو قیمت شروع: ۳٬۹۵۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
-      <pubDate>Sat, 17 Oct 2026 11:51:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>صبحانه سرد — از ۰ ریال</title>
-      <link>https://bashoor.ir/menu/item/4f44927e-bdd2-4b66-9dd0-71b44c91758c/%D8%B5%D8%A8%D8%AD%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%D8%AF</link>
-      <guid isPermaLink="true">https://bashoor.ir/menu/item/4f44927e-bdd2-4b66-9dd0-71b44c91758c/%D8%B5%D8%A8%D8%AD%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%D8%AF</guid>
-      <category>غذا</category>
-      <description>قیمت شروع: ۰ ریال. در منوی فعال موجود است.</description>
-      <pubDate>Mon, 28 Sep 2026 15:12:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>کلاب آلفردو — از ۰ ریال</title>
-      <link>https://bashoor.ir/menu/item/728b6abe-6c52-4571-9f3b-159ea0a3ae86/%DA%A9%D9%84%D8%A7%D8%A8-%D8%A2%D9%84%D9%81%D8%B1%D8%AF%D9%88</link>
-      <guid isPermaLink="true">https://bashoor.ir/menu/item/728b6abe-6c52-4571-9f3b-159ea0a3ae86/%DA%A9%D9%84%D8%A7%D8%A8-%D8%A2%D9%84%D9%81%D8%B1%D8%AF%D9%88</guid>
-      <category>غذا</category>
-      <description>قیمت شروع: ۰ ریال. در منوی فعال موجود است.</description>
-      <pubDate>Mon, 28 Sep 2026 18:07:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>کلاب بیکن — از ۴٬۵۵۰٬۰۰۰ ریال</title>
-      <link>https://bashoor.ir/menu/item/6e67d41a-b568-49cf-b1b8-041595a73f1f/%DA%A9%D9%84%D8%A7%D8%A8-%D8%A8%DB%8C%DA%A9%D9%86</link>
-      <guid isPermaLink="true">https://bashoor.ir/menu/item/6e67d41a-b568-49cf-b1b8-041595a73f1f/%DA%A9%D9%84%D8%A7%D8%A8-%D8%A8%DB%8C%DA%A9%D9%86</guid>
-      <category>غذا</category>
-      <description>قیمت شروع: ۴٬۵۵۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
-      <pubDate>Thu, 01 Oct 2026 19:37:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>کلاب پپرونی — از ۳٬۸۵۰٬۰۰۰ ریال</title>
-      <link>https://bashoor.ir/menu/item/79838ce9-9788-469e-80e9-04c782b70898/%DA%A9%D9%84%D8%A7%D8%A8-%D9%BE%D9%BE%D8%B1%D9%88%D9%86%DB%8C</link>
-      <guid isPermaLink="true">https://bashoor.ir/menu/item/79838ce9-9788-469e-80e9-04c782b70898/%DA%A9%D9%84%D8%A7%D8%A8-%D9%BE%D9%BE%D8%B1%D9%88%D9%86%DB%8C</guid>
-      <category>غذا</category>
-      <description>قیمت شروع: ۳٬۸۵۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
-      <pubDate>Tue, 29 Sep 2026 12:53:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>نیمرو — از ۱٬۹۵۰٬۰۰۰ ریال</title>
-      <link>https://bashoor.ir/menu/item/dc47253e-0768-42c7-95b9-3683aa8d2258/%D9%86%DB%8C%D9%85%D8%B1%D9%88</link>
-      <guid isPermaLink="true">https://bashoor.ir/menu/item/dc47253e-0768-42c7-95b9-3683aa8d2258/%D9%86%DB%8C%D9%85%D8%B1%D9%88</guid>
-      <category>غذا</category>
-      <description>قیمت شروع: ۱٬۹۵۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
-      <pubDate>Sat, 17 Oct 2026 06:57:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>نیمرو ارده خرما — از ۲٬۷۵۰٬۰۰۰ ریال</title>
-      <link>https://bashoor.ir/menu/item/c4f1855b-8e6f-4239-99e1-a050ca3d1cff/%D9%86%DB%8C%D9%85%D8%B1%D9%88-%D8%A7%D8%B1%D8%AF%D9%87-%D8%AE%D8%B1%D9%85%D8%A7</link>
-      <guid isPermaLink="true">https://bashoor.ir/menu/item/c4f1855b-8e6f-4239-99e1-a050ca3d1cff/%D9%86%DB%8C%D9%85%D8%B1%D9%88-%D8%A7%D8%B1%D8%AF%D9%87-%D8%AE%D8%B1%D9%85%D8%A7</guid>
-      <category>غذا</category>
-      <description>قیمت شروع: ۲٬۷۵۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
-      <pubDate>Sat, 17 Oct 2026 06:57:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>پاستا آلفردو — از ۶٬۸۵۰٬۰۰۰ ریال</title>
-      <link>https://bashoor.ir/menu/item/968285c6-66b6-412f-a8d5-5be90086a1e6/%D9%BE%D8%A7%D8%B3%D8%AA%D8%A7-%D8%A2%D9%84%D9%81%D8%B1%D8%AF%D9%88</link>
-      <guid isPermaLink="true">https://bashoor.ir/menu/item/968285c6-66b6-412f-a8d5-5be90086a1e6/%D9%BE%D8%A7%D8%B3%D8%AA%D8%A7-%D8%A2%D9%84%D9%81%D8%B1%D8%AF%D9%88</guid>
-      <category>غذا</category>
-      <description>۱۰۰ گرم سینه مرغ ، به همراه ۱۵۰ گرم پنه ، سس آلفردو قیمت شروع: ۶٬۸۵۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
-      <pubDate>Sun, 20 Sep 2026 13:47:45 GMT</pubDate>
     </item>
   </channel>
 </rss>
