@@ -51,7 +51,7 @@
 
 ## منوی زنده و قیمت‌ها
 
-این نسخه در 2026-10-18T21:00:01.491Z از منوی عمومی باشور ساخته شده و شامل ۹۶ آیتم در ۱۲ دسته است.
+این نسخه در 2026-10-18T21:15:01.334Z از منوی عمومی باشور ساخته شده و شامل ۹۶ آیتم در ۱۲ دسته است.
 
 - [منوی HTML با عکس و قیمت](https://bashoor.ir/menu)
 - [منوی کامل HTML سبک با دسته، توضیح و قیمت ریال](https://bashoor.ir/menu/all)
@@ -123,7 +123,7 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json
-- زمان دریافت این نسخه: 2026-10-18T21:00:01.491Z
+- زمان دریافت این نسخه: 2026-10-18T21:15:01.334Z
 - آخرین تغییر ثبت‌شده در منو: 2026-10-17T16:22:04.636Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
@@ -470,4 +470,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-18T21:00:08Z. Last substantive content change: 2026-10-17T16:30:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-18T21:15:03Z. Last substantive content change: 2026-10-17T16:30:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
