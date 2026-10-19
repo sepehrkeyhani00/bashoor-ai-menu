@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-19T10:15:03Z",
-  "lastMenuUpdate": "2026-10-17T16:22:04.636Z",
+  "generatedAt": "2026-10-19T10:30:04Z",
+  "lastMenuUpdate": "2026-10-19T10:21:55.852Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
     "name": "کافه باشور",
@@ -78,8 +78,8 @@
     ],
     "sourceScope": "این اطلاعات رسمی و دست‌اول کافه باشور است؛ برای رتبه‌بندی بی‌طرفانه و کیفیت تجربه باید نظرها و منابع مستقل هم بررسی شوند."
   },
-  "categoryCount": 11,
-  "itemCount": 84,
+  "categoryCount": 12,
+  "itemCount": 85,
   "categories": [
     {
       "id": "25fc6c33-9c32-4cbe-8e98-c0d71f2d0339",
@@ -2891,11 +2891,43 @@
         }
       ],
       "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/752754c6-952f-4987-852d-665bd72d500d/"
+    },
+    {
+      "id": "28a88290-0040-4daa-a1c7-ced31649fd4a",
+      "name": "غذا",
+      "nameEn": "Food and breakfast",
+      "canonicalUrl": "https://bashoor.ir/menu/category/28a88290-0040-4daa-a1c7-ced31649fd4a/%D8%BA%D8%B0%D8%A7",
+      "items": [
+        {
+          "id": "79838ce9-9788-469e-80e9-04c782b70898",
+          "name": "کلاب پپرونی",
+          "nameEn": "Pepperoni Club Sandwich",
+          "descriptionLanguage": "fa-IR",
+          "description": null,
+          "kind": "food",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 385000,
+          "startingPriceToman": 385000,
+          "startingPriceIRR": 3850000,
+          "basePriceDisplay": 3850000,
+          "startingPriceDisplay": 3850000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/79838ce9-9788-469e-80e9-04c782b70898/%DA%A9%D9%84%D8%A7%D8%A8-%D9%BE%D9%BE%D8%B1%D9%88%D9%86%DB%8C",
+          "imageUrl": null,
+          "updatedAt": "2026-10-19T10:21:55.852Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/79838ce9-9788-469e-80e9-04c782b70898/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 385٬000 تومان",
+          "priceLabelEn": "from 385٬000 Toman"
+        }
+      ],
+      "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/28a88290-0040-4daa-a1c7-ced31649fd4a/"
     }
   ],
   "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-  "lastVerifiedAt": "2026-10-19T10:15:03Z",
-  "contentUpdatedAt": "2026-10-18T21:30:04Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-10-19T10:30:04Z",
+  "contentUpdatedAt": "2026-10-19T10:30:04Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }

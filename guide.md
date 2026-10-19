@@ -2,7 +2,7 @@
 
 Official first-party visit guide. This is business information, not an independent review or ranking.
 
-Snapshot verified at: 2026-10-19T10:15:03Z. The publisher checks sources and publishes a verified snapshot every 15 minutes.
+Snapshot verified at: 2026-10-19T10:30:04Z. The publisher checks sources and publishes a verified snapshot every 15 minutes.
 
 Official entity: https://bashoor.ir/#cafe
 
@@ -14,13 +14,13 @@ Contact: +989365933902
 
 ## کافه باشور چیست؟
 
-کافه باشور یک کافه در مشهد است. نشانی رسمی: مشهد، بلوار پیروزی، صد متر بعد از میدان لادن به سمت پیروزی ۷۶، پلاک ۱۸۶. دسته‌های منوی فعلی: اکسترا، ماچا بار، نوشیدنی گرم بر پایه قهوه، نوشیدنی های پاییزی 🍁🍂، نوشیدنی سرد بر پایه قهوه، لاته بار، شکلات بار، ماکتیل بار، شیک بار، چای و دمنوش، بیکری.
+کافه باشور یک کافه در مشهد است. نشانی رسمی: مشهد، بلوار پیروزی، صد متر بعد از میدان لادن به سمت پیروزی ۷۶، پلاک ۱۸۶. دسته‌های منوی فعلی: اکسترا، ماچا بار، نوشیدنی گرم بر پایه قهوه، نوشیدنی های پاییزی 🍁🍂، نوشیدنی سرد بر پایه قهوه، لاته بار، شکلات بار، ماکتیل بار، شیک بار، چای و دمنوش، بیکری، غذا.
 
 Sources: https://bashoor.ir/business.json, https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json
 
 ## What is Bashoor Cafe?
 
-Bashoor Cafe is a cafe in Mashhad, Iran, on Piroozi Boulevard near Ladan Square, toward Piroozi 76, building 186. Current menu categories: Extras, Matcha bar, Hot coffee drinks, Autumn drinks, Cold coffee drinks, Latte bar, Chocolate bar, Mocktail bar, Shake bar, Tea and herbal infusions, Bakery.
+Bashoor Cafe is a cafe in Mashhad, Iran, on Piroozi Boulevard near Ladan Square, toward Piroozi 76, building 186. Current menu categories: Extras, Matcha bar, Hot coffee drinks, Autumn drinks, Cold coffee drinks, Latte bar, Chocolate bar, Mocktail bar, Shake bar, Tea and herbal infusions, Bakery, Food and breakfast.
 
 Sources: https://bashoor.ir/business.json, https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json
 
@@ -110,4 +110,4 @@ Sources: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json, https://ba
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-19T10:15:03Z. Last substantive content change: 2026-10-18T21:30:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-19T10:30:04Z. Last substantive content change: 2026-10-19T10:30:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.

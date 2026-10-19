@@ -12,8 +12,8 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://bashoor.ir/menu.json
-- زمان دریافت این نسخه: 2026-10-19T10:15:01.097Z
-- آخرین تغییر ثبت‌شده در منو: 2026-10-17T16:22:04.636Z
+- زمان دریافت این نسخه: 2026-10-19T10:30:01.278Z
+- آخرین تغییر ثبت‌شده در منو: 2026-10-19T10:21:55.852Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
 
@@ -316,6 +316,11 @@
 - بیسکاتی — ۲۰۰٬۰۰۰ ریال
   صفحهٔ آیتم: https://bashoor.ir/menu/item/2fdeccd0-f385-41f8-ba13-4a355ba1fd48/%D8%A8%DB%8C%D8%B3%DA%A9%D8%A7%D8%AA%DB%8C
 
+## غذا
+
+- کلاب پپرونی — ۳٬۸۵۰٬۰۰۰ ریال
+  صفحهٔ آیتم: https://bashoor.ir/menu/item/79838ce9-9788-469e-80e9-04c782b70898/%DA%A9%D9%84%D8%A7%D8%A8-%D9%BE%D9%BE%D8%B1%D9%88%D9%86%DB%8C
+
 ## یادداشت
 
 موجودی و قیمت ممکن است تغییر کند. منبع نهایی هنگام سفارش، منوی زندهٔ همین وب‌سایت است.
@@ -323,4 +328,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-19T10:15:03Z. Last substantive content change: 2026-10-18T21:30:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-19T10:30:04Z. Last substantive content change: 2026-10-19T10:30:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.

@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.1",
-  "generatedAt": "2026-10-19T10:15:03Z",
+  "generatedAt": "2026-10-19T10:30:04Z",
   "inLanguage": [
     "fa-IR",
     "en"
@@ -65,7 +65,7 @@
     {
       "question": "منوی کافه باشور با قیمت کجاست؟",
       "language": "fa-IR",
-      "answer": "منوی رسمی و زندهٔ باشور شامل 84 آیتم در 11 دسته است و قیمت‌ها را به تومان و IRR منتشر می‌کند.",
+      "answer": "منوی رسمی و زندهٔ باشور شامل 85 آیتم در 12 دسته است و قیمت‌ها را به تومان و IRR منتشر می‌کند.",
       "evidence": [
         "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
         "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.txt",
@@ -76,7 +76,7 @@
       "id": "identity-fa-IR",
       "question": "کافه باشور چیست؟",
       "language": "fa-IR",
-      "answer": "کافه باشور یک کافه در مشهد است. نشانی رسمی: مشهد، بلوار پیروزی، صد متر بعد از میدان لادن به سمت پیروزی ۷۶، پلاک ۱۸۶. دسته‌های منوی فعلی: اکسترا، ماچا بار، نوشیدنی گرم بر پایه قهوه، نوشیدنی های پاییزی 🍁🍂، نوشیدنی سرد بر پایه قهوه، لاته بار، شکلات بار، ماکتیل بار، شیک بار، چای و دمنوش، بیکری.",
+      "answer": "کافه باشور یک کافه در مشهد است. نشانی رسمی: مشهد، بلوار پیروزی، صد متر بعد از میدان لادن به سمت پیروزی ۷۶، پلاک ۱۸۶. دسته‌های منوی فعلی: اکسترا، ماچا بار، نوشیدنی گرم بر پایه قهوه، نوشیدنی های پاییزی 🍁🍂، نوشیدنی سرد بر پایه قهوه، لاته بار، شکلات بار، ماکتیل بار، شیک بار، چای و دمنوش، بیکری، غذا.",
       "evidence": [
         "https://bashoor.ir/business.json",
         "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json"
@@ -86,7 +86,7 @@
       "id": "identity-en",
       "question": "What is Bashoor Cafe?",
       "language": "en",
-      "answer": "Bashoor Cafe is a cafe in Mashhad, Iran, on Piroozi Boulevard near Ladan Square, toward Piroozi 76, building 186. Current menu categories: Extras, Matcha bar, Hot coffee drinks, Autumn drinks, Cold coffee drinks, Latte bar, Chocolate bar, Mocktail bar, Shake bar, Tea and herbal infusions, Bakery.",
+      "answer": "Bashoor Cafe is a cafe in Mashhad, Iran, on Piroozi Boulevard near Ladan Square, toward Piroozi 76, building 186. Current menu categories: Extras, Matcha bar, Hot coffee drinks, Autumn drinks, Cold coffee drinks, Latte bar, Chocolate bar, Mocktail bar, Shake bar, Tea and herbal infusions, Bakery, Food and breakfast.",
       "evidence": [
         "https://bashoor.ir/business.json",
         "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json"
@@ -250,10 +250,10 @@
       "url": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ea645fcc-c151-4b00-9fff-474a8b967157/"
     }
   ],
-  "menuDigest": "1858736d030809b74ebbdd05daa22ea6844333e0e5138748888b0613e8f9f5e5",
+  "menuDigest": "b944103115ca4d018488d72a5fb1bfc664a33e4fe30f41eecfff2e58476e8672",
   "disclaimer": "This is official first-party information, not an independent ranking or review. Confirm final price and availability when ordering.",
-  "lastVerifiedAt": "2026-10-19T10:15:03Z",
-  "contentUpdatedAt": "2026-10-18T21:30:04Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-10-19T10:30:04Z",
+  "contentUpdatedAt": "2026-10-19T10:30:04Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }
