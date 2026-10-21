@@ -2,7 +2,7 @@
 
 Official first-party visit guide. This is business information, not an independent review or ranking.
 
-Snapshot verified at: 2026-10-21T06:30:03Z. The publisher checks sources and publishes a verified snapshot every 15 minutes.
+Snapshot verified at: 2026-10-21T06:45:03Z. The publisher checks sources and publishes a verified snapshot every 15 minutes.
 
 Official entity: https://bashoor.ir/#cafe
 
@@ -110,4 +110,4 @@ Sources: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json, https://ba
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-21T06:30:03Z. Last substantive content change: 2026-10-19T10:30:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-21T06:45:03Z. Last substantive content change: 2026-10-19T10:30:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
