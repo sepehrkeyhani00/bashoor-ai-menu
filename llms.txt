@@ -51,7 +51,7 @@
 
 ## منوی زنده و قیمت‌ها
 
-این نسخه در 2026-10-22T19:45:01.212Z از منوی عمومی باشور ساخته شده و شامل ۸۵ آیتم در ۱۲ دسته است.
+این نسخه در 2026-10-22T20:00:01.420Z از منوی عمومی باشور ساخته شده و شامل ۸۵ آیتم در ۱۲ دسته است.
 
 - [منوی HTML با عکس و قیمت](https://bashoor.ir/menu)
 - [منوی کامل HTML سبک با دسته، توضیح و قیمت ریال](https://bashoor.ir/menu/all)
@@ -111,4 +111,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-22T19:45:03Z. Last substantive content change: 2026-10-22T12:00:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-22T20:00:03Z. Last substantive content change: 2026-10-22T12:00:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
