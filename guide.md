@@ -2,7 +2,7 @@
 
 Official first-party visit guide. This is business information, not an independent review or ranking.
 
-Snapshot verified at: 2026-10-22T11:45:03Z. The publisher checks sources and publishes a verified snapshot every 15 minutes.
+Snapshot verified at: 2026-10-22T12:00:03Z. The publisher checks sources and publishes a verified snapshot every 15 minutes.
 
 Official entity: https://bashoor.ir/#cafe
 
@@ -14,13 +14,13 @@ Contact: +989365933902
 
 ## کافه باشور چیست؟
 
-کافه باشور یک کافه در مشهد است. نشانی رسمی: مشهد، بلوار پیروزی، صد متر بعد از میدان لادن به سمت پیروزی ۷۶، پلاک ۱۸۶. دسته‌های منوی فعلی: اکسترا، ماچا بار، نوشیدنی گرم بر پایه قهوه، نوشیدنی های پاییزی 🍁🍂، نوشیدنی سرد بر پایه قهوه، لاته بار، شکلات بار، ماکتیل بار، شیک بار، چای و دمنوش، بیکری، غذا.
+کافه باشور یک کافه در مشهد است. نشانی رسمی: مشهد، بلوار پیروزی، صد متر بعد از میدان لادن به سمت پیروزی ۷۶، پلاک ۱۸۶. دسته‌های منوی فعلی: نوشیدنی گرم بر پایه قهوه، نوشیدنی سرد بر پایه قهوه، نوشیدنی های پاییزی 🍁🍂، ماچا بار، لاته بار، شکلات بار، ماکتیل بار، شیک بار، چای و دمنوش، بیکری، غذا، اکسترا.
 
 Sources: https://bashoor.ir/business.json, https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json
 
 ## What is Bashoor Cafe?
 
-Bashoor Cafe is a cafe in Mashhad, Iran, on Piroozi Boulevard near Ladan Square, toward Piroozi 76, building 186. Current menu categories: Extras, Matcha bar, Hot coffee drinks, Autumn drinks, Cold coffee drinks, Latte bar, Chocolate bar, Mocktail bar, Shake bar, Tea and herbal infusions, Bakery, Food and breakfast.
+Bashoor Cafe is a cafe in Mashhad, Iran, on Piroozi Boulevard near Ladan Square, toward Piroozi 76, building 186. Current menu categories: Hot coffee drinks, Cold coffee drinks, Autumn drinks, Matcha bar, Latte bar, Chocolate bar, Mocktail bar, Shake bar, Tea and herbal infusions, Bakery, Food and breakfast, Extras.
 
 Sources: https://bashoor.ir/business.json, https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json
 
@@ -98,16 +98,16 @@ Sources: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json, https://ba
 
 ## قیمت قهوه در باشور چند است و ریال و تومان چه فرقی دارند؟
 
-نمونهٔ قیمت‌های شروع فعلی: اسپرسو از 160٬000 تومان (1٬600٬000 IRR)، امریکانو از 170٬000 تومان (1٬700٬000 IRR)، لاته از 245٬000 تومان (2٬450٬000 IRR). یک تومان برابر ۱۰ ریال است. قیمت شروع می‌تواند با انتخاب لاین یا گزینه‌های سفارش تغییر کند؛ قیمت نهایی و موجودی را هنگام سفارش بررسی کنید.
+نمونهٔ قیمت‌های شروع فعلی: اسپرسو از 17٬000 تومان (170٬000 IRR)، امریکانو از 170٬000 تومان (1٬700٬000 IRR)، لاته از 245٬000 تومان (2٬450٬000 IRR). یک تومان برابر ۱۰ ریال است. قیمت شروع می‌تواند با انتخاب لاین یا گزینه‌های سفارش تغییر کند؛ قیمت نهایی و موجودی را هنگام سفارش بررسی کنید.
 
 Sources: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json, https://bashoor.ir/menu
 
 ## What are Bashoor Cafe's coffee prices and how do IRR and Toman differ?
 
-Current starting price examples: Espresso from 160٬000 Toman (1٬600٬000 IRR), Americano from 170٬000 Toman (1٬700٬000 IRR), Latte from 245٬000 Toman (2٬450٬000 IRR). One Toman equals 10 Iranian rials (IRR). Options and coffee selections may change the final price; confirm price and availability when ordering.
+Current starting price examples: Espresso from 17٬000 Toman (170٬000 IRR), Americano from 170٬000 Toman (1٬700٬000 IRR), Latte from 245٬000 Toman (2٬450٬000 IRR). One Toman equals 10 Iranian rials (IRR). Options and coffee selections may change the final price; confirm price and availability when ordering.
 
 Sources: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json, https://bashoor.ir/menu
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-22T11:45:03Z. Last substantive content change: 2026-10-19T10:30:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-22T12:00:03Z. Last substantive content change: 2026-10-22T12:00:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.

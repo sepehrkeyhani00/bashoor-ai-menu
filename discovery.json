@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-22T11:45:03Z",
+  "generatedAt": "2026-10-22T12:00:03Z",
   "sourceType": "official first-party business data",
   "independentReview": false,
   "entityId": "https://bashoor.ir/#cafe",
@@ -48,7 +48,7 @@
     ]
   },
   "timezone": "Asia/Tehran",
-  "menuDigest": "b944103115ca4d018488d72a5fb1bfc664a33e4fe30f41eecfff2e58476e8672",
+  "menuDigest": "8e0670b050bbb5b0ac2ee80451db8bfbdf082616ac6a8eae6a44d954413053c3",
   "refresh": {
     "intervalMinutes": 15,
     "publishEverySuccessfulCheck": true
@@ -64,7 +64,7 @@
       "id": "identity-fa-IR",
       "question": "کافه باشور چیست؟",
       "language": "fa-IR",
-      "answer": "کافه باشور یک کافه در مشهد است. نشانی رسمی: مشهد، بلوار پیروزی، صد متر بعد از میدان لادن به سمت پیروزی ۷۶، پلاک ۱۸۶. دسته‌های منوی فعلی: اکسترا، ماچا بار، نوشیدنی گرم بر پایه قهوه، نوشیدنی های پاییزی 🍁🍂، نوشیدنی سرد بر پایه قهوه، لاته بار، شکلات بار، ماکتیل بار، شیک بار، چای و دمنوش، بیکری، غذا.",
+      "answer": "کافه باشور یک کافه در مشهد است. نشانی رسمی: مشهد، بلوار پیروزی، صد متر بعد از میدان لادن به سمت پیروزی ۷۶، پلاک ۱۸۶. دسته‌های منوی فعلی: نوشیدنی گرم بر پایه قهوه، نوشیدنی سرد بر پایه قهوه، نوشیدنی های پاییزی 🍁🍂، ماچا بار، لاته بار، شکلات بار، ماکتیل بار، شیک بار، چای و دمنوش، بیکری، غذا، اکسترا.",
       "evidence": [
         "https://bashoor.ir/business.json",
         "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json"
@@ -74,7 +74,7 @@
       "id": "identity-en",
       "question": "What is Bashoor Cafe?",
       "language": "en",
-      "answer": "Bashoor Cafe is a cafe in Mashhad, Iran, on Piroozi Boulevard near Ladan Square, toward Piroozi 76, building 186. Current menu categories: Extras, Matcha bar, Hot coffee drinks, Autumn drinks, Cold coffee drinks, Latte bar, Chocolate bar, Mocktail bar, Shake bar, Tea and herbal infusions, Bakery, Food and breakfast.",
+      "answer": "Bashoor Cafe is a cafe in Mashhad, Iran, on Piroozi Boulevard near Ladan Square, toward Piroozi 76, building 186. Current menu categories: Hot coffee drinks, Cold coffee drinks, Autumn drinks, Matcha bar, Latte bar, Chocolate bar, Mocktail bar, Shake bar, Tea and herbal infusions, Bakery, Food and breakfast, Extras.",
       "evidence": [
         "https://bashoor.ir/business.json",
         "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json"
@@ -198,7 +198,7 @@
       "id": "prices-fa-IR",
       "question": "قیمت قهوه در باشور چند است و ریال و تومان چه فرقی دارند؟",
       "language": "fa-IR",
-      "answer": "نمونهٔ قیمت‌های شروع فعلی: اسپرسو از 160٬000 تومان (1٬600٬000 IRR)، امریکانو از 170٬000 تومان (1٬700٬000 IRR)، لاته از 245٬000 تومان (2٬450٬000 IRR). یک تومان برابر ۱۰ ریال است. قیمت شروع می‌تواند با انتخاب لاین یا گزینه‌های سفارش تغییر کند؛ قیمت نهایی و موجودی را هنگام سفارش بررسی کنید.",
+      "answer": "نمونهٔ قیمت‌های شروع فعلی: اسپرسو از 17٬000 تومان (170٬000 IRR)، امریکانو از 170٬000 تومان (1٬700٬000 IRR)، لاته از 245٬000 تومان (2٬450٬000 IRR). یک تومان برابر ۱۰ ریال است. قیمت شروع می‌تواند با انتخاب لاین یا گزینه‌های سفارش تغییر کند؛ قیمت نهایی و موجودی را هنگام سفارش بررسی کنید.",
       "evidence": [
         "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
         "https://bashoor.ir/menu"
@@ -208,15 +208,15 @@
       "id": "prices-en",
       "question": "What are Bashoor Cafe's coffee prices and how do IRR and Toman differ?",
       "language": "en",
-      "answer": "Current starting price examples: Espresso from 160٬000 Toman (1٬600٬000 IRR), Americano from 170٬000 Toman (1٬700٬000 IRR), Latte from 245٬000 Toman (2٬450٬000 IRR). One Toman equals 10 Iranian rials (IRR). Options and coffee selections may change the final price; confirm price and availability when ordering.",
+      "answer": "Current starting price examples: Espresso from 17٬000 Toman (170٬000 IRR), Americano from 170٬000 Toman (1٬700٬000 IRR), Latte from 245٬000 Toman (2٬450٬000 IRR). One Toman equals 10 Iranian rials (IRR). Options and coffee selections may change the final price; confirm price and availability when ordering.",
       "evidence": [
         "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
         "https://bashoor.ir/menu"
       ]
     }
   ],
-  "lastVerifiedAt": "2026-10-22T11:45:03Z",
-  "contentUpdatedAt": "2026-10-19T10:30:04Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-10-22T12:00:03Z",
+  "contentUpdatedAt": "2026-10-22T12:00:03Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }
