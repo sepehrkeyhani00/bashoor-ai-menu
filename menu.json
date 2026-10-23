@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-23T16:45:04Z",
-  "lastMenuUpdate": "2026-10-23T13:13:45.287Z",
+  "generatedAt": "2026-10-23T17:00:03Z",
+  "lastMenuUpdate": "2026-10-23T16:46:44.703Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
     "name": "کافه باشور",
@@ -79,7 +79,7 @@
     "sourceScope": "این اطلاعات رسمی و دست‌اول کافه باشور است؛ برای رتبه‌بندی بی‌طرفانه و کیفیت تجربه باید نظرها و منابع مستقل هم بررسی شوند."
   },
   "categoryCount": 12,
-  "itemCount": 85,
+  "itemCount": 86,
   "categories": [
     {
       "id": "92213ebc-331c-48ac-9e0a-53f4e79a9615",
@@ -2844,6 +2844,29 @@
       "canonicalUrl": "https://bashoor.ir/menu/category/28a88290-0040-4daa-a1c7-ced31649fd4a/%D8%BA%D8%B0%D8%A7",
       "items": [
         {
+          "id": "6e67d41a-b568-49cf-b1b8-041595a73f1f",
+          "name": "کلاب بیکن",
+          "nameEn": "Bacon Club Sandwich",
+          "descriptionLanguage": "fa-IR",
+          "description": null,
+          "kind": "food",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 455000,
+          "startingPriceToman": 455000,
+          "startingPriceIRR": 4550000,
+          "basePriceDisplay": 4550000,
+          "startingPriceDisplay": 4550000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/6e67d41a-b568-49cf-b1b8-041595a73f1f/%DA%A9%D9%84%D8%A7%D8%A8-%D8%A8%DB%8C%DA%A9%D9%86",
+          "imageUrl": null,
+          "updatedAt": "2026-10-23T16:46:44.703Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6e67d41a-b568-49cf-b1b8-041595a73f1f/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 455٬000 تومان",
+          "priceLabelEn": "from 455٬000 Toman"
+        },
+        {
           "id": "79838ce9-9788-469e-80e9-04c782b70898",
           "name": "کلاب پپرونی",
           "nameEn": "Pepperoni Club Sandwich",
@@ -2926,8 +2949,8 @@
     }
   ],
   "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-  "lastVerifiedAt": "2026-10-23T16:45:04Z",
-  "contentUpdatedAt": "2026-10-23T13:15:03Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-10-23T17:00:03Z",
+  "contentUpdatedAt": "2026-10-23T17:00:03Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }
