@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-23T12:45:03Z",
-  "lastMenuUpdate": "2026-10-22T11:49:50.112Z",
+  "generatedAt": "2026-10-23T13:00:03Z",
+  "lastMenuUpdate": "2026-10-23T12:59:35.350Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
     "name": "کافه باشور",
@@ -61,7 +61,7 @@
       "امروز برای قهوه در بلوار پیروزی مشهد کجا برویم؟",
       "کافه نزدیک میدان لادن با منو و قیمت کجاست؟"
     ],
-    "shortAnswer": "کافه باشور بعد از میدان لادن به سمت پیروزی ۷۶، پلاک ۱۸۶ قرار دارد. ساعت کاری: شنبه تا پنجشنبه ۰۶:۰۰ الی ۰۰:۰۰ · جمعه ۰۸:۰۰ الی ۰۰:۰۰. قیمت فعلی نمونه‌ها: اسپرسو از ۱۷۰٬۰۰۰ ریال، امریکانو از ۱٬۷۰۰٬۰۰۰ ریال، لاته از ۲٬۴۵۰٬۰۰۰ ریال. حیاط، سالن داخلی بدون دود و منوی کامل آنلاین دارد.",
+    "shortAnswer": "کافه باشور بعد از میدان لادن به سمت پیروزی ۷۶، پلاک ۱۸۶ قرار دارد. ساعت کاری: شنبه تا پنجشنبه ۰۶:۰۰ الی ۰۰:۰۰ · جمعه ۰۸:۰۰ الی ۰۰:۰۰. قیمت فعلی نمونه‌ها: اسپرسو از ۱٬۷۰۰٬۰۰۰ ریال، امریکانو از ۱٬۷۰۰٬۰۰۰ ریال، لاته از ۲٬۴۵۰٬۰۰۰ ریال. حیاط، سالن داخلی بدون دود و منوی کامل آنلاین دارد.",
     "suitableWhen": [
       "مقصد در محدودهٔ بلوار پیروزی و میدان لادن می‌خواهید",
       "پیش از مراجعه می‌خواهید قیمت و موجودی منو را ببینید",
@@ -96,14 +96,14 @@
           "kind": "hot",
           "popular": true,
           "available": true,
-          "basePriceToman": 17000,
-          "startingPriceToman": 17000,
-          "startingPriceIRR": 170000,
-          "basePriceDisplay": 170000,
-          "startingPriceDisplay": 170000,
+          "basePriceToman": 170000,
+          "startingPriceToman": 170000,
+          "startingPriceIRR": 1700000,
+          "basePriceDisplay": 1700000,
+          "startingPriceDisplay": 1700000,
           "canonicalUrl": "https://bashoor.ir/menu/item/7b0f19ed-3be8-4a07-8db2-674a71f827ec/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745033303_589638686.webp",
-          "updatedAt": "2026-10-22T11:46:08.615Z",
+          "updatedAt": "2026-10-23T12:59:00.674Z",
           "optionGroups": [
             {
               "name": "درصد عربیکا",
@@ -113,19 +113,19 @@
                 {
                   "name": "صد عربیکا",
                   "description": "عصاره‌گیری شده از دان صد در صد عربیکا تک خاستگاه",
-                  "priceDeltaToman": 4000,
-                  "priceToman": 21000,
-                  "priceDeltaDisplay": 40000,
-                  "priceDisplay": 210000,
+                  "priceDeltaToman": 40000,
+                  "priceToman": 210000,
+                  "priceDeltaDisplay": 400000,
+                  "priceDisplay": 2100000,
                   "imageUrl": null
                 },
                 {
                   "name": "سی عربیکا",
                   "description": "عصاره‌گیری شده از دان سی درصد عربیکا و هفتاد درصد روبوستا بلند",
                   "priceDeltaToman": 0,
-                  "priceToman": 17000,
+                  "priceToman": 170000,
                   "priceDeltaDisplay": 0,
-                  "priceDisplay": 170000,
+                  "priceDisplay": 1700000,
                   "imageUrl": null
                 }
               ]
@@ -133,8 +133,8 @@
           ],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/7b0f19ed-3be8-4a07-8db2-674a71f827ec/",
           "priceStatus": "quoted",
-          "priceLabel": "از 17٬000 تومان",
-          "priceLabelEn": "from 17٬000 Toman"
+          "priceLabel": "از 170٬000 تومان",
+          "priceLabelEn": "from 170٬000 Toman"
         },
         {
           "id": "cb25eb0b-5187-4081-9f03-37f5939cf476",
@@ -520,14 +520,14 @@
           "kind": "cold",
           "popular": false,
           "available": true,
-          "basePriceToman": 235000,
-          "startingPriceToman": 235000,
-          "startingPriceIRR": 2350000,
-          "basePriceDisplay": 2350000,
-          "startingPriceDisplay": 2350000,
+          "basePriceToman": 245000,
+          "startingPriceToman": 245000,
+          "startingPriceIRR": 2450000,
+          "basePriceDisplay": 2450000,
+          "startingPriceDisplay": 2450000,
           "canonicalUrl": "https://bashoor.ir/menu/item/efeda9bc-e6b2-4c13-9b62-df0262f3e90a/%D9%81%D8%B1%D8%AF%D9%88-%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88",
           "imageUrl": null,
-          "updatedAt": "2026-09-26T17:10:57.718Z",
+          "updatedAt": "2026-10-23T12:54:03.003Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -537,19 +537,19 @@
                 {
                   "name": "صد عربیکا",
                   "description": null,
-                  "priceDeltaToman": 30000,
-                  "priceToman": 265000,
-                  "priceDeltaDisplay": 300000,
-                  "priceDisplay": 2650000,
+                  "priceDeltaToman": 40000,
+                  "priceToman": 285000,
+                  "priceDeltaDisplay": 400000,
+                  "priceDisplay": 2850000,
                   "imageUrl": null
                 },
                 {
                   "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
-                  "priceToman": 235000,
+                  "priceToman": 245000,
                   "priceDeltaDisplay": 0,
-                  "priceDisplay": 2350000,
+                  "priceDisplay": 2450000,
                   "imageUrl": null
                 }
               ]
@@ -557,8 +557,8 @@
           ],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/efeda9bc-e6b2-4c13-9b62-df0262f3e90a/",
           "priceStatus": "quoted",
-          "priceLabel": "از 235٬000 تومان",
-          "priceLabelEn": "from 235٬000 Toman"
+          "priceLabel": "از 245٬000 تومان",
+          "priceLabelEn": "from 245٬000 Toman"
         },
         {
           "id": "6f8b1f7e-72af-4d69-8a38-b99710f05076",
@@ -569,14 +569,14 @@
           "kind": "cold",
           "popular": false,
           "available": true,
-          "basePriceToman": 160000,
-          "startingPriceToman": 160000,
-          "startingPriceIRR": 1600000,
-          "basePriceDisplay": 1600000,
-          "startingPriceDisplay": 1600000,
+          "basePriceToman": 180000,
+          "startingPriceToman": 180000,
+          "startingPriceIRR": 1800000,
+          "basePriceDisplay": 1800000,
+          "startingPriceDisplay": 1800000,
           "canonicalUrl": "https://bashoor.ir/menu/item/6f8b1f7e-72af-4d69-8a38-b99710f05076/%D8%A2%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745032761_826555535.webp",
-          "updatedAt": "2026-09-15T15:03:05.268Z",
+          "updatedAt": "2026-10-23T12:58:37.979Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -586,19 +586,19 @@
                 {
                   "name": "صد عربیکا",
                   "description": null,
-                  "priceDeltaToman": 30000,
-                  "priceToman": 190000,
-                  "priceDeltaDisplay": 300000,
-                  "priceDisplay": 1900000,
+                  "priceDeltaToman": 40000,
+                  "priceToman": 220000,
+                  "priceDeltaDisplay": 400000,
+                  "priceDisplay": 2200000,
                   "imageUrl": null
                 },
                 {
                   "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
-                  "priceToman": 160000,
+                  "priceToman": 180000,
                   "priceDeltaDisplay": 0,
-                  "priceDisplay": 1600000,
+                  "priceDisplay": 1800000,
                   "imageUrl": null
                 }
               ]
@@ -606,8 +606,8 @@
           ],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/6f8b1f7e-72af-4d69-8a38-b99710f05076/",
           "priceStatus": "quoted",
-          "priceLabel": "از 160٬000 تومان",
-          "priceLabelEn": "from 160٬000 Toman"
+          "priceLabel": "از 180٬000 تومان",
+          "priceLabelEn": "from 180٬000 Toman"
         },
         {
           "id": "682b09a3-5183-4c2c-b1f4-823972de3716",
@@ -618,14 +618,14 @@
           "kind": "cold",
           "popular": false,
           "available": true,
-          "basePriceToman": 220000,
-          "startingPriceToman": 220000,
-          "startingPriceIRR": 2200000,
-          "basePriceDisplay": 2200000,
-          "startingPriceDisplay": 2200000,
+          "basePriceToman": 230000,
+          "startingPriceToman": 230000,
+          "startingPriceIRR": 2300000,
+          "basePriceDisplay": 2300000,
+          "startingPriceDisplay": 2300000,
           "canonicalUrl": "https://bashoor.ir/menu/item/682b09a3-5183-4c2c-b1f4-823972de3716/%D8%A2%DB%8C%D8%B3-%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D9%88%D8%AF%D8%A7",
           "imageUrl": "https://bashoor.ir/menu-assets/iced-espresso-soda.webp",
-          "updatedAt": "2026-09-15T15:03:34.292Z",
+          "updatedAt": "2026-10-23T12:59:35.350Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -635,19 +635,19 @@
                 {
                   "name": "صد عربیکا",
                   "description": null,
-                  "priceDeltaToman": 30000,
-                  "priceToman": 250000,
-                  "priceDeltaDisplay": 300000,
-                  "priceDisplay": 2500000,
+                  "priceDeltaToman": 40000,
+                  "priceToman": 270000,
+                  "priceDeltaDisplay": 400000,
+                  "priceDisplay": 2700000,
                   "imageUrl": null
                 },
                 {
                   "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
-                  "priceToman": 220000,
+                  "priceToman": 230000,
                   "priceDeltaDisplay": 0,
-                  "priceDisplay": 2200000,
+                  "priceDisplay": 2300000,
                   "imageUrl": null
                 }
               ]
@@ -655,8 +655,8 @@
           ],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/682b09a3-5183-4c2c-b1f4-823972de3716/",
           "priceStatus": "quoted",
-          "priceLabel": "از 220٬000 تومان",
-          "priceLabelEn": "from 220٬000 Toman"
+          "priceLabel": "از 230٬000 تومان",
+          "priceLabelEn": "from 230٬000 Toman"
         },
         {
           "id": "ecbb31fe-7526-4fa7-b4af-5240d24461f7",
@@ -1411,14 +1411,14 @@
           "kind": "hot",
           "popular": false,
           "available": true,
-          "basePriceToman": 295000,
-          "startingPriceToman": 295000,
-          "startingPriceIRR": 2950000,
-          "basePriceDisplay": 2950000,
-          "startingPriceDisplay": 2950000,
+          "basePriceToman": 305000,
+          "startingPriceToman": 305000,
+          "startingPriceIRR": 3050000,
+          "basePriceDisplay": 3050000,
+          "startingPriceDisplay": 3050000,
           "canonicalUrl": "https://bashoor.ir/menu/item/be8b5039-d90e-4d1f-9f97-1515208b137c/%D8%A8%D8%B1%DB%8C-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745031413_266247327.webp",
-          "updatedAt": "2026-09-14T11:20:31.418Z",
+          "updatedAt": "2026-10-23T12:52:46.850Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -1428,19 +1428,19 @@
                 {
                   "name": "صد عربیکا",
                   "description": null,
-                  "priceDeltaToman": 30000,
-                  "priceToman": 325000,
-                  "priceDeltaDisplay": 300000,
-                  "priceDisplay": 3250000,
+                  "priceDeltaToman": 40000,
+                  "priceToman": 345000,
+                  "priceDeltaDisplay": 400000,
+                  "priceDisplay": 3450000,
                   "imageUrl": null
                 },
                 {
                   "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
-                  "priceToman": 295000,
+                  "priceToman": 305000,
                   "priceDeltaDisplay": 0,
-                  "priceDisplay": 2950000,
+                  "priceDisplay": 3050000,
                   "imageUrl": null
                 }
               ]
@@ -1448,8 +1448,8 @@
           ],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/be8b5039-d90e-4d1f-9f97-1515208b137c/",
           "priceStatus": "quoted",
-          "priceLabel": "از 295٬000 تومان",
-          "priceLabelEn": "from 295٬000 Toman"
+          "priceLabel": "از 305٬000 تومان",
+          "priceLabelEn": "from 305٬000 Toman"
         },
         {
           "id": "bb7bed91-cf5b-48f9-acea-420944f91b96",
@@ -1460,14 +1460,14 @@
           "kind": "hot",
           "popular": false,
           "available": true,
-          "basePriceToman": 330000,
-          "startingPriceToman": 330000,
-          "startingPriceIRR": 3300000,
-          "basePriceDisplay": 3300000,
-          "startingPriceDisplay": 3300000,
+          "basePriceToman": 340000,
+          "startingPriceToman": 340000,
+          "startingPriceIRR": 3400000,
+          "basePriceDisplay": 3400000,
+          "startingPriceDisplay": 3400000,
           "canonicalUrl": "https://bashoor.ir/menu/item/bb7bed91-cf5b-48f9-acea-420944f91b96/%D9%BE%DB%8C%D9%86%D8%A7%D8%AA-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745031570_510830843.webp",
-          "updatedAt": "2026-09-15T11:46:30.953Z",
+          "updatedAt": "2026-10-23T12:53:12.006Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -1477,19 +1477,19 @@
                 {
                   "name": "صد عربیکا",
                   "description": null,
-                  "priceDeltaToman": 30000,
-                  "priceToman": 360000,
-                  "priceDeltaDisplay": 300000,
-                  "priceDisplay": 3600000,
+                  "priceDeltaToman": 40000,
+                  "priceToman": 380000,
+                  "priceDeltaDisplay": 400000,
+                  "priceDisplay": 3800000,
                   "imageUrl": null
                 },
                 {
                   "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
-                  "priceToman": 330000,
+                  "priceToman": 340000,
                   "priceDeltaDisplay": 0,
-                  "priceDisplay": 3300000,
+                  "priceDisplay": 3400000,
                   "imageUrl": null
                 }
               ]
@@ -1497,8 +1497,8 @@
           ],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/bb7bed91-cf5b-48f9-acea-420944f91b96/",
           "priceStatus": "quoted",
-          "priceLabel": "از 330٬000 تومان",
-          "priceLabelEn": "from 330٬000 Toman"
+          "priceLabel": "از 340٬000 تومان",
+          "priceLabelEn": "from 340٬000 Toman"
         },
         {
           "id": "96756c45-dad4-4453-9ac7-84114e42bf76",
@@ -1509,14 +1509,14 @@
           "kind": "hot",
           "popular": false,
           "available": true,
-          "basePriceToman": 295000,
-          "startingPriceToman": 295000,
-          "startingPriceIRR": 2950000,
-          "basePriceDisplay": 2950000,
-          "startingPriceDisplay": 2950000,
+          "basePriceToman": 305000,
+          "startingPriceToman": 305000,
+          "startingPriceIRR": 3050000,
+          "basePriceDisplay": 3050000,
+          "startingPriceDisplay": 3050000,
           "canonicalUrl": "https://bashoor.ir/menu/item/96756c45-dad4-4453-9ac7-84114e42bf76/%DA%A9%D8%A7%D8%B1%D8%A7%D9%85%D9%84-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745031724_612391824.webp",
-          "updatedAt": "2026-09-15T15:00:53.684Z",
+          "updatedAt": "2026-10-23T12:54:26.950Z",
           "optionGroups": [
             {
               "name": "درصد عربیکا",
@@ -1526,19 +1526,19 @@
                 {
                   "name": "صد عربیکا",
                   "description": null,
-                  "priceDeltaToman": 30000,
-                  "priceToman": 325000,
-                  "priceDeltaDisplay": 300000,
-                  "priceDisplay": 3250000,
+                  "priceDeltaToman": 40000,
+                  "priceToman": 345000,
+                  "priceDeltaDisplay": 400000,
+                  "priceDisplay": 3450000,
                   "imageUrl": null
                 },
                 {
                   "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
-                  "priceToman": 295000,
+                  "priceToman": 305000,
                   "priceDeltaDisplay": 0,
-                  "priceDisplay": 2950000,
+                  "priceDisplay": 3050000,
                   "imageUrl": null
                 }
               ]
@@ -1546,8 +1546,8 @@
           ],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/96756c45-dad4-4453-9ac7-84114e42bf76/",
           "priceStatus": "quoted",
-          "priceLabel": "از 295٬000 تومان",
-          "priceLabelEn": "from 295٬000 Toman"
+          "priceLabel": "از 305٬000 تومان",
+          "priceLabelEn": "from 305٬000 Toman"
         },
         {
           "id": "f43a55ff-3543-4ca8-9249-4cc56a85bded",
@@ -1558,14 +1558,14 @@
           "kind": "cold",
           "popular": false,
           "available": true,
-          "basePriceToman": 295000,
-          "startingPriceToman": 295000,
-          "startingPriceIRR": 2950000,
-          "basePriceDisplay": 2950000,
-          "startingPriceDisplay": 2950000,
+          "basePriceToman": 305000,
+          "startingPriceToman": 305000,
+          "startingPriceIRR": 3050000,
+          "basePriceDisplay": 3050000,
+          "startingPriceDisplay": 3050000,
           "canonicalUrl": "https://bashoor.ir/menu/item/f43a55ff-3543-4ca8-9249-4cc56a85bded/%DA%A9%D9%88%DA%A9%D9%88-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/menu-assets/coconut-latte.webp",
-          "updatedAt": "2026-09-15T15:01:09.490Z",
+          "updatedAt": "2026-10-23T12:55:08.614Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -1575,19 +1575,19 @@
                 {
                   "name": "صد عربیکا",
                   "description": null,
-                  "priceDeltaToman": 30000,
-                  "priceToman": 325000,
-                  "priceDeltaDisplay": 300000,
-                  "priceDisplay": 3250000,
+                  "priceDeltaToman": 40000,
+                  "priceToman": 345000,
+                  "priceDeltaDisplay": 400000,
+                  "priceDisplay": 3450000,
                   "imageUrl": null
                 },
                 {
                   "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
-                  "priceToman": 295000,
+                  "priceToman": 305000,
                   "priceDeltaDisplay": 0,
-                  "priceDisplay": 2950000,
+                  "priceDisplay": 3050000,
                   "imageUrl": null
                 }
               ]
@@ -1595,8 +1595,8 @@
           ],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f43a55ff-3543-4ca8-9249-4cc56a85bded/",
           "priceStatus": "quoted",
-          "priceLabel": "از 295٬000 تومان",
-          "priceLabelEn": "from 295٬000 Toman"
+          "priceLabel": "از 305٬000 تومان",
+          "priceLabelEn": "from 305٬000 Toman"
         },
         {
           "id": "312eacda-3f2c-48f9-9415-c15402bf96bc",
@@ -1607,14 +1607,14 @@
           "kind": "hot",
           "popular": false,
           "available": true,
-          "basePriceToman": 385000,
-          "startingPriceToman": 385000,
-          "startingPriceIRR": 3850000,
-          "basePriceDisplay": 3850000,
-          "startingPriceDisplay": 3850000,
+          "basePriceToman": 395000,
+          "startingPriceToman": 395000,
+          "startingPriceIRR": 3950000,
+          "basePriceDisplay": 3950000,
+          "startingPriceDisplay": 3950000,
           "canonicalUrl": "https://bashoor.ir/menu/item/312eacda-3f2c-48f9-9415-c15402bf96bc/%D9%84%D8%A7%D8%AA%D9%87-%D8%A7%D8%B1%D8%AF%D9%87-%D8%AE%D8%B1%D9%85%D8%A7",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745031924_950870440.webp",
-          "updatedAt": "2026-09-15T15:01:38.808Z",
+          "updatedAt": "2026-10-23T12:55:44.301Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -1624,19 +1624,19 @@
                 {
                   "name": "صد عربیکا",
                   "description": null,
-                  "priceDeltaToman": 30000,
-                  "priceToman": 415000,
-                  "priceDeltaDisplay": 300000,
-                  "priceDisplay": 4150000,
+                  "priceDeltaToman": 40000,
+                  "priceToman": 435000,
+                  "priceDeltaDisplay": 400000,
+                  "priceDisplay": 4350000,
                   "imageUrl": null
                 },
                 {
                   "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
-                  "priceToman": 385000,
+                  "priceToman": 395000,
                   "priceDeltaDisplay": 0,
-                  "priceDisplay": 3850000,
+                  "priceDisplay": 3950000,
                   "imageUrl": null
                 }
               ]
@@ -1644,8 +1644,8 @@
           ],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/312eacda-3f2c-48f9-9415-c15402bf96bc/",
           "priceStatus": "quoted",
-          "priceLabel": "از 385٬000 تومان",
-          "priceLabelEn": "from 385٬000 Toman"
+          "priceLabel": "از 395٬000 تومان",
+          "priceLabelEn": "from 395٬000 Toman"
         },
         {
           "id": "ec47e0d5-cdef-4a96-93c0-7272121a7a42",
@@ -1656,14 +1656,14 @@
           "kind": "hot",
           "popular": false,
           "available": true,
-          "basePriceToman": 295000,
-          "startingPriceToman": 295000,
-          "startingPriceIRR": 2950000,
-          "basePriceDisplay": 2950000,
-          "startingPriceDisplay": 2950000,
+          "basePriceToman": 305000,
+          "startingPriceToman": 305000,
+          "startingPriceIRR": 3050000,
+          "basePriceDisplay": 3050000,
+          "startingPriceDisplay": 3050000,
           "canonicalUrl": "https://bashoor.ir/menu/item/ec47e0d5-cdef-4a96-93c0-7272121a7a42/%D9%85%D8%A7%D9%86%DA%AF%D9%88-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745032087_229389008.webp",
-          "updatedAt": "2026-09-15T15:01:51.581Z",
+          "updatedAt": "2026-10-23T12:56:06.671Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -1673,19 +1673,19 @@
                 {
                   "name": "صد عربیکا",
                   "description": null,
-                  "priceDeltaToman": 30000,
-                  "priceToman": 325000,
-                  "priceDeltaDisplay": 300000,
-                  "priceDisplay": 3250000,
+                  "priceDeltaToman": 40000,
+                  "priceToman": 345000,
+                  "priceDeltaDisplay": 400000,
+                  "priceDisplay": 3450000,
                   "imageUrl": null
                 },
                 {
                   "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
-                  "priceToman": 295000,
+                  "priceToman": 305000,
                   "priceDeltaDisplay": 0,
-                  "priceDisplay": 2950000,
+                  "priceDisplay": 3050000,
                   "imageUrl": null
                 }
               ]
@@ -1693,8 +1693,8 @@
           ],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ec47e0d5-cdef-4a96-93c0-7272121a7a42/",
           "priceStatus": "quoted",
-          "priceLabel": "از 295٬000 تومان",
-          "priceLabelEn": "from 295٬000 Toman"
+          "priceLabel": "از 305٬000 تومان",
+          "priceLabelEn": "from 305٬000 Toman"
         },
         {
           "id": "81965658-b82b-4bf6-a235-4dc330c10fd9",
@@ -1705,14 +1705,14 @@
           "kind": "hot",
           "popular": false,
           "available": true,
-          "basePriceToman": 295000,
-          "startingPriceToman": 295000,
-          "startingPriceIRR": 2950000,
-          "basePriceDisplay": 2950000,
-          "startingPriceDisplay": 2950000,
+          "basePriceToman": 305000,
+          "startingPriceToman": 305000,
+          "startingPriceIRR": 3050000,
+          "basePriceDisplay": 3050000,
+          "startingPriceDisplay": 3050000,
           "canonicalUrl": "https://bashoor.ir/menu/item/81965658-b82b-4bf6-a235-4dc330c10fd9/%D9%86%D8%A7%D8%AA%DB%8C-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745032247_926993009.webp",
-          "updatedAt": "2026-09-15T15:02:09.486Z",
+          "updatedAt": "2026-10-23T12:56:30.414Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -1722,19 +1722,19 @@
                 {
                   "name": "صد عربیکا",
                   "description": null,
-                  "priceDeltaToman": 30000,
-                  "priceToman": 325000,
-                  "priceDeltaDisplay": 300000,
-                  "priceDisplay": 3250000,
+                  "priceDeltaToman": 40000,
+                  "priceToman": 345000,
+                  "priceDeltaDisplay": 400000,
+                  "priceDisplay": 3450000,
                   "imageUrl": null
                 },
                 {
                   "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
-                  "priceToman": 295000,
+                  "priceToman": 305000,
                   "priceDeltaDisplay": 0,
-                  "priceDisplay": 2950000,
+                  "priceDisplay": 3050000,
                   "imageUrl": null
                 }
               ]
@@ -1742,8 +1742,8 @@
           ],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/81965658-b82b-4bf6-a235-4dc330c10fd9/",
           "priceStatus": "quoted",
-          "priceLabel": "از 295٬000 تومان",
-          "priceLabelEn": "from 295٬000 Toman"
+          "priceLabel": "از 305٬000 تومان",
+          "priceLabelEn": "from 305٬000 Toman"
         },
         {
           "id": "971905a2-43b0-4e3f-afcf-070e3ec7281a",
@@ -1754,14 +1754,14 @@
           "kind": "hot",
           "popular": false,
           "available": true,
-          "basePriceToman": 330000,
-          "startingPriceToman": 330000,
-          "startingPriceIRR": 3300000,
-          "basePriceDisplay": 3300000,
-          "startingPriceDisplay": 3300000,
+          "basePriceToman": 340000,
+          "startingPriceToman": 340000,
+          "startingPriceIRR": 3400000,
+          "basePriceDisplay": 3400000,
+          "startingPriceDisplay": 3400000,
           "canonicalUrl": "https://bashoor.ir/menu/item/971905a2-43b0-4e3f-afcf-070e3ec7281a/%D9%87%D8%A7%D9%86%DB%8C-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745032419_747725895.webp",
-          "updatedAt": "2026-10-13T16:11:01.768Z",
+          "updatedAt": "2026-10-23T12:56:46.675Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -1771,19 +1771,19 @@
                 {
                   "name": "صد عربیکا",
                   "description": null,
-                  "priceDeltaToman": 30000,
-                  "priceToman": 360000,
-                  "priceDeltaDisplay": 300000,
-                  "priceDisplay": 3600000,
+                  "priceDeltaToman": 40000,
+                  "priceToman": 380000,
+                  "priceDeltaDisplay": 400000,
+                  "priceDisplay": 3800000,
                   "imageUrl": null
                 },
                 {
                   "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
-                  "priceToman": 330000,
+                  "priceToman": 340000,
                   "priceDeltaDisplay": 0,
-                  "priceDisplay": 3300000,
+                  "priceDisplay": 3400000,
                   "imageUrl": null
                 }
               ]
@@ -1791,8 +1791,8 @@
           ],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/971905a2-43b0-4e3f-afcf-070e3ec7281a/",
           "priceStatus": "quoted",
-          "priceLabel": "از 330٬000 تومان",
-          "priceLabelEn": "from 330٬000 Toman"
+          "priceLabel": "از 340٬000 تومان",
+          "priceLabelEn": "from 340٬000 Toman"
         },
         {
           "id": "08b2806b-d9d3-4b35-8906-f52da9511135",
@@ -1803,14 +1803,14 @@
           "kind": "hot",
           "popular": false,
           "available": true,
-          "basePriceToman": 295000,
-          "startingPriceToman": 295000,
-          "startingPriceIRR": 2950000,
-          "basePriceDisplay": 2950000,
-          "startingPriceDisplay": 2950000,
+          "basePriceToman": 305000,
+          "startingPriceToman": 305000,
+          "startingPriceIRR": 3050000,
+          "basePriceDisplay": 3050000,
+          "startingPriceDisplay": 3050000,
           "canonicalUrl": "https://bashoor.ir/menu/item/08b2806b-d9d3-4b35-8906-f52da9511135/%D9%88%D8%A7%D9%86%DB%8C%D9%84%D8%A7-%D9%84%D8%A7%D8%AA%D9%87",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745032582_803769298.webp",
-          "updatedAt": "2026-09-15T15:02:47.628Z",
+          "updatedAt": "2026-10-23T12:57:14.336Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -1820,19 +1820,19 @@
                 {
                   "name": "صد عربیکا",
                   "description": null,
-                  "priceDeltaToman": 30000,
-                  "priceToman": 325000,
-                  "priceDeltaDisplay": 300000,
-                  "priceDisplay": 3250000,
+                  "priceDeltaToman": 40000,
+                  "priceToman": 345000,
+                  "priceDeltaDisplay": 400000,
+                  "priceDisplay": 3450000,
                   "imageUrl": null
                 },
                 {
                   "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
-                  "priceToman": 295000,
+                  "priceToman": 305000,
                   "priceDeltaDisplay": 0,
-                  "priceDisplay": 2950000,
+                  "priceDisplay": 3050000,
                   "imageUrl": null
                 }
               ]
@@ -1840,8 +1840,8 @@
           ],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/08b2806b-d9d3-4b35-8906-f52da9511135/",
           "priceStatus": "quoted",
-          "priceLabel": "از 295٬000 تومان",
-          "priceLabelEn": "from 295٬000 Toman"
+          "priceLabel": "از 305٬000 تومان",
+          "priceLabelEn": "from 305٬000 Toman"
         }
       ],
       "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/af80f58e-d912-4226-9337-efd09818fb8d/"
@@ -2178,14 +2178,14 @@
           "kind": "cold",
           "popular": false,
           "available": true,
-          "basePriceToman": 445000,
-          "startingPriceToman": 445000,
-          "startingPriceIRR": 4450000,
-          "basePriceDisplay": 4450000,
-          "startingPriceDisplay": 4450000,
+          "basePriceToman": 455000,
+          "startingPriceToman": 455000,
+          "startingPriceIRR": 4550000,
+          "basePriceDisplay": 4550000,
+          "startingPriceDisplay": 4550000,
           "canonicalUrl": "https://bashoor.ir/menu/item/84c83ca1-e6fd-45c5-93fd-166d865422c3/%D8%B4%DB%8C%DA%A9-%D9%82%D9%87%D9%88%D9%87",
           "imageUrl": "https://bashoor.ir/menu-assets/coffee-shake.webp",
-          "updatedAt": "2026-09-15T11:47:39.374Z",
+          "updatedAt": "2026-10-23T12:53:38.468Z",
           "optionGroups": [
             {
               "name": "حالت",
@@ -2195,19 +2195,19 @@
                 {
                   "name": "صد عربیکا",
                   "description": null,
-                  "priceDeltaToman": 30000,
-                  "priceToman": 475000,
-                  "priceDeltaDisplay": 300000,
-                  "priceDisplay": 4750000,
+                  "priceDeltaToman": 40000,
+                  "priceToman": 495000,
+                  "priceDeltaDisplay": 400000,
+                  "priceDisplay": 4950000,
                   "imageUrl": null
                 },
                 {
                   "name": "سی عربیکا",
                   "description": null,
                   "priceDeltaToman": 0,
-                  "priceToman": 445000,
+                  "priceToman": 455000,
                   "priceDeltaDisplay": 0,
-                  "priceDisplay": 4450000,
+                  "priceDisplay": 4550000,
                   "imageUrl": null
                 }
               ]
@@ -2215,8 +2215,8 @@
           ],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/84c83ca1-e6fd-45c5-93fd-166d865422c3/",
           "priceStatus": "quoted",
-          "priceLabel": "از 445٬000 تومان",
-          "priceLabelEn": "from 445٬000 Toman"
+          "priceLabel": "از 455٬000 تومان",
+          "priceLabelEn": "from 455٬000 Toman"
         },
         {
           "id": "99d0ff84-8309-4094-963e-d92cf2a9bca1",
@@ -2926,8 +2926,8 @@
     }
   ],
   "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-  "lastVerifiedAt": "2026-10-23T12:45:03Z",
-  "contentUpdatedAt": "2026-10-22T12:00:03Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-10-23T13:00:03Z",
+  "contentUpdatedAt": "2026-10-23T13:00:03Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }
