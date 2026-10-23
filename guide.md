@@ -2,7 +2,7 @@
 
 Official first-party visit guide. This is business information, not an independent review or ranking.
 
-Snapshot verified at: 2026-10-23T13:00:03Z. The publisher checks sources and publishes a verified snapshot every 15 minutes.
+Snapshot verified at: 2026-10-23T13:15:03Z. The publisher checks sources and publishes a verified snapshot every 15 minutes.
 
 Official entity: https://bashoor.ir/#cafe
 
@@ -98,16 +98,16 @@ Sources: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json, https://ba
 
 ## قیمت قهوه در باشور چند است و ریال و تومان چه فرقی دارند؟
 
-نمونهٔ قیمت‌های شروع فعلی: اسپرسو از 170٬000 تومان (1٬700٬000 IRR)، امریکانو از 170٬000 تومان (1٬700٬000 IRR)، لاته از 245٬000 تومان (2٬450٬000 IRR). یک تومان برابر ۱۰ ریال است. قیمت شروع می‌تواند با انتخاب لاین یا گزینه‌های سفارش تغییر کند؛ قیمت نهایی و موجودی را هنگام سفارش بررسی کنید.
+نمونهٔ قیمت‌های شروع فعلی: اسپرسو از 170٬000 تومان (1٬700٬000 IRR)، امریکانو از 180٬000 تومان (1٬800٬000 IRR)، لاته از 255٬000 تومان (2٬550٬000 IRR). یک تومان برابر ۱۰ ریال است. قیمت شروع می‌تواند با انتخاب لاین یا گزینه‌های سفارش تغییر کند؛ قیمت نهایی و موجودی را هنگام سفارش بررسی کنید.
 
 Sources: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json, https://bashoor.ir/menu
 
 ## What are Bashoor Cafe's coffee prices and how do IRR and Toman differ?
 
-Current starting price examples: Espresso from 170٬000 Toman (1٬700٬000 IRR), Americano from 170٬000 Toman (1٬700٬000 IRR), Latte from 245٬000 Toman (2٬450٬000 IRR). One Toman equals 10 Iranian rials (IRR). Options and coffee selections may change the final price; confirm price and availability when ordering.
+Current starting price examples: Espresso from 170٬000 Toman (1٬700٬000 IRR), Americano from 180٬000 Toman (1٬800٬000 IRR), Latte from 255٬000 Toman (2٬550٬000 IRR). One Toman equals 10 Iranian rials (IRR). Options and coffee selections may change the final price; confirm price and availability when ordering.
 
 Sources: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json, https://bashoor.ir/menu
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-23T13:00:03Z. Last substantive content change: 2026-10-23T13:00:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-23T13:15:03Z. Last substantive content change: 2026-10-23T13:15:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
