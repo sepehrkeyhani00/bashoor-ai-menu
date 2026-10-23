@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.1",
-  "generatedAt": "2026-10-23T17:00:03Z",
+  "generatedAt": "2026-10-23T17:15:08Z",
   "inLanguage": [
     "fa-IR",
     "en"
@@ -252,8 +252,8 @@
   ],
   "menuDigest": "a85e106cf644d8c99a78a155105c48cca9a1fadb0e970f59c62d8b02e9f946ae",
   "disclaimer": "This is official first-party information, not an independent ranking or review. Confirm final price and availability when ordering.",
-  "lastVerifiedAt": "2026-10-23T17:00:03Z",
+  "lastVerifiedAt": "2026-10-23T17:15:08Z",
   "contentUpdatedAt": "2026-10-23T17:00:03Z",
-  "sourceChangedSincePreviousCheck": true,
+  "sourceChangedSincePreviousCheck": false,
   "refreshIntervalMinutes": 15
 }
