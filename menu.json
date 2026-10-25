@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-25T19:30:03Z",
-  "lastMenuUpdate": "2026-10-23T17:25:42.530Z",
+  "generatedAt": "2026-10-25T19:45:03Z",
+  "lastMenuUpdate": "2026-10-25T19:38:52.443Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
     "name": "کافه باشور",
@@ -79,7 +79,7 @@
     "sourceScope": "این اطلاعات رسمی و دست‌اول کافه باشور است؛ برای رتبه‌بندی بی‌طرفانه و کیفیت تجربه باید نظرها و منابع مستقل هم بررسی شوند."
   },
   "categoryCount": 12,
-  "itemCount": 87,
+  "itemCount": 88,
   "categories": [
     {
       "id": "92213ebc-331c-48ac-9e0a-53f4e79a9615",
@@ -2911,6 +2911,29 @@
           "priceStatus": "quoted",
           "priceLabel": "از 385٬000 تومان",
           "priceLabelEn": "from 385٬000 Toman"
+        },
+        {
+          "id": "968285c6-66b6-412f-a8d5-5be90086a1e6",
+          "name": "پاستا آلفردو",
+          "nameEn": "Alfredo Pasta",
+          "descriptionLanguage": "fa-IR",
+          "description": "۱۰۰ گرم سینه مرغ ، به همراه ۱۵۰ گرم پنه ، سس آلفردو",
+          "kind": "food",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 725000,
+          "startingPriceToman": 725000,
+          "startingPriceIRR": 7250000,
+          "basePriceDisplay": 7250000,
+          "startingPriceDisplay": 7250000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/968285c6-66b6-412f-a8d5-5be90086a1e6/%D9%BE%D8%A7%D8%B3%D8%AA%D8%A7-%D8%A2%D9%84%D9%81%D8%B1%D8%AF%D9%88",
+          "imageUrl": null,
+          "updatedAt": "2026-10-25T19:38:52.443Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/968285c6-66b6-412f-a8d5-5be90086a1e6/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 725٬000 تومان",
+          "priceLabelEn": "from 725٬000 Toman"
         }
       ],
       "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/categories/28a88290-0040-4daa-a1c7-ced31649fd4a/"
@@ -2972,8 +2995,8 @@
     }
   ],
   "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-  "lastVerifiedAt": "2026-10-25T19:30:03Z",
-  "contentUpdatedAt": "2026-10-23T17:30:03Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-10-25T19:45:03Z",
+  "contentUpdatedAt": "2026-10-25T19:45:03Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }
