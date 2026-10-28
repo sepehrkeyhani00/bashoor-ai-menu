@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-28T14:45:03Z",
+  "generatedAt": "2026-10-28T15:00:03Z",
   "sourceType": "official first-party business data",
   "independentReview": false,
   "entityId": "https://bashoor.ir/#cafe",
@@ -48,7 +48,7 @@
     ]
   },
   "timezone": "Asia/Tehran",
-  "menuDigest": "039412c53d6871f5fa4651c1a8358113e95fb9b97a77f3ba410b653221ff41f0",
+  "menuDigest": "e26d967dcaf789868c008dc0d7a89245eadfd6d66a7058803abcadbb6ab0bf12",
   "refresh": {
     "intervalMinutes": 15,
     "publishEverySuccessfulCheck": true
@@ -215,8 +215,8 @@
       ]
     }
   ],
-  "lastVerifiedAt": "2026-10-28T14:45:03Z",
-  "contentUpdatedAt": "2026-10-25T19:45:03Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-10-28T15:00:03Z",
+  "contentUpdatedAt": "2026-10-28T15:00:03Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }

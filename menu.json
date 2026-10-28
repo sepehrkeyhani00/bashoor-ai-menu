@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-28T14:45:03Z",
-  "lastMenuUpdate": "2026-10-25T19:38:52.443Z",
+  "generatedAt": "2026-10-28T15:00:03Z",
+  "lastMenuUpdate": "2026-10-28T14:54:09.433Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
     "name": "کافه باشور",
@@ -79,7 +79,7 @@
     "sourceScope": "این اطلاعات رسمی و دست‌اول کافه باشور است؛ برای رتبه‌بندی بی‌طرفانه و کیفیت تجربه باید نظرها و منابع مستقل هم بررسی شوند."
   },
   "categoryCount": 12,
-  "itemCount": 88,
+  "itemCount": 89,
   "categories": [
     {
       "id": "92213ebc-331c-48ac-9e0a-53f4e79a9615",
@@ -2628,6 +2628,29 @@
       "canonicalUrl": "https://bashoor.ir/menu/category/752754c6-952f-4987-852d-665bd72d500d/%D8%A8%DB%8C%DA%A9%D8%B1%DB%8C",
       "items": [
         {
+          "id": "b1ee59ea-b433-4ad6-9121-01908586b566",
+          "name": "فرنچ تست",
+          "nameEn": "فرنچ تست",
+          "descriptionLanguage": "fa-IR",
+          "description": null,
+          "kind": "food",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 385000,
+          "startingPriceToman": 385000,
+          "startingPriceIRR": 3850000,
+          "basePriceDisplay": 3850000,
+          "startingPriceDisplay": 3850000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/b1ee59ea-b433-4ad6-9121-01908586b566/%D9%81%D8%B1%D9%86%DA%86-%D8%AA%D8%B3%D8%AA",
+          "imageUrl": null,
+          "updatedAt": "2026-10-28T14:54:09.433Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/b1ee59ea-b433-4ad6-9121-01908586b566/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 385٬000 تومان",
+          "priceLabelEn": "from 385٬000 Toman"
+        },
+        {
           "id": "142b349e-b6cf-4055-8e4e-ba69c3ab0fe5",
           "name": "تارت میوه ای",
           "nameEn": "Fruit Tart",
@@ -2995,8 +3018,8 @@
     }
   ],
   "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-  "lastVerifiedAt": "2026-10-28T14:45:03Z",
-  "contentUpdatedAt": "2026-10-25T19:45:03Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-10-28T15:00:03Z",
+  "contentUpdatedAt": "2026-10-28T15:00:03Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }
