@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-30T12:45:03Z",
-  "lastMenuUpdate": "2026-10-30T11:39:52.585Z",
+  "generatedAt": "2026-10-30T13:00:03Z",
+  "lastMenuUpdate": "2026-10-30T12:59:26.610Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
     "name": "کافه باشور",
@@ -79,7 +79,7 @@
     "sourceScope": "این اطلاعات رسمی و دست‌اول کافه باشور است؛ برای رتبه‌بندی بی‌طرفانه و کیفیت تجربه باید نظرها و منابع مستقل هم بررسی شوند."
   },
   "categoryCount": 12,
-  "itemCount": 89,
+  "itemCount": 90,
   "categories": [
     {
       "id": "92213ebc-331c-48ac-9e0a-53f4e79a9615",
@@ -2890,6 +2890,29 @@
       "canonicalUrl": "https://bashoor.ir/menu/category/28a88290-0040-4daa-a1c7-ced31649fd4a/%D8%BA%D8%B0%D8%A7",
       "items": [
         {
+          "id": "1e22ba12-1835-4fa9-97eb-5d5851965bcc",
+          "name": "اوت میل",
+          "nameEn": "اوت میل",
+          "descriptionLanguage": "fa-IR",
+          "description": "ترکیب شیر ، جو دوسر به همراه کره بادام زمینی ، سیب و دارچین",
+          "kind": "food",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 395000,
+          "startingPriceToman": 395000,
+          "startingPriceIRR": 3950000,
+          "basePriceDisplay": 3950000,
+          "startingPriceDisplay": 3950000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/1e22ba12-1835-4fa9-97eb-5d5851965bcc/%D8%A7%D9%88%D8%AA-%D9%85%DB%8C%D9%84",
+          "imageUrl": null,
+          "updatedAt": "2026-10-30T12:59:26.610Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/1e22ba12-1835-4fa9-97eb-5d5851965bcc/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 395٬000 تومان",
+          "priceLabelEn": "from 395٬000 Toman"
+        },
+        {
           "id": "6e67d41a-b568-49cf-b1b8-041595a73f1f",
           "name": "کلاب بیکن",
           "nameEn": "Bacon Club Sandwich",
@@ -3018,8 +3041,8 @@
     }
   ],
   "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-  "lastVerifiedAt": "2026-10-30T12:45:03Z",
-  "contentUpdatedAt": "2026-10-30T11:45:03Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-10-30T13:00:03Z",
+  "contentUpdatedAt": "2026-10-30T13:00:03Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }

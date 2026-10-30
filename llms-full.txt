@@ -51,7 +51,7 @@
 
 ## منوی زنده و قیمت‌ها
 
-این نسخه در 2026-10-30T12:45:01.284Z از منوی عمومی باشور ساخته شده و شامل ۸۹ آیتم در ۱۲ دسته است.
+این نسخه در 2026-10-30T13:00:01.158Z از منوی عمومی باشور ساخته شده و شامل ۹۰ آیتم در ۱۲ دسته است.
 
 - [منوی HTML با عکس و قیمت](https://bashoor.ir/menu)
 - [منوی کامل HTML سبک با دسته، توضیح و قیمت ریال](https://bashoor.ir/menu/all)
@@ -123,8 +123,8 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json
-- زمان دریافت این نسخه: 2026-10-30T12:45:01.284Z
-- آخرین تغییر ثبت‌شده در منو: 2026-10-30T11:39:52.585Z
+- زمان دریافت این نسخه: 2026-10-30T13:00:01.158Z
+- آخرین تغییر ثبت‌شده در منو: 2026-10-30T12:59:26.610Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
 
@@ -425,6 +425,9 @@
 
 ## غذا
 
+- اوت میل — ۳٬۹۵۰٬۰۰۰ ریال
+  ترکیب شیر ، جو دوسر به همراه کره بادام زمینی ، سیب و دارچین
+  صفحهٔ آیتم: https://bashoor.ir/menu/item/1e22ba12-1835-4fa9-97eb-5d5851965bcc/%D8%A7%D9%88%D8%AA-%D9%85%DB%8C%D9%84
 - کلاب بیکن — ۴٬۵۵۰٬۰۰۰ ریال
   صفحهٔ آیتم: https://bashoor.ir/menu/item/6e67d41a-b568-49cf-b1b8-041595a73f1f/%DA%A9%D9%84%D8%A7%D8%A8-%D8%A8%DB%8C%DA%A9%D9%86
 - کلاب پپرونی — ۳٬۸۵۰٬۰۰۰ ریال
@@ -454,4 +457,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-30T12:45:03Z. Last substantive content change: 2026-10-30T11:45:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-30T13:00:03Z. Last substantive content change: 2026-10-30T13:00:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
