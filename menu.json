@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-30T11:00:04Z",
-  "lastMenuUpdate": "2026-10-28T14:54:09.433Z",
+  "generatedAt": "2026-10-30T11:15:03Z",
+  "lastMenuUpdate": "2026-10-30T11:06:13.234Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
     "name": "کافه باشور",
@@ -439,19 +439,19 @@
           "kind": "hot",
           "popular": false,
           "available": true,
-          "basePriceToman": 170000,
-          "startingPriceToman": 170000,
-          "startingPriceIRR": 1700000,
-          "basePriceDisplay": 1700000,
-          "startingPriceDisplay": 1700000,
+          "basePriceToman": 220000,
+          "startingPriceToman": 220000,
+          "startingPriceIRR": 2200000,
+          "basePriceDisplay": 2200000,
+          "startingPriceDisplay": 2200000,
           "canonicalUrl": "https://bashoor.ir/menu/item/f5c38d07-95d6-4477-a2de-10c445d6675a/%D8%B1%DA%AF%D9%88%D9%84%D8%A7%D8%B1",
           "imageUrl": "https://bashoor.ir/uploads/img_1786745034449_372875901.webp",
-          "updatedAt": "2026-10-23T13:11:05.997Z",
+          "updatedAt": "2026-10-30T11:06:13.234Z",
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/f5c38d07-95d6-4477-a2de-10c445d6675a/",
           "priceStatus": "quoted",
-          "priceLabel": "از 170٬000 تومان",
-          "priceLabelEn": "from 170٬000 Toman"
+          "priceLabel": "از 220٬000 تومان",
+          "priceLabelEn": "from 220٬000 Toman"
         },
         {
           "id": "bcf14424-c788-4df9-b509-e2480cf67807",
@@ -3018,8 +3018,8 @@
     }
   ],
   "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-  "lastVerifiedAt": "2026-10-30T11:00:04Z",
-  "contentUpdatedAt": "2026-10-30T08:30:03Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-10-30T11:15:03Z",
+  "contentUpdatedAt": "2026-10-30T11:15:03Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }

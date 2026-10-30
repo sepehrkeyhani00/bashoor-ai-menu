@@ -12,8 +12,8 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://bashoor.ir/menu.json
-- زمان دریافت این نسخه: 2026-10-30T11:00:01.404Z
-- آخرین تغییر ثبت‌شده در منو: 2026-10-28T14:54:09.433Z
+- زمان دریافت این نسخه: 2026-10-30T11:15:01.173Z
+- آخرین تغییر ثبت‌شده در منو: 2026-10-30T11:06:13.234Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
 
@@ -47,7 +47,7 @@
   اسپرسو و بستنی وانیلی
   صفحهٔ آیتم: https://bashoor.ir/menu/item/b4beaa15-631c-487a-8242-0185f66897fd/%D8%A2%D9%81%D9%88%DA%AF%D8%A7%D8%AA%D9%88
   درصد عربیکا (انتخاب الزامی): صد عربیکا: ۳٬۱۵۰٬۰۰۰ ریال؛ سی عربیکا: ۲٬۸۵۰٬۰۰۰ ریال
-- رگولار — ۱٬۷۰۰٬۰۰۰ ریال
+- رگولار — ۲٬۲۰۰٬۰۰۰ ریال
   قهوه دمی به روش چکانه‌ای با دستگاه رگولار
   صفحهٔ آیتم: https://bashoor.ir/menu/item/f5c38d07-95d6-4477-a2de-10c445d6675a/%D8%B1%DA%AF%D9%88%D9%84%D8%A7%D8%B1
 - موکا بنانا — از ۳٬۹۵۰٬۰۰۰ ریال
@@ -337,4 +337,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-30T11:00:04Z. Last substantive content change: 2026-10-30T08:30:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-30T11:15:03Z. Last substantive content change: 2026-10-30T11:15:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
