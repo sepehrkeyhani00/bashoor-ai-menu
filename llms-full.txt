@@ -51,7 +51,7 @@
 
 ## منوی زنده و قیمت‌ها
 
-این نسخه در 2026-10-30T08:15:01.407Z از منوی عمومی باشور ساخته شده و شامل ۸۹ آیتم در ۱۲ دسته است.
+این نسخه در 2026-10-30T08:30:01.391Z از منوی عمومی باشور ساخته شده و شامل ۸۹ آیتم در ۱۲ دسته است.
 
 - [منوی HTML با عکس و قیمت](https://bashoor.ir/menu)
 - [منوی کامل HTML سبک با دسته، توضیح و قیمت ریال](https://bashoor.ir/menu/all)
@@ -123,7 +123,7 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json
-- زمان دریافت این نسخه: 2026-10-30T08:15:01.407Z
+- زمان دریافت این نسخه: 2026-10-30T08:30:01.391Z
 - آخرین تغییر ثبت‌شده در منو: 2026-10-28T14:54:09.433Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
@@ -188,7 +188,7 @@
   اسپرسو به همراه آب و یخ
   صفحهٔ آیتم: https://bashoor.ir/menu/item/f63dcf7a-4742-42b4-8268-80e49ebc7b0a/%D8%A2%DB%8C%D8%B3-%D8%A7%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%D9%86%D9%88
   حالت (انتخاب الزامی): صد عربیکا: ۲٬۲۰۰٬۰۰۰ ریال؛ سی عربیکا: ۱٬۸۰۰٬۰۰۰ ریال
-- آیس لاته — از ۲٬۵۵۰٬۰۰۰ ریال — پرفروش
+- آیس لاته — از ۲٬۵۵۰٬۰۰۰ ریال
   اسپرسو و شیر به همراه یخ
   صفحهٔ آیتم: https://bashoor.ir/menu/item/5a696e55-b2ae-47d9-905e-b3fc3946f90b/%D8%A2%DB%8C%D8%B3-%D9%84%D8%A7%D8%AA%D9%87
   حالت (انتخاب الزامی): صد عربیکا: ۲٬۹۵۰٬۰۰۰ ریال؛ سی عربیکا: ۲٬۵۵۰٬۰۰۰ ریال
@@ -270,7 +270,7 @@
   ترکیب لاته و کره بادام زمینی
   صفحهٔ آیتم: https://bashoor.ir/menu/item/bb7bed91-cf5b-48f9-acea-420944f91b96/%D9%BE%DB%8C%D9%86%D8%A7%D8%AA-%D9%84%D8%A7%D8%AA%D9%87
   حالت (انتخاب الزامی): صد عربیکا: ۳٬۸۰۰٬۰۰۰ ریال؛ سی عربیکا: ۳٬۴۰۰٬۰۰۰ ریال
-- کارامل لاته — از ۳٬۰۵۰٬۰۰۰ ریال
+- کارامل لاته — از ۳٬۰۵۰٬۰۰۰ ریال — پرفروش
   ترکیب لاته و سیروپ کارامل
   صفحهٔ آیتم: https://bashoor.ir/menu/item/96756c45-dad4-4453-9ac7-84114e42bf76/%DA%A9%D8%A7%D8%B1%D8%A7%D9%85%D9%84-%D9%84%D8%A7%D8%AA%D9%87
   درصد عربیکا (انتخاب الزامی): صد عربیکا: ۳٬۴۵۰٬۰۰۰ ریال؛ سی عربیکا: ۳٬۰۵۰٬۰۰۰ ریال
@@ -454,4 +454,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-30T08:15:03Z. Last substantive content change: 2026-10-28T15:00:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-30T08:30:03Z. Last substantive content change: 2026-10-30T08:30:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.

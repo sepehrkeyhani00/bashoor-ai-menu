@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-30T08:15:03Z",
+  "generatedAt": "2026-10-30T08:30:03Z",
   "lastMenuUpdate": "2026-10-28T14:54:09.433Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
@@ -763,7 +763,7 @@
           "descriptionLanguage": "fa-IR",
           "description": "اسپرسو و شیر به همراه یخ",
           "kind": "cold",
-          "popular": true,
+          "popular": false,
           "available": true,
           "basePriceToman": 255000,
           "startingPriceToman": 255000,
@@ -1530,7 +1530,7 @@
           "descriptionLanguage": "fa-IR",
           "description": "ترکیب لاته و سیروپ کارامل",
           "kind": "hot",
-          "popular": false,
+          "popular": true,
           "available": true,
           "basePriceToman": 305000,
           "startingPriceToman": 305000,
@@ -3018,8 +3018,8 @@
     }
   ],
   "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-  "lastVerifiedAt": "2026-10-30T08:15:03Z",
-  "contentUpdatedAt": "2026-10-28T15:00:03Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-10-30T08:30:03Z",
+  "contentUpdatedAt": "2026-10-30T08:30:03Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }
