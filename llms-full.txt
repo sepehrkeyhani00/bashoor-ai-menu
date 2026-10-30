@@ -51,7 +51,7 @@
 
 ## منوی زنده و قیمت‌ها
 
-این نسخه در 2026-10-30T11:30:01.227Z از منوی عمومی باشور ساخته شده و شامل ۸۹ آیتم در ۱۲ دسته است.
+این نسخه در 2026-10-30T11:45:01.380Z از منوی عمومی باشور ساخته شده و شامل ۸۹ آیتم در ۱۲ دسته است.
 
 - [منوی HTML با عکس و قیمت](https://bashoor.ir/menu)
 - [منوی کامل HTML سبک با دسته، توضیح و قیمت ریال](https://bashoor.ir/menu/all)
@@ -87,7 +87,7 @@
 - [آیس لاته](https://bashoor.ir/menu/item/5a696e55-b2ae-47d9-905e-b3fc3946f90b/%D8%A2%DB%8C%D8%B3-%D9%84%D8%A7%D8%AA%D9%87) — از ۲٬۵۵۰٬۰۰۰ ریال
 - [آیس موکا](https://bashoor.ir/menu/item/d90c4ff2-7f6c-494c-8746-366fef0ad64b/%D8%A2%DB%8C%D8%B3-%D9%85%D9%88%DA%A9%D8%A7) — از ۳٬۱۵۰٬۰۰۰ ریال
 - [آیس موکا کرم](https://bashoor.ir/menu/item/46cca27f-af36-4c5f-8c80-d12d9574fba8/%D8%A2%DB%8C%D8%B3-%D9%85%D9%88%DA%A9%D8%A7-%DA%A9%D8%B1%D9%85) — از ۳٬۵۵۰٬۰۰۰ ریال
-- [آیس رگولار](https://bashoor.ir/menu/item/e37025f9-d457-4afd-ab5f-ee304acff2fb/%D8%A2%DB%8C%D8%B3-%D8%B1%DA%AF%D9%88%D9%84%D8%A7%D8%B1) — ۱٬۸۰۰٬۰۰۰ ریال
+- [آیس رگولار](https://bashoor.ir/menu/item/e37025f9-d457-4afd-ab5f-ee304acff2fb/%D8%A2%DB%8C%D8%B3-%D8%B1%DA%AF%D9%88%D9%84%D8%A7%D8%B1) — ۲٬۳۰۰٬۰۰۰ ریال
 
 ## صفحه‌های اصلی
 
@@ -123,8 +123,8 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json
-- زمان دریافت این نسخه: 2026-10-30T11:30:01.227Z
-- آخرین تغییر ثبت‌شده در منو: 2026-10-30T11:06:13.234Z
+- زمان دریافت این نسخه: 2026-10-30T11:45:01.380Z
+- آخرین تغییر ثبت‌شده در منو: 2026-10-30T11:39:52.585Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
 
@@ -200,7 +200,7 @@
   ترکیب لاته و شکلات به همراه خامه
   صفحهٔ آیتم: https://bashoor.ir/menu/item/46cca27f-af36-4c5f-8c80-d12d9574fba8/%D8%A2%DB%8C%D8%B3-%D9%85%D9%88%DA%A9%D8%A7-%DA%A9%D8%B1%D9%85
   حالت (انتخاب الزامی): صد عربیکا: ۳٬۸۵۰٬۰۰۰ ریال؛ سی عربیکا: ۳٬۵۵۰٬۰۰۰ ریال
-- آیس رگولار — ۱٬۸۰۰٬۰۰۰ ریال
+- آیس رگولار — ۲٬۳۰۰٬۰۰۰ ریال
   قهوه دمی به روش چکانه‌ای با دستگاه رگولار به همراه یخ
   صفحهٔ آیتم: https://bashoor.ir/menu/item/e37025f9-d457-4afd-ab5f-ee304acff2fb/%D8%A2%DB%8C%D8%B3-%D8%B1%DA%AF%D9%88%D9%84%D8%A7%D8%B1
 - اورنج اسپرسو — از ۲٬۹۵۰٬۰۰۰ ریال
@@ -454,4 +454,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-30T11:30:03Z. Last substantive content change: 2026-10-30T11:15:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-30T11:45:03Z. Last substantive content change: 2026-10-30T11:45:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.

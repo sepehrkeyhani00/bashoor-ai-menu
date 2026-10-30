@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-30T11:30:03Z",
-  "lastMenuUpdate": "2026-10-30T11:06:13.234Z",
+  "generatedAt": "2026-10-30T11:45:03Z",
+  "lastMenuUpdate": "2026-10-30T11:39:52.585Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
     "name": "کافه باشور",
@@ -912,19 +912,19 @@
           "kind": "cold",
           "popular": false,
           "available": true,
-          "basePriceToman": 180000,
-          "startingPriceToman": 180000,
-          "startingPriceIRR": 1800000,
-          "basePriceDisplay": 1800000,
-          "startingPriceDisplay": 1800000,
+          "basePriceToman": 230000,
+          "startingPriceToman": 230000,
+          "startingPriceIRR": 2300000,
+          "basePriceDisplay": 2300000,
+          "startingPriceDisplay": 2300000,
           "canonicalUrl": "https://bashoor.ir/menu/item/e37025f9-d457-4afd-ab5f-ee304acff2fb/%D8%A2%DB%8C%D8%B3-%D8%B1%DA%AF%D9%88%D9%84%D8%A7%D8%B1",
           "imageUrl": "https://bashoor.ir/menu-assets/iced-regular-coffee.webp",
-          "updatedAt": "2026-10-23T13:11:54.314Z",
+          "updatedAt": "2026-10-30T11:39:52.585Z",
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/e37025f9-d457-4afd-ab5f-ee304acff2fb/",
           "priceStatus": "quoted",
-          "priceLabel": "از 180٬000 تومان",
-          "priceLabelEn": "from 180٬000 Toman"
+          "priceLabel": "از 230٬000 تومان",
+          "priceLabelEn": "from 230٬000 Toman"
         },
         {
           "id": "c3711140-8ba1-4611-a487-207f23176440",
@@ -3018,8 +3018,8 @@
     }
   ],
   "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-  "lastVerifiedAt": "2026-10-30T11:30:03Z",
-  "contentUpdatedAt": "2026-10-30T11:15:03Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-10-30T11:45:03Z",
+  "contentUpdatedAt": "2026-10-30T11:45:03Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }
