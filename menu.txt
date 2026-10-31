@@ -12,7 +12,7 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://bashoor.ir/menu.json
-- زمان دریافت این نسخه: 2026-10-31T11:30:01.047Z
+- زمان دریافت این نسخه: 2026-10-31T11:45:01.079Z
 - آخرین تغییر ثبت‌شده در منو: 2026-10-31T08:24:42.216Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
@@ -159,7 +159,7 @@
   ترکیب لاته و کره بادام زمینی
   صفحهٔ آیتم: https://bashoor.ir/menu/item/bb7bed91-cf5b-48f9-acea-420944f91b96/%D9%BE%DB%8C%D9%86%D8%A7%D8%AA-%D9%84%D8%A7%D8%AA%D9%87
   حالت (انتخاب الزامی): صد عربیکا: ۳٬۸۰۰٬۰۰۰ ریال؛ سی عربیکا: ۳٬۴۰۰٬۰۰۰ ریال
-- کارامل لاته — از ۳٬۰۵۰٬۰۰۰ ریال — پرفروش
+- کارامل لاته — از ۳٬۰۵۰٬۰۰۰ ریال
   ترکیب لاته و سیروپ کارامل
   صفحهٔ آیتم: https://bashoor.ir/menu/item/96756c45-dad4-4453-9ac7-84114e42bf76/%DA%A9%D8%A7%D8%B1%D8%A7%D9%85%D9%84-%D9%84%D8%A7%D8%AA%D9%87
   درصد عربیکا (انتخاب الزامی): صد عربیکا: ۳٬۴۵۰٬۰۰۰ ریال؛ سی عربیکا: ۳٬۰۵۰٬۰۰۰ ریال
@@ -190,7 +190,7 @@
 
 ## شکلات بار
 
-- کلاسیک چاکلت — ۲٬۹۵۰٬۰۰۰ ریال
+- کلاسیک چاکلت — ۲٬۹۵۰٬۰۰۰ ریال — پرفروش
   شکلات داغ کلاسیک به همراه خامه
   صفحهٔ آیتم: https://bashoor.ir/menu/item/78383c18-5c43-46fe-85ab-55b30d5c580a/%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%DA%86%D8%A7%DA%A9%D9%84%D8%AA
 - ناتی چاکلت — ۳٬۳۵۰٬۰۰۰ ریال
@@ -343,4 +343,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-31T11:30:03Z. Last substantive content change: 2026-10-31T08:30:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-31T11:45:03Z. Last substantive content change: 2026-10-31T11:45:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
