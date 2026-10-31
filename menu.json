@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-31T08:15:03Z",
-  "lastMenuUpdate": "2026-10-30T12:59:26.610Z",
+  "generatedAt": "2026-10-31T08:30:03Z",
+  "lastMenuUpdate": "2026-10-31T08:24:42.216Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
     "name": "کافه باشور",
@@ -79,7 +79,7 @@
     "sourceScope": "این اطلاعات رسمی و دست‌اول کافه باشور است؛ برای رتبه‌بندی بی‌طرفانه و کیفیت تجربه باید نظرها و منابع مستقل هم بررسی شوند."
   },
   "categoryCount": 12,
-  "itemCount": 90,
+  "itemCount": 91,
   "categories": [
     {
       "id": "92213ebc-331c-48ac-9e0a-53f4e79a9615",
@@ -2890,6 +2890,29 @@
       "canonicalUrl": "https://bashoor.ir/menu/category/28a88290-0040-4daa-a1c7-ced31649fd4a/%D8%BA%D8%B0%D8%A7",
       "items": [
         {
+          "id": "cec8f3b1-5433-4cdd-b43a-c903fafe0e75",
+          "name": "املت",
+          "nameEn": "Omelette",
+          "descriptionLanguage": "fa-IR",
+          "description": "سه عدد تخم مرغ ، گوجه و رب خانگی به همراه سالاد کاهو",
+          "kind": "food",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 295000,
+          "startingPriceToman": 295000,
+          "startingPriceIRR": 2950000,
+          "basePriceDisplay": 2950000,
+          "startingPriceDisplay": 2950000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/cec8f3b1-5433-4cdd-b43a-c903fafe0e75/%D8%A7%D9%85%D9%84%D8%AA",
+          "imageUrl": null,
+          "updatedAt": "2026-10-31T08:24:42.216Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/cec8f3b1-5433-4cdd-b43a-c903fafe0e75/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 295٬000 تومان",
+          "priceLabelEn": "from 295٬000 Toman"
+        },
+        {
           "id": "1e22ba12-1835-4fa9-97eb-5d5851965bcc",
           "name": "اوت میل",
           "nameEn": "اوت میل",
@@ -3041,8 +3064,8 @@
     }
   ],
   "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-  "lastVerifiedAt": "2026-10-31T08:15:03Z",
-  "contentUpdatedAt": "2026-10-30T13:00:03Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-10-31T08:30:03Z",
+  "contentUpdatedAt": "2026-10-31T08:30:03Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }

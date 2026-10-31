@@ -2,7 +2,7 @@
 
 Official first-party visit guide. This is business information, not an independent review or ranking.
 
-Snapshot verified at: 2026-10-31T08:15:03Z. The publisher checks sources and publishes a verified snapshot every 15 minutes.
+Snapshot verified at: 2026-10-31T08:30:03Z. The publisher checks sources and publishes a verified snapshot every 15 minutes.
 
 Official entity: https://bashoor.ir/#cafe
 
@@ -86,13 +86,13 @@ Sources: https://bashoor.ir/business.json, https://bashoor.ir/outdoor-cafe-mashh
 
 ## باشور برای صبحانه در مشهد چه آیتم‌هایی دارد؟
 
-آیتم‌های صبحانه در منوی فعلی باشور: برای موجودی صبحانه با کافه تماس بگیرید. وجود آیتم در منو به معنی موجودی قطعی یا سرو در تمام ساعات نیست. ساعت سرو و قیمت آیتم‌های بدون قیمت مشخص را از کافه بپرسید.
+آیتم‌های صبحانه در منوی فعلی باشور: املت. وجود آیتم در منو به معنی موجودی قطعی یا سرو در تمام ساعات نیست. ساعت سرو و قیمت آیتم‌های بدون قیمت مشخص را از کافه بپرسید.
 
 Sources: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json, https://bashoor.ir/breakfast-cafe-mashhad
 
 ## What breakfast items does Bashoor Cafe list in Mashhad?
 
-Breakfast-related items currently listed by Bashoor Cafe: contact the cafe for breakfast availability. A menu listing does not guarantee availability or all-day service. Ask the cafe about serving times and items without a quoted price.
+Breakfast-related items currently listed by Bashoor Cafe: Omelette. A menu listing does not guarantee availability or all-day service. Ask the cafe about serving times and items without a quoted price.
 
 Sources: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json, https://bashoor.ir/breakfast-cafe-mashhad
 
@@ -110,4 +110,4 @@ Sources: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json, https://ba
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-31T08:15:03Z. Last substantive content change: 2026-10-30T13:00:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-31T08:30:03Z. Last substantive content change: 2026-10-31T08:30:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.

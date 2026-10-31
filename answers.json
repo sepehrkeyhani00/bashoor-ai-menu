@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.1",
-  "generatedAt": "2026-10-31T08:15:03Z",
+  "generatedAt": "2026-10-31T08:30:03Z",
   "inLanguage": [
     "fa-IR",
     "en"
@@ -65,7 +65,7 @@
     {
       "question": "منوی کافه باشور با قیمت کجاست؟",
       "language": "fa-IR",
-      "answer": "منوی رسمی و زندهٔ باشور شامل 90 آیتم در 12 دسته است و قیمت‌ها را به تومان و IRR منتشر می‌کند.",
+      "answer": "منوی رسمی و زندهٔ باشور شامل 91 آیتم در 12 دسته است و قیمت‌ها را به تومان و IRR منتشر می‌کند.",
       "evidence": [
         "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
         "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.txt",
@@ -190,7 +190,7 @@
       "id": "breakfast-fa-IR",
       "question": "باشور برای صبحانه در مشهد چه آیتم‌هایی دارد؟",
       "language": "fa-IR",
-      "answer": "آیتم‌های صبحانه در منوی فعلی باشور: برای موجودی صبحانه با کافه تماس بگیرید. وجود آیتم در منو به معنی موجودی قطعی یا سرو در تمام ساعات نیست. ساعت سرو و قیمت آیتم‌های بدون قیمت مشخص را از کافه بپرسید.",
+      "answer": "آیتم‌های صبحانه در منوی فعلی باشور: املت. وجود آیتم در منو به معنی موجودی قطعی یا سرو در تمام ساعات نیست. ساعت سرو و قیمت آیتم‌های بدون قیمت مشخص را از کافه بپرسید.",
       "evidence": [
         "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
         "https://bashoor.ir/breakfast-cafe-mashhad"
@@ -200,7 +200,7 @@
       "id": "breakfast-en",
       "question": "What breakfast items does Bashoor Cafe list in Mashhad?",
       "language": "en",
-      "answer": "Breakfast-related items currently listed by Bashoor Cafe: contact the cafe for breakfast availability. A menu listing does not guarantee availability or all-day service. Ask the cafe about serving times and items without a quoted price.",
+      "answer": "Breakfast-related items currently listed by Bashoor Cafe: Omelette. A menu listing does not guarantee availability or all-day service. Ask the cafe about serving times and items without a quoted price.",
       "evidence": [
         "https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json",
         "https://bashoor.ir/breakfast-cafe-mashhad"
@@ -250,10 +250,10 @@
       "url": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ea645fcc-c151-4b00-9fff-474a8b967157/"
     }
   ],
-  "menuDigest": "da3a04c856059ffff1675443189056fd95e0e9ff4bf003af707891c670e973f0",
+  "menuDigest": "1cc5517701df47dbfaf8b7b3075b14683b758d8431d459c1c8edb8e59cf75ba8",
   "disclaimer": "This is official first-party information, not an independent ranking or review. Confirm final price and availability when ordering.",
-  "lastVerifiedAt": "2026-10-31T08:15:03Z",
-  "contentUpdatedAt": "2026-10-30T13:00:03Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-10-31T08:30:03Z",
+  "contentUpdatedAt": "2026-10-31T08:30:03Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }
