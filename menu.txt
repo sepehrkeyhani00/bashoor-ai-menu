@@ -12,7 +12,7 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://bashoor.ir/menu.json
-- زمان دریافت این نسخه: 2026-10-31T13:15:01.538Z
+- زمان دریافت این نسخه: 2026-10-31T13:30:01.583Z
 - آخرین تغییر ثبت‌شده در منو: 2026-10-31T08:24:42.216Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
@@ -190,7 +190,7 @@
 
 ## شکلات بار
 
-- کلاسیک چاکلت — ۲٬۹۵۰٬۰۰۰ ریال — پرفروش
+- کلاسیک چاکلت — ۲٬۹۵۰٬۰۰۰ ریال
   شکلات داغ کلاسیک به همراه خامه
   صفحهٔ آیتم: https://bashoor.ir/menu/item/78383c18-5c43-46fe-85ab-55b30d5c580a/%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%DA%86%D8%A7%DA%A9%D9%84%D8%AA
 - ناتی چاکلت — ۳٬۳۵۰٬۰۰۰ ریال
@@ -265,7 +265,7 @@
 - چای کرک — ۲٬۸۰۰٬۰۰۰ ریال
   چای کرک
   صفحهٔ آیتم: https://bashoor.ir/menu/item/a886a306-b648-4fb1-be7a-78b08ca41cd0/%DA%86%D8%A7%DB%8C-%DA%A9%D8%B1%DA%A9
-- چای ماسالا — ۲٬۸۰۰٬۰۰۰ ریال
+- چای ماسالا — ۲٬۸۰۰٬۰۰۰ ریال — پرفروش
   صفحهٔ آیتم: https://bashoor.ir/menu/item/8dacda5d-248c-4dea-b3fe-b441c2038326/%DA%86%D8%A7%DB%8C-%D9%85%D8%A7%D8%B3%D8%A7%D9%84%D8%A7
 - بری آیس تی — ۲٬۸۵۰٬۰۰۰ ریال
   چای دم کرده تخصصی با طعم ترش به همراه یخ
@@ -343,4 +343,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-10-31T13:15:04Z. Last substantive content change: 2026-10-31T11:45:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-10-31T13:30:04Z. Last substantive content change: 2026-10-31T13:30:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
