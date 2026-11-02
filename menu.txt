@@ -12,8 +12,8 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://bashoor.ir/menu.json
-- زمان دریافت این نسخه: 2026-11-02T13:30:01.133Z
-- آخرین تغییر ثبت‌شده در منو: 2026-10-31T08:24:42.216Z
+- زمان دریافت این نسخه: 2026-11-02T13:45:01.140Z
+- آخرین تغییر ثبت‌شده در منو: 2026-11-02T13:42:17.152Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
 
@@ -287,9 +287,6 @@
 
 - فرنچ تست — ۳٬۸۵۰٬۰۰۰ ریال
   صفحهٔ آیتم: https://bashoor.ir/menu/item/b1ee59ea-b433-4ad6-9121-01908586b566/%D9%81%D8%B1%D9%86%DA%86-%D8%AA%D8%B3%D8%AA
-- تارت میوه ای — ۳٬۶۵۰٬۰۰۰ ریال
-  تارت با میوه های تازه فصل
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/142b349e-b6cf-4055-8e4e-ba69c3ab0fe5/%D8%AA%D8%A7%D8%B1%D8%AA-%D9%85%DB%8C%D9%88%D9%87-%D8%A7%DB%8C
 - سن سباستین نوتلا — ۳٬۷۵۰٬۰۰۰ ریال
   صفحهٔ آیتم: https://bashoor.ir/menu/item/3e29475f-32f2-4df1-8b8e-df90d4004e0f/%D8%B3%D9%86-%D8%B3%D8%A8%D8%A7%D8%B3%D8%AA%DB%8C%D9%86-%D9%86%D9%88%D8%AA%D9%84%D8%A7
 - سن سباستین پسته — ۴٬۲۰۰٬۰۰۰ ریال
@@ -297,17 +294,14 @@
 - جار کیک تیرامیسو — ۳٬۴۰۰٬۰۰۰ ریال
   تیرامیسو تازه و با کیفیت
   صفحهٔ آیتم: https://bashoor.ir/menu/item/9dada709-b888-4f18-9d71-4fcbbe865446/%D8%AC%D8%A7%D8%B1-%DA%A9%DB%8C%DA%A9-%D8%AA%DB%8C%D8%B1%D8%A7%D9%85%DB%8C%D8%B3%D9%88
+- کیک براونی نوتلا آمریکایی — ۴٬۳۵۰٬۰۰۰ ریال
+  صفحهٔ آیتم: https://bashoor.ir/menu/item/00a9e59a-c5d7-4469-87a0-e7b851fac47c/%DA%A9%DB%8C%DA%A9-%D8%A8%D8%B1%D8%A7%D9%88%D9%86%DB%8C-%D9%86%D9%88%D8%AA%D9%84%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C
 - کیک باقلوا — ۳٬۴۰۰٬۰۰۰ ریال
   کیک باقلوا تازه
   صفحهٔ آیتم: https://bashoor.ir/menu/item/5114e60f-1483-4b53-8800-19e4b6cad342/%DA%A9%DB%8C%DA%A9-%D8%A8%D8%A7%D9%82%D9%84%D9%88%D8%A7
 - کیک مگنوم — ۳٬۵۰۰٬۰۰۰ ریال
   صفحهٔ آیتم: https://bashoor.ir/menu/item/c65587a8-e6af-4242-bc3c-65a3ab9b5903/%DA%A9%DB%8C%DA%A9-%D9%85%DA%AF%D9%86%D9%88%D9%85
-- کوکی ردولوت — ۱٬۲۵۰٬۰۰۰ ریال
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/47cfd5a8-f4ca-43e2-850d-066e61b7c65d/%DA%A9%D9%88%DA%A9%DB%8C-%D8%B1%D8%AF%D9%88%D9%84%D9%88%D8%AA
-- کوکی شکلاتی — ۱٬۱۰۰٬۰۰۰ ریال
-  کوکی تازه شکلات گردو
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/21f3a8f6-caba-4337-936e-653bf0fe4750/%DA%A9%D9%88%DA%A9%DB%8C-%D8%B4%DA%A9%D9%84%D8%A7%D8%AA%DB%8C
-- بچه کوکی — ۱۵۰٬۰۰۰ ریال
+- بچه کوکی — ۲۰۰٬۰۰۰ ریال
   صفحهٔ آیتم: https://bashoor.ir/menu/item/6499d378-e4da-45bf-b7c9-0ca3959cfca3/%D8%A8%DA%86%D9%87-%DA%A9%D9%88%DA%A9%DB%8C
 - بیسکاتی — ۲۰۰٬۰۰۰ ریال
   صفحهٔ آیتم: https://bashoor.ir/menu/item/2fdeccd0-f385-41f8-ba13-4a355ba1fd48/%D8%A8%DB%8C%D8%B3%DA%A9%D8%A7%D8%AA%DB%8C
@@ -343,4 +337,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-11-02T13:30:03Z. Last substantive content change: 2026-10-31T13:30:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-11-02T13:45:03Z. Last substantive content change: 2026-11-02T13:45:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
