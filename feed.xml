@@ -4,9 +4,9 @@
     <title>منوی زنده و قیمت‌های کافه باشور</title>
     <link>https://bashoor.ir/menu</link>
     <atom:link href="https://bashoor.ir/menu/feed.xml" rel="self" type="application/rss+xml" />
-    <description>کافه باشور در بلوار پیروزی مشهد؛ منوی رسمی شامل ۹۳ آیتم با قیمت روز.</description>
+    <description>کافه باشور در بلوار پیروزی مشهد؛ منوی رسمی شامل ۹۶ آیتم با قیمت روز.</description>
     <language>fa-IR</language>
-    <lastBuildDate>Wed, 11 Nov 2026 14:30:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:00:01 GMT</lastBuildDate>
     <generator>Bashoor live menu</generator>
     <copyright>کافه باشور</copyright>
     <georss:point>36.328636 59.475671</georss:point>
@@ -169,6 +169,14 @@
       <category>نوشیدنی های پاییزی 🍁🍂</category>
       <description>قیمت شروع: ۳٬۴۰۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
       <pubDate>Fri, 23 Oct 2026 17:25:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>وایت پُفی — از ۳٬۶۵۰٬۰۰۰ ریال</title>
+      <link>https://bashoor.ir/menu/item/f19a146a-c1b5-4ea2-b8f7-158c7192f46f/%D9%88%D8%A7%DB%8C%D8%AA-%D9%BE%D9%81%DB%8C</link>
+      <guid isPermaLink="true">https://bashoor.ir/menu/item/f19a146a-c1b5-4ea2-b8f7-158c7192f46f/%D9%88%D8%A7%DB%8C%D8%AA-%D9%BE%D9%81%DB%8C</guid>
+      <category>نوشیدنی های پاییزی 🍁🍂</category>
+      <description>ترکیب شکلات سفید و شیر به همراه چی پف دست ساز قیمت شروع: ۳٬۶۵۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
+      <pubDate>Wed, 11 Nov 2026 14:49:53 GMT</pubDate>
     </item>
     <item>
       <title>وایت پینات — از ۳٬۹۵۰٬۰۰۰ ریال</title>
@@ -355,12 +363,28 @@
       <pubDate>Fri, 23 Oct 2026 12:57:14 GMT</pubDate>
     </item>
     <item>
-      <title>کلاسیک چاکلت — از ۲٬۹۵۰٬۰۰۰ ریال</title>
+      <title>شکلات پف — از ۳٬۷۵۰٬۰۰۰ ریال</title>
+      <link>https://bashoor.ir/menu/item/edc91126-dd68-4542-ac3f-a7eb8338b170/%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D9%BE%D9%81</link>
+      <guid isPermaLink="true">https://bashoor.ir/menu/item/edc91126-dd68-4542-ac3f-a7eb8338b170/%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D9%BE%D9%81</guid>
+      <category>شکلات بار</category>
+      <description>ترکیب شکلات داغ و چی پف قیمت شروع: ۳٬۷۵۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
+      <pubDate>Wed, 11 Nov 2026 14:44:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>شکلات پف نارگیلی — از ۳٬۹۵۰٬۰۰۰ ریال</title>
+      <link>https://bashoor.ir/menu/item/b007b858-df98-4b33-8812-591255ed0d95/%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D9%BE%D9%81-%D9%86%D8%A7%D8%B1%DA%AF%DB%8C%D9%84%DB%8C</link>
+      <guid isPermaLink="true">https://bashoor.ir/menu/item/b007b858-df98-4b33-8812-591255ed0d95/%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D9%BE%D9%81-%D9%86%D8%A7%D8%B1%DA%AF%DB%8C%D9%84%DB%8C</guid>
+      <category>شکلات بار</category>
+      <description>ترمیب شکلات داغ و چی پف دست ساز نارگیلی قیمت شروع: ۳٬۹۵۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
+      <pubDate>Wed, 11 Nov 2026 14:45:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>کلاسیک چاکلت — از ۳٬۲۵۰٬۰۰۰ ریال</title>
       <link>https://bashoor.ir/menu/item/78383c18-5c43-46fe-85ab-55b30d5c580a/%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%DA%86%D8%A7%DA%A9%D9%84%D8%AA</link>
       <guid isPermaLink="true">https://bashoor.ir/menu/item/78383c18-5c43-46fe-85ab-55b30d5c580a/%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%DA%86%D8%A7%DA%A9%D9%84%D8%AA</guid>
       <category>شکلات بار</category>
-      <description>شکلات داغ کلاسیک به همراه خامه قیمت شروع: ۲٬۹۵۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
-      <pubDate>Wed, 26 Aug 2026 16:38:32 GMT</pubDate>
+      <description>شکلات داغ کلاسیک به همراه خامه قیمت شروع: ۳٬۲۵۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
+      <pubDate>Wed, 11 Nov 2026 14:46:04 GMT</pubDate>
     </item>
     <item>
       <title>ناتی چاکلت — از ۳٬۳۵۰٬۰۰۰ ریال</title>
@@ -371,12 +395,12 @@
       <pubDate>Wed, 26 Aug 2026 16:38:58 GMT</pubDate>
     </item>
     <item>
-      <title>کوکو چاکلت — از ۳٬۰۵۰٬۰۰۰ ریال</title>
+      <title>کوکو چاکلت — از ۳٬۴۵۰٬۰۰۰ ریال</title>
       <link>https://bashoor.ir/menu/item/b9884b49-a460-458e-99ed-927f0ea7a1d6/%DA%A9%D9%88%DA%A9%D9%88-%DA%86%D8%A7%DA%A9%D9%84%D8%AA</link>
       <guid isPermaLink="true">https://bashoor.ir/menu/item/b9884b49-a460-458e-99ed-927f0ea7a1d6/%DA%A9%D9%88%DA%A9%D9%88-%DA%86%D8%A7%DA%A9%D9%84%D8%AA</guid>
       <category>شکلات بار</category>
-      <description>شکلات داغ به همراه شیرنارگیل قیمت شروع: ۳٬۰۵۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
-      <pubDate>Thu, 20 Aug 2026 14:40:27 GMT</pubDate>
+      <description>شکلات داغ به همراه شیرنارگیل قیمت شروع: ۳٬۴۵۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
+      <pubDate>Wed, 11 Nov 2026 14:46:12 GMT</pubDate>
     </item>
     <item>
       <title>بری چاکلت — از ۳٬۴۵۰٬۰۰۰ ریال</title>
@@ -403,12 +427,12 @@
       <pubDate>Wed, 26 Aug 2026 16:49:13 GMT</pubDate>
     </item>
     <item>
-      <title>بیسکو چاکلت — از ۳٬۶۵۰٬۰۰۰ ریال</title>
+      <title>بیسکو چاکلت — از ۳٬۷۵۰٬۰۰۰ ریال</title>
       <link>https://bashoor.ir/menu/item/bf8a3975-68be-4f03-adb6-92bf69cc34b0/%D8%A8%DB%8C%D8%B3%DA%A9%D9%88-%DA%86%D8%A7%DA%A9%D9%84%D8%AA</link>
       <guid isPermaLink="true">https://bashoor.ir/menu/item/bf8a3975-68be-4f03-adb6-92bf69cc34b0/%D8%A8%DB%8C%D8%B3%DA%A9%D9%88-%DA%86%D8%A7%DA%A9%D9%84%D8%AA</guid>
       <category>شکلات بار</category>
-      <description>شکلات داغ به همراه بیسکوئیت قیمت شروع: ۳٬۶۵۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
-      <pubDate>Wed, 26 Aug 2026 16:49:25 GMT</pubDate>
+      <description>شکلات داغ به همراه بیسکوئیت قیمت شروع: ۳٬۷۵۰٬۰۰۰ ریال. در منوی فعال موجود است.</description>
+      <pubDate>Wed, 11 Nov 2026 14:46:47 GMT</pubDate>
     </item>
     <item>
       <title>لیموناد — از ۲٬۳۵۰٬۰۰۰ ریال</title>

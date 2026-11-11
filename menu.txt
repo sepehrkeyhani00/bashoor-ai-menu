@@ -12,8 +12,8 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://bashoor.ir/menu.json
-- زمان دریافت این نسخه: 2026-11-11T14:30:01.339Z
-- آخرین تغییر ثبت‌شده در منو: 2026-11-10T22:13:02.542Z
+- زمان دریافت این نسخه: 2026-11-11T15:00:01.033Z
+- آخرین تغییر ثبت‌شده در منو: 2026-11-11T14:49:53.772Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
 
@@ -100,6 +100,9 @@
 
 - جینجر شات — ۳٬۴۰۰٬۰۰۰ ریال
   صفحهٔ آیتم: https://bashoor.ir/menu/item/1a03c0b6-f3b3-44bd-9775-a59d539eccdf/%D8%AC%DB%8C%D9%86%D8%AC%D8%B1-%D8%B4%D8%A7%D8%AA
+- وایت پُفی — ۳٬۶۵۰٬۰۰۰ ریال
+  ترکیب شکلات سفید و شیر به همراه چی پف دست ساز
+  صفحهٔ آیتم: https://bashoor.ir/menu/item/f19a146a-c1b5-4ea2-b8f7-158c7192f46f/%D9%88%D8%A7%DB%8C%D8%AA-%D9%BE%D9%81%DB%8C
 - وایت پینات — ۳٬۹۵۰٬۰۰۰ ریال
   ترکیب شیر گرم و خامه ، شکلات سفید و کره بادم زمینی
   صفحهٔ آیتم: https://bashoor.ir/menu/item/a757a1dd-8d88-44bb-8db1-ea02607dccfd/%D9%88%D8%A7%DB%8C%D8%AA-%D9%BE%DB%8C%D9%86%D8%A7%D8%AA
@@ -190,13 +193,19 @@
 
 ## شکلات بار
 
-- کلاسیک چاکلت — ۲٬۹۵۰٬۰۰۰ ریال
+- شکلات پف — ۳٬۷۵۰٬۰۰۰ ریال
+  ترکیب شکلات داغ و چی پف
+  صفحهٔ آیتم: https://bashoor.ir/menu/item/edc91126-dd68-4542-ac3f-a7eb8338b170/%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D9%BE%D9%81
+- شکلات پف نارگیلی — ۳٬۹۵۰٬۰۰۰ ریال
+  ترمیب شکلات داغ و چی پف دست ساز نارگیلی
+  صفحهٔ آیتم: https://bashoor.ir/menu/item/b007b858-df98-4b33-8812-591255ed0d95/%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D9%BE%D9%81-%D9%86%D8%A7%D8%B1%DA%AF%DB%8C%D9%84%DB%8C
+- کلاسیک چاکلت — ۳٬۲۵۰٬۰۰۰ ریال
   شکلات داغ کلاسیک به همراه خامه
   صفحهٔ آیتم: https://bashoor.ir/menu/item/78383c18-5c43-46fe-85ab-55b30d5c580a/%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%DA%86%D8%A7%DA%A9%D9%84%D8%AA
 - ناتی چاکلت — ۳٬۳۵۰٬۰۰۰ ریال
   هات چاکلت به همراه فندوق و خامه
   صفحهٔ آیتم: https://bashoor.ir/menu/item/f3ca1927-487a-4769-83f0-43d06e6c8dc2/%D9%86%D8%A7%D8%AA%DB%8C-%DA%86%D8%A7%DA%A9%D9%84%D8%AA
-- کوکو چاکلت — ۳٬۰۵۰٬۰۰۰ ریال
+- کوکو چاکلت — ۳٬۴۵۰٬۰۰۰ ریال
   شکلات داغ به همراه شیرنارگیل
   صفحهٔ آیتم: https://bashoor.ir/menu/item/b9884b49-a460-458e-99ed-927f0ea7a1d6/%DA%A9%D9%88%DA%A9%D9%88-%DA%86%D8%A7%DA%A9%D9%84%D8%AA
 - بری چاکلت — ۳٬۴۵۰٬۰۰۰ ریال
@@ -208,7 +217,7 @@
 - افتر اِیت — ۳٬۳۵۰٬۰۰۰ ریال
   شکلات داغ به همراه نعناع
   صفحهٔ آیتم: https://bashoor.ir/menu/item/71e768d0-fd79-4f3f-bfc5-af01e347ef08/%D8%A7%D9%81%D8%AA%D8%B1-%D8%A7%DB%8C%D8%AA
-- بیسکو چاکلت — ۳٬۶۵۰٬۰۰۰ ریال
+- بیسکو چاکلت — ۳٬۷۵۰٬۰۰۰ ریال
   شکلات داغ به همراه بیسکوئیت
   صفحهٔ آیتم: https://bashoor.ir/menu/item/bf8a3975-68be-4f03-adb6-92bf69cc34b0/%D8%A8%DB%8C%D8%B3%DA%A9%D9%88-%DA%86%D8%A7%DA%A9%D9%84%D8%AA
 
@@ -345,4 +354,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-11-11T14:30:04Z. Last substantive content change: 2026-11-10T22:15:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-11-11T15:06:37Z. Last substantive content change: 2026-11-11T15:06:37Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
