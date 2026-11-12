@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-12T14:30:04Z",
+  "generatedAt": "2026-11-12T14:45:03Z",
   "lastMenuUpdate": "2026-11-11T14:49:53.772Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
@@ -1951,7 +1951,7 @@
           "descriptionLanguage": "fa-IR",
           "description": "شکلات داغ کلاسیک به همراه خامه",
           "kind": "hot",
-          "popular": false,
+          "popular": true,
           "available": true,
           "basePriceToman": 325000,
           "startingPriceToman": 325000,
@@ -2556,7 +2556,7 @@
           "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "hot",
-          "popular": true,
+          "popular": false,
           "available": true,
           "basePriceToman": 280000,
           "startingPriceToman": 280000,
@@ -3179,8 +3179,8 @@
     }
   ],
   "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-  "lastVerifiedAt": "2026-11-12T14:30:04Z",
-  "contentUpdatedAt": "2026-11-11T15:06:37Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-11-12T14:45:03Z",
+  "contentUpdatedAt": "2026-11-12T14:45:03Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }
