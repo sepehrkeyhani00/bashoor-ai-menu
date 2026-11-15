@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-15T12:45:03Z",
-  "lastMenuUpdate": "2026-11-11T14:49:53.772Z",
+  "generatedAt": "2026-11-15T13:00:03Z",
+  "lastMenuUpdate": "2026-11-15T12:51:03.380Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
     "name": "کافه باشور",
@@ -1900,8 +1900,8 @@
       "items": [
         {
           "id": "edc91126-dd68-4542-ac3f-a7eb8338b170",
-          "name": "شکلات پف",
-          "nameEn": "شکلات پف",
+          "name": "چوکو پف",
+          "nameEn": "چوکو پف",
           "descriptionLanguage": "fa-IR",
           "description": "ترکیب شکلات داغ و چی پف",
           "kind": "hot",
@@ -1912,9 +1912,9 @@
           "startingPriceIRR": 3750000,
           "basePriceDisplay": 3750000,
           "startingPriceDisplay": 3750000,
-          "canonicalUrl": "https://bashoor.ir/menu/item/edc91126-dd68-4542-ac3f-a7eb8338b170/%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D9%BE%D9%81",
+          "canonicalUrl": "https://bashoor.ir/menu/item/edc91126-dd68-4542-ac3f-a7eb8338b170/%DA%86%D9%88%DA%A9%D9%88-%D9%BE%D9%81",
           "imageUrl": null,
-          "updatedAt": "2026-11-11T14:44:49.929Z",
+          "updatedAt": "2026-11-15T12:50:43.944Z",
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/edc91126-dd68-4542-ac3f-a7eb8338b170/",
           "priceStatus": "quoted",
@@ -1923,8 +1923,8 @@
         },
         {
           "id": "b007b858-df98-4b33-8812-591255ed0d95",
-          "name": "شکلات پف نارگیلی",
-          "nameEn": "شکلات پف نارگیلی",
+          "name": "کوکو پف",
+          "nameEn": "کوکو پف",
           "descriptionLanguage": "fa-IR",
           "description": "ترمیب شکلات داغ و چی پف دست ساز نارگیلی",
           "kind": "hot",
@@ -1935,9 +1935,9 @@
           "startingPriceIRR": 3950000,
           "basePriceDisplay": 3950000,
           "startingPriceDisplay": 3950000,
-          "canonicalUrl": "https://bashoor.ir/menu/item/b007b858-df98-4b33-8812-591255ed0d95/%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D9%BE%D9%81-%D9%86%D8%A7%D8%B1%DA%AF%DB%8C%D9%84%DB%8C",
+          "canonicalUrl": "https://bashoor.ir/menu/item/b007b858-df98-4b33-8812-591255ed0d95/%DA%A9%D9%88%DA%A9%D9%88-%D9%BE%D9%81",
           "imageUrl": null,
-          "updatedAt": "2026-11-11T14:45:36.360Z",
+          "updatedAt": "2026-11-15T12:51:03.380Z",
           "optionGroups": [],
           "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/b007b858-df98-4b33-8812-591255ed0d95/",
           "priceStatus": "quoted",
@@ -3179,8 +3179,8 @@
     }
   ],
   "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-  "lastVerifiedAt": "2026-11-15T12:45:03Z",
-  "contentUpdatedAt": "2026-11-14T17:15:03Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-11-15T13:00:03Z",
+  "contentUpdatedAt": "2026-11-15T13:00:03Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.1",
-  "generatedAt": "2026-11-15T12:45:03Z",
+  "generatedAt": "2026-11-15T13:00:03Z",
   "inLanguage": [
     "fa-IR",
     "en"
@@ -250,10 +250,10 @@
       "url": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/ea645fcc-c151-4b00-9fff-474a8b967157/"
     }
   ],
-  "menuDigest": "a94364a26367d8b0676517a5326e237d4e69e89bd587914c8dc43d0b99fe0257",
+  "menuDigest": "fe655d523f0059aab8fb645b3f3da03a6f01405dd452576c7496cde3c904a30b",
   "disclaimer": "This is official first-party information, not an independent ranking or review. Confirm final price and availability when ordering.",
-  "lastVerifiedAt": "2026-11-15T12:45:03Z",
-  "contentUpdatedAt": "2026-11-14T17:15:03Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-11-15T13:00:03Z",
+  "contentUpdatedAt": "2026-11-15T13:00:03Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }

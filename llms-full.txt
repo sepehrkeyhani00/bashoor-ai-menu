@@ -51,7 +51,7 @@
 
 ## منوی زنده و قیمت‌ها
 
-این نسخه در 2026-11-15T12:45:01.337Z از منوی عمومی باشور ساخته شده و شامل ۹۶ آیتم در ۱۲ دسته است.
+این نسخه در 2026-11-15T13:00:01.395Z از منوی عمومی باشور ساخته شده و شامل ۹۶ آیتم در ۱۲ دسته است.
 
 - [منوی HTML با عکس و قیمت](https://bashoor.ir/menu)
 - [منوی کامل HTML سبک با دسته، توضیح و قیمت ریال](https://bashoor.ir/menu/all)
@@ -123,8 +123,8 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json
-- زمان دریافت این نسخه: 2026-11-15T12:45:01.337Z
-- آخرین تغییر ثبت‌شده در منو: 2026-11-11T14:49:53.772Z
+- زمان دریافت این نسخه: 2026-11-15T13:00:01.395Z
+- آخرین تغییر ثبت‌شده در منو: 2026-11-15T12:51:03.380Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
 
@@ -304,12 +304,12 @@
 
 ## شکلات بار
 
-- شکلات پف — ۳٬۷۵۰٬۰۰۰ ریال
+- چوکو پف — ۳٬۷۵۰٬۰۰۰ ریال
   ترکیب شکلات داغ و چی پف
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/edc91126-dd68-4542-ac3f-a7eb8338b170/%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D9%BE%D9%81
-- شکلات پف نارگیلی — ۳٬۹۵۰٬۰۰۰ ریال
+  صفحهٔ آیتم: https://bashoor.ir/menu/item/edc91126-dd68-4542-ac3f-a7eb8338b170/%DA%86%D9%88%DA%A9%D9%88-%D9%BE%D9%81
+- کوکو پف — ۳٬۹۵۰٬۰۰۰ ریال
   ترمیب شکلات داغ و چی پف دست ساز نارگیلی
-  صفحهٔ آیتم: https://bashoor.ir/menu/item/b007b858-df98-4b33-8812-591255ed0d95/%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D9%BE%D9%81-%D9%86%D8%A7%D8%B1%DA%AF%DB%8C%D9%84%DB%8C
+  صفحهٔ آیتم: https://bashoor.ir/menu/item/b007b858-df98-4b33-8812-591255ed0d95/%DA%A9%D9%88%DA%A9%D9%88-%D9%BE%D9%81
 - کلاسیک چاکلت — ۳٬۲۵۰٬۰۰۰ ریال
   شکلات داغ کلاسیک به همراه خامه
   صفحهٔ آیتم: https://bashoor.ir/menu/item/78383c18-5c43-46fe-85ab-55b30d5c580a/%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%DA%86%D8%A7%DA%A9%D9%84%D8%AA
@@ -471,4 +471,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-11-15T12:45:03Z. Last substantive content change: 2026-11-14T17:15:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-11-15T13:00:03Z. Last substantive content change: 2026-11-15T13:00:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
