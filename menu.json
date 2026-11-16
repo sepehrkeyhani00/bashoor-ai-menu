@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-16T15:15:03Z",
+  "generatedAt": "2026-11-16T15:30:04Z",
   "lastMenuUpdate": "2026-11-15T19:55:28.719Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
@@ -437,7 +437,7 @@
           "descriptionLanguage": "fa-IR",
           "description": "قهوه دمی به روش چکانه‌ای با دستگاه رگولار",
           "kind": "hot",
-          "popular": false,
+          "popular": true,
           "available": true,
           "basePriceToman": 220000,
           "startingPriceToman": 220000,
@@ -2556,7 +2556,7 @@
           "descriptionLanguage": "fa-IR",
           "description": null,
           "kind": "hot",
-          "popular": true,
+          "popular": false,
           "available": true,
           "basePriceToman": 280000,
           "startingPriceToman": 280000,
@@ -3179,8 +3179,8 @@
     }
   ],
   "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-  "lastVerifiedAt": "2026-11-16T15:15:03Z",
-  "contentUpdatedAt": "2026-11-15T20:00:05Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-11-16T15:30:04Z",
+  "contentUpdatedAt": "2026-11-16T15:30:04Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }

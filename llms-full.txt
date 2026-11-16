@@ -51,7 +51,7 @@
 
 ## منوی زنده و قیمت‌ها
 
-این نسخه در 2026-11-16T15:15:01.432Z از منوی عمومی باشور ساخته شده و شامل ۹۶ آیتم در ۱۲ دسته است.
+این نسخه در 2026-11-16T15:30:02.546Z از منوی عمومی باشور ساخته شده و شامل ۹۶ آیتم در ۱۲ دسته است.
 
 - [منوی HTML با عکس و قیمت](https://bashoor.ir/menu)
 - [منوی کامل HTML سبک با دسته، توضیح و قیمت ریال](https://bashoor.ir/menu/all)
@@ -123,7 +123,7 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json
-- زمان دریافت این نسخه: 2026-11-16T15:15:01.432Z
+- زمان دریافت این نسخه: 2026-11-16T15:30:02.546Z
 - آخرین تغییر ثبت‌شده در منو: 2026-11-15T19:55:28.719Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
@@ -158,7 +158,7 @@
   اسپرسو و بستنی وانیلی
   صفحهٔ آیتم: https://bashoor.ir/menu/item/b4beaa15-631c-487a-8242-0185f66897fd/%D8%A2%D9%81%D9%88%DA%AF%D8%A7%D8%AA%D9%88
   درصد عربیکا (انتخاب الزامی): صد عربیکا: ۳٬۱۵۰٬۰۰۰ ریال؛ سی عربیکا: ۲٬۸۵۰٬۰۰۰ ریال
-- رگولار — ۲٬۲۰۰٬۰۰۰ ریال
+- رگولار — ۲٬۲۰۰٬۰۰۰ ریال — پرفروش
   قهوه دمی به روش چکانه‌ای با دستگاه رگولار
   صفحهٔ آیتم: https://bashoor.ir/menu/item/f5c38d07-95d6-4477-a2de-10c445d6675a/%D8%B1%DA%AF%D9%88%D9%84%D8%A7%D8%B1
 - موکا بنانا — از ۳٬۹۵۰٬۰۰۰ ریال
@@ -385,7 +385,7 @@
 - چای کرک — ۲٬۸۰۰٬۰۰۰ ریال
   چای کرک
   صفحهٔ آیتم: https://bashoor.ir/menu/item/a886a306-b648-4fb1-be7a-78b08ca41cd0/%DA%86%D8%A7%DB%8C-%DA%A9%D8%B1%DA%A9
-- چای ماسالا — ۲٬۸۰۰٬۰۰۰ ریال — پرفروش
+- چای ماسالا — ۲٬۸۰۰٬۰۰۰ ریال
   صفحهٔ آیتم: https://bashoor.ir/menu/item/8dacda5d-248c-4dea-b3fe-b441c2038326/%DA%86%D8%A7%DB%8C-%D9%85%D8%A7%D8%B3%D8%A7%D9%84%D8%A7
 - بری آیس تی — ۲٬۸۵۰٬۰۰۰ ریال
   چای دم کرده تخصصی با طعم ترش به همراه یخ
@@ -471,4 +471,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-11-16T15:15:03Z. Last substantive content change: 2026-11-15T20:00:05Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-11-16T15:30:04Z. Last substantive content change: 2026-11-16T15:30:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.

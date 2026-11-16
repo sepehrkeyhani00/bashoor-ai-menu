@@ -39,8 +39,8 @@
 
 تعداد فعلی: **96 آیتم در 12 دسته**  
 آخرین تغییر منو: `2026-11-15T19:55:28.719Z`  
-شناسهٔ محتوای منو: `139f8b4effc1e584891b97f5299054d3c92edaa2b42aa9d9cb0fd632ff677cd0`
+شناسهٔ محتوای منو: `23e9380576b7afa79889cb758b16935702a37922bdeb37fc7fa94e2bfc4940d8`
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-11-16T15:15:03Z. Last substantive content change: 2026-11-15T20:00:05Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-11-16T15:30:04Z. Last substantive content change: 2026-11-16T15:30:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
