@@ -12,13 +12,15 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://bashoor.ir/menu.json
-- زمان دریافت این نسخه: 2026-11-17T14:45:01.067Z
-- آخرین تغییر ثبت‌شده در منو: 2026-11-15T19:55:28.719Z
+- زمان دریافت این نسخه: 2026-11-17T15:00:00.987Z
+- آخرین تغییر ثبت‌شده در منو: 2026-11-17T14:57:09.906Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
 
 ## نوشیدنی گرم بر پایه قهوه
 
+- کلاب بوقلمون — ۴٬۹۳۰٬۰۰۰ ریال
+  صفحهٔ آیتم: https://bashoor.ir/menu/item/8340aab4-b6e7-4da7-bbf4-5c4519b20865/%DA%A9%D9%84%D8%A7%D8%A8-%D8%A8%D9%88%D9%82%D9%84%D9%85%D9%88%D9%86
 - اسپرسو — از ۱٬۷۰۰٬۰۰۰ ریال — پرفروش
   عصاره گیری شده از دان قهوه
   صفحهٔ آیتم: https://bashoor.ir/menu/item/7b0f19ed-3be8-4a07-8db2-674a71f827ec/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88
@@ -354,4 +356,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-11-17T14:45:03Z. Last substantive content change: 2026-11-16T15:30:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-11-17T15:00:03Z. Last substantive content change: 2026-11-17T15:00:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.

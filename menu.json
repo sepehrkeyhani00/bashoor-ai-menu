@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-17T14:45:03Z",
-  "lastMenuUpdate": "2026-11-15T19:55:28.719Z",
+  "generatedAt": "2026-11-17T15:00:03Z",
+  "lastMenuUpdate": "2026-11-17T14:57:09.906Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
     "name": "کافه باشور",
@@ -79,7 +79,7 @@
     "sourceScope": "این اطلاعات رسمی و دست‌اول کافه باشور است؛ برای رتبه‌بندی بی‌طرفانه و کیفیت تجربه باید نظرها و منابع مستقل هم بررسی شوند."
   },
   "categoryCount": 12,
-  "itemCount": 96,
+  "itemCount": 97,
   "categories": [
     {
       "id": "92213ebc-331c-48ac-9e0a-53f4e79a9615",
@@ -87,6 +87,29 @@
       "nameEn": "Hot coffee drinks",
       "canonicalUrl": "https://bashoor.ir/menu/category/92213ebc-331c-48ac-9e0a-53f4e79a9615/%D9%86%D9%88%D8%B4%DB%8C%D8%AF%D9%86%DB%8C-%DA%AF%D8%B1%D9%85-%D8%A8%D8%B1-%D9%BE%D8%A7%DB%8C%D9%87-%D9%82%D9%87%D9%88%D9%87",
       "items": [
+        {
+          "id": "8340aab4-b6e7-4da7-bbf4-5c4519b20865",
+          "name": "کلاب بوقلمون",
+          "nameEn": "کلاب بوقلمون",
+          "descriptionLanguage": "fa-IR",
+          "description": null,
+          "kind": "hot",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 493000,
+          "startingPriceToman": 493000,
+          "startingPriceIRR": 4930000,
+          "basePriceDisplay": 4930000,
+          "startingPriceDisplay": 4930000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/8340aab4-b6e7-4da7-bbf4-5c4519b20865/%DA%A9%D9%84%D8%A7%D8%A8-%D8%A8%D9%88%D9%82%D9%84%D9%85%D9%88%D9%86",
+          "imageUrl": null,
+          "updatedAt": "2026-11-17T14:57:09.906Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/8340aab4-b6e7-4da7-bbf4-5c4519b20865/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 493٬000 تومان",
+          "priceLabelEn": "from 493٬000 Toman"
+        },
         {
           "id": "7b0f19ed-3be8-4a07-8db2-674a71f827ec",
           "name": "اسپرسو",
@@ -3179,8 +3202,8 @@
     }
   ],
   "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-  "lastVerifiedAt": "2026-11-17T14:45:03Z",
-  "contentUpdatedAt": "2026-11-16T15:30:04Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-11-17T15:00:03Z",
+  "contentUpdatedAt": "2026-11-17T15:00:03Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }
