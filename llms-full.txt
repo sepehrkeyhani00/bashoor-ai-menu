@@ -51,7 +51,7 @@
 
 ## منوی زنده و قیمت‌ها
 
-این نسخه در 2026-11-19T04:15:01.315Z از منوی عمومی باشور ساخته شده و شامل ۹۵ آیتم در ۱۲ دسته است.
+این نسخه در 2026-11-19T17:45:01.208Z از منوی عمومی باشور ساخته شده و شامل ۹۶ آیتم در ۱۲ دسته است.
 
 - [منوی HTML با عکس و قیمت](https://bashoor.ir/menu)
 - [منوی کامل HTML سبک با دسته، توضیح و قیمت ریال](https://bashoor.ir/menu/all)
@@ -70,6 +70,7 @@
 
 ### نمونهٔ قیمت‌های قهوه
 
+- [کلاب بوقلمون](https://bashoor.ir/menu/item/8340aab4-b6e7-4da7-bbf4-5c4519b20865/%DA%A9%D9%84%D8%A7%D8%A8-%D8%A8%D9%88%D9%82%D9%84%D9%85%D9%88%D9%86) — ۴٬۹۳۰٬۰۰۰ ریال
 - [اسپرسو](https://bashoor.ir/menu/item/7b0f19ed-3be8-4a07-8db2-674a71f827ec/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88) — از ۱٬۷۰۰٬۰۰۰ ریال
 - [امریکانو](https://bashoor.ir/menu/item/cb25eb0b-5187-4081-9f03-37f5939cf476/%D8%A7%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%D9%86%D9%88) — از ۱٬۸۰۰٬۰۰۰ ریال
 - [لاته](https://bashoor.ir/menu/item/ea645fcc-c151-4b00-9fff-474a8b967157/%D9%84%D8%A7%D8%AA%D9%87) — از ۲٬۵۵۰٬۰۰۰ ریال
@@ -87,7 +88,6 @@
 - [آیس لاته](https://bashoor.ir/menu/item/5a696e55-b2ae-47d9-905e-b3fc3946f90b/%D8%A2%DB%8C%D8%B3-%D9%84%D8%A7%D8%AA%D9%87) — از ۲٬۵۵۰٬۰۰۰ ریال
 - [آیس موکا](https://bashoor.ir/menu/item/d90c4ff2-7f6c-494c-8746-366fef0ad64b/%D8%A2%DB%8C%D8%B3-%D9%85%D9%88%DA%A9%D8%A7) — از ۳٬۱۵۰٬۰۰۰ ریال
 - [آیس موکا کرم](https://bashoor.ir/menu/item/46cca27f-af36-4c5f-8c80-d12d9574fba8/%D8%A2%DB%8C%D8%B3-%D9%85%D9%88%DA%A9%D8%A7-%DA%A9%D8%B1%D9%85) — از ۳٬۵۵۰٬۰۰۰ ریال
-- [آیس رگولار](https://bashoor.ir/menu/item/e37025f9-d457-4afd-ab5f-ee304acff2fb/%D8%A2%DB%8C%D8%B3-%D8%B1%DA%AF%D9%88%D9%84%D8%A7%D8%B1) — ۲٬۳۰۰٬۰۰۰ ریال
 
 ## صفحه‌های اصلی
 
@@ -123,13 +123,15 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://sepehrkeyhani00.github.io/bashoor-ai-menu/menu.json
-- زمان دریافت این نسخه: 2026-11-19T04:15:01.315Z
-- آخرین تغییر ثبت‌شده در منو: 2026-11-15T19:55:28.719Z
+- زمان دریافت این نسخه: 2026-11-19T17:45:01.208Z
+- آخرین تغییر ثبت‌شده در منو: 2026-11-19T13:26:42.685Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
 
 ## نوشیدنی گرم بر پایه قهوه
 
+- کلاب بوقلمون — ۴٬۹۳۰٬۰۰۰ ریال
+  صفحهٔ آیتم: https://bashoor.ir/menu/item/8340aab4-b6e7-4da7-bbf4-5c4519b20865/%DA%A9%D9%84%D8%A7%D8%A8-%D8%A8%D9%88%D9%82%D9%84%D9%85%D9%88%D9%86
 - اسپرسو — از ۱٬۷۰۰٬۰۰۰ ریال — پرفروش
   عصاره گیری شده از دان قهوه
   صفحهٔ آیتم: https://bashoor.ir/menu/item/7b0f19ed-3be8-4a07-8db2-674a71f827ec/%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88
@@ -469,4 +471,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-11-19T04:15:03Z. Last substantive content change: 2026-11-17T15:30:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-11-19T17:45:04Z. Last substantive content change: 2026-11-19T17:45:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
