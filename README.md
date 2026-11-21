@@ -43,4 +43,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-11-20T11:15:04Z. Last substantive content change: 2026-11-19T17:45:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-11-21T18:15:04Z. Last substantive content change: 2026-11-19T17:45:04Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
