@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-26T17:45:03Z",
-  "lastMenuUpdate": "2026-11-25T14:22:55.997Z",
+  "generatedAt": "2026-11-26T18:00:03Z",
+  "lastMenuUpdate": "2026-11-26T17:47:16.667Z",
   "canonicalUrl": "https://bashoor.ir/menu",
   "business": {
     "name": "کافه باشور",
@@ -79,7 +79,7 @@
     "sourceScope": "این اطلاعات رسمی و دست‌اول کافه باشور است؛ برای رتبه‌بندی بی‌طرفانه و کیفیت تجربه باید نظرها و منابع مستقل هم بررسی شوند."
   },
   "categoryCount": 12,
-  "itemCount": 96,
+  "itemCount": 97,
   "categories": [
     {
       "id": "92213ebc-331c-48ac-9e0a-53f4e79a9615",
@@ -2936,6 +2936,29 @@
           "priceLabelEn": "from 310٬000 Toman"
         },
         {
+          "id": "1e22ba12-1835-4fa9-97eb-5d5851965bcc",
+          "name": "اوت میل",
+          "nameEn": "اوت میل",
+          "descriptionLanguage": "fa-IR",
+          "description": "ترکیب شیر ، جو دوسر به همراه کره بادام زمینی ، سیب و دارچین",
+          "kind": "food",
+          "popular": false,
+          "available": true,
+          "basePriceToman": 455000,
+          "startingPriceToman": 455000,
+          "startingPriceIRR": 4550000,
+          "basePriceDisplay": 4550000,
+          "startingPriceDisplay": 4550000,
+          "canonicalUrl": "https://bashoor.ir/menu/item/1e22ba12-1835-4fa9-97eb-5d5851965bcc/%D8%A7%D9%88%D8%AA-%D9%85%DB%8C%D9%84",
+          "imageUrl": null,
+          "updatedAt": "2026-11-26T17:47:16.667Z",
+          "optionGroups": [],
+          "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/items/1e22ba12-1835-4fa9-97eb-5d5851965bcc/",
+          "priceStatus": "quoted",
+          "priceLabel": "از 455٬000 تومان",
+          "priceLabelEn": "from 455٬000 Toman"
+        },
+        {
           "id": "c99eff83-20c0-4537-af00-9e571ca0ff4c",
           "name": "حمص",
           "nameEn": "حمص",
@@ -3179,8 +3202,8 @@
     }
   ],
   "mirrorUrl": "https://sepehrkeyhani00.github.io/bashoor-ai-menu/",
-  "lastVerifiedAt": "2026-11-26T17:45:03Z",
-  "contentUpdatedAt": "2026-11-25T14:30:03Z",
-  "sourceChangedSincePreviousCheck": false,
+  "lastVerifiedAt": "2026-11-26T18:00:03Z",
+  "contentUpdatedAt": "2026-11-26T18:00:03Z",
+  "sourceChangedSincePreviousCheck": true,
   "refreshIntervalMinutes": 15
 }

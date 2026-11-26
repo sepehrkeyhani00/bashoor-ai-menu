@@ -12,8 +12,8 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://bashoor.ir/menu.json
-- زمان دریافت این نسخه: 2026-11-26T17:45:00.651Z
-- آخرین تغییر ثبت‌شده در منو: 2026-11-25T14:22:55.997Z
+- زمان دریافت این نسخه: 2026-11-26T18:00:00.722Z
+- آخرین تغییر ثبت‌شده در منو: 2026-11-26T17:47:16.667Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
 
@@ -320,6 +320,9 @@
 - املت — ۳٬۱۰۰٬۰۰۰ ریال
   سه عدد تخم مرغ ، گوجه و رب خانگی به همراه سالاد کاهو
   صفحهٔ آیتم: https://bashoor.ir/menu/item/cec8f3b1-5433-4cdd-b43a-c903fafe0e75/%D8%A7%D9%85%D9%84%D8%AA
+- اوت میل — ۴٬۵۵۰٬۰۰۰ ریال
+  ترکیب شیر ، جو دوسر به همراه کره بادام زمینی ، سیب و دارچین
+  صفحهٔ آیتم: https://bashoor.ir/menu/item/1e22ba12-1835-4fa9-97eb-5d5851965bcc/%D8%A7%D9%88%D8%AA-%D9%85%DB%8C%D9%84
 - حمص — ۴٬۱۵۰٬۰۰۰ ریال
   ۲۵۰ گرم بشقاب حمص ، نون چیپسی ، نخود ، ارده ، سیر به همراه روغن زیتون و لیمو
   صفحهٔ آیتم: https://bashoor.ir/menu/item/c99eff83-20c0-4537-af00-9e571ca0ff4c/%D8%AD%D9%85%D8%B5
@@ -354,4 +357,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-11-26T17:45:03Z. Last substantive content change: 2026-11-25T14:30:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-11-26T18:00:03Z. Last substantive content change: 2026-11-26T18:00:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
