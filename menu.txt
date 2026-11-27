@@ -12,7 +12,7 @@
 - نسخهٔ جهانی منو برای دسترسی خارج ایران: https://sepehrkeyhani00.github.io/bashoor-ai-menu/
 - منوی تصویری: https://bashoor.ir/menu
 - نسخهٔ JSON: https://bashoor.ir/menu.json
-- زمان دریافت این نسخه: 2026-11-27T12:15:00.760Z
+- زمان دریافت این نسخه: 2026-11-27T12:30:00.672Z
 - آخرین تغییر ثبت‌شده در منو: 2026-11-26T17:47:16.667Z
 
 قیمت نمایشی هر آیتم به ریال نوشته شده است.
@@ -357,4 +357,4 @@
 
 ## Snapshot verification
 
-Last verified against official sources: 2026-11-27T12:15:03Z. Last substantive content change: 2026-11-26T18:00:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
+Last verified against official sources: 2026-11-27T12:30:03Z. Last substantive content change: 2026-11-26T18:00:03Z. Sources are checked every 15 minutes. A verification timestamp does not mean prices changed.
